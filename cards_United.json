@@ -27901,6 +27901,21 @@
     "rarity": 5,
     "manaCost": 6
   },
+  "86727": {
+    "name": "기근기수 블라미우스",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70dfb60f950a49f401c98eaa4319a378cabdda0bc8f93d531ff11dd4e72a7283.png",
+    "enname": "Blaumeux, Faminerider"
+  },
+  "86728": {
+    "name": "죽음기수 코스아즈",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efd2ae6a4a52fdd18bee44562cd8a3f7576ffe766265bbe8efa9a7c52d2c392f.png",
+    "enname": "Korth'azz, Deathrider"
+  },
+  "86729": {
+    "name": "정복기수 젤리에크",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b77c891786b5e049343384cd14a3c4f904010348c47d67b5cfcbab5318e63a00.png",
+    "enname": "Zeliek, Conquestrider"
+  },
   "86731": {
     "name": "타사리안",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6087f7b2b2b5480bd266e236e71d113ba6c6e8bd4420d175561fd2599040f9eb.png",
@@ -28832,6 +28847,11 @@
     "rarity": 4,
     "manaCost": 0
   },
+  "92292": {
+    "name": "고드름",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b49bf9763d201602f713f72a547d0393f7cdcd29a0fc1a8860286ba852b35e6.png",
+    "enname": "Icicle"
+  },
   "92296": {
     "name": "창대한 꿈",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dbcc9d3a244559d7ef18e732a8d5269c1f8795413786ffd475b7c8efcf725c97.png",
@@ -29153,6 +29173,11 @@
     "enname": "Grimtotem Buzzkill",
     "rarity": 4,
     "manaCost": 4
+  },
+  "95690": {
+    "name": "악랄한 공포의 군주",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f05ad0589259daf2881923f7cb2d1483d1067660531bb8d51e56295d8906e6a.png",
+    "enname": "Despicable Dreadlord"
   },
   "95710": {
     "name": "노움페라투",
@@ -33998,6 +34023,41 @@
     "rarity": 5,
     "manaCost": 8
   },
+  "104944": {
+    "name": "> 반복 모듈",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2770b35d9851e60d1bf3c0cca69502693428f6d4bcfaf1d59e4f151c9c3e5e88.png",
+    "enname": "Recursive Module"
+  },
+  "104946": {
+    "name": "> 괴력 모듈",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67f3ac8be4f8e74f46f68e1b03f00e3e8095964b5a72049d83b55f581b46de78.png",
+    "enname": "Power Module"
+  },
+  "104947": {
+    "name": "> 송전 모듈",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0d90df5425815782bfbfee11831a15bbdefc765a4607100dce4f2dbe0618b76.png",
+    "enname": "Pylon Module"
+  },
+  "104948": {
+    "name": "> 바이러스 모듈",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51628ed5e064fce9902f4cbb55f01eb589273e5accf985eadca7cbed982a1ed5.png",
+    "enname": "Virus Module"
+  },
+  "104949": {
+    "name": "> 쌍둥이 모듈",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c365952f8b294ef8496d32cf4ab02a7ec3bbaaca1b6422bdc2649cb127b34947.png",
+    "enname": "Twin Module"
+  },
+  "104950": {
+    "name": "> 시동 모듈",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3237bd11434f140ba4d71d1a9a1c7ceea4ce3c88b567215f658cfc8673959628.png",
+    "enname": "Ticking Module"
+  },
+  "104951": {
+    "name": "> 완전체 모듈",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9577bf98fbabc774a64c315b69bf727538912d43f949517fc7167f51a8091538.png",
+    "enname": "Perfect Module"
+  },
   "104976": {
     "name": "장난감 거인",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b20eac2e7c9c5228b51e55376d2e5d80ccef347460a84b241c290058bc3a575.png",
@@ -35657,6 +35717,41 @@
     "rarity": 5,
     "manaCost": 7
   },
+  "110440": {
+    "name": "> 2단 합체 질리악스 3000",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9d8765c008037b880d304d7175f7dc7beddb69039eff625f5710eac1a055bab.png",
+    "enname": "Zilliax Deluxe 3000"
+  },
+  "110441": {
+    "name": "> 2단 합체 질리악스 3000",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59238400045de39dab0d03e92b03385a827f094860f556f237966d8187768d3a.png",
+    "enname": "Zilliax Deluxe 3000"
+  },
+  "110442": {
+    "name": "> 2단 합체 질리악스 3000",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/865437ae34d238c53c106c8b61fd819648319a8a94321ff9ce95cbad08880e1c.png",
+    "enname": "Zilliax Deluxe 3000"
+  },
+  "110443": {
+    "name": "> 2단 합체 질리악스 3000",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad273bf712146ab35306c3e682ef39d7087914365bc7a2635c954e11cef69c6c.png",
+    "enname": "Zilliax Deluxe 3000"
+  },
+  "110444": {
+    "name": "> 2단 합체 질리악스 3000",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e55af3973c9bdcd15e12542c30c7348f230837ba7735f8080a8f880ec257764.png",
+    "enname": "Zilliax Deluxe 3000"
+  },
+  "110445": {
+    "name": "> 2단 합체 질리악스 3000",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5644dfabd0e0374d1b9f4c7da23438735c033c4995124dc5faf55e16b79660c.png",
+    "enname": "Zilliax Deluxe 3000"
+  },
+  "110446": {
+    "name": "> 2단 합체 질리악스 3000",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fa702e5cb2748023e0cb403dfc38a77295c224fed014d858c8f08c32d77a2c4.png",
+    "enname": "Zilliax Deluxe 3000"
+  },
   "110559": {
     "name": "별빛 방랑자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb59c32166f34760b4e52fd969910550d06d1d13b2fb28f6252d80b7f021f394.png",
@@ -36623,6 +36718,11 @@
     "rarity": 4,
     "manaCost": 0
   },
+  "111454": {
+    "name": "뒷골목의 서약",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51678aaeef55594d88f6f2875ed6655be0b5ff41ce4d68432c2da9445cb36d4c.png",
+    "enname": "Dark Alley Pact"
+  },
   "111457": {
     "name": "파멸수호병",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82803b6150b6d29e5acf4f398c639e82c4f144de2464cb836059233c00cae293.png",
@@ -36958,6 +37058,11 @@
     "enname": "Eternal Layover",
     "rarity": 3,
     "manaCost": 4
+  },
+  "112530": {
+    "name": "> 2단 합체 질리악스 3000",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/758088d4442acfc3cebbdca3f2e0baa4f5721d03e626344669d0fd6d53412ae2.png",
+    "enname": "Zilliax Deluxe 3000"
   },
   "112799": {
     "name": "산란못",
@@ -40137,6 +40242,51 @@
     "rarity": 5,
     "manaCost": 10
   },
+  "119433": {
+    "name": "작은 라팜",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/164394ceef6d9243f2491cea93204f5368624bd47745a71efba88b8560989b6e.png",
+    "enname": "Tiny Rafaam"
+  },
+  "119434": {
+    "name": "녹색 라팜",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0ee4894a2f7617df6ca26ab8b8385df64800a4fc3c949f692393bca16d69ca8.png",
+    "enname": "Green Rafaam"
+  },
+  "119441": {
+    "name": "탐험가 라팜",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32068b30aa7b58feb3d0af6b823357dc16aaac4e242492d82b2534a41f67a763.png",
+    "enname": "Explorer Rafaam"
+  },
+  "119443": {
+    "name": "대족장 라팜",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f962beb88f22519519b8e7423a4d591fd0f3c84f33420a8825c6d0a8f15dcaff.png",
+    "enname": "Warchief Rafaam"
+  },
+  "119444": {
+    "name": "정신파괴자 라팜",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4aabf74401649bc0c662b909658c7b4cef9e951bdf9d904bbffa1eb0d3083d4b.png",
+    "enname": "Mindflayer R'faam"
+  },
+  "119445": {
+    "name": "재앙의 라팜",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3035435c8e2a5be3c8ea323a185841866ce6fd938f30f1843bd8a9e8e7b58c47.png",
+    "enname": "Calamitous Rafaam"
+  },
+  "119446": {
+    "name": "거인 라팜",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f013329be19dee6439f472f644d896bb7eeebdc10821c247c285270dc4829e1b.png",
+    "enname": "Giant Rafaam"
+  },
+  "119447": {
+    "name": "멀록 라팜",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16940ab90c0d65903cf1d83e1658c603b97597eca83d703ea012fecd3ace8aa4.png",
+    "enname": "Murloc Rafaam"
+  },
+  "119450": {
+    "name": "대마법사 라팜",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa5419a208f7c573e44808a2300411fcefc20fb9304581d7318cfa21d480d9e1.png",
+    "enname": "Archmage Rafaam"
+  },
   "119451": {
     "name": "피의 투사 로고쉬",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9828c5d66b35c76171585b83fcecd60c343db40a4ebd06b7bb309d6af8f9af9.png",
@@ -40144,12 +40294,32 @@
     "rarity": 5,
     "manaCost": 7
   },
+  "119453": {
+    "name": "피의 투사 브롤",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20f698e1d9797025bb1567613178cad23117e28a002e854e64bf4ff9675dc43b.png",
+    "enname": "Broll, Blood Fighter"
+  },
+  "119454": {
+    "name": "피의 투사 발리라",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03ba152c69b7ddf3399840badc2a726c78dc8698974378b922440608536ccdb7.png",
+    "enname": "Valeera, Blood Fighter"
+  },
   "119524": {
     "name": "하늘빛 여왕 신드라고사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1aab41f788ca5f4a67f0e5c7d3db5dfb65dc3a88f7ce969e10726ba5b2a2d335.png",
     "enname": "Azure Queen Sindragosa",
     "rarity": 5,
     "manaCost": 5
+  },
+  "119525": {
+    "name": "하늘빛 서약의 돌",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/963daea7f8f316982fa12081b0aa29242fc5c33e4caaac41baacc674b75f64fd.png",
+    "enname": "Azure Oathstone"
+  },
+  "119527": {
+    "name": "하늘빛 왕 말리고스",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e380788f00f3ebabb02a3fd89b3ae6d0ee6a29a7b72a15a074a63b9ee6076eb4.png",
+    "enname": "Azure King Malygos"
   },
   "119528": {
     "name": "비전 탄막",
@@ -40214,12 +40384,22 @@
     "rarity": 5,
     "manaCost": 5
   },
+  "119647": {
+    "name": "국왕의 망치",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/853607cd872f558292f3ed62561cdb24c2a2d3074143922c82019743dfd608e9.png",
+    "enname": "High King's Hammer"
+  },
   "119649": {
     "name": "시간의 피조물",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b7e588d5b508d67702722d6f4171ebddce80078911a1054d0a31a7bf0432552.png",
     "enname": "Temporal Construct",
     "rarity": 3,
     "manaCost": 7
+  },
+  "119653": {
+    "name": "화신 형상",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54c0f36491720b78d5fc3ae20db4884e4b6630220059234e1c671687424c0c9f.png",
+    "enname": "Avatar Form"
   },
   "119686": {
     "name": "선견자 워오",
@@ -40276,6 +40456,16 @@
     "enname": "Quel'dorei Fletcher",
     "rarity": 3,
     "manaCost": 1
+  },
+  "119705": {
+    "name": "순찰대장 알레리아",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7db516a10ac8b82edc26191d3d4459273dd901a0c7caa62cc1546fb88fd1d89e.png",
+    "enname": "Ranger Captain Alleria"
+  },
+  "119706": {
+    "name": "순찰대 수습생 베리사",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc8b728f7686aa8730fb912447d12b32a4f4d11c80acc1602ad406bea8c8416f.png",
+    "enname": "Ranger Initiate Vereesa"
   },
   "119707": {
     "name": "순찰대 사령관 실바나스",
@@ -40375,6 +40565,16 @@
     "rarity": 5,
     "manaCost": 4
   },
+  "119815": {
+    "name": "국왕 레인",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02967f5cabfa3779dff5b824e9492b513c61666259a12eb2ae07f6151390d2c3.png",
+    "enname": "King Llane"
+  },
+  "119816": {
+    "name": "국왕 시해자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e543a629f92e80e3a9d83e27cf6d570ed76dcf8f33312bebd016d28c5e26db9a.png",
+    "enname": "The Kingslayers"
+  },
   "119841": {
     "name": "변신술사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d515777c5f2fde85e21cdbc391e2142cfcff25ceb387aa002e4a0bcdf400f685.png",
@@ -40389,12 +40589,32 @@
     "rarity": 5,
     "manaCost": 8
   },
+  "119919": {
+    "name": "노움의 오라",
+    "img": "https://hearthstone.blizzard.com/cards/119919-gnomish-aura",
+    "enname": "Gnomish Aura"
+  },
+  "119920": {
+    "name": "멕카토크의 오라",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99a92b20c3a8f530d39df068c2c612400c7a8c26e9d89c827ea0399ff455f965.png",
+    "enname": "Mekkatorque's Aura"
+  },
   "119928": {
     "name": "여군주 아즈샤라",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5e816dd7f3fe08e0ac6e414c452c69fc0d2af5a309a1a31af0cc5c4e3a89128.png",
     "enname": "Lady Azshara",
     "rarity": 5,
     "manaCost": 5
+  },
+  "119929": {
+    "name": "영원의 샘",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e22379dcd40c38ced6dcb00e2aab4a638d20da242826ff22e6cdf906c0554388.png",
+    "enname": "The Well of Eternity"
+  },
+  "119930": {
+    "name": "진아즈샤리",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be69bff4b8128c53a4be3663429a512739f010338582f07d69eb2a31123d6f08.png",
+    "enname": "Zin-Azshari"
   },
   "119963": {
     "name": "경화빛 수호자",
@@ -40438,12 +40658,32 @@
     "rarity": 5,
     "manaCost": 10
   },
+  "120064": {
+    "name": "대지팡이 아티쉬",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb550fd69ef6f901ee2c01dc4c906957412779756d1a3f88555d2d5bc397b257.png",
+    "enname": "Atiesh the Greatstaff"
+  },
+  "120068": {
+    "name": "성소 카라잔",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72874234734db231e3b7e157d82959414cd97125d7073656a0948638b810c6f4.png",
+    "enname": "Karazhan the Sanctum"
+  },
   "120074": {
     "name": "브록시가르",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27df4940705e49d63e67f5e633901ba25f425b8ef362d2a723825060a6e39cd1.png",
     "enname": "Broxigar",
     "rarity": 5,
     "manaCost": 2
+  },
+  "120082": {
+    "name": "세나리우스의 도끼",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0813b316279623d6550313ec7012fe03dc744c6b9ae6ba51eb0e5bdd742df8f7.png",
+    "enname": "Axe of Cenarius"
+  },
+  "120083": {
+    "name": "아르거스로 통하는 첫 번째 차원문",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93223ffb32e0ba4390a8e212b8f6898e4cadbe934c15ac381f250265b53fb5ff.png",
+    "enname": "First Portal to Argus"
   },
   "120172": {
     "name": "황천의 원령 역사가",
@@ -40507,6 +40747,16 @@
     "enname": "Talanji of the Graves",
     "rarity": 5,
     "manaCost": 4
+  },
+  "120187": {
+    "name": "브원삼디",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90502e05837f9f9ed59fd6ed3e69c4831ee1c549ae91141a3b07a27dc279f6ae.png",
+    "enname": "Bwonsamdi"
+  },
+  "120188": {
+    "name": "잔달라에 닥친 일",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7b714cf2c12faf1091c5a1046fb8b2e2fd8adcfc5a61c1158c465223730b4ef.png",
+    "enname": "What Befell Zandalar"
   },
   "120208": {
     "name": "만일의 사태",
@@ -41747,6 +41997,16 @@
     "rarity": 1,
     "manaCost": 4
   },
+  "121758": {
+    "name": "보급품 조달",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f1e6977a0a44d57dfea41cc198ff7a41a93b7e8bae024c6537c5a9697781211.png",
+    "enname": "Supply Run"
+  },
+  "121760": {
+    "name": "보급품 조달",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/166666adb21448eacb685ede156200873d6229da4d0eb6ebfd6586b1cefd565b.png",
+    "enname": "Supply Run"
+  },
   "121787": {
     "name": "맹독 송장",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2955508fdfad1124bfb5f33ad4597e132a7fe212a59d58ef64aa55b329245b68.png",
@@ -42055,6 +42315,16 @@
     "rarity": 3,
     "manaCost": 4
   },
+  "122876": {
+    "name": "분파",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9a7c0ee0638acdedfb6ad5d7d020b5f6035e4ceff569e20bb6850134444d205.png",
+    "enname": "Schism"
+  },
+  "122877": {
+    "name": "분파",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb48c8b015f4a44eaf788e134b962746d988cfb4f236eb193eb4a26a3382f5cc.png",
+    "enname": "Schism"
+  },
   "122878": {
     "name": "격분한 여군주",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1b13263824493bac0aeecd0b571d37e9d3f3585ba78033787de1b466d5c471c.png",
@@ -42187,6 +42457,16 @@
     "enname": "Wildwood Circle",
     "rarity": 3,
     "manaCost": 3
+  },
+  "122972": {
+    "name": "원시림의 소환진",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7e76d2c99d650866020526eee1c9433fa11d9246234dd2bdc239bcef56c5495.png",
+    "enname": "Wildwood Circle"
+  },
+  "122973": {
+    "name": "원시림의 소환진",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05e4fe3701107cf107d1d8a016e91869388e69cafaa0bd62571db76f2e3848ba.png",
+    "enname": "Wildwood Circle"
   },
   "122975": {
     "name": "아즈샤라의 승리",
@@ -42376,6 +42656,16 @@
     "enname": "Flight Maneuvers",
     "rarity": 4,
     "manaCost": 4
+  },
+  "123141": {
+    "name": "비행 기동",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed65eb3c2577d8856ee77e32b7fa61a7e5cdd1f49c71b3a133c9bc4f54bfec6d.png",
+    "enname": "Flight Maneuvers"
+  },
+  "123142": {
+    "name": "비행 기동",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92ee9f9c717b08681c1999ceb26925ef05366f536a310b6d778fd9d4da0013b8.png",
+    "enname": "Flight Maneuvers"
   },
   "123146": {
     "name": "생명의 수호자 알렉스트라자",
@@ -42642,6 +42932,16 @@
     "enname": "Arcane Flow",
     "rarity": 3,
     "manaCost": 4
+  },
+  "123743": {
+    "name": "비전의 흐름",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46704ad625740ddd5e016c5dc978cf1578e47a0b7858b916bc651fe6ec0bcb2d.png",
+    "enname": "Arcane Flow"
+  },
+  "123744": {
+    "name": "비전의 흐름",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed98f00f5df27b31347200d9a3a4ef1f43843a81bba0257ebee73c6ee46b6b1d.png",
+    "enname": "Arcane Flow"
   },
   "123779": {
     "name": "얼굴 없는 복제자",
@@ -43140,6 +43440,41 @@
     "rarity": 1,
     "manaCost": 3
   },
+  "130583": {
+    "name": "기워 붙인 거인",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bda2a3abc735f6037d811dfca3c832c1b266e8aa0fad0859dbcdb6cae2078d68.png",
+    "enname": "Stitched Giant",
+    "rarity": 4,
+    "manaCost": 9
+  },
+  "130584": {
+    "name": "간아그 전투검장인",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16ce395350e3510b68e4e7eb0282a6a72a7827f393bf6c83a6b9ea5ee6707a9e.png",
+    "enname": "Gan'arg Glaivesmith",
+    "rarity": 1,
+    "manaCost": 3
+  },
+  "130585": {
+    "name": "암흑 속에서 번창하리라",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4360ad18e70e4b9435cde5d78b56c308ee652e720dd16dcad7ad76c9488b7de9.png",
+    "enname": "Thrive in the Shadows",
+    "rarity": 3,
+    "manaCost": 2
+  },
+  "130586": {
+    "name": "성전사의 오라",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fb5b8c649947e5ae6e0268648429ff2b84792ca744b0749046b4740e25d4f1d.png",
+    "enname": "Crusader Aura",
+    "rarity": 4,
+    "manaCost": 4
+  },
+  "130593": {
+    "name": "죽음의 인도자 사울팽",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1aefd7a125be5015c613774524d4b6d49681c4e7b621ea569e6ad5b4a704431.png",
+    "enname": "Deathbringer Saurfang",
+    "rarity": 5,
+    "manaCost": 5
+  },
   "130677": {
     "name": "야생의 부름",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3e14273cf069088ce504062ff22988fb500b916be86de73bf313f19a4fe8115.png",
@@ -43188,340 +43523,5 @@
     "enname": "Micro Machine",
     "rarity": 1,
     "manaCost": 2
-  },
-  "123743": {
-    "name": "비전의 흐름",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46704ad625740ddd5e016c5dc978cf1578e47a0b7858b916bc651fe6ec0bcb2d.png",
-    "enname": "Arcane Flow"
-  },
-  "122973": {
-    "name": "원시림의 소환진",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05e4fe3701107cf107d1d8a016e91869388e69cafaa0bd62571db76f2e3848ba.png",
-    "enname": "Wildwood Circle"
-  },
-  "110440": {
-    "name": "> 2단 합체 질리악스 3000",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9d8765c008037b880d304d7175f7dc7beddb69039eff625f5710eac1a055bab.png",
-    "enname": "Zilliax Deluxe 3000"
-  },
-  "110444": {
-    "name": "> 2단 합체 질리악스 3000",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e55af3973c9bdcd15e12542c30c7348f230837ba7735f8080a8f880ec257764.png",
-    "enname": "Zilliax Deluxe 3000"
-  },
-  "86727": {
-    "name": "기근기수 블라미우스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70dfb60f950a49f401c98eaa4319a378cabdda0bc8f93d531ff11dd4e72a7283.png",
-    "enname": "Blaumeux, Faminerider"
-  },
-  "119816": {
-    "name": "국왕 시해자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e543a629f92e80e3a9d83e27cf6d570ed76dcf8f33312bebd016d28c5e26db9a.png",
-    "enname": "The Kingslayers"
-  },
-  "119525": {
-    "name": "하늘빛 서약의 돌",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/963daea7f8f316982fa12081b0aa29242fc5c33e4caaac41baacc674b75f64fd.png",
-    "enname": "Azure Oathstone"
-  },
-  "110441": {
-    "name": "> 2단 합체 질리악스 3000",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59238400045de39dab0d03e92b03385a827f094860f556f237966d8187768d3a.png",
-    "enname": "Zilliax Deluxe 3000"
-  },
-  "119446": {
-    "name": "거인 라팜",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f013329be19dee6439f472f644d896bb7eeebdc10821c247c285270dc4829e1b.png",
-    "enname": "Giant Rafaam"
-  },
-  "119433": {
-    "name": "작은 라팜",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/164394ceef6d9243f2491cea93204f5368624bd47745a71efba88b8560989b6e.png",
-    "enname": "Tiny Rafaam"
-  },
-  "112530": {
-    "name": "> 2단 합체 질리악스 3000",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/758088d4442acfc3cebbdca3f2e0baa4f5721d03e626344669d0fd6d53412ae2.png",
-    "enname": "Zilliax Deluxe 3000"
-  },
-  "119647": {
-    "name": "국왕의 망치",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/853607cd872f558292f3ed62561cdb24c2a2d3074143922c82019743dfd608e9.png",
-    "enname": "High King's Hammer"
-  },
-  "120068": {
-    "name": "성소 카라잔",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72874234734db231e3b7e157d82959414cd97125d7073656a0948638b810c6f4.png",
-    "enname": "Karazhan the Sanctum"
-  },
-  "130593": {
-    "name": "죽음의 인도자 사울팽",
-    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/LEG_RLK_082.png",
-    "enname": "Deathbringer Saurfang",
-    "rarity": 5,
-    "manaCost": 5
-  },
-  "122972": {
-    "name": "원시림의 소환진",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7e76d2c99d650866020526eee1c9433fa11d9246234dd2bdc239bcef56c5495.png",
-    "enname": "Wildwood Circle"
-  },
-  "104949": {
-    "name": "> 쌍둥이 모듈",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c365952f8b294ef8496d32cf4ab02a7ec3bbaaca1b6422bdc2649cb127b34947.png",
-    "enname": "Twin Module"
-  },
-  "119450": {
-    "name": "대마법사 라팜",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa5419a208f7c573e44808a2300411fcefc20fb9304581d7318cfa21d480d9e1.png",
-    "enname": "Archmage Rafaam"
-  },
-  "130584": {
-    "name": "간아그 전투검장인",
-    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/LEG_CS3_017.png",
-    "enname": "Gan'arg Glaivesmith",
-    "rarity": 1,
-    "manaCost": 3
-  },
-  "110443": {
-    "name": "> 2단 합체 질리악스 3000",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad273bf712146ab35306c3e682ef39d7087914365bc7a2635c954e11cef69c6c.png",
-    "enname": "Zilliax Deluxe 3000"
-  },
-  "123142": {
-    "name": "비행 기동",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92ee9f9c717b08681c1999ceb26925ef05366f536a310b6d778fd9d4da0013b8.png",
-    "enname": "Flight Maneuvers"
-  },
-  "121758": {
-    "name": "보급품 조달",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f1e6977a0a44d57dfea41cc198ff7a41a93b7e8bae024c6537c5a9697781211.png",
-    "enname": "Supply Run"
-  },
-  "120064": {
-    "name": "대지팡이 아티쉬",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb550fd69ef6f901ee2c01dc4c906957412779756d1a3f88555d2d5bc397b257.png",
-    "enname": "Atiesh the Greatstaff"
-  },
-  "110445": {
-    "name": "> 2단 합체 질리악스 3000",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5644dfabd0e0374d1b9f4c7da23438735c033c4995124dc5faf55e16b79660c.png",
-    "enname": "Zilliax Deluxe 3000"
-  },
-  "123141": {
-    "name": "비행 기동",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed65eb3c2577d8856ee77e32b7fa61a7e5cdd1f49c71b3a133c9bc4f54bfec6d.png",
-    "enname": "Flight Maneuvers"
-  },
-  "119445": {
-    "name": "재앙의 라팜",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3035435c8e2a5be3c8ea323a185841866ce6fd938f30f1843bd8a9e8e7b58c47.png",
-    "enname": "Calamitous Rafaam"
-  },
-  "110446": {
-    "name": "> 2단 합체 질리악스 3000",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fa702e5cb2748023e0cb403dfc38a77295c224fed014d858c8f08c32d77a2c4.png",
-    "enname": "Zilliax Deluxe 3000"
-  },
-  "104950": {
-    "name": "> 시동 모듈",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3237bd11434f140ba4d71d1a9a1c7ceea4ce3c88b567215f658cfc8673959628.png",
-    "enname": "Ticking Module"
-  },
-  "120187": {
-    "name": "브원삼디",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90502e05837f9f9ed59fd6ed3e69c4831ee1c549ae91141a3b07a27dc279f6ae.png",
-    "enname": "Bwonsamdi"
-  },
-  "110442": {
-    "name": "> 2단 합체 질리악스 3000",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/865437ae34d238c53c106c8b61fd819648319a8a94321ff9ce95cbad08880e1c.png",
-    "enname": "Zilliax Deluxe 3000"
-  },
-  "119453": {
-    "name": "피의 투사 브롤",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20f698e1d9797025bb1567613178cad23117e28a002e854e64bf4ff9675dc43b.png",
-    "enname": "Broll, Blood Fighter"
-  },
-  "92292": {
-    "name": "고드름",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b49bf9763d201602f713f72a547d0393f7cdcd29a0fc1a8860286ba852b35e6.png",
-    "enname": "Icicle"
-  },
-  "119920": {
-    "name": "멕카토크의 오라",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99a92b20c3a8f530d39df068c2c612400c7a8c26e9d89c827ea0399ff455f965.png",
-    "enname": "Mekkatorque's Aura"
-  },
-  "119441": {
-    "name": "탐험가 라팜",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32068b30aa7b58feb3d0af6b823357dc16aaac4e242492d82b2534a41f67a763.png",
-    "enname": "Explorer Rafaam"
-  },
-  "119815": {
-    "name": "국왕 레인",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02967f5cabfa3779dff5b824e9492b513c61666259a12eb2ae07f6151390d2c3.png",
-    "enname": "King Llane"
-  },
-  "120082": {
-    "name": "세나리우스의 도끼",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0813b316279623d6550313ec7012fe03dc744c6b9ae6ba51eb0e5bdd742df8f7.png",
-    "enname": "Axe of Cenarius"
-  },
-  "119447": {
-    "name": "멀록 라팜",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16940ab90c0d65903cf1d83e1658c603b97597eca83d703ea012fecd3ace8aa4.png",
-    "enname": "Murloc Rafaam"
-  },
-  "119527": {
-    "name": "하늘빛 왕 말리고스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e380788f00f3ebabb02a3fd89b3ae6d0ee6a29a7b72a15a074a63b9ee6076eb4.png",
-    "enname": "Azure King Malygos"
-  },
-  "119653": {
-    "name": "화신 형상",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54c0f36491720b78d5fc3ae20db4884e4b6630220059234e1c671687424c0c9f.png",
-    "enname": "Avatar Form"
-  },
-  "119444": {
-    "name": "정신파괴자 라팜",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4aabf74401649bc0c662b909658c7b4cef9e951bdf9d904bbffa1eb0d3083d4b.png",
-    "enname": "Mindflayer R'faam"
-  },
-  "123744": {
-    "name": "비전의 흐름",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed98f00f5df27b31347200d9a3a4ef1f43843a81bba0257ebee73c6ee46b6b1d.png",
-    "enname": "Arcane Flow"
-  },
-  "122876": {
-    "name": "분파",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9a7c0ee0638acdedfb6ad5d7d020b5f6035e4ceff569e20bb6850134444d205.png",
-    "enname": "Schism"
-  },
-  "119434": {
-    "name": "녹색 라팜",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0ee4894a2f7617df6ca26ab8b8385df64800a4fc3c949f692393bca16d69ca8.png",
-    "enname": "Green Rafaam"
-  },
-  "104948": {
-    "name": "> 바이러스 모듈",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51628ed5e064fce9902f4cbb55f01eb589273e5accf985eadca7cbed982a1ed5.png",
-    "enname": "Virus Module"
-  },
-  "120188": {
-    "name": "잔달라에 닥친 일",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7b714cf2c12faf1091c5a1046fb8b2e2fd8adcfc5a61c1158c465223730b4ef.png",
-    "enname": "What Befell Zandalar"
-  },
-  "104951": {
-    "name": "> 완전체 모듈",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9577bf98fbabc774a64c315b69bf727538912d43f949517fc7167f51a8091538.png",
-    "enname": "Perfect Module"
-  },
-  "120083": {
-    "name": "아르거스로 통하는 첫 번째 차원문",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93223ffb32e0ba4390a8e212b8f6898e4cadbe934c15ac381f250265b53fb5ff.png",
-    "enname": "First Portal to Argus"
-  },
-  "130586": {
-    "name": "성전사의 오라",
-    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/LEG_TTN_908.png",
-    "enname": "Crusader Aura",
-    "rarity": 4,
-    "manaCost": 4
-  },
-  "119930": {
-    "name": "진아즈샤리",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be69bff4b8128c53a4be3663429a512739f010338582f07d69eb2a31123d6f08.png",
-    "enname": "Zin-Azshari"
-  },
-  "119705": {
-    "name": "순찰대장 알레리아",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7db516a10ac8b82edc26191d3d4459273dd901a0c7caa62cc1546fb88fd1d89e.png",
-    "enname": "Ranger Captain Alleria"
-  },
-  "130585": {
-    "name": "암흑 속에서 번창하리라",
-    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/LEG_CS3_028.png",
-    "enname": "Thrive in the Shadows",
-    "rarity": 3,
-    "manaCost": 2
-  },
-  "119706": {
-    "name": "순찰대 수습생 베리사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc8b728f7686aa8730fb912447d12b32a4f4d11c80acc1602ad406bea8c8416f.png",
-    "enname": "Ranger Initiate Vereesa"
-  },
-  "95690": {
-    "name": "악랄한 공포의 군주",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f05ad0589259daf2881923f7cb2d1483d1067660531bb8d51e56295d8906e6a.png",
-    "enname": "Despicable Dreadlord"
-  },
-  "104946": {
-    "name": "> 괴력 모듈",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67f3ac8be4f8e74f46f68e1b03f00e3e8095964b5a72049d83b55f581b46de78.png",
-    "enname": "Power Module"
-  },
-  "111454": {
-    "name": "뒷골목의 서약",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51678aaeef55594d88f6f2875ed6655be0b5ff41ce4d68432c2da9445cb36d4c.png",
-    "enname": "Dark Alley Pact"
-  },
-  "119454": {
-    "name": "피의 투사 발리라",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03ba152c69b7ddf3399840badc2a726c78dc8698974378b922440608536ccdb7.png",
-    "enname": "Valeera, Blood Fighter"
-  },
-  "104947": {
-    "name": "> 송전 모듈",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0d90df5425815782bfbfee11831a15bbdefc765a4607100dce4f2dbe0618b76.png",
-    "enname": "Pylon Module"
-  },
-  "130583": {
-    "name": "기워 붙인 거인",
-    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/LEG_RLK_744.png",
-    "enname": "Stitched Giant",
-    "rarity": 4,
-    "manaCost": 9
-  },
-  "119919": {
-    "name": "노움의 오라",
-    "img": "https://hearthstone.blizzard.com/cards/119919-gnomish-aura",
-    "enname": "Gnomish Aura"
-  },
-  "122877": {
-    "name": "분파",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb48c8b015f4a44eaf788e134b962746d988cfb4f236eb193eb4a26a3382f5cc.png",
-    "enname": "Schism"
-  },
-  "86729": {
-    "name": "정복기수 젤리에크",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b77c891786b5e049343384cd14a3c4f904010348c47d67b5cfcbab5318e63a00.png",
-    "enname": "Zeliek, Conquestrider"
-  },
-  "121760": {
-    "name": "보급품 조달",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/166666adb21448eacb685ede156200873d6229da4d0eb6ebfd6586b1cefd565b.png",
-    "enname": "Supply Run"
-  },
-  "119443": {
-    "name": "대족장 라팜",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f962beb88f22519519b8e7423a4d591fd0f3c84f33420a8825c6d0a8f15dcaff.png",
-    "enname": "Warchief Rafaam"
-  },
-  "119929": {
-    "name": "영원의 샘",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e22379dcd40c38ced6dcb00e2aab4a638d20da242826ff22e6cdf906c0554388.png",
-    "enname": "The Well of Eternity"
-  },
-  "86728": {
-    "name": "죽음기수 코스아즈",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efd2ae6a4a52fdd18bee44562cd8a3f7576ffe766265bbe8efa9a7c52d2c392f.png",
-    "enname": "Korth'azz, Deathrider"
-  },
-  "104944": {
-    "name": "> 반복 모듈",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2770b35d9851e60d1bf3c0cca69502693428f6d4bcfaf1d59e4f151c9c3e5e88.png",
-    "enname": "Recursive Module"
   }
 }
