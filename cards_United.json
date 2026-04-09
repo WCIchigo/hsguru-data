@@ -32935,7 +32935,7 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d131fb3870fc05382c2811581a77b75575a1a3ca10003de73ce3dfe1e1e9ccf4.png",
     "enname": "Primalfin Lookout",
     "rarity": null,
-    "manaCost": 5,
+    "manaCost": 0,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -32944,7 +32944,7 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01f870ae5cfcfc4038d42d0b4a08a2074fba1c09cffaa0718091cdc2d3f3b6e1.png",
     "enname": "Primalfin Lookout",
     "rarity": null,
-    "manaCost": 5,
+    "manaCost": 0,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -61393,6 +61393,22 @@
     "rarityId": null,
     "cardSetId": 1453
   },
+  "97549": {
+    "name": "복어깃",
+    "img": null,
+    "enname": "Pufferquil",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "97550": {
+    "name": "복어깃",
+    "img": null,
+    "enname": "Pufferquil",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
   "97551": {
     "name": "불태우는 하늘지느러미",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6dd5c4e1bc161f0cdc1924d05b71fa1cd1674679c189766f360d59c57c388ee9.png",
@@ -66172,6 +66188,14 @@
     "rarityId": 5,
     "cardSetId": 1892
   },
+  "101556": {
+    "name": "착취의 지옥사냥개",
+    "img": null,
+    "enname": "Leeching Felhound",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
   "101557": {
     "name": "촉수 옭아매기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee72efa21ca6276226069bdd1c7531ddc8bbba073274fbdbc2624037003b0a0d.png",
@@ -66180,6 +66204,14 @@
     "manaCost": 2,
     "rarityId": 1,
     "cardSetId": 1858
+  },
+  "101558": {
+    "name": "착취의 지옥사냥개",
+    "img": null,
+    "enname": "Leeching Felhound",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
   },
   "101559": {
     "name": "꼬마 세계파괴자",
@@ -72765,7 +72797,7 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c71e5fefb50d993047ae93564456e2de471281f29629078b444748c81a336c9.png",
     "enname": "Staff of Enrichment",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -76873,6 +76905,22 @@
     "rarityId": null,
     "cardSetId": 1453
   },
+  "109879": {
+    "name": "아주 배고픈 겨울지느러미",
+    "img": null,
+    "enname": "Very Hungry Winterfinner",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "109881": {
+    "name": "아주 배고픈 겨울지느러미",
+    "img": null,
+    "enname": "Very Hungry Winterfinner",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
   "109884": {
     "name": "용서 없는 나무정령",
     "img": null,
@@ -78394,6 +78442,14 @@
     "rarityId": null,
     "cardSetId": 1453
   },
+  "110957": {
+    "name": "고대의 행운뼈",
+    "img": null,
+    "enname": "Ancient Wishbone",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
   "110965": {
     "name": "차원문술사 스카일라",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45409cfd7907c8f139d70a8220e5cb47860b2c63b2301bb2f1b5eef65d7da57c.png",
@@ -78592,12 +78648,20 @@
     "rarityId": 1,
     "cardSetId": 1935
   },
+  "111092": {
+    "name": "빛나는 건틀릿",
+    "img": null,
+    "enname": "Glowing Gauntlet",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
   "111109": {
     "name": "희생의 제단",
     "img": null,
     "enname": "Sacrificial Altar",
     "rarity": null,
-    "manaCost": 6,
+    "manaCost": 0,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -78750,7 +78814,7 @@
     "img": null,
     "enname": "Essence of Dreams",
     "rarity": null,
-    "manaCost": 7,
+    "manaCost": 3,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -79074,7 +79138,7 @@
     "img": null,
     "enname": "Eternal Portrait",
     "rarity": null,
-    "manaCost": 6,
+    "manaCost": 5,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -79083,7 +79147,7 @@
     "img": null,
     "enname": "Portable Factory",
     "rarity": null,
-    "manaCost": 4,
+    "manaCost": 5,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -79110,7 +79174,7 @@
     "img": null,
     "enname": "Automaton Portrait",
     "rarity": null,
-    "manaCost": 7,
+    "manaCost": 4,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -79121,6 +79185,14 @@
     "rarity": null,
     "manaCost": 4,
     "rarityId": null,
+    "cardSetId": 1453
+  },
+  "111408": {
+    "name": "행운의 얼룩고양이",
+    "img": null,
+    "enname": "Lucky Tabby",
+    "rarityId": null,
+    "manaCost": 2,
     "cardSetId": 1453
   },
   "111410": {
@@ -79259,8 +79331,16 @@
     "img": null,
     "enname": "Ironforge Anvil",
     "rarity": null,
-    "manaCost": 6,
+    "manaCost": 4,
     "rarityId": null,
+    "cardSetId": 1453
+  },
+  "111499": {
+    "name": "용암 등불",
+    "img": null,
+    "enname": "Lava Lamp",
+    "rarityId": null,
+    "manaCost": 1,
     "cardSetId": 1453
   },
   "111502": {
@@ -79268,7 +79348,7 @@
     "img": null,
     "enname": "Butcher's Sickle",
     "rarity": null,
-    "manaCost": 7,
+    "manaCost": 3,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -80321,7 +80401,7 @@
     "img": null,
     "enname": "Balladist Portrait",
     "rarity": null,
-    "manaCost": 7,
+    "manaCost": 5,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -80441,6 +80521,14 @@
     "manaCost": 8,
     "rarityId": 4,
     "cardSetId": 1935
+  },
+  "112073": {
+    "name": "호랑이 조각상",
+    "img": null,
+    "enname": "Tiger Carving",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
   },
   "112075": {
     "name": "낡은 보물 지도",
@@ -80595,12 +80683,20 @@
     "rarityId": 3,
     "cardSetId": 1905
   },
+  "112381": {
+    "name": "강타자 스티커",
+    "img": null,
+    "enname": "Slamma Sticker",
+    "rarityId": null,
+    "manaCost": 5,
+    "cardSetId": 1453
+  },
   "112382": {
     "name": "황천 펜던트",
     "img": null,
     "enname": "Nether Pendant",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 4,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -80663,7 +80759,7 @@
     "img": null,
     "enname": "Azerite Portrait",
     "rarity": null,
-    "manaCost": 4,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -80690,7 +80786,7 @@
     "img": null,
     "enname": "Glowscale Portrait",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -81041,7 +81137,7 @@
     "img": null,
     "enname": "Fancy Spellbook",
     "rarity": null,
-    "manaCost": 4,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -82490,7 +82586,7 @@
     "img": null,
     "enname": "Knockoff Wisdomball",
     "rarity": null,
-    "manaCost": 3,
+    "manaCost": 4,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -84222,12 +84318,20 @@
     "rarityId": null,
     "cardSetId": 1453
   },
+  "115231": {
+    "name": "호랑이 조각상",
+    "img": null,
+    "enname": "Tiger Carving",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
   "115235": {
     "name": "노미 스티커",
     "img": null,
     "enname": "Nomi Sticker",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -84245,7 +84349,7 @@
     "img": null,
     "enname": "Nerglish Phrasebook",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -88371,6 +88475,14 @@
     "rarityId": null,
     "cardSetId": 1453
   },
+  "117856": {
+    "name": "측량사 초상화",
+    "img": null,
+    "enname": "Surveyor Portrait",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
   "117857": {
     "name": "반사 펜던트",
     "img": null,
@@ -91355,7 +91467,7 @@
     "img": null,
     "enname": "Baleful Incense",
     "rarity": null,
-    "manaCost": 5,
+    "manaCost": 4,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -91364,7 +91476,7 @@
     "img": null,
     "enname": "Heart of the Forest",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 3,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -91447,6 +91559,14 @@
     "rarity": null,
     "manaCost": 2,
     "rarityId": null,
+    "cardSetId": 1453
+  },
+  "120155": {
+    "name": "지혜의 공 공급원",
+    "img": null,
+    "enname": "Wisdomball Supply",
+    "rarityId": null,
+    "manaCost": 4,
     "cardSetId": 1453
   },
   "120156": {
@@ -93650,7 +93770,7 @@
     "img": null,
     "enname": "Battlecruiser Portrait",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -93974,7 +94094,7 @@
     "img": null,
     "enname": "Shifting Tide",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -94100,7 +94220,7 @@
     "img": null,
     "enname": "Shark Cannon",
     "rarity": null,
-    "manaCost": 6,
+    "manaCost": 4,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -94469,7 +94589,7 @@
     "img": null,
     "enname": "Gilded Anchor",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -94487,7 +94607,7 @@
     "img": null,
     "enname": "War Drum",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -94523,7 +94643,7 @@
     "img": null,
     "enname": "Wicked Tome",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 3,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -94613,7 +94733,7 @@
     "img": null,
     "enname": "Felemental Portrait",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -94703,7 +94823,7 @@
     "img": null,
     "enname": "Behemoth Portrait",
     "rarity": null,
-    "manaCost": 0,
+    "manaCost": 4,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -99495,6 +99615,22 @@
     "rarityId": null,
     "cardSetId": 1453
   },
+  "126532": {
+    "name": "클록스워스 씨",
+    "img": null,
+    "enname": "Mister Clocksworth",
+    "rarityId": 2,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126533": {
+    "name": "곱절의 시간",
+    "img": null,
+    "enname": "Double Time",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
   "126537": {
     "name": "시간 왜곡자 크로미",
     "img": null,
@@ -99653,8 +99789,24 @@
     "img": null,
     "enname": "Timewarped Anub'arak",
     "rarity": null,
-    "manaCost": 1,
+    "manaCost": 2,
     "rarityId": null,
+    "cardSetId": 1453
+  },
+  "126629": {
+    "name": "물결 인도자",
+    "img": null,
+    "enname": "Tide Raiser",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126630": {
+    "name": "물결 인도자",
+    "img": null,
+    "enname": "Tide Raiser",
+    "rarityId": null,
+    "manaCost": 0,
     "cardSetId": 1453
   },
   "126637": {
@@ -99782,6 +99934,86 @@
     "manaCost": 8,
     "rarityId": 4,
     "cardSetId": 1941
+  },
+  "126711": {
+    "name": "푸른 오색비룡",
+    "img": null,
+    "enname": "Blue Chromadrake",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126713": {
+    "name": "검은 오색비룡",
+    "img": null,
+    "enname": "Black Chromadrake",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126715": {
+    "name": "녹색 오색비룡",
+    "img": null,
+    "enname": "Green Chromadrake",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126717": {
+    "name": "청동 오색비룡",
+    "img": null,
+    "enname": "Bronze Chromadrake",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126718": {
+    "name": "붉은 오색비룡",
+    "img": null,
+    "enname": "Red Chromadrake",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126724": {
+    "name": "푸른 오색비룡",
+    "img": null,
+    "enname": "Blue Chromadrake",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126725": {
+    "name": "검은 오색비룡",
+    "img": null,
+    "enname": "Black Chromadrake",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126727": {
+    "name": "청동 오색비룡",
+    "img": null,
+    "enname": "Bronze Chromadrake",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126728": {
+    "name": "붉은 오색비룡",
+    "img": null,
+    "enname": "Red Chromadrake",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "126729": {
+    "name": "녹색 오색비룡",
+    "img": null,
+    "enname": "Green Chromadrake",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
   },
   "126733": {
     "name": "포세이큰 방직공",
@@ -100134,6 +100366,14 @@
     "rarityId": null,
     "cardSetId": 1453
   },
+  "126848": {
+    "name": "시간의 끝의 알",
+    "img": null,
+    "enname": "Egg of the Endtimes",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
   "126849": {
     "name": "강건한 범고래",
     "img": null,
@@ -100238,7 +100478,7 @@
     "img": null,
     "enname": "Easterly Winds",
     "rarity": null,
-    "manaCost": 1,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -101426,7 +101666,7 @@
     "img": null,
     "enname": "Timewarped Anub'arak",
     "rarity": null,
-    "manaCost": 1,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -103006,7 +103246,7 @@
     "cardSetId": 1453
   },
   "127965": {
-    "name": "시간 왜곡의 대박 당첨자!",
+    "name": "시간왜곡의 대박 당첨자!",
     "img": null,
     "enname": "Timewarped Big Winner!",
     "rarity": null,
@@ -103415,7 +103655,7 @@
     "img": null,
     "enname": "Timewarped Deadstomper",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -103424,7 +103664,7 @@
     "img": null,
     "enname": "Timewarped Deadstomper",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -103613,7 +103853,7 @@
     "img": null,
     "enname": "Timewarped Icky Imp",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -103622,7 +103862,7 @@
     "img": null,
     "enname": "Timewarped Icky Imp",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453
   },
@@ -104121,6 +104361,22 @@
     "rarityId": null,
     "cardSetId": 1453
   },
+  "129684": {
+    "name": "늑대인간 왕 겐",
+    "img": null,
+    "enname": "Genn, Worgen King",
+    "rarityId": 2,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "129685": {
+    "name": "이중성의 왕",
+    "img": null,
+    "enname": "King of Duality",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
   "129846": {
     "name": "점성술사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b555574c45b88f2e788fbbdffc3b6fe75bc0310471f4696fd86d698ffcd1367.png",
@@ -104175,6 +104431,70 @@
     "rarityId": 4,
     "cardSetId": 1941
   },
+  "129953": {
+    "name": "시간의 끝의 알",
+    "img": null,
+    "enname": "Egg of the Endtimes",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130028": {
+    "name": "선임 주방장 스티커",
+    "img": null,
+    "enname": "Sous Chef Sticker",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "130075": {
+    "name": "연구실 조수",
+    "img": null,
+    "enname": "Laboratory Assistant",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130076": {
+    "name": "삼림지 파멸자",
+    "img": null,
+    "enname": "Woodland Defiler",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130080": {
+    "name": "연구실 조수",
+    "img": null,
+    "enname": "Laboratory Assistant",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130081": {
+    "name": "삼림지 파멸자",
+    "img": null,
+    "enname": "Woodland Defiler",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130084": {
+    "name": "악마 먹이",
+    "img": null,
+    "enname": "Demon Fodder",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130085": {
+    "name": "악마 먹이",
+    "img": null,
+    "enname": "Demon Fodder",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
   "130286": {
     "name": "향상된 고슴도치",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4b4780c9630564c8b4c10bef4e9993bb0cb9bd22d75225754c527a32bccaa26.png",
@@ -104200,6 +104520,22 @@
     "rarity": null,
     "manaCost": 1,
     "rarityId": null,
+    "cardSetId": 1453
+  },
+  "130298": {
+    "name": "발린다 스톤하스",
+    "img": null,
+    "enname": "Balinda Stonehearth",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130299": {
+    "name": "발린다 스톤하스",
+    "img": null,
+    "enname": "Balinda Stonehearth",
+    "rarityId": null,
+    "manaCost": 0,
     "cardSetId": 1453
   },
   "130320": {
@@ -104301,6 +104637,30 @@
     "rarityId": 4,
     "cardSetId": 1637
   },
+  "130698": {
+    "name": "혈석",
+    "img": null,
+    "enname": "Blood Gem",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130699": {
+    "name": "혈석",
+    "img": null,
+    "enname": "Blood Gem",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130700": {
+    "name": "혈석",
+    "img": null,
+    "enname": "Blood Gem",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
   "130790": {
     "name": "마녀의 수습생",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/772e6a3d6abf8ac5357db3727038c808326400f3d3944b5f3deb92663d907b37.png",
@@ -104355,6 +104715,614 @@
     "rarityId": 1,
     "cardSetId": 1637
   },
+  "130830": {
+    "name": "타락한 고서",
+    "img": null,
+    "enname": "Corrupted Tome",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "130833": {
+    "name": "마술사의 모자",
+    "img": null,
+    "enname": "Magician's Top Hat",
+    "rarityId": null,
+    "manaCost": 6,
+    "cardSetId": 1453
+  },
+  "130834": {
+    "name": "미지의 보주",
+    "img": null,
+    "enname": "Orb of the Unknown",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130835": {
+    "name": "렌즈 상자",
+    "img": null,
+    "enname": "Lens Case",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "130838": {
+    "name": "안전 패치",
+    "img": null,
+    "enname": "Safety Patch",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130839": {
+    "name": "만화경",
+    "img": null,
+    "enname": "Kaleidoscope",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "130853": {
+    "name": "중복의 렌즈",
+    "img": null,
+    "enname": "Duplicating Lens",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130856": {
+    "name": "황금 경품",
+    "img": null,
+    "enname": "Triple Prize",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130865": {
+    "name": "현혹된 리본",
+    "img": null,
+    "enname": "Bewitched Ribbon",
+    "rarityId": null,
+    "manaCost": 5,
+    "cardSetId": 1453
+  },
+  "130873": {
+    "name": "투수 초상화",
+    "img": null,
+    "enname": "Baller Portrait",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "130874": {
+    "name": "건방진 잿불",
+    "img": null,
+    "enname": "Upstart Embers",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130875": {
+    "name": "구리 감줄",
+    "img": null,
+    "enname": "Copper Coil",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130876": {
+    "name": "폴짝개구리 초상화",
+    "img": null,
+    "enname": "Leapfrogger Portrait",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "130877": {
+    "name": "엄마 곰 스티커",
+    "img": null,
+    "enname": "Mama Bear Sticker",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130878": {
+    "name": "구리 감줄",
+    "img": null,
+    "enname": "Copper Coil",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130879": {
+    "name": "고철 수집기 스티커",
+    "img": null,
+    "enname": "Scraper Sticker",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130880": {
+    "name": "스톰코일 스티커",
+    "img": null,
+    "enname": "Stormcoil Sticker",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "130881": {
+    "name": "펄럭이 초상화",
+    "img": null,
+    "enname": "Skipper Portrait",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "130886": {
+    "name": "오색 눈물",
+    "img": null,
+    "enname": "Chromatic Tear",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130887": {
+    "name": "시간의 끝의 알 초상화",
+    "img": null,
+    "enname": "Egg of the Endtimes Portrait",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "130888": {
+    "name": "주머니 속 회오리",
+    "img": null,
+    "enname": "Pocket Cyclone",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "130889": {
+    "name": "수차",
+    "img": null,
+    "enname": "Water Wheel",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "130890": {
+    "name": "가라앉은 닻",
+    "img": null,
+    "enname": "Sunken Anchor",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130891": {
+    "name": "선원 초상화",
+    "img": null,
+    "enname": "Privateer Portrait",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "130892": {
+    "name": "초소형 함선",
+    "img": null,
+    "enname": "Miniature Ship",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130893": {
+    "name": "보호의 반지",
+    "img": null,
+    "enname": "Protective Ring",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "130894": {
+    "name": "든든한 쇠지렛대",
+    "img": null,
+    "enname": "Trusty Crowbar",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130895": {
+    "name": "바람깃털 먼지떨이",
+    "img": null,
+    "enname": "Wildfeather Duster",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "130896": {
+    "name": "송곳니 발찌",
+    "img": null,
+    "enname": "Fang Anklet",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "130897": {
+    "name": "스테고돈 초상화",
+    "img": null,
+    "enname": "Stegodon Portrait",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "130898": {
+    "name": "거품 왕관",
+    "img": null,
+    "enname": "Bubble Crown",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130899": {
+    "name": "물결 인도자 초상화",
+    "img": null,
+    "enname": "Tide Raiser Portrait",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130900": {
+    "name": "재활용 제작사 초상화",
+    "img": null,
+    "enname": "Scrapsmith Portrait",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "130902": {
+    "name": "가시뿔 견갑",
+    "img": null,
+    "enname": "Thornspike Pauldron",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "130904": {
+    "name": "보석함",
+    "img": null,
+    "enname": "Jewelry Box",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "130906": {
+    "name": "피의 목걸이",
+    "img": null,
+    "enname": "Blood Amulet",
+    "rarityId": null,
+    "manaCost": 5,
+    "cardSetId": 1453
+  },
+  "130907": {
+    "name": "대지파괴자 초상화",
+    "img": null,
+    "enname": "Groundbreaker Portrait",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130908": {
+    "name": "뱀 지팡이",
+    "img": null,
+    "enname": "Ophidian Staff",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "130909": {
+    "name": "뱀 지팡이",
+    "img": null,
+    "enname": "Ophidian Staff",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130976": {
+    "name": "병 속의 번개",
+    "img": null,
+    "enname": "Lightning in a Bottle",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130977": {
+    "name": "오색 눈물",
+    "img": null,
+    "enname": "Chromatic Tear",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "130978": {
+    "name": "시간의 끝의 알 초상화",
+    "img": null,
+    "enname": "Egg of the Endtimes Portrait",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "130980": {
+    "name": "개오지 목걸이",
+    "img": null,
+    "enname": "Cowrie Necklace",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "130981": {
+    "name": "산호 창",
+    "img": null,
+    "enname": "Coral Spear",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "130999": {
+    "name": "운룡 뿔",
+    "img": null,
+    "enname": "Cloud Serpent Horn",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "131000": {
+    "name": "눈사태 스티커",
+    "img": null,
+    "enname": "Avalanche Sticker",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "131001": {
+    "name": "화약통",
+    "img": null,
+    "enname": "Powder Keg",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "131002": {
+    "name": "부대 호루라기",
+    "img": null,
+    "enname": "Warband Whistle",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "131003": {
+    "name": "전사 타자기",
+    "img": null,
+    "enname": "Transcribing Typewriter",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "131133": {
+    "name": "간수 스티커",
+    "img": null,
+    "enname": "Jailer Sticker",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "131135": {
+    "name": "간수 스티커",
+    "img": null,
+    "enname": "Jailer Sticker",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "131136": {
+    "name": "간수 스티커",
+    "img": null,
+    "enname": "Jailer Sticker",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "131137": {
+    "name": "소라고둥 초상화",
+    "img": null,
+    "enname": "Conch Portrait",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "131139": {
+    "name": "슉슉로봇 초상화",
+    "img": null,
+    "enname": "Beatboxer Portrait",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "131140": {
+    "name": "화음로봇 초상화",
+    "img": null,
+    "enname": "Accord-o-Tron Portrait",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "131141": {
+    "name": "전극 끌개",
+    "img": null,
+    "enname": "Electrode Attractor",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "131145": {
+    "name": "엄마 므르글턴",
+    "img": null,
+    "enname": "Mama Mrrglton",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "131146": {
+    "name": "엄마 므르글턴",
+    "img": null,
+    "enname": "Mama Mrrglton",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "131147": {
+    "name": "아빠 므르글턴",
+    "img": null,
+    "enname": "Papa Mrrglton",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "131148": {
+    "name": "아빠 므르글턴",
+    "img": null,
+    "enname": "Papa Mrrglton",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "131152": {
+    "name": "스톰윈드의 힘",
+    "img": null,
+    "enname": "Might of Stormwind",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "131252": {
+    "name": "라디오 스타 초상화",
+    "img": null,
+    "enname": "Radio Star Portrait",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "131276": {
+    "name": "저주받은 수정",
+    "img": null,
+    "enname": "Cursed Crystal",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "131277": {
+    "name": "파멸자 초상화",
+    "img": null,
+    "enname": "Defiler Portrait",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "131278": {
+    "name": "파멸자 초상화",
+    "img": null,
+    "enname": "Defiler Portrait",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "131280": {
+    "name": "악마의 융단",
+    "img": null,
+    "enname": "Demonic Tapestry",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "131282": {
+    "name": "우르줄 스티커",
+    "img": null,
+    "enname": "Ur'zul Sticker",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "131283": {
+    "name": "지옥불에 탄 장부",
+    "img": null,
+    "enname": "Felburned Ledger",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
+  },
+  "131284": {
+    "name": "불타오르는 초상화",
+    "img": null,
+    "enname": "Flaming Portrait",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "131296": {
+    "name": "어옳 스티커",
+    "img": null,
+    "enname": "Errgl Sticker",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
+  "131303": {
+    "name": "뾰로롫 스티커",
+    "img": null,
+    "enname": "Magicfin Sticker",
+    "rarityId": null,
+    "manaCost": 3,
+    "cardSetId": 1453
+  },
+  "131305": {
+    "name": "젊은 거먹눈 멀록 스티커",
+    "img": null,
+    "enname": "Young Murk-Eye Sticker",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453
+  },
+  "131306": {
+    "name": "머키 스티커",
+    "img": null,
+    "enname": "Murky Sticker",
+    "rarityId": null,
+    "manaCost": 5,
+    "cardSetId": 1453
+  },
+  "131307": {
+    "name": "연극 배우 멀록 스티커",
+    "img": null,
+    "enname": "Dramaloc Sticker",
+    "rarityId": null,
+    "manaCost": 5,
+    "cardSetId": 1453
+  },
+  "131309": {
+    "name": "만화경",
+    "img": null,
+    "enname": "Kaleidoscope",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453
+  },
+  "131325": {
+    "name": "전사 타자기",
+    "img": null,
+    "enname": "Transcribing Typewriter",
+    "rarityId": null,
+    "manaCost": 4,
+    "cardSetId": 1453
+  },
   "131326": {
     "name": "뒤틀린 흉물",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/851a839387445297ed6fad156700f901aee29ea5bf1d1f368f2397fd4e0065fc.png",
@@ -104363,5 +105331,13 @@
     "manaCost": 5,
     "rarityId": 3,
     "cardSetId": 1980
+  },
+  "131329": {
+    "name": "주머니 속 회오리",
+    "img": null,
+    "enname": "Pocket Cyclone",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453
   }
 }
