@@ -69127,7 +69127,7 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94c27424bb9f190a4cfc1093b8b1b2ec9f0bc32d2d0c771ae1a5883f8dc5c55f.png",
     "enname": "Build-An-Undead",
     "rarity": null,
-    "manaCost": 4,
+    "manaCost": 3,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "중립"
@@ -110599,7 +110599,7 @@
     "img": null,
     "enname": "Timewarped Leapfrogger",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "사냥꾼"
@@ -110747,7 +110747,7 @@
     "img": null,
     "enname": "Timewarped Overfiend",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "흑마법사"
@@ -110899,6 +110899,24 @@
     "manaCost": 0,
     "cardSetId": 1453,
     "classes": "악마사냥꾼"
+  },
+  "126631": {
+    "name": "반지를 지닌 자",
+    "img": null,
+    "enname": "Ring Bearer",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "전사, 악마사냥꾼"
+  },
+  "126632": {
+    "name": "반지를 지닌 자",
+    "img": null,
+    "enname": "Ring Bearer",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "전사, 악마사냥꾼"
   },
   "126637": {
     "name": "숙련 비행사",
@@ -111187,6 +111205,24 @@
     "rarity": null,
     "manaCost": 0,
     "rarityId": null,
+    "cardSetId": 1453,
+    "classes": "전사"
+  },
+  "126745": {
+    "name": "부화 연구원",
+    "img": null,
+    "enname": "Incubation Researcher",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "전사"
+  },
+  "126746": {
+    "name": "부화 연구원",
+    "img": null,
+    "enname": "Incubation Researcher",
+    "rarityId": null,
+    "manaCost": 0,
     "cardSetId": 1453,
     "classes": "전사"
   },
@@ -111548,6 +111584,24 @@
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "사냥꾼"
+  },
+  "126860": {
+    "name": "용 감시관",
+    "img": null,
+    "enname": "Draconic Warden",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "전사"
+  },
+  "126861": {
+    "name": "용 감시관",
+    "img": null,
+    "enname": "Draconic Warden",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "전사"
   },
   "126886": {
     "name": "나무정령",
@@ -112384,7 +112438,7 @@
     "img": null,
     "enname": "Timewarped Leapfrogger",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "사냥꾼"
@@ -112744,7 +112798,7 @@
     "img": null,
     "enname": "Timewarped Overfiend",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "흑마법사"
@@ -114014,7 +114068,7 @@
     "img": null,
     "enname": "Timewarped Snow Elemental",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "마법사"
@@ -114024,7 +114078,7 @@
     "img": null,
     "enname": "Timewarped Snow Elemental",
     "rarity": null,
-    "manaCost": 2,
+    "manaCost": 1,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "마법사"
@@ -114304,7 +114358,7 @@
     "img": null,
     "enname": "Timewarped Whirl-O-Tron",
     "rarity": null,
-    "manaCost": 1,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "성기사"
@@ -114314,7 +114368,7 @@
     "img": null,
     "enname": "Timewarped Whirl-O-Tron",
     "rarity": null,
-    "manaCost": 1,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "성기사"
@@ -115084,7 +115138,7 @@
     "img": null,
     "enname": "Timewarped Twirler",
     "rarity": null,
-    "manaCost": 1,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "드루이드"
@@ -115094,7 +115148,7 @@
     "img": null,
     "enname": "Timewarped Twirler",
     "rarity": null,
-    "manaCost": 1,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "드루이드"
@@ -115977,6 +116031,42 @@
     "cardSetId": 1453,
     "classes": "중립"
   },
+  "129745": {
+    "name": "걸신들린 트로그",
+    "img": null,
+    "enname": "Gluttonous Trogg",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "129746": {
+    "name": "걸신들린 트로그",
+    "img": null,
+    "enname": "Gluttonous Trogg",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "129749": {
+    "name": "진홍빛 생존자",
+    "img": null,
+    "enname": "Scarlet Survivor",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "전사"
+  },
+  "129750": {
+    "name": "진홍빛 생존자",
+    "img": null,
+    "enname": "Scarlet Survivor",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "전사"
+  },
   "129846": {
     "name": "점성술사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b555574c45b88f2e788fbbdffc3b6fe75bc0310471f4696fd86d698ffcd1367.png",
@@ -116073,6 +116163,24 @@
     "cardSetId": 1453,
     "classes": "흑마법사"
   },
+  "130078": {
+    "name": "공허 강아지 조련사",
+    "img": null,
+    "enname": "Void Pup Trainer",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "흑마법사"
+  },
+  "130079": {
+    "name": "잡아먹는 정복자",
+    "img": null,
+    "enname": "Consummate Conqueror",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "흑마법사"
+  },
   "130080": {
     "name": "연구실 조수",
     "img": null,
@@ -116086,6 +116194,24 @@
     "name": "삼림지 파멸자",
     "img": null,
     "enname": "Woodland Defiler",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "흑마법사"
+  },
+  "130082": {
+    "name": "공허 강아지 조련사",
+    "img": null,
+    "enname": "Void Pup Trainer",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "흑마법사"
+  },
+  "130083": {
+    "name": "잡아먹는 정복자",
+    "img": null,
+    "enname": "Consummate Conqueror",
     "rarityId": null,
     "manaCost": 0,
     "cardSetId": 1453,
@@ -116108,6 +116234,96 @@
     "manaCost": 0,
     "cardSetId": 1453,
     "classes": "흑마법사"
+  },
+  "130145": {
+    "name": "뾰족털 학대자",
+    "img": null,
+    "enname": "Bristleback Bully",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "드루이드"
+  },
+  "130146": {
+    "name": "뾰족털 학대자",
+    "img": null,
+    "enname": "Bristleback Bully",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "드루이드"
+  },
+  "130149": {
+    "name": "대지노래 주술사",
+    "img": null,
+    "enname": "Earthsong Shaman",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "드루이드"
+  },
+  "130150": {
+    "name": "대지노래 주술사",
+    "img": null,
+    "enname": "Earthsong Shaman",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "드루이드"
+  },
+  "130151": {
+    "name": "고용된 의식술사",
+    "img": null,
+    "enname": "Hired Ritualist",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "드루이드"
+  },
+  "130152": {
+    "name": "고용된 의식술사",
+    "img": null,
+    "enname": "Hired Ritualist",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "드루이드"
+  },
+  "130153": {
+    "name": "붉은엄니 가시난동꾼",
+    "img": null,
+    "enname": "Redtusk Thornraiser",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "드루이드"
+  },
+  "130154": {
+    "name": "붉은엄니 가시난동꾼",
+    "img": null,
+    "enname": "Redtusk Thornraiser",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "드루이드"
+  },
+  "130157": {
+    "name": "덩굴대변자",
+    "img": null,
+    "enname": "Vinespeaker",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "드루이드"
+  },
+  "130158": {
+    "name": "덩굴대변자",
+    "img": null,
+    "enname": "Vinespeaker",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "드루이드"
   },
   "130286": {
     "name": "향상된 고슴도치",
@@ -116256,6 +116472,24 @@
     "rarityId": 5,
     "cardSetId": 1635,
     "classes": "죽음의 기사"
+  },
+  "130662": {
+    "name": "뒤틀린 격노수호병",
+    "img": null,
+    "enname": "Twisted Wrathguard",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "흑마법사"
+  },
+  "130663": {
+    "name": "뒤틀린 격노수호병",
+    "img": null,
+    "enname": "Twisted Wrathguard",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "흑마법사"
   },
   "130677": {
     "name": "야생의 부름",
@@ -116513,6 +116747,42 @@
     "enname": "Skipper Portrait",
     "rarityId": null,
     "manaCost": 4,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "130882": {
+    "name": "단호한 수호병",
+    "img": null,
+    "enname": "Determined Defender",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "130883": {
+    "name": "단호한 수호병",
+    "img": null,
+    "enname": "Determined Defender",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "130884": {
+    "name": "대격변의 전령",
+    "img": null,
+    "enname": "Cataclysmic Harbinger",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "130885": {
+    "name": "대격변의 전령",
+    "img": null,
+    "enname": "Cataclysmic Harbinger",
+    "rarityId": null,
+    "manaCost": 0,
     "cardSetId": 1453,
     "classes": "중립"
   },
