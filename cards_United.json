@@ -1611,7 +1611,7 @@
   },
   "472": {
     "name": "병력 충원",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b4f3ed9ffa6a42acd93c0f63375b191fe391982505bb90c3af7c90dec074eb7.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8df63d6b675c4ec4521bc7b0145a77c427b007697dea425057d1c41a8a17d5d3.png",
     "enname": "Reinforce",
     "rarity": 2,
     "manaCost": 2,
@@ -21111,10 +21111,10 @@
   },
   "46998": {
     "name": "마녀의 수습생",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13d6fd5edc6e2038d59d94f9d1a85d8389abaead28713b9c162d818927d06165.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0387a7c43c4b94c5485f2eb07860081cb4a641671e5ed3ab48ec18d38fac7f59.png",
     "enname": "Witch's Apprentice",
     "rarity": 1,
-    "manaCost": 1,
+    "manaCost": 0,
     "rarityId": 1,
     "cardSetId": 1125,
     "classes": "주술사"
@@ -25661,7 +25661,7 @@
   },
   "51715": {
     "name": "짐승단 그림자가시",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4b3ecb69e876869862c65e232e42e94e6410d68f26591c5a7370d309ba2bafe.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42108e6fb699c29888ff5cf20a24e9f744972c0fc98884e317f8a4eebaf11549.png",
     "enname": "Hench-Clan Shadequill",
     "rarity": 1,
     "manaCost": 4,
@@ -35451,7 +35451,7 @@
   },
   "59553": {
     "name": "학교 뜰지기",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efa7bff82f95583388a02375aaeb4802c94d1ba142a4492a986376ebd0ae7c87.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8661cdbd3f6f2eeb8a9a4caf8b32c06374bf4e31e91e33dc70949236796a7a7d.png",
     "enname": "Groundskeeper",
     "rarity": 3,
     "manaCost": 4,
@@ -45781,7 +45781,7 @@
   },
   "65591": {
     "name": "정의의 방어",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/979ca345aa90de5d691b426c192fbcb9ed21f68dc57f6eed2ec90cee0891b64b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8796bca6c3520d2b5bcf9904fff38956e91e2b6a4cf3300ff2aeba09c62f774.png",
     "enname": "Righteous Defense",
     "rarity": 3,
     "manaCost": 3,
@@ -47471,7 +47471,7 @@
   },
   "67826": {
     "name": "무덤 파멸자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fe5b1b85ff6bec74246c33651fea4b90fa194c7a04aef8afd6baf6607c335de.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a12152f43c29f5b94142c8b7b04bac6d291a3bebb5e7e47858794c0e2628177.png",
     "enname": "Grave Defiler",
     "rarity": 1,
     "manaCost": 1,
@@ -56011,7 +56011,7 @@
   },
   "78117": {
     "name": "증거 인멸",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/948eb18847efece9e3f127b3a5dbe764f77ea174ec571ecbb0ae7c323bb518c7.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c00a3c1834f9a493ed9da938b35d08d9fde79170b32161eb2e23dfa29f695247.png",
     "enname": "Dispose of Evidence",
     "rarity": 3,
     "manaCost": 0,
@@ -56361,7 +56361,7 @@
   },
   "78320": {
     "name": "역병의 일격",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e58a385ec98860276d065a5ff3d8506a195a6705addb3b54b7fad75130b3f4bd.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea86ccb2a99b72876cba62a00df8c1c49f47997ea83051956d5d46670c043196.png",
     "enname": "Plague Strike",
     "rarity": 1,
     "manaCost": 2,
@@ -59161,7 +59161,7 @@
   },
   "84003": {
     "name": "대마법학자 롬매스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3562a308fccb35b0119ceda0edb947283e1b47e56e95a37989d3980239438442.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2df3200f0d3f5c92073c4065b6d580eb182cca0efcc2883c3e5dd84e0c0130bb.png",
     "enname": "Grand Magister Rommath",
     "rarity": 5,
     "manaCost": 9,
@@ -59521,7 +59521,7 @@
   },
   "84267": {
     "name": "영혼 탄막",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77769fd3ce2846bf74c972fddadae4c9e7d4ee319a491cb79b085704fce99671.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d8974c5638e03eda4422c1fefb38d4950319ff3d4f3002ab5f9c72fec57e4dd.png",
     "enname": "Soul Barrage",
     "rarity": 3,
     "manaCost": 4,
@@ -63291,7 +63291,7 @@
   },
   "90993": {
     "name": "절망의 진혼곡",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97ef6c8cf46af441e75859b71326f71422f7c81062930133f07461a40886b846.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05944b7e6771ca52ae3685c43bc879bfdec085198f95b5e1fa329f8dd97a44a7.png",
     "enname": "Dirge of Despair",
     "rarity": 3,
     "manaCost": 6,
@@ -66096,7 +66096,7 @@
   },
   "95917": {
     "name": "태양의 감시자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74a881c4b72693bd6036322a288c08e285efef9f5ede86ad27df8f3140cdb848.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f041b65e9d67921adc366fe87ade56e3fe334fa6a4d89c99a2b0c6529bef145e.png",
     "enname": "Watcher of the Sun",
     "rarity": 1,
     "manaCost": 2,
@@ -68006,7 +68006,7 @@
   },
   "97479": {
     "name": "에레다르 기망자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/030dd96570b8ffaa1f0afd2ec5f4fe1aa3b767ac67057fb9c3329f58dd8c6db1.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d31dd2e23857c1df2f9a20ecadac7d71766a3c5a001e156d2c8adeff4b1a083.png",
     "enname": "Eredar Deceptor",
     "rarity": 1,
     "manaCost": 4,
@@ -68864,7 +68864,7 @@
   },
   "97687": {
     "name": "증기 수호정령",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b7bf5067eb5650b4517049af50a52cfa39873b98d3b786ea0d427cae2ebdf1f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1e80ed0e821632bf8ae83cf59088749979284cf3ed728c7178ea68390481fab.png",
     "enname": "Steam Guardian",
     "rarity": 1,
     "manaCost": 3,
@@ -78072,7 +78072,7 @@
   },
   "103493": {
     "name": "서투른 공예가",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/808d75b28e46c3ab08cc4d09d0338efba8d0437128e74aca037df31dc02ba38d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ab0c2912d3d815981ad0f66e93f11e3d4919b55c7b215908746cf434b41fdb0.png",
     "enname": "Careless Crafter",
     "rarity": 1,
     "manaCost": 3,
@@ -81302,7 +81302,7 @@
   },
   "105511": {
     "name": "수치의 투구",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2612620d0bbb45eaf9213cff6d7eb7edad519ed121825c0141b12df08953f9c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b8deac4a01a96a5fb604c31af1626ea3b049493d7bf4e2ef5c105b070165f57.png",
     "enname": "Helm of Humiliation",
     "rarity": 3,
     "manaCost": 4,
@@ -82462,7 +82462,7 @@
   },
   "106379": {
     "name": "숯불",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eed15c42e57155f1386c080ccac479fcdd2cb7b4900b17d4f5e74477e46bff09.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4bc98b2af97847dbb09b6c5464414df70195a231497746b1cd59e1aa094c16d.png",
     "enname": "Char",
     "rarity": 3,
     "manaCost": 4,
@@ -87379,7 +87379,7 @@
   },
   "111076": {
     "name": "광속",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2b730cb55256a551956b591dcc5a98a4ee350a3449e1ade870381cb258f7a41.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4d9b89c2783c61d28c9be29c458d31ff2e1272f4f94a0f32820064c49a3d629.png",
     "enname": "Lightspeed",
     "rarity": 1,
     "manaCost": 2,
@@ -92629,7 +92629,7 @@
   },
   "114403": {
     "name": "불가사의한 마법봉",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5e549a46b3b8e4229af2804edc8b398aa9343de8183b80b7aed9904c35178e1.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da3be5bb21bab1ca87bf8868b59f08bc19beef440dbfb5179230dd381170c518.png",
     "enname": "Wondrous Wand",
     "rarity": null,
     "manaCost": 3,
@@ -93029,10 +93029,10 @@
   },
   "114627": {
     "name": "달샘",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4c34ef3a6b457a5a0d5f32c5de1e99abecdbda6cf180884b7741bccca6508e7.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/147d9fb0b17fc1e0fe4bef367dadad63c5c967537872deeebcdc2b0bc3c8146a.png",
     "enname": "Moonwell",
     "rarity": 4,
-    "manaCost": 7,
+    "manaCost": 6,
     "rarityId": 4,
     "cardSetId": 1946,
     "classes": "사제"
@@ -93179,7 +93179,7 @@
   },
   "114858": {
     "name": "하뮬 룬토템",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d70a44dc97fb7a0e95ca5c712dee4ee823fa44705e95f9dc9903a01d6cd6743f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb0cbca3d2260d6ba9203b265eb7f04679eb3b6cdfc19e1be30536be76623474.png",
     "enname": "Hamuul Runetotem",
     "rarity": 5,
     "manaCost": 5,
@@ -95648,7 +95648,7 @@
   },
   "116376": {
     "name": "혹한 스테고돈",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c10aaa137ac4e234ba0c7157658e701aaa350d66225bc34fd86ba32072312c6c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e1776223bfba90b8117c2fd40e7cab6c847cce8c58d3e6320462231b9492e87.png",
     "enname": "Bonechill Stegodon",
     "rarity": 1,
     "manaCost": 6,
@@ -96238,7 +96238,7 @@
   },
   "117037": {
     "name": "바다 동물 친구들",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb76eebc459bebea5cf202a12cb9a944a5e3cb681442117de6d94b3ec993cc76.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94d391922c3d458f1a638b649bb9882862789686e64bc43e90b8aaf939af8ffa.png",
     "enname": "Flipper Friends",
     "rarity": 1,
     "manaCost": 5,
@@ -96838,7 +96838,7 @@
   },
   "117423": {
     "name": "공포의 랩터",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/185a39d8a9a2f57ae549bb28a8ca7af6bfd393ebf68537ef901154d98617c830.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29b695f4415c50e3d14fd521b04f3928e1000eb3e76b64b9238780471c7d4318.png",
     "enname": "Dread Raptor",
     "rarity": 3,
     "manaCost": 4,
@@ -96888,7 +96888,7 @@
   },
   "117431": {
     "name": "납골당 지도",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a02bbf7d1f654fa990f69392ef0517c3b031cc439391986c6dbe35fc9e89bc8.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8fc87400734ee7632d3f2cb6962c6ccba178157dbc27997d6af35584e1b2fa4.png",
     "enname": "Crypt Map",
     "rarity": 1,
     "manaCost": 1,
@@ -97368,7 +97368,7 @@
   },
   "117604": {
     "name": "타르 파도",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed55ec8f63fbe986f5fb646019ffc014f4454e83c87700dd3a7bfbaa4f8f10d7.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e147e16a480003732d7cc4b6f77542c9cc251f2e35fb1fe218207cdeed4a1665.png",
     "enname": "Wave of Tar",
     "rarity": 4,
     "manaCost": 4,
@@ -97378,7 +97378,7 @@
   },
   "117606": {
     "name": "불꽃매의 비행",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54e5deac3e755a9b1e143a4785186e1c0c09a4fa0187fcd7aa305b8e103671e6.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce087c2f5c41c7a51c149c39a562ba998bb4e943effaad69a4c6ba4511bb7066.png",
     "enname": "Flight of the Firehawk",
     "rarity": 1,
     "manaCost": 3,
@@ -97428,7 +97428,7 @@
   },
   "117622": {
     "name": "극저온수면",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20847e628cef04e7b98a31a596d041aa92bc9615967e870b739858f3bc6fd4af.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca2b3f905797d06ab98b0c1662998a22a0cbd81bc074ab982f3212d51f45e7ae.png",
     "enname": "Cryosleep",
     "rarity": 3,
     "manaCost": 4,
@@ -100497,7 +100497,7 @@
   },
   "119653": {
     "name": "화신 형상",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/342ad387846c85e53ee10e25c476ec4cae3710ceae21e32b6ea7859b731c42c3.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab5b9c2823bce8386d4ac9f83a67d0f902000706bc83dc5353b910116781eeea.png",
     "enname": "Avatar Form",
     "rarity": null,
     "manaCost": 3,
@@ -100797,10 +100797,10 @@
   },
   "119778": {
     "name": "검투사의 영광",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b756c7bf60f33d2bf5e23c96e8350a904bdb373e3e2dc691b337e8e11beb6f7c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1b11cb654b01398654eb9227f656824c1967f78d059662a1c1451eeb4e4aeea.png",
     "enname": "Gladiatorial Combat",
     "rarity": 4,
-    "manaCost": 5,
+    "manaCost": 6,
     "rarityId": 4,
     "cardSetId": 1957,
     "classes": "전사"
@@ -103436,7 +103436,7 @@
   },
   "120579": {
     "name": "파괴자 데스윙",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be48161119c98c892059f9e33d95cac50025a0cd459f034f9a0c578005f889fa.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8320cf52556cc59ebbb4c715a103eed1373afd3484e6897fa712a2548f9a7a5.png",
     "enname": "Deathwing the Destroyer",
     "rarity": 5,
     "manaCost": 10,
@@ -104956,7 +104956,7 @@
   },
   "120999": {
     "name": "영원의 요새",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03dfbc4936ec480a4ce3f207298647398d8bfd21f4923ee48376255a9922b9ed.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8376adf59e361b19451c6a4722a80c480c86d5ad13f2c174b4d7b99e3dc1d79.png",
     "enname": "The Eternal Hold",
     "rarity": 5,
     "manaCost": 6,
@@ -104966,7 +104966,7 @@
   },
   "121000": {
     "name": "영원한 사신 허스크",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9262578e3ab971341625ead867b490731613e9c1a083bdfcdc6fefcd6afdc51.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa92f20615ac5f3c86c8398c46fdad1f6299f69eaadbeced1f851bee3d2fc6b7.png",
     "enname": "Husk, Eternal Reaper",
     "rarity": 5,
     "manaCost": 4,
@@ -105926,7 +105926,7 @@
   },
   "121271": {
     "name": "최종성",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20f18a26963c84fd72c0a082da01789ca70c54ba018827c322bd79162969ce90.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2b7a9be2acbcf5c2c3bab5d57d3958445541887703d57abf5934529c9b46afe.png",
     "enname": "Finality",
     "rarity": 3,
     "manaCost": 3,
@@ -106566,7 +106566,7 @@
   },
   "121760": {
     "name": "보급품 조달",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/166666adb21448eacb685ede156200873d6229da4d0eb6ebfd6586b1cefd565b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/390e08fe5a296b42a0d8c525e84b37dd058a3a05df7ed93f3cf0c01015fc5d84.png",
     "enname": "Supply Run",
     "rarity": null,
     "manaCost": 4,
@@ -107474,7 +107474,7 @@
   },
   "122454": {
     "name": "주문직공의 총명함",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b94b9af5fe0d5dab387f66cd6b204903f5d42fac9e3e7b614d948f919963cc02.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc45e103f3a4a47874c0d17664c42e0f7ab5b8dc1861d26fd64c9fd1e4024aef.png",
     "enname": "Spellweaver's Brilliance",
     "rarity": 1,
     "manaCost": 10,
@@ -107904,7 +107904,7 @@
   },
   "122637": {
     "name": "피신한 생존자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bbfac3003bf674ac21095221201b3e66e7d781c531eb6fa945555ed4bdb2783.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc4f8eec1e32bc5d166a0f3cd18d1280f44aa8218dec0bce2d21068b3a35e8bd.png",
     "enname": "Sheltered Survivor",
     "rarity": 1,
     "manaCost": 2,
@@ -107914,7 +107914,7 @@
   },
   "122639": {
     "name": "끝의 사절",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84db62e070b0de97b2b7758bc5f4ffa276e2ad67cd04af975cbf655b58a2edda.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e976d46d72acc0755f6fcc646b13185d966d07b1e56ae0153901723e03c5136d.png",
     "enname": "Envoy of the End",
     "rarity": 1,
     "manaCost": 5,
@@ -107924,7 +107924,7 @@
   },
   "122641": {
     "name": "드라케돈 투견",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ffe8602a6b16918ce7a587c8b99d756f4ccf3e7806872f882cd967e4dbf1d24.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40a2b6994daae9d78162aa98c100c53e4d8d890a22bc5a87f1520382a20c621a.png",
     "enname": "Drakeadon Mongrel",
     "rarity": 1,
     "manaCost": 7,
@@ -107934,7 +107934,7 @@
   },
   "122642": {
     "name": "폭풍술사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3449ed66e6100b0798c322c28289d6d0a7cb6dfeaa75b856f8b845cbb850d0ef.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5eb47f0295fa169853cb0ebd5a87a8fda1cdf7d3e44e7bef09180db0bc3634f3.png",
     "enname": "Stormbinder",
     "rarity": 1,
     "manaCost": 4,
@@ -107944,7 +107944,7 @@
   },
   "122643": {
     "name": "어둠혈맹 사도",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc0e42d936aa7b746ab6252414c19bb4349707f0d172135e84c11b08710d0704.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99e314bd384c3d4d7ed90f7a2fd1e43a3ede8e2a36baa5317d1f5e14e0a5ecd2.png",
     "enname": "Shadowsworn Disciple",
     "rarity": 1,
     "manaCost": 2,
@@ -108074,7 +108074,7 @@
   },
   "122712": {
     "name": "황혼의 제단",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1f80920b1d016a909417c440c1a31a263da86332e3368e25e3c54dcac97c2d7.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95a5c7902b307a0127e2a7e112c50923d3e0c9ecdacd775c8ff29a52f2999cde.png",
     "enname": "Shrine of Twilight",
     "rarity": 3,
     "manaCost": 4,
@@ -108194,7 +108194,7 @@
   },
   "122755": {
     "name": "검은 피",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b06218dac449998dd8d8106be1c30b90969477db49b3523463293943d4a7ed3e.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe543fc4b673d9f24d41c7cda62547d49771f8dbb05fdb6cb325224fbbea818a.png",
     "enname": "The Black Blood",
     "rarity": 5,
     "manaCost": 7,
@@ -108204,10 +108204,10 @@
   },
   "122756": {
     "name": "검은 피의 몸뚱이",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e6281ffc0a9ccc5c5d52f3ec8c18996be0eddfc9f910b66e33f2a132758e55c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8c90ba807516c714e54caec9fe3a7bfffe2942f0319f68ae6543a015cfbea40.png",
     "enname": "Black Blood's Body",
     "rarity": null,
-    "manaCost": 3,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1980,
     "classes": "사제"
@@ -108244,7 +108244,7 @@
   },
   "122765": {
     "name": "무장한 방혈자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf968a7fe4df3f9b6fa13dadc36bf0df0bb7572106ea6ba4e7e8cb971d2f10ed.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/639e92c2c55e45d1eb1f8b45c5f842fac61c9bbe4bc84785514bacbd735ab8bd.png",
     "enname": "Armored Bloodletter",
     "rarity": 1,
     "manaCost": 3,
@@ -108284,7 +108284,7 @@
   },
   "122772": {
     "name": "노예가 된 네스피라",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29b15b07b21c083d9ea26494e47389d2e4b147d9210f0b2af1f5ad31f3ba0da9.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81250c4ee4600108bbf38ca48d58e658dec96a749cb9a19c4827d1c9039a9626.png",
     "enname": "Nespirah, Enthralled",
     "rarity": 5,
     "manaCost": 3,
@@ -108474,7 +108474,7 @@
   },
   "122831": {
     "name": "일회용 수행사제",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e877b49665b71a54e4d116fcf1aba39917f234463c386f60003ccb648855036a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b29ecc8453ebf792049405f40cf4ebd20623db57a442d4ce8c80ef1c08cd9a07.png",
     "enname": "Disposable Acolytes",
     "rarity": 1,
     "manaCost": 2,
@@ -108484,7 +108484,7 @@
   },
   "122832": {
     "name": "울트락시온",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6902f8cbece0845e1817e2f019d2baae4cc351cd5a35e93e625dfe1ecb926af.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb75022add42470aff080982ba4acbcb5d9c7459ea1776167784bb86dd3b6de7.png",
     "enname": "Ultraxion",
     "rarity": 5,
     "manaCost": 6,
@@ -108504,7 +108504,7 @@
   },
   "122845": {
     "name": "속박 풀린 네스피라",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5e15a5c90718012d729afc3d076a81bb93e8db343180e015e37118dac83f75c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2d54191e710f1bb39b3d1e904408eaac2e01cbafab8b5d4d00a1fb2e41eb24b.png",
     "enname": "Nespirah, Unshackled",
     "rarity": null,
     "manaCost": 6,
@@ -108514,7 +108514,7 @@
   },
   "122848": {
     "name": "지옥 주입",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/859a7b6878407b798b35958d90d6d3252c9b3ece3383420f3283ecd6bd510d06.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25e17b4826b35600eee4079cdee0beba5aad90761d85297b9f6df32540d26f9e.png",
     "enname": "Fel Infusion",
     "rarity": 4,
     "manaCost": 2,
@@ -108564,7 +108564,7 @@
   },
   "122867": {
     "name": "돌발톱 격퇴자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/723f4b26ffb8ba9918ead20bc44c97c11c0b4f66e0c7788a505680caf3d4ab14.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a0f85607ca5cd61d9ee0c5bd846a00f6f12b89c77908e79d8fa8f1b8dc1daf4.png",
     "enname": "Stonetalon Striker",
     "rarity": 3,
     "manaCost": 3,
@@ -108584,7 +108584,7 @@
   },
   "122869": {
     "name": "칠흑비늘 정찰병",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ba6596bcf335837c22c26891e4d60e8bfd5ee6d72c48f59bff45f70747185d9.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78e5c89843925d01c4e89739da2375c31205cede3e837b7c69fb347bd27d8b97.png",
     "enname": "Ebonscale Scout",
     "rarity": 4,
     "manaCost": 6,
@@ -108604,7 +108604,7 @@
   },
   "122871": {
     "name": "에비시안",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b2fe80c9fbb66198b23d460d8033e93c471595b6c66a1348ab5ed004a2d7106.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ad6a2dfe672f7763be7fc88c5352b6668e6b4cef7df3ac5df96cec3d30931e3.png",
     "enname": "Ebyssian",
     "rarity": 5,
     "manaCost": 7,
@@ -108794,7 +108794,7 @@
   },
   "122932": {
     "name": "실바나스의 승리",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2faf2010d4e118aad86fb2e4a0f16f0c7aabd2d37a551cc14d7aef5d2a62342f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d13369aad049d274493813cca1aca391163e4b22fbd374e18bee39380e7d43c3.png",
     "enname": "Sylvanas's Triumph",
     "rarity": 1,
     "manaCost": 2,
@@ -108834,7 +108834,7 @@
   },
   "122947": {
     "name": "힘의 의식",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2afd1b108dbb468f948d928569ac4072d2773c612193bfe90fe6a1b7cf4382d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99c333574e97810578af75eceebf3a7b197d2109d3aed1c7c92b0ef09fc409df.png",
     "enname": "Ritual of Power",
     "rarity": 3,
     "manaCost": 2,
@@ -108864,7 +108864,7 @@
   },
   "122953": {
     "name": "하늘담 파수꾼",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19942591ec909629e735fb862476d685f7b0b66634773cf51a864e39b9c3496f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a44cd0d47a59909943e4d015604e02765915a3ae9b08576212e9e70f98fcf10.png",
     "enname": "Skywall Sentinel",
     "rarity": 3,
     "manaCost": 2,
@@ -108884,7 +108884,7 @@
   },
   "122961": {
     "name": "톨비르 조각사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c23a29032ada786a2fd29898f27c99e2a8336d7b9a5b4fb4844f2f79a04fad97.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed05c896179ce84ef9f8042030c5ba01b5a84455f6b2c53b8278076fb1dd11f9.png",
     "enname": "Tol'vir Carver",
     "rarity": 3,
     "manaCost": 3,
@@ -108914,7 +108914,7 @@
   },
   "122966": {
     "name": "수정가시 아기 곰",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f4623f679748fbc9a37f453af53f54d076efea5bf08c693ef55c86fef68a5cd.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc6e98b0d1e88d1c872fcfeb1be048d0e764d1fadd11cd4b31ce4459ae3a162d.png",
     "enname": "Crystalspine Cub",
     "rarity": 1,
     "manaCost": 1,
@@ -108924,7 +108924,7 @@
   },
   "122967": {
     "name": "악령숲 나무정령",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c4ed0586d2c3bea6fc3ff1b9d35f72cbabf17e9ce33f9f5a86777487ab01305.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ffb4ca1d3d1ae37197b05998926ebd2ee8df053b518640a6087d628eb3c576b.png",
     "enname": "Felwood Treant",
     "rarity": 3,
     "manaCost": 2,
@@ -108964,30 +108964,30 @@
   },
   "122971": {
     "name": "원시림의 소환진",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc655f5f172d1ac6f5caa206a1cf4504e97c0c3947ce948a37470f07ba4e65ef.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb46045372c7b4b71dab7303eaee7c31e8667b2ad5d807f83e353c3ff15f4446.png",
     "enname": "Wildwood Circle",
     "rarity": 3,
-    "manaCost": 3,
+    "manaCost": 4,
     "rarityId": 3,
     "cardSetId": 1980,
     "classes": "드루이드"
   },
   "122972": {
     "name": "원시림의 소환진",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7e76d2c99d650866020526eee1c9433fa11d9246234dd2bdc239bcef56c5495.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c84f3e6fd81b82e451344f7f0bbbeeaef457558cf8cf8fabded7a6733d1a892a.png",
     "enname": "Wildwood Circle",
     "rarity": null,
-    "manaCost": 3,
+    "manaCost": 4,
     "rarityId": null,
     "cardSetId": 1980,
     "classes": "드루이드"
   },
   "122973": {
     "name": "원시림의 소환진",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05e4fe3701107cf107d1d8a016e91869388e69cafaa0bd62571db76f2e3848ba.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/841f948e74cf1440d6ab2039fb24f3bcf85d7591a958b83da663d7aa924f4bed.png",
     "enname": "Wildwood Circle",
     "rarity": null,
-    "manaCost": 3,
+    "manaCost": 4,
     "rarityId": null,
     "cardSetId": 1980,
     "classes": "드루이드"
@@ -109084,7 +109084,7 @@
   },
   "123006": {
     "name": "모르초크",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b110a85e6ac780fc38af2a4c38947bf67904537726215b09ba62cbc6c99002c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30bc7d0fc16f6c3d64c60a8c92162157d361b315aa9d3cddd1355d8f59dc83c8.png",
     "enname": "Morchok",
     "rarity": 5,
     "manaCost": 10,
@@ -109104,7 +109104,7 @@
   },
   "123055": {
     "name": "대격변의 전쟁 도끼",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26d63cdc68e0ef90dbba8cd66033cf5e67a7c50615883631b407c7f45e6859ce.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e15c9addf89770dd391003628b7c89d388ba21da0bb5bcd52a27e6a8f4185e88.png",
     "enname": "Cataclysmic War Axe",
     "rarity": 1,
     "manaCost": 3,
@@ -109114,7 +109114,7 @@
   },
   "123056": {
     "name": "대학살",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6925cbcc829366cb77ac79b670d2d0ef341c44d79f477473625eebf28d11be49.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74dd6f76e5313b8b6a5a3112d2fc1b45aab5198641ecb2b6c943d122707666aa.png",
     "enname": "Decimation",
     "rarity": 4,
     "manaCost": 6,
@@ -109194,7 +109194,7 @@
   },
   "123106": {
     "name": "고취의 마울",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff503cad262573256e807e037bd02e7597f268aaebf501d6154b1f07a4191d39.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81ef0caef1000cc19bf10af2bd5806fa87a2790818f9e06b0165c2c075287c2e.png",
     "enname": "Inspiring Maul",
     "rarity": 1,
     "manaCost": 2,
@@ -109264,7 +109264,7 @@
   },
   "123119": {
     "name": "뒤틀린 흉물",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae8cf9fb00a3338ed7ca7d69ba463f007e7fa71fa91c071d66bcfee9377b8625.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99ed363cbe9e2e89c9b1d39c240fc97d5202f19228cc41ef1825cdebd4486419.png",
     "enname": "Twisted Monstrosity",
     "rarity": 3,
     "manaCost": 5,
@@ -109284,7 +109284,7 @@
   },
   "123123": {
     "name": "청동 구원자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d6156a804e8811359fa9337e8fdee614e3fd8b6904595509f87d5627a392d1d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c034b1d19c5782d70f63533458632ace1eabc7979671164744199baeba2a971a.png",
     "enname": "Bronze Redeemer",
     "rarity": 4,
     "manaCost": 5,
@@ -109414,7 +109414,7 @@
   },
   "123164": {
     "name": "횃불",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84e1f99c9e0f7a6a9257685fd399589fc7f331b82c7bcaaf64e0bc8b060b62e2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fae485e06d8cb026dad200fe088dd34445fb38426ab4340c7584b18d0c732cb8.png",
     "enname": "Torch",
     "rarity": 3,
     "manaCost": 1,
@@ -109474,7 +109474,7 @@
   },
   "123382": {
     "name": "로고쉬의 최후의 저항",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90e12f0afaef6d378403a8bfd3ed21805d0e4c173b220a62dc7e69aacf210091.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7b33cc78c1017a8e8ab8cf3de0c5aff62e3bbc086033ec312d69cf4c60b5d58.png",
     "enname": "Lo'Gosh's Last Stand",
     "rarity": 1,
     "manaCost": 5,
@@ -109514,7 +109514,7 @@
   },
   "123396": {
     "name": "저주받은 왕 겐",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a7b013c6d079e7f90c41f46ff1460c979daee7c3ddfd476785cf5dff22c874f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d1ccd3aef80c657304a7617cc7a839f7132856821c8b14ad2ff4ecf3d1534d6.png",
     "enname": "Genn, Cursed King",
     "rarity": 5,
     "manaCost": 4,
@@ -109614,7 +109614,7 @@
   },
   "123546": {
     "name": "실험적인 되살리기",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42fe42ab3233d69c69d3ab209534e22bfffb2f74c490f746610fbfa037799545.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fae40118c77dc6d8be85e038eb125aaa5e059221d12e828394bbc660fdf3358.png",
     "enname": "Experimental Animation",
     "rarity": 1,
     "manaCost": 6,
@@ -109624,7 +109624,7 @@
   },
   "123547": {
     "name": "섬뜩한 악몽",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2328ec97c365e9722d67c1c1a369dad8c9d2ff28513b96e93f580ce170a9d1b5.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79ede40cdc747475986ce77ea12ba5f02930c3a841743ed20c2954d7e7089711.png",
     "enname": "Gruesome Nightmare",
     "rarity": 4,
     "manaCost": 3,
@@ -109634,7 +109634,7 @@
   },
   "123549": {
     "name": "광적인 추종자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bd2b5297ede72d100c54e96fe181e5456f76cc59e16dc3c0f3e46ce0e6b5737.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/261c696b9e91a09988bfcc02b88ac1072667779688faa0e494c61e7420d8018c.png",
     "enname": "Maniacal Follower",
     "rarity": 4,
     "manaCost": 3,
@@ -109644,7 +109644,7 @@
   },
   "123552": {
     "name": "이글거리는 약탈자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a22dde273623232dbeec5f2833319b71cc1488e6660d60e1d8091c23b64ef7d6.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f07cae65ecc34c5deb5e2ccdcbc887818e6cf849a09b5ecf2c0d04718612d73b.png",
     "enname": "Scorching Ravager",
     "rarity": 3,
     "manaCost": 4,
@@ -109714,7 +109714,7 @@
   },
   "123600": {
     "name": "집착하는 기술병",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e76687382dd3328fe0e4d3066a16cf90aad88c1ab0596522284a3d84c20a03d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76973b73f280a5286b21c4de19610ee3e297dbbdca950c66af5df06672c95ba7.png",
     "enname": "Obsessive Technician",
     "rarity": 1,
     "manaCost": 4,
@@ -109734,7 +109734,7 @@
   },
   "123605": {
     "name": "황혼의 의례",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72afca0b860d3efcdc4d2d9b30ac832ff03840c83089be7fa433098561e5015d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6dfa3c6d8eb8d6aa45005e5a5ebb301638f413654f20ed21188893e6afadd717.png",
     "enname": "Rite of Twilight",
     "rarity": 3,
     "manaCost": 2,
@@ -109874,7 +109874,7 @@
   },
   "123782": {
     "name": "파괴 공작!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6109ce09dddb301176623c0f7771369c3bf89f3223ba62a7b3569ab59f6782ed.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29b93eb0b64ffcf90d85d451bec6dce434e93b376be5a89a451a0e3bc002c10b.png",
     "enname": "Sabotage!",
     "rarity": null,
     "manaCost": 2,
@@ -109924,7 +109924,7 @@
   },
   "124108": {
     "name": "아즈샤라의 촉수",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa0720748160d14864e62dbe40fce6ce8bd4b28fd664266c7536b8da1f95ae72.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/796ea61418191dc6b1d21561273a4732d56b4a028dc4fd5019f137068b139946.png",
     "enname": "Azshara's Tentacle",
     "rarity": null,
     "manaCost": 1,
@@ -109944,7 +109944,7 @@
   },
   "124113": {
     "name": "라그나로스의 손길",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/765c942922a2c9cee4d0bb24e99c220e3db913627e223ef27b1e3fd464e9dc7f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b946c38fd2b5baee3a2a753ba5af2a646598e8608000387354cd9b71e970570.png",
     "enname": "Hand of Ragnaros",
     "rarity": null,
     "manaCost": 1,
@@ -109974,7 +109974,7 @@
   },
   "124139": {
     "name": "오닉시아의 날개",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ac0eaa1d533e43819fc61c247ac8c4984f8e147fbbac4b72defe3ac0afb11b0.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c99175f6f116375176381fa18142dbb74163fde7247b73c85cd6048ec669aef6.png",
     "enname": "Onyxia's Wing",
     "rarity": null,
     "manaCost": 1,
@@ -109984,7 +109984,7 @@
   },
   "125412": {
     "name": "라그나로스의 손길",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4ba3d17a7d57bd0cd74358b5013e37b5fee87713597346a6e00b3ca0633ba76.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5925a24bafec60dda52979fbca5b81c6487245bd72ce5edd8701e7702030d73a.png",
     "enname": "Hand of Ragnaros",
     "rarity": null,
     "manaCost": 1,
@@ -109994,7 +109994,7 @@
   },
   "125413": {
     "name": "아즈샤라의 촉수",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/609f394131ae7e66a1072c7752b6761f9542aead9e02ad8a4e3f89ce4fb38ef6.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81336d0bf5e29622077126a447c8af02e9b85fdd95cdb22014832fce33985a6d.png",
     "enname": "Azshara's Tentacle",
     "rarity": null,
     "manaCost": 1,
@@ -110004,7 +110004,7 @@
   },
   "125416": {
     "name": "오닉시아의 날개",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c05c3846e4f17b1f7434896bd94a7744929702ea6c716bb4ac517ba4715251d7.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80df908ce117450c941ab4adcf5eb372c8356f7b86873d44ea616eb3c0b42953.png",
     "enname": "Onyxia's Wing",
     "rarity": null,
     "manaCost": 1,
@@ -110024,7 +110024,7 @@
   },
   "125433": {
     "name": "초의 팔",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18ffd83938e457d50f4ed87bb1fb3291da839641a9d38f8409091707ca4f6fd0.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f014a829437e098e40e42bd5afdff769fc4cb4a2f5509540bbbeb383e61040bd.png",
     "enname": "Cho's Arm",
     "rarity": null,
     "manaCost": 1,
@@ -110034,7 +110034,7 @@
   },
   "125435": {
     "name": "갈의 팔",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf63872400b256a0a02d776a5f83c0ea173f824c1b4b21164346b10e811729fa.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf347ff8f932a25a9c743c857015d6fdc86bb6d1c09e82844a62981e014d1f45.png",
     "enname": "Gall's Arm",
     "rarity": null,
     "manaCost": 1,
@@ -110054,7 +110054,7 @@
   },
   "125443": {
     "name": "알아키르의 충전된 손",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9324243b79e0980fffae2b148d9d3d6b03eabb0f48ca57fa564508107861947a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59b7553aeb355724d1cacda2ba2f91f8748aca92839ab892c18ee86533ea23a9.png",
     "enname": "Charged Hand of Al'Akir",
     "rarity": null,
     "manaCost": 1,
@@ -110074,7 +110074,7 @@
   },
   "125451": {
     "name": "시네스트라의 날개",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e973ff8428e71e57ea427a5d475259976f4ab8d00b44f84d5d7df768b1712f2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4228fe30bf53763ba2ff37bbf1185eb8ff74ea363f3e786d9c6a4efeba7cac92.png",
     "enname": "Sinestra's Wing",
     "rarity": null,
     "manaCost": 1,
@@ -110084,7 +110084,7 @@
   },
   "125466": {
     "name": "무자비",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/354ebea333568339c5ab9ec64f4cfd6f95eac85814edab27343aeb77017dcab9.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/039f6552aed7b4c1ff02eedca5416dd1fc773b14455b4c8efa0c9c8ca31648d9.png",
     "enname": "Ruthless",
     "rarity": null,
     "manaCost": 2,
@@ -110094,7 +110094,7 @@
   },
   "125467": {
     "name": "세계파괴자 데스윙",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d322f343582d2bf5a731a9e179ff05625df571d9c26fbe54135370e09757d2cf.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ae422d78fa8f9281cfc539c9c3d112d489314526476cc33120c08007d51c19c.png",
     "enname": "Deathwing, Worldbreaker",
     "rarity": 5,
     "manaCost": 10,
@@ -110104,7 +110104,7 @@
   },
   "125503": {
     "name": "시네스트라의 날개",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3826f36a5b13e04d28d0f22593a3a1d5d5d30a5d94d3a095054fe21d0e59a7be.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0ce2145a4e26683cd07b771e29e26a9ba943005db98a4cdc26b064b338d8dc3.png",
     "enname": "Sinestra's Wing",
     "rarity": null,
     "manaCost": 1,
@@ -111963,7 +111963,7 @@
   },
   "126983": {
     "name": "오닉시아의 병사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ab996e4934981ad582821402db32c05a82c81f3554d19daefe9feee34f54f4e.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbe68af26393b08ce1268a16e9597774617ce265973c0d97b56c26e2ffeb0651.png",
     "enname": "Soldier of Onyxia",
     "rarity": null,
     "manaCost": 1,
@@ -111973,7 +111973,7 @@
   },
   "126995": {
     "name": "아즈샤라의 병사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28d5dfb28d9ca49a80364bbac671f4008eff62cc861133b0e48e679e226b5fa5.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65369d5a972bc733c44ec30dfeabe3eb1ec7d98b3061f7a3e76672a324cb3c68.png",
     "enname": "Soldier of Azshara",
     "rarity": null,
     "manaCost": 1,
@@ -111983,7 +111983,7 @@
   },
   "127003": {
     "name": "시네스트라의 병사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93d88bcbbc759e30e00e1a27eb79e89fc0adf171c44d1e40dc71c99cbb0dad81.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/217be24eb111252a2b9a9e3230c3af5e9fd07353fc603625eb6e045b5a2a5472.png",
     "enname": "Soldier of Sinestra",
     "rarity": null,
     "manaCost": 1,
@@ -111993,7 +111993,7 @@
   },
   "127045": {
     "name": "초갈의 병사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b7ee7c2ea9eb985d326dd5d477a7a7ef5ae667b2859aa444935dd546f4268c1.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f84d2371720c5da0c1c3f4892e37735bb8e024862566176533492fbfca122fb.png",
     "enname": "Soldier of Cho'gall",
     "rarity": null,
     "manaCost": 1,
@@ -112003,7 +112003,7 @@
   },
   "127053": {
     "name": "알아키르의 충전된 손",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee7782303bd79fd10eac42e21376d47bc6dcad505842aa7e10443bed276cb794.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90e87c62a72b067264e1c71ee097295f722a090713dad97d919ba2d96855a22d.png",
     "enname": "Charged Hand of Al'Akir",
     "rarity": null,
     "manaCost": 1,
@@ -112013,7 +112013,7 @@
   },
   "127071": {
     "name": "알아키르의 병사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/407701b64a9fbc43bbfb4b642e42955c4c0fda18d964b3f86d285e2fc855bf06.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16d763cfe56a237ef9620895ea6430eaeaf7840d625576f8637a0c30aa51bda8.png",
     "enname": "Soldier of Al'Akir",
     "rarity": null,
     "manaCost": 1,
@@ -112023,7 +112023,7 @@
   },
   "127082": {
     "name": "라그나로스의 병사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1686b0d0c8ca9255b067ac09c5fad6a81aee58cd481760bec5128d9be9007172.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/415c7c08de80b9f8ec6120fd3b7c04b5252376a039b700f96d8c5f7d45584349.png",
     "enname": "Soldier of Ragnaros",
     "rarity": null,
     "manaCost": 1,
@@ -115073,20 +115073,20 @@
   },
   "128030": {
     "name": "검은 피의 몸뚱이",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3af4ff776ae0cf5298ddf7a9f8e50cc291029a863c47e4dc6a1bbff18a11900.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59baf99669a88ed359cb69dcc96811563a142cb042eefd7fcdb6608d2777a20f.png",
     "enname": "Black Blood's Body",
     "rarity": null,
-    "manaCost": 3,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1980,
     "classes": "사제"
   },
   "128031": {
     "name": "검은 피의 몸뚱이",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3e23ad05a8643ada9083a763b78b9b2fa632d4579836d3c742eee9afe463da2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0448e62b947d447af37c3879452d32e4f5ae7a18e5ccc13c5de9c8ba6112766f.png",
     "enname": "Black Blood's Body",
     "rarity": null,
-    "manaCost": 3,
+    "manaCost": 2,
     "rarityId": null,
     "cardSetId": 1980,
     "classes": "사제"
@@ -115143,7 +115143,7 @@
   },
   "128058": {
     "name": "대지의 비룡",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/704430ea0c474a5a2788f707fc1d8eacc8b2c5d6daec02120e424705caa4639d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a277cbc59a478519023f7e520483cedda34ec5f04fb6d0c33d278c706daf728.png",
     "enname": "Earthen Drake",
     "rarity": 3,
     "manaCost": 5,
@@ -117742,7 +117742,7 @@
   },
   "131326": {
     "name": "뒤틀린 흉물",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/851a839387445297ed6fad156700f901aee29ea5bf1d1f368f2397fd4e0065fc.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58794e7ff0e15522e812dc7db86c7971185c6d3fcf76159a4f2d29735a87d92f.png",
     "enname": "Twisted Monstrosity",
     "rarity": 3,
     "manaCost": 5,
