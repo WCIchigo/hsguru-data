@@ -107104,6 +107104,24 @@
     "cardSetId": 1453,
     "classes": "중립"
   },
+  "122229": {
+    "name": "먼지해골 섬멸자",
+    "img": null,
+    "enname": "Dustbone Devastator",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "죽음의 기사"
+  },
+  "122230": {
+    "name": "먼지해골 섬멸자",
+    "img": null,
+    "enname": "Dustbone Devastator",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "죽음의 기사"
+  },
   "122262": {
     "name": "현재의 합일점",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f290b1b138604af8e1287916a0645c81d1ec092cb1867ef8d81ac8e4a6bd80a9.png",
@@ -110494,6 +110512,24 @@
     "cardSetId": 1453,
     "classes": "중립"
   },
+  "126451": {
+    "name": "역병질주자",
+    "img": null,
+    "enname": "Plaguerunner",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "죽음의 기사"
+  },
+  "126452": {
+    "name": "역병질주자",
+    "img": null,
+    "enname": "Plaguerunner",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "죽음의 기사"
+  },
   "126460": {
     "name": "선사시대 땜장이",
     "img": null,
@@ -110918,6 +110954,24 @@
     "cardSetId": 1453,
     "classes": "전사, 악마사냥꾼"
   },
+  "126633": {
+    "name": "혼돈의 소용돌이 출현자",
+    "img": null,
+    "enname": "Maelstrom Emergent",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "악마사냥꾼"
+  },
+  "126634": {
+    "name": "혼돈의 소용돌이 출현자",
+    "img": null,
+    "enname": "Maelstrom Emergent",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "악마사냥꾼"
+  },
   "126637": {
     "name": "숙련 비행사",
     "img": null,
@@ -111336,6 +111390,24 @@
     "cardSetId": 1453,
     "classes": "도적"
   },
+  "126802": {
+    "name": "나이 든 영혼",
+    "img": null,
+    "enname": "Old Soul",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "죽음의 기사"
+  },
+  "126803": {
+    "name": "나이 든 영혼",
+    "img": null,
+    "enname": "Old Soul",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "죽음의 기사"
+  },
   "126808": {
     "name": "부지런한 갑판원",
     "img": null,
@@ -111702,6 +111774,42 @@
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "중립"
+  },
+  "126916": {
+    "name": "해저 모집관",
+    "img": null,
+    "enname": "Seafloor Recruiter",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "악마사냥꾼"
+  },
+  "126917": {
+    "name": "해저 모집관",
+    "img": null,
+    "enname": "Seafloor Recruiter",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "악마사냥꾼"
+  },
+  "126918": {
+    "name": "무자비한 여왕 근위병",
+    "img": null,
+    "enname": "Ruthless Queensguard",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "악마사냥꾼"
+  },
+  "126919": {
+    "name": "무자비한 여왕 근위병",
+    "img": null,
+    "enname": "Ruthless Queensguard",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "악마사냥꾼"
   },
   "126924": {
     "name": "불타오르는 집행자",
@@ -116355,6 +116463,42 @@
     "cardSetId": 1453,
     "classes": "주술사"
   },
+  "130294": {
+    "name": "지맥 포장사",
+    "img": null,
+    "enname": "Leyline Surfacer",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "마법사"
+  },
+  "130295": {
+    "name": "지맥 포장사",
+    "img": null,
+    "enname": "Leyline Surfacer",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "마법사"
+  },
+  "130296": {
+    "name": "불의 땅 도망자",
+    "img": null,
+    "enname": "Firelands Fugitive",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "마법사"
+  },
+  "130297": {
+    "name": "불의 땅 도망자",
+    "img": null,
+    "enname": "Firelands Fugitive",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "마법사"
+  },
   "130298": {
     "name": "발린다 스톤하스",
     "img": null,
@@ -116370,6 +116514,33 @@
     "enname": "Balinda Stonehearth",
     "rarityId": null,
     "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "130310": {
+    "name": "거대한 불길",
+    "img": null,
+    "enname": "Conflagration",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "130311": {
+    "name": "비전 흡수",
+    "img": null,
+    "enname": "Arcane Absorption",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "130312": {
+    "name": "이오나의 은총",
+    "img": null,
+    "enname": "Eonar's Favor",
+    "rarityId": null,
+    "manaCost": 2,
     "cardSetId": 1453,
     "classes": "중립"
   },
@@ -116402,6 +116573,24 @@
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "중립"
+  },
+  "130552": {
+    "name": "해골 사격수",
+    "img": null,
+    "enname": "Skeletal Strafer",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "죽음의 기사"
+  },
+  "130553": {
+    "name": "해골 사격수",
+    "img": null,
+    "enname": "Skeletal Strafer",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "죽음의 기사"
   },
   "130580": {
     "name": "노련한 전쟁의무관",
@@ -116473,6 +116662,24 @@
     "cardSetId": 1635,
     "classes": "죽음의 기사"
   },
+  "130658": {
+    "name": "심연의 투사",
+    "img": null,
+    "enname": "Abyssal Bruiser",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "악마사냥꾼"
+  },
+  "130659": {
+    "name": "심연의 투사",
+    "img": null,
+    "enname": "Abyssal Bruiser",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "악마사냥꾼"
+  },
   "130662": {
     "name": "뒤틀린 격노수호병",
     "img": null,
@@ -116528,6 +116735,105 @@
     "cardSetId": 1453,
     "classes": "중립"
   },
+  "130701": {
+    "name": "함선 탈주자",
+    "img": null,
+    "enname": "Ship Jumper",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "도적"
+  },
+  "130702": {
+    "name": "함선 탈주자",
+    "img": null,
+    "enname": "Ship Jumper",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "도적"
+  },
+  "130703": {
+    "name": "뻔뻔한 해적단원",
+    "img": null,
+    "enname": "Brazen Buccaneer",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "도적"
+  },
+  "130704": {
+    "name": "뻔뻔한 해적단원",
+    "img": null,
+    "enname": "Brazen Buccaneer",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "도적"
+  },
+  "130705": {
+    "name": "방랑하는 선원",
+    "img": null,
+    "enname": "Roving Sailor",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "도적"
+  },
+  "130706": {
+    "name": "방랑하는 선원",
+    "img": null,
+    "enname": "Roving Sailor",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "도적"
+  },
+  "130709": {
+    "name": "와이번 척후병",
+    "img": null,
+    "enname": "Wyvern Outrider",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "사냥꾼"
+  },
+  "130710": {
+    "name": "와이번 척후병",
+    "img": null,
+    "enname": "Wyvern Outrider",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "사냥꾼"
+  },
+  "130711": {
+    "name": "도사린 거대괴수",
+    "img": null,
+    "enname": "Lurking Leviathan",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "사냥꾼"
+  },
+  "130712": {
+    "name": "도사린 거대괴수",
+    "img": null,
+    "enname": "Lurking Leviathan",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "사냥꾼"
+  },
+  "130713": {
+    "name": "여왕의 명령",
+    "img": null,
+    "enname": "Queen's Command",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453,
+    "classes": null
+  },
   "130790": {
     "name": "마녀의 수습생",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/772e6a3d6abf8ac5357db3727038c808326400f3d3944b5f3deb92663d907b37.png",
@@ -116547,6 +116853,60 @@
     "rarityId": 3,
     "cardSetId": 1637,
     "classes": "중립"
+  },
+  "130794": {
+    "name": "경계하는 경보자",
+    "img": null,
+    "enname": "Alert Alarmist",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "성기사"
+  },
+  "130795": {
+    "name": "경계하는 경보자",
+    "img": null,
+    "enname": "Alert Alarmist",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "성기사"
+  },
+  "130796": {
+    "name": "마력 깃든 파수꾼",
+    "img": null,
+    "enname": "Enchanted Sentinel",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "성기사"
+  },
+  "130797": {
+    "name": "마력 깃든 파수꾼",
+    "img": null,
+    "enname": "Enchanted Sentinel",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "성기사"
+  },
+  "130798": {
+    "name": "무너지는 하늘 골렘",
+    "img": null,
+    "enname": "Falling Sky Golem",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "성기사"
+  },
+  "130799": {
+    "name": "무너지는 하늘 골렘",
+    "img": null,
+    "enname": "Falling Sky Golem",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "성기사"
   },
   "130820": {
     "name": "톱니망치",
@@ -117020,6 +117380,24 @@
     "cardSetId": 1453,
     "classes": "중립"
   },
+  "130996": {
+    "name": "하수도 군주",
+    "img": null,
+    "enname": "Sewer Lord",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "사냥꾼"
+  },
+  "130997": {
+    "name": "하수도 군주",
+    "img": null,
+    "enname": "Sewer Lord",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "사냥꾼"
+  },
   "130999": {
     "name": "운룡 뿔",
     "img": null,
@@ -117164,10 +117542,64 @@
     "cardSetId": 1453,
     "classes": "주술사"
   },
+  "131149": {
+    "name": "사촌 어옳",
+    "img": null,
+    "enname": "Cousin Errgl",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "주술사"
+  },
+  "131150": {
+    "name": "사촌 어옳",
+    "img": null,
+    "enname": "Cousin Errgl",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "주술사"
+  },
   "131152": {
     "name": "스톰윈드의 힘",
     "img": null,
     "enname": "Might of Stormwind",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "131153": {
+    "name": "연잇기",
+    "img": null,
+    "enname": "Back to Back",
+    "rarityId": null,
+    "manaCost": 1,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
+  "131216": {
+    "name": "깊은물 족장",
+    "img": null,
+    "enname": "Deepwater Chieftain",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "주술사"
+  },
+  "131217": {
+    "name": "깊은물 족장",
+    "img": null,
+    "enname": "Deepwater Chieftain",
+    "rarityId": null,
+    "manaCost": 0,
+    "cardSetId": 1453,
+    "classes": "주술사"
+  },
+  "131218": {
+    "name": "깊은물 부족",
+    "img": null,
+    "enname": "Deepwater Clan",
     "rarityId": null,
     "manaCost": 2,
     "cardSetId": 1453,
