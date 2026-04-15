@@ -3602,7 +3602,7 @@
     "rarityId": 3,
     "cardSetId": 1635,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2955508fdfad1124bfb5f33ad4597e132a7fe212a59d58ef64aa55b329245b68.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/LEG_RLK_079.jpg",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_079.jpg",
     "isStandard": false
   },
   {
@@ -48858,7 +48858,7 @@
     "rarityId": 4,
     "cardSetId": 1635,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fb5b8c649947e5ae6e0268648429ff2b84792ca744b0749046b4740e25d4f1d.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/LEG_TTN_908.jpg",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_908.jpg",
     "isStandard": false
   },
   {
@@ -78043,7 +78043,7 @@
     "rarityId": 4,
     "cardSetId": 1635,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bda2a3abc735f6037d811dfca3c832c1b266e8aa0fad0859dbcdb6cae2078d68.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/LEG_RLK_744.jpg",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_744.jpg",
     "isStandard": false
   },
   {
