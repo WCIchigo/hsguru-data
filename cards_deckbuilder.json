@@ -12091,19 +12091,6 @@
     "isStandard": false
   },
   {
-    "id": 92292,
-    "slug": "92292-icicle",
-    "name": "고드름",
-    "manaCost": 2,
-    "classId": 4,
-    "classIds": null,
-    "rarityId": 4,
-    "cardSetId": 3,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b49bf9763d201602f713f72a547d0393f7cdcd29a0fc1a8860286ba852b35e6.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/Story_11_IciclePuzzle.jpg",
-    "isStandard": false
-  },
-  {
     "id": 52255,
     "slug": "52255-icicle",
     "name": "고드름",
