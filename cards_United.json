@@ -117750,6 +117750,16 @@
     "cardSetId": 1980,
     "classes": "중립"
   },
+  "": {
+    "name": "랩터 전령",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/CORE_EDR_004_2026.png",
+    "enname": "Raptor Herald",
+    "rarity": 4,
+    "manaCost": 3,
+    "rarityId": 4,
+    "cardSetId": 1637,
+    "classes": "중립"
+  },
   "131329": {
     "name": "주머니 속 회오리",
     "img": null,
