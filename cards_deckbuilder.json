@@ -5141,7 +5141,7 @@
     "classIds": null,
     "rarityId": 3,
     "cardSetId": 1466,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5217676e0f1c654b3fd806d812c8eb33ea5abdcb780b9ba5982a3776b0f40aa.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/YOP_020.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce721cfc7e0b5536ac55dc9290cdca25888e631ed185bc42d0ba99f1a2a9c66d.png",
     "isStandard": false
   },
@@ -9559,7 +9559,7 @@
     "classIds": null,
     "rarityId": 3,
     "cardSetId": 1905,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10939ecff0c1fb21dc356a8cde3950be801035d7b18196c516256c75c50e7672.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/VAC_916.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c62ea18a4d70a0cc3975cbb64709611cd3eee258a481502106879d3c3e1b219.png",
     "isStandard": false
   },
@@ -13407,7 +13407,7 @@
     "classIds": null,
     "rarityId": 5,
     "cardSetId": 3,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d973963508769ebf017c950ca3604375689c9f5a6d35309759d4ea85ec8316f3.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/EX1_557.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2060cae6f9e53122076891d7ad8d6868bce641d1c9ef11df9c93933d97ad7f0f.png",
     "isStandard": false
   },
@@ -14668,7 +14668,7 @@
     "classIds": null,
     "rarityId": 1,
     "cardSetId": 1897,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af22f638630154f49c08eb4a86c98819f9096ee93588e9038df824a3991183c1.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/TOY_850.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b02a1d46d823320965801afa0d7892f243ef388cf225c54165170a2b5fcf057.png",
     "isStandard": false
   },
@@ -34345,7 +34345,7 @@
     "classIds": null,
     "rarityId": 3,
     "cardSetId": 1897,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ef5c6d6852646de3fd6ad4f69621061d97a9a50ce0da66acec4def7b0b3079f.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/TOY_512.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a28f64f0f49f51a49fcb5eebdaa264307f1a6256f1c835307719994caa42de2c.png",
     "isStandard": false
   },
@@ -40141,7 +40141,7 @@
     "classIds": null,
     "rarityId": 1,
     "cardSetId": 1347,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46dfd632c5c818d25382b9ec45a423d4e8e838c7ad972fd96ed11b4ae4d25297.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/DRG_229.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf1d533755266182bdc90818ba8fa45f45743696e02b56bb7ee49b194f99e988.png",
     "isStandard": false
   },
@@ -47287,6 +47287,32 @@
     "isStandard": false
   },
   {
+    "id": 121758,
+    "slug": "121758-supply-run",
+    "name": "보급품 조달",
+    "manaCost": 4,
+    "classId": 3,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1980,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f1e6977a0a44d57dfea41cc198ff7a41a93b7e8bae024c6537c5a9697781211.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_820t.jpg",
+    "isStandard": true
+  },
+  {
+    "id": 121760,
+    "slug": "121760-supply-run",
+    "name": "보급품 조달",
+    "manaCost": 4,
+    "classId": 3,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1980,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/390e08fe5a296b42a0d8c525e84b37dd058a3a05df7ed93f3cf0c01015fc5d84.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_820t2.jpg",
+    "isStandard": true
+  },
+  {
     "id": 121757,
     "slug": "121757-supply-run",
     "name": "보급품 조달",
@@ -47519,6 +47545,32 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/468d8b643aee6c2bd4d487422aaeab553dbb32ec66c2787a6f907b724a6e7343.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/382f08aa4d9a7ce6e53e5e28b3315c3b5f08dc7a2c533258b172b353372bb92b.png",
     "isStandard": false
+  },
+  {
+    "id": 122876,
+    "slug": "122876-schism",
+    "name": "분파",
+    "manaCost": 4,
+    "classId": 6,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1980,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9a7c0ee0638acdedfb6ad5d7d020b5f6035e4ceff569e20bb6850134444d205.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_306t1.jpg",
+    "isStandard": true
+  },
+  {
+    "id": 122877,
+    "slug": "122877-schism",
+    "name": "분파",
+    "manaCost": 4,
+    "classId": 6,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1980,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb48c8b015f4a44eaf788e134b962746d988cfb4f236eb193eb4a26a3382f5cc.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_306t2.jpg",
+    "isStandard": true
   },
   {
     "id": 122874,
@@ -47876,6 +47928,32 @@
     "isStandard": false
   },
   {
+    "id": 123743,
+    "slug": "123743-arcane-flow",
+    "name": "비전의 흐름",
+    "manaCost": 4,
+    "classId": 4,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1980,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46704ad625740ddd5e016c5dc978cf1578e47a0b7858b916bc651fe6ec0bcb2d.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_489t.jpg",
+    "isStandard": true
+  },
+  {
+    "id": 123744,
+    "slug": "123744-arcane-flow",
+    "name": "비전의 흐름",
+    "manaCost": 4,
+    "classId": 4,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1980,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed98f00f5df27b31347200d9a3a4ef1f43843a81bba0257ebee73c6ee46b6b1d.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_489t2.jpg",
+    "isStandard": true
+  },
+  {
     "id": 123692,
     "slug": "123692-arcane-flow",
     "name": "비전의 흐름",
@@ -47947,6 +48025,32 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a695ab88f1abd4c8c3337bddd8b5aff8c46a38095d1fb24ceaee048f4f88538b.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acf1f8a492b7e8faa1c6bd83e365fdf0a76f63f127b092dfa204298c40d65310.png",
     "isStandard": false
+  },
+  {
+    "id": 123141,
+    "slug": "123141-flight-maneuvers",
+    "name": "비행 기동",
+    "manaCost": 4,
+    "classId": 5,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1980,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed65eb3c2577d8856ee77e32b7fa61a7e5cdd1f49c71b3a133c9bc4f54bfec6d.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_479t.jpg",
+    "isStandard": true
+  },
+  {
+    "id": 123142,
+    "slug": "123142-flight-maneuvers",
+    "name": "비행 기동",
+    "manaCost": 4,
+    "classId": 5,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1980,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92ee9f9c717b08681c1999ceb26925ef05366f536a310b6d778fd9d4da0013b8.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_479t2.jpg",
+    "isStandard": true
   },
   {
     "id": 123139,
@@ -48741,7 +48845,7 @@
     "rarityId": 4,
     "cardSetId": 1635,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fb5b8c649947e5ae6e0268648429ff2b84792ca744b0749046b4740e25d4f1d.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_908.jpg",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/LEG_TTN_908.jpg",
     "isStandard": false
   },
   {
@@ -51638,6 +51742,32 @@
     "isStandard": true
   },
   {
+    "id": 122972,
+    "slug": "122972-wildwood-circle",
+    "name": "원시림의 소환진",
+    "manaCost": 4,
+    "classId": 2,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1980,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c84f3e6fd81b82e451344f7f0bbbeeaef457558cf8cf8fabded7a6733d1a892a.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_134t.jpg",
+    "isStandard": true
+  },
+  {
+    "id": 122973,
+    "slug": "122973-wildwood-circle",
+    "name": "원시림의 소환진",
+    "manaCost": 4,
+    "classId": 2,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1980,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/841f948e74cf1440d6ab2039fb24f3bcf85d7591a958b83da663d7aa924f4bed.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_134t2.jpg",
+    "isStandard": true
+  },
+  {
     "id": 122971,
     "slug": "122971-wildwood-circle",
     "name": "원시림의 소환진",
@@ -53507,7 +53637,7 @@
     "classIds": null,
     "rarityId": 4,
     "cardSetId": 15,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e994ad729678ccbb2b396190841ac34654794e7b5d8a142a0216058f83351db3.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/AT_043.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed0e570ee9ec82aa38c28e9c21ddba93ebbc3388f6e068a2291e221229412c6d.png",
     "isStandard": false
   },
@@ -56968,7 +57098,7 @@
     "classIds": null,
     "rarityId": 1,
     "cardSetId": 1466,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98675ebdc18c34ba1b900463b1190360aa93d70068a0f2a1253ed304b7a49e46.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/DMF_068.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dfc89452bab3fe7252ebf1abb29715b643fed9e92e637b0e73ccc309e1d4b289.png",
     "isStandard": false
   },
@@ -65528,6 +65658,19 @@
     "isStandard": true
   },
   {
+    "id": 86727,
+    "slug": "86727-blaumeux-faminerider",
+    "name": "기근기수 블라미우스",
+    "manaCost": 6,
+    "classId": 12,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1776,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70dfb60f950a49f401c98eaa4319a378cabdda0bc8f93d531ff11dd4e72a7283.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/NX2_034t.jpg",
+    "isStandard": false
+  },
+  {
     "id": 48693,
     "slug": "48693-meteorologist",
     "name": "기상학자",
@@ -68971,6 +69114,19 @@
     "isStandard": false
   },
   {
+    "id": 86729,
+    "slug": "86729-zeliek-conquestrider",
+    "name": "정복기수 젤리에크",
+    "manaCost": 6,
+    "classId": 12,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1776,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b77c891786b5e049343384cd14a3c4f904010348c47d67b5cfcbab5318e63a00.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/NX2_034t2.jpg",
+    "isStandard": false
+  },
+  {
     "id": 52950,
     "slug": "52950-mad-summoner",
     "name": "정신 나간 소환사",
@@ -69098,6 +69254,19 @@
     "cardSetId": 1776,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4179763ce9811b0044db68241f273323978ad7ae2b8423b62dcbf4d4bcc97e0a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7de299fe35fa56e4aabe3f0a533cdddda1445eb9a88155a359fee22b42b60849.png",
+    "isStandard": false
+  },
+  {
+    "id": 86728,
+    "slug": "86728-korthazz-deathrider",
+    "name": "죽음기수 코스아즈",
+    "manaCost": 6,
+    "classId": 12,
+    "classIds": null,
+    "rarityId": 1,
+    "cardSetId": 1776,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efd2ae6a4a52fdd18bee44562cd8a3f7576ffe766265bbe8efa9a7c52d2c392f.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/NX2_034t1.jpg",
     "isStandard": false
   },
   {

@@ -3901,7 +3901,7 @@
   },
   "1147": {
     "name": "내트 페이글",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d973963508769ebf017c950ca3604375689c9f5a6d35309759d4ea85ec8316f3.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/EX1_557.png",
     "enname": "Nat Pagle",
     "rarity": 5,
     "manaCost": 2,
@@ -9181,7 +9181,7 @@
   },
   "2785": {
     "name": "천공의 교감",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e994ad729678ccbb2b396190841ac34654794e7b5d8a142a0216058f83351db3.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/AT_043.png",
     "enname": "Astral Communion",
     "rarity": 4,
     "manaCost": 4,
@@ -29841,7 +29841,7 @@
   },
   "55056": {
     "name": "청동 탐험가",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46dfd632c5c818d25382b9ec45a423d4e8e838c7ad972fd96ed11b4ae4d25297.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/DRG_229.png",
     "enname": "Bronze Explorer",
     "rarity": 1,
     "manaCost": 3,
@@ -39151,7 +39151,7 @@
   },
   "61625": {
     "name": "낙천적인 오우거",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98675ebdc18c34ba1b900463b1190360aa93d70068a0f2a1253ed304b7a49e46.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/DMF_068.png",
     "enname": "Optimistic Ogre",
     "rarity": 1,
     "manaCost": 5,
@@ -39981,7 +39981,7 @@
   },
   "61958": {
     "name": "빙하의 경주 선수",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5217676e0f1c654b3fd806d812c8eb33ea5abdcb780b9ba5982a3776b0f40aa.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/YOP_020.png",
     "enname": "Glacier Racer",
     "rarity": 3,
     "manaCost": 1,
@@ -77692,7 +77692,7 @@
   },
   "103346": {
     "name": "수정 만",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ef5c6d6852646de3fd6ad4f69621061d97a9a50ce0da66acec4def7b0b3079f.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/TOY_512.png",
     "enname": "The Crystal Cove",
     "rarity": 3,
     "manaCost": 3,
@@ -79722,7 +79722,7 @@
   },
   "104596": {
     "name": "마법 인형의 집",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af22f638630154f49c08eb4a86c98819f9096ee93588e9038df824a3991183c1.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/TOY_850.png",
     "enname": "Magical Dollhouse",
     "rarity": 1,
     "manaCost": 2,
@@ -82552,7 +82552,7 @@
   },
   "106433": {
     "name": "천상의 양조주",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10939ecff0c1fb21dc356a8cde3950be801035d7b18196c516256c75c50e7672.png",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/VAC_916.png",
     "enname": "Divine Brew",
     "rarity": 3,
     "manaCost": 1,
@@ -117750,6 +117750,15 @@
     "cardSetId": 1980,
     "classes": "중립"
   },
+  "131329": {
+    "name": "주머니 속 회오리",
+    "img": null,
+    "enname": "Pocket Cyclone",
+    "rarityId": null,
+    "manaCost": 2,
+    "cardSetId": 1453,
+    "classes": "중립"
+  },
   "131356": {
     "name": "랩터 전령",
     "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/CORE_EDR_004_2026.png",
@@ -117758,15 +117767,6 @@
     "manaCost": 3,
     "rarityId": 4,
     "cardSetId": 1637,
-    "classes": "중립"
-  },
-  "131329": {
-    "name": "주머니 속 회오리",
-    "img": null,
-    "enname": "Pocket Cyclone",
-    "rarityId": null,
-    "manaCost": 2,
-    "cardSetId": 1453,
     "classes": "중립"
   }
 }

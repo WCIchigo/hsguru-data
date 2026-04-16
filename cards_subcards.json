@@ -1,4 +1,12 @@
 {
+  "92292": {
+    "name": "고드름",
+    "manaCost": 2,
+    "classId": 4,
+    "rarityId": 4,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b49bf9763d201602f713f72a547d0393f7cdcd29a0fc1a8860286ba852b35e6.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/Story_11_IciclePuzzle.jpg"
+  },
   "104944": {
     "name": "반복 모듈",
     "manaCost": 1,
