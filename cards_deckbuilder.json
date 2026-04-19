@@ -65554,19 +65554,6 @@
     "isStandard": true
   },
   {
-    "id": 86727,
-    "slug": "86727-blaumeux-faminerider",
-    "name": "기근기수 블라미우스",
-    "manaCost": 6,
-    "classId": 12,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1776,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70dfb60f950a49f401c98eaa4319a378cabdda0bc8f93d531ff11dd4e72a7283.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/NX2_034t.jpg",
-    "isStandard": false
-  },
-  {
     "id": 48693,
     "slug": "48693-meteorologist",
     "name": "기상학자",
@@ -69010,19 +68997,6 @@
     "isStandard": false
   },
   {
-    "id": 86729,
-    "slug": "86729-zeliek-conquestrider",
-    "name": "정복기수 젤리에크",
-    "manaCost": 6,
-    "classId": 12,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1776,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b77c891786b5e049343384cd14a3c4f904010348c47d67b5cfcbab5318e63a00.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/NX2_034t2.jpg",
-    "isStandard": false
-  },
-  {
     "id": 52950,
     "slug": "52950-mad-summoner",
     "name": "정신 나간 소환사",
@@ -69150,19 +69124,6 @@
     "cardSetId": 1776,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4179763ce9811b0044db68241f273323978ad7ae2b8423b62dcbf4d4bcc97e0a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7de299fe35fa56e4aabe3f0a533cdddda1445eb9a88155a359fee22b42b60849.png",
-    "isStandard": false
-  },
-  {
-    "id": 86728,
-    "slug": "86728-korthazz-deathrider",
-    "name": "죽음기수 코스아즈",
-    "manaCost": 6,
-    "classId": 12,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1776,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efd2ae6a4a52fdd18bee44562cd8a3f7576ffe766265bbe8efa9a7c52d2c392f.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/NX2_034t1.jpg",
     "isStandard": false
   },
   {
