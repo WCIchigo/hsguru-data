@@ -32389,6 +32389,19 @@
     "isStandard": true
   },
   {
+    "id": 126847,
+    "slug": "126847-baleful-blazer",
+    "name": "불길한 화염마",
+    "manaCost": 3,
+    "classId": 10,
+    "classIds": null,
+    "rarityId": 4,
+    "cardSetId": 1941,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/758622a55f9b37a37b9657ed2f3f98fe289b20460c21c32879ae21e656afa15d.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ab366d65b767e9fbddf5d630d7936082b6b8152d591dc759c4a950e9d8ef960.png",
+    "isStandard": true
+  },
+  {
     "id": 2275,
     "slug": "2275-flamewaker",
     "name": "불꽃꼬리 전사",
@@ -54572,6 +54585,19 @@
     "isStandard": false
   },
   {
+    "id": 126700,
+    "slug": "126700-destructive-phoenix",
+    "name": "파괴의 불사조",
+    "manaCost": 4,
+    "classId": 9,
+    "classIds": null,
+    "rarityId": 4,
+    "cardSetId": 1941,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27bcf7403fd0c81ab3fe2be06930ebf83967eb5298e4059142326a7affa87175.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/394a2117ae72295b2bcacb1558256beb739cce4670dadf18918d3dbc113a63fd.png",
+    "isStandard": true
+  },
+  {
     "id": 2290,
     "slug": "2290-fireguard-destroyer",
     "name": "파괴의 화염수호정령",
@@ -69881,6 +69907,19 @@
     "isStandard": false
   },
   {
+    "id": 126698,
+    "slug": "126698-primordial-lord",
+    "name": "태고의 군주",
+    "manaCost": 6,
+    "classId": 12,
+    "classIds": null,
+    "rarityId": 4,
+    "cardSetId": 1941,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b65f0033396456cbedf9b7de764d3d6d9d47ef2e6824ed65e999fa4ace9b5e26.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb88daee100d072ee94e28fb67b70a890f64e5858cb96d5905e4c24ca4ffd00e.png",
+    "isStandard": true
+  },
+  {
     "id": 759,
     "slug": "759-sunwalker",
     "name": "태양길잡이",
@@ -77744,7 +77783,7 @@
     "rarityId": 3,
     "cardSetId": 1637,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b644f514089762fb37a8e9c941e55831f81a993db0898b13e290715a9a748881.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CORE_RLK_506.jpg",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_506.jpg",
     "isStandard": true
   },
   {

@@ -111112,6 +111112,24 @@
     "cardSetId": 1941,
     "classes": "중립"
   },
+  "126698": {
+    "name": "태고의 군주",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b65f0033396456cbedf9b7de764d3d6d9d47ef2e6824ed65e999fa4ace9b5e26.png",
+    "enname": "Primordial Lord",
+    "rarityId": 4,
+    "manaCost": 6,
+    "cardSetId": 1941,
+    "classes": "중립"
+  },
+  "126700": {
+    "name": "파괴의 불사조",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27bcf7403fd0c81ab3fe2be06930ebf83967eb5298e4059142326a7affa87175.png",
+    "enname": "Destructive Phoenix",
+    "rarityId": 4,
+    "manaCost": 4,
+    "cardSetId": 1941,
+    "classes": "흑마법사"
+  },
   "126711": {
     "name": "푸른 오색비룡",
     "img": null,
@@ -111627,6 +111645,15 @@
     "rarityId": null,
     "cardSetId": 1453,
     "classes": "성기사"
+  },
+  "126847": {
+    "name": "불길한 화염마",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/758622a55f9b37a37b9657ed2f3f98fe289b20460c21c32879ae21e656afa15d.png",
+    "enname": "Baleful Blazer",
+    "rarityId": 4,
+    "manaCost": 3,
+    "cardSetId": 1941,
+    "classes": "전사"
   },
   "126848": {
     "name": "시간의 끝의 알",
