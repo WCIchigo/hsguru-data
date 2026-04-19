@@ -47300,32 +47300,6 @@
     "isStandard": false
   },
   {
-    "id": 121758,
-    "slug": "121758-supply-run",
-    "name": "보급품 조달",
-    "manaCost": 4,
-    "classId": 3,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1980,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f1e6977a0a44d57dfea41cc198ff7a41a93b7e8bae024c6537c5a9697781211.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_820t.jpg",
-    "isStandard": true
-  },
-  {
-    "id": 121760,
-    "slug": "121760-supply-run",
-    "name": "보급품 조달",
-    "manaCost": 4,
-    "classId": 3,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1980,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/390e08fe5a296b42a0d8c525e84b37dd058a3a05df7ed93f3cf0c01015fc5d84.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_820t2.jpg",
-    "isStandard": true
-  },
-  {
     "id": 121757,
     "slug": "121757-supply-run",
     "name": "보급품 조달",
@@ -47558,32 +47532,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/468d8b643aee6c2bd4d487422aaeab553dbb32ec66c2787a6f907b724a6e7343.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/382f08aa4d9a7ce6e53e5e28b3315c3b5f08dc7a2c533258b172b353372bb92b.png",
     "isStandard": false
-  },
-  {
-    "id": 122876,
-    "slug": "122876-schism",
-    "name": "분파",
-    "manaCost": 4,
-    "classId": 6,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1980,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9a7c0ee0638acdedfb6ad5d7d020b5f6035e4ceff569e20bb6850134444d205.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_306t1.jpg",
-    "isStandard": true
-  },
-  {
-    "id": 122877,
-    "slug": "122877-schism",
-    "name": "분파",
-    "manaCost": 4,
-    "classId": 6,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1980,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb48c8b015f4a44eaf788e134b962746d988cfb4f236eb193eb4a26a3382f5cc.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_306t2.jpg",
-    "isStandard": true
   },
   {
     "id": 122874,
@@ -47941,32 +47889,6 @@
     "isStandard": false
   },
   {
-    "id": 123743,
-    "slug": "123743-arcane-flow",
-    "name": "비전의 흐름",
-    "manaCost": 4,
-    "classId": 4,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1980,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46704ad625740ddd5e016c5dc978cf1578e47a0b7858b916bc651fe6ec0bcb2d.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_489t.jpg",
-    "isStandard": true
-  },
-  {
-    "id": 123744,
-    "slug": "123744-arcane-flow",
-    "name": "비전의 흐름",
-    "manaCost": 4,
-    "classId": 4,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1980,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed98f00f5df27b31347200d9a3a4ef1f43843a81bba0257ebee73c6ee46b6b1d.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_489t2.jpg",
-    "isStandard": true
-  },
-  {
     "id": 123692,
     "slug": "123692-arcane-flow",
     "name": "비전의 흐름",
@@ -48038,32 +47960,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a695ab88f1abd4c8c3337bddd8b5aff8c46a38095d1fb24ceaee048f4f88538b.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acf1f8a492b7e8faa1c6bd83e365fdf0a76f63f127b092dfa204298c40d65310.png",
     "isStandard": false
-  },
-  {
-    "id": 123141,
-    "slug": "123141-flight-maneuvers",
-    "name": "비행 기동",
-    "manaCost": 4,
-    "classId": 5,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1980,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed65eb3c2577d8856ee77e32b7fa61a7e5cdd1f49c71b3a133c9bc4f54bfec6d.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_479t.jpg",
-    "isStandard": true
-  },
-  {
-    "id": 123142,
-    "slug": "123142-flight-maneuvers",
-    "name": "비행 기동",
-    "manaCost": 4,
-    "classId": 5,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1980,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92ee9f9c717b08681c1999ceb26925ef05366f536a310b6d778fd9d4da0013b8.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_479t2.jpg",
-    "isStandard": true
   },
   {
     "id": 123139,
@@ -51752,32 +51648,6 @@
     "cardSetId": 1952,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b835b7919b7635c960b48802f4cb13d855cdcd71f61dca830bafb203e5d0269.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/001fd1dc54b3ed4b82a1d4f29e254b75ea2438cc41863fe805da8a7039a0a84c.png",
-    "isStandard": true
-  },
-  {
-    "id": 122972,
-    "slug": "122972-wildwood-circle",
-    "name": "원시림의 소환진",
-    "manaCost": 4,
-    "classId": 2,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1980,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c84f3e6fd81b82e451344f7f0bbbeeaef457558cf8cf8fabded7a6733d1a892a.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_134t.jpg",
-    "isStandard": true
-  },
-  {
-    "id": 122973,
-    "slug": "122973-wildwood-circle",
-    "name": "원시림의 소환진",
-    "manaCost": 4,
-    "classId": 2,
-    "classIds": null,
-    "rarityId": 1,
-    "cardSetId": 1980,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/841f948e74cf1440d6ab2039fb24f3bcf85d7591a958b83da663d7aa924f4bed.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_134t2.jpg",
     "isStandard": true
   },
   {
