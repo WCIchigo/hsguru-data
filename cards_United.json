@@ -83794,7 +83794,7 @@
     "rarity": 4,
     "manaCost": 4,
     "rarityId": 4,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "중립",
     "cardId": "WON_113"
   },
@@ -86258,7 +86258,7 @@
     "rarity": 5,
     "manaCost": 6,
     "rarityId": 5,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "중립",
     "cardId": "GIFT_01"
   },
@@ -86269,7 +86269,7 @@
     "rarity": 3,
     "manaCost": 1,
     "rarityId": 3,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "마법사",
     "cardId": "GIFT_02"
   },
@@ -86280,7 +86280,7 @@
     "rarity": 3,
     "manaCost": 1,
     "rarityId": 3,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "사냥꾼",
     "cardId": "GIFT_03"
   },
@@ -86291,7 +86291,7 @@
     "rarity": 3,
     "manaCost": 1,
     "rarityId": 3,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "죽음의 기사",
     "cardId": "GIFT_04"
   },
@@ -86302,7 +86302,7 @@
     "rarity": 3,
     "manaCost": 1,
     "rarityId": 3,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "성기사",
     "cardId": "GIFT_05"
   },
@@ -86313,7 +86313,7 @@
     "rarity": 3,
     "manaCost": 1,
     "rarityId": 3,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "주술사",
     "cardId": "GIFT_06"
   },
@@ -86324,7 +86324,7 @@
     "rarity": 3,
     "manaCost": 1,
     "rarityId": 3,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "전사",
     "cardId": "GIFT_07"
   },
@@ -86335,7 +86335,7 @@
     "rarity": 3,
     "manaCost": 1,
     "rarityId": 3,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "악마사냥꾼",
     "cardId": "GIFT_08"
   },
@@ -86346,7 +86346,7 @@
     "rarity": 3,
     "manaCost": 1,
     "rarityId": 3,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "도적",
     "cardId": "GIFT_09"
   },
@@ -107638,7 +107638,7 @@
     "rarity": 5,
     "manaCost": 6,
     "rarityId": 5,
-    "cardSetId": 3,
+    "cardSetId": 1635,
     "classes": "중립",
     "cardId": "BG31_BOB"
   },
