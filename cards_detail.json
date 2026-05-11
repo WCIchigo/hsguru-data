@@ -201155,7 +201155,23 @@
     "artist": "Zoltan Boros",
     "cardSet": "핵심",
     "rarityName": "특급",
-    "dustCost": 1600
+    "dustCost": 400
+  },
+  "123625": {
+    "type": "null",
+    "text": "이번 턴에 죽은 모든 아군 하수인을 복사하여 얻습니다. 그 하수인들에게 +3/+3을 부여합니다.",
+    "flavorText": "이 하수인들을 기부하겠습니다... 저에게요!",
+    "keywords": "null",
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "null",
+    "cardSet": "대격변",
+    "rarityName": "특급",
+    "dustCost": 400
   },
   "132017": {
     "type": "용족",

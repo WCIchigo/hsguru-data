@@ -130006,6 +130006,17 @@
     "classes": "중립",
     "cardId": "CORE_EDR_004_2026"
   },
+  "123625": {
+    "name": "자선",
+    "img": "https://art.hearthstonejson.com/v1/render/latest/koKR/512x/MEND_805.png",
+    "enname": "Charity",
+    "rarity": 4,
+    "manaCost": 3,
+    "rarityId": 4,
+    "cardSetId": 1941,
+    "classes": "성기사",
+    "cardId": "MEND_805"
+  },
   "132017": {
     "name": "불타는 창공전사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a71ccc81730b1037e26b187c2123e7b7049ef9a1bdcc12cef28a69d4ca7c16af.png",
