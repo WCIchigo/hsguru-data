@@ -188004,6 +188004,23 @@
     "rarityName": "전설",
     "dustCost": null
   },
+  "123625": {
+    "type": null,
+    "type2": null,
+    "text": "이번 턴에 죽은 모든 아군 하수인을 복사하여 얻습니다. 그 하수인들에게 +3/+3을 부여합니다.",
+    "flavorText": "이 하수인들을 기부하겠습니다... 저에게요!",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Bima Kusuma",
+    "cardSet": "대격변",
+    "rarityName": "특급",
+    "dustCost": 1600
+  },
   "123637": {
     "type": "멀록",
     "type2": null,
