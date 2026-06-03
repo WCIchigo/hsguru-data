@@ -1547,6 +1547,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fa88a3ca1dbf155deb71cfca082fdfd4a6237975335ab3d70775353e34e3875.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1597ed6167140996916084c4dd7f683149993fcf13620507a6b165a2971db69.png"
   },
+  "2737": {
+    "id": 2737,
+    "name": "흉포한 변신",
+    "manaCost": 2,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>영웅 능력</b> 방어도를 + d2 얻고, 이번 턴에 공격력을 + a2 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6af524f8a93559a1061ba1d6763802615977d13fca79f0b7f5968ca255b499c2.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/HERO_06bp2.jpg"
+  },
   "2738": {
     "id": 2738,
     "name": "쇠뇌 사격",
@@ -15995,6 +16007,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0b0af5bbbf6e463d44b510fb9a13bd92b4f01d98f8f6ad1b026e90cd5cceb73.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_207t2.jpg"
   },
+  "97457": {
+    "id": 97457,
+    "name": "영원의 고대정령",
+    "manaCost": 5,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 5,
+    "health": 5,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1211e5a401867c3d63fed5ab54decdecdf794089f0b5f51af4bcd262574de83.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_903t4.jpg"
+  },
   "97459": {
     "id": 97459,
     "name": "팝스타",
@@ -25151,6 +25175,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ec512ee4a5e5f0c2f9de5c70e41de908a2c53b859693046f8e4e1362c41ceee.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DINO_410t3.jpg"
   },
+  "122545": {
+    "id": 122545,
+    "name": "켈로스의 알",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 0,
+    "health": 3,
+    "text": "<b>죽음의 메아리:</b> 금이 제일 많이 간 알을 소환합니다.<i>(2번 깨면 <b>도발</b> 능력이 있는 20/20 야수가 나옵니다!)</i>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9216318a29d7e290dcb7520cb33e480ff8236110372f84c8c2bee966b36ef44.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DINO_410t4.jpg"
+  },
   "122546": {
     "id": 122546,
     "name": "켈로스의 알",
@@ -25943,6 +25979,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23975df17a8606f86233046388603a611a289f38ce4a9cc03d9bc206b4d62911.png",
     "cropImage": null
   },
+  "126499": {
+    "id": 126499,
+    "name": "파멸자 주라마트",
+    "manaCost": 8,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 8,
+    "health": 8,
+    "text": "내 턴이 끝날 때, 주라마트의 감옥이 버린 카드를 냅니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faf06e4ce768bfbd375b00258408dec2bd7570190d966a37bfab5f23c6844324.png",
+    "cropImage": null
+  },
   "126886": {
     "id": 126886,
     "name": "나무정령",
@@ -26038,6 +26086,66 @@
     "text": "<b>죽음의 메아리:</b> 무작위 적에게 피해를 줍니다. <i>2회 <b>예고</b> 시 강화됩니다.</i> <b>죽음의 메아리:</b> 무작위 적에게 피해를 줍니다. <i>1회 <b>예고</b> 시 강화됩니다.</i> <b>죽음의 메아리:</b> 무작위 적에게 피해를 줍니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/415c7c08de80b9f8ec6120fd3b7c04b5252376a039b700f96d8c5f7d45584349.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_580t.jpg"
+  },
+  "127152": {
+    "id": 127152,
+    "name": "비취 동전",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "이번 턴에만 마나 수정을 1개 얻습니다. <b>비취 골렘</b>을 소환합니다. 이번 턴에만 마나 수정을 1개 얻습니다. <b>비취 골렘</b>을 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8297729e9b84cdeed5f16af3b2e928b7ddfdb0d74b56abb04862e187225f04b.png",
+    "cropImage": null
+  },
+  "127153": {
+    "id": 127153,
+    "name": "험악한 동전",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "이번 턴에만 마나 수정을 1개 얻습니다. 무작위 적 하수인에게 피해를 2 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50acbcb04b03ca2e9747f69fd045601f6227729aa89a8fde601a237dede61f68.png",
+    "cropImage": null
+  },
+  "127154": {
+    "id": 127154,
+    "name": "비밀결사 동전",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "이번 턴에만 마나 수정을 1개 얻습니다. 비용이 1인 무작위 카자쿠스의 물약을 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a6bde302a5c823666dd1ab5a4bcc8c9f66122c935a47695863cdbdc631de3b2.png",
+    "cropImage": null
+  },
+  "127163": {
+    "id": 127163,
+    "name": "비취 골렘",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8053d5d0257dbf32f56eed1f4d28ab4ee93cfc339dd435188b064bddeee0532c.png",
+    "cropImage": null
+  },
+  "127277": {
+    "id": 127277,
+    "name": "공허의 속삭임",
+    "manaCost": 5,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 5,
+    "health": 5,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1fc508d813d203607d7b360d11c5d41a823d9aaf06c5d0cbf21aa493be4b71f.png",
+    "cropImage": null
   },
   "127584": {
     "id": 127584,
@@ -26267,6 +26375,42 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/435914b56f762cacbd1b516e6c219e8c92808797a786404aaa99a85154745ec6.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_139t4.jpg"
   },
+  "129987": {
+    "id": 129987,
+    "name": "비취 골렘",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 4,
+    "health": 4,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a727a947c335295b09af4f0a887d8038f4edf417eaf9bcd2f35657ff909b8b3.png",
+    "cropImage": null
+  },
+  "129988": {
+    "id": 129988,
+    "name": "비취 골렘",
+    "manaCost": 7,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 7,
+    "health": 7,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef8617345b7ff2d14801c220e04ecfa6d4ae9fb8def7174db3671f8b7b9bd153.png",
+    "cropImage": null
+  },
+  "129989": {
+    "id": 129989,
+    "name": "비취 골렘",
+    "manaCost": 10,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 20,
+    "health": 20,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0f23db18303f19716caf258acc5ec5b4dfc357c2174e289266250792ea6554b.png",
+    "cropImage": null
+  },
   "130024": {
     "id": 130024,
     "name": "발각됨!",
@@ -26314,6 +26458,18 @@
     "text": "<b> , </b> 이 하수인은 내 손에 있으면 내 턴마다 <b>추가 효과</b>가 두 개의 무작위 효과 사이에서 바뀝니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58794e7ff0e15522e812dc7db86c7971185c6d3fcf76159a4f2d29735a87d92f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_206t.jpg"
+  },
+  "131327": {
+    "id": 131327,
+    "name": "카자쿠스의 물약",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7872e65d56556317aebf6f849c96a01c9143cf1d99c53c1c42391fd69c221fc9.png",
+    "cropImage": null
   },
   "132017": {
     "id": 132017,
