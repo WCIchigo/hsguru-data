@@ -14497,7 +14497,7 @@
   {
     "id": 117061,
     "name": "악독한 시종",
-    "enname": "Fiendish Servant",
+    "enname": null,
     "manaCost": 1,
     "classId": 9,
     "classIds": null,
@@ -41961,7 +41961,7 @@
   {
     "id": 71917,
     "name": "암흑바다 서기",
-    "enname": "Murkwater Scribe",
+    "enname": null,
     "manaCost": 2,
     "classId": 12,
     "classIds": null,
@@ -52845,7 +52845,7 @@
   {
     "id": 114215,
     "name": "타락의 둥지",
-    "enname": "Clutch of Corruption",
+    "enname": null,
     "manaCost": 2,
     "classId": 10,
     "classIds": null,
@@ -90248,33 +90248,6 @@
     "isStandard": false
   },
   {
-    "id": 87642,
-    "name": "하모니카 솔로",
-    "enname": "Harmonica Soloist",
-    "manaCost": 3,
-    "classId": 3,
-    "classIds": null,
-    "rarityId": 4,
-    "cardSetId": 1809,
-    "setName": "전설노래자랑",
-    "cardType": "하수인",
-    "minionType": null,
-    "minionType2": null,
-    "spellSchool": null,
-    "keywords": "비밀 전투의 함성 발견",
-    "text": "<b>전투의 함성:</b> 내 전장에 다른 하수인이 없으면, <b>비밀</b>을 <b>발견</b>하여 시전합니다.",
-    "flavorText": "자고로 마술사는 비밀을 드러내지 않는 법입니다. 반면에 음악가는...",
-    "attack": 4,
-    "health": 2,
-    "runeCost": null,
-    "collectible": true,
-    "childIds": null,
-    "cardId": "ETC_028",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a590ab1392c205c308f1aa3a26abdcb4e482841028ddbb8988f11a45d4b957a.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/848163d0b9d50fa897520ce743bf21a8c058453c0a2d104e4c711301e90ff009.png",
-    "isStandard": false
-  },
-  {
     "id": 40921,
     "name": "하수구 독성 수액",
     "enname": "Toxic Sewer Ooze",
@@ -112684,7 +112657,7 @@
   {
     "id": 50514,
     "name": "잔달라 기사단원",
-    "enname": "Zandalari Templar",
+    "enname": null,
     "manaCost": 4,
     "classId": 5,
     "classIds": null,
@@ -113727,7 +113700,7 @@
   {
     "id": 56385,
     "name": "주문술사의 흐름",
-    "enname": "Incanter's Flow",
+    "enname": null,
     "manaCost": 4,
     "classId": 4,
     "classIds": null,
@@ -137163,7 +137136,7 @@
   {
     "id": 59558,
     "name": "토템 거한",
-    "enname": "Totem Goliath",
+    "enname": null,
     "manaCost": 5,
     "classId": 8,
     "classIds": null,
@@ -173548,7 +173521,7 @@
   {
     "id": 107929,
     "name": "해변의 거인",
-    "enname": "Seaside Giant",
+    "enname": null,
     "manaCost": 10,
     "classId": 12,
     "classIds": null,

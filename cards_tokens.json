@@ -1547,18 +1547,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fa88a3ca1dbf155deb71cfca082fdfd4a6237975335ab3d70775353e34e3875.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1597ed6167140996916084c4dd7f683149993fcf13620507a6b165a2971db69.png"
   },
-  "2737": {
-    "id": 2737,
-    "name": "흉포한 변신",
-    "manaCost": 2,
-    "cardType": null,
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "<b>영웅 능력</b> 방어도를 + d2 얻고, 이번 턴에 공격력을 + a2 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6af524f8a93559a1061ba1d6763802615977d13fca79f0b7f5968ca255b499c2.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/HERO_06bp2.jpg"
-  },
   "2738": {
     "id": 2738,
     "name": "쇠뇌 사격",
@@ -16007,18 +15995,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0b0af5bbbf6e463d44b510fb9a13bd92b4f01d98f8f6ad1b026e90cd5cceb73.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_207t2.jpg"
   },
-  "97457": {
-    "id": 97457,
-    "name": "영원의 고대정령",
-    "manaCost": 5,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 5,
-    "health": 5,
-    "text": "<b>도발</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1211e5a401867c3d63fed5ab54decdecdf794089f0b5f51af4bcd262574de83.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_903t4.jpg"
-  },
   "97459": {
     "id": 97459,
     "name": "팝스타",
@@ -25174,18 +25150,6 @@
     "text": "<b>죽음의 메아리:</b> 금이 많이 간 알을 소환합니다. <i>(3번 깨면 <b>도발</b> 능력이 있는 20/20 야수가 나옵니다!)</i>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ec512ee4a5e5f0c2f9de5c70e41de908a2c53b859693046f8e4e1362c41ceee.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DINO_410t3.jpg"
-  },
-  "122545": {
-    "id": 122545,
-    "name": "켈로스의 알",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 0,
-    "health": 3,
-    "text": "<b>죽음의 메아리:</b> 금이 제일 많이 간 알을 소환합니다.<i>(2번 깨면 <b>도발</b> 능력이 있는 20/20 야수가 나옵니다!)</i>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9216318a29d7e290dcb7520cb33e480ff8236110372f84c8c2bee966b36ef44.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DINO_410t4.jpg"
   },
   "122546": {
     "id": 122546,

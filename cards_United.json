@@ -3555,10 +3555,6 @@
     "name": "심판관 트루하트",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0447df5cba890c872d89cfb40d0ff189940b4463176ef4317710fcdc2ee0d189.png"
   },
-  "2737": {
-    "name": "흉포한 변신",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6af524f8a93559a1061ba1d6763802615977d13fca79f0b7f5968ca255b499c2.png"
-  },
   "2738": {
     "name": "쇠뇌 사격",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a4e76cb4b4f652303dac4f0f40aaebdb6b5266c01b4267d8e8a15f1eed9047b.png"
@@ -8842,10 +8838,6 @@
   "47888": {
     "name": "녹슨 청소부",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08894f98c5cb637ec3e3d860afd28d7aea0877f506f4a1b797412b2c27e1a9a0.png"
-  },
-  "47893": {
-    "name": "흉내의 가면",
-    "img": null
   },
   "47895": {
     "name": "동력 끊긴 증기로봇",
@@ -20291,10 +20283,6 @@
     "name": "오염된 피",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04fbfdffac4c36c5abe3643ded98e3a9d83a22178ece13e3b226af9e24975e3e.png"
   },
-  "71567": {
-    "name": "흉측한 융합체",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74a2b31e1964926686875ee20e21b6048fc107b83789d3309a9370eac7b985d7.png"
-  },
   "71568": {
     "name": "불타는 힘줄",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92adcf4b74c086ce56113f47bca6a4f01845251b8818763563ec443a0d3fcf20.png"
@@ -22338,10 +22326,6 @@
   "77876": {
     "name": "위대한 아이스날",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52284da76cd5da811a8e9ee0f7582957e9ad00c60173bfabc1ee1a014541ae8f.png"
-  },
-  "77878": {
-    "name": "흉물",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64dc05a9ee864673ad5a3fbcd028f8574bc8b62ef0cdfcde84f674b3ba8213c1.png"
   },
   "77880": {
     "name": "게",
@@ -24775,10 +24759,6 @@
     "name": "기타 솔로",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a220b809d2f22e7244e75ce114ee4c44671beaa8074a1207d4c52ca275f7cb9.png"
   },
-  "87642": {
-    "name": "하모니카 솔로",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a590ab1392c205c308f1aa3a26abdcb4e482841028ddbb8988f11a45d4b957a.png"
-  },
   "87648": {
     "name": "건반 솔로",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9194ff864512e9d15aca2f6b196dbd9cc817017d2837f999965cb7a47c7d24b8.png"
@@ -27154,10 +27134,6 @@
   "97455": {
     "name": "추모자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26f0a2709caa2a968d88d18f5cb6a74f07950203d37c26e2af6b55e15fecc3e3.png"
-  },
-  "97457": {
-    "name": "영원의 고대정령",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1211e5a401867c3d63fed5ab54decdecdf794089f0b5f51af4bcd262574de83.png"
   },
   "97459": {
     "name": "팝스타",
@@ -36147,10 +36123,6 @@
     "name": "선물 좀도둑",
     "img": null
   },
-  "113147": {
-    "name": "선물 좀도둑",
-    "img": null
-  },
   "113148": {
     "name": "하늘 해적 기수",
     "img": null
@@ -42559,10 +42531,6 @@
     "name": "휴몽고스",
     "img": null
   },
-  "121642": {
-    "name": "휴몽고스",
-    "img": null
-  },
   "121670": {
     "name": "잘못 놓인 화염술사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a7f2c38ba189410401de12307ed1c3c434bf622e26a9a32270bbd50232b68c7.png"
@@ -43070,10 +43038,6 @@
   "122543": {
     "name": "켈로스의 알",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ec512ee4a5e5f0c2f9de5c70e41de908a2c53b859693046f8e4e1362c41ceee.png"
-  },
-  "122545": {
-    "name": "켈로스의 알",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9216318a29d7e290dcb7520cb33e480ff8236110372f84c8c2bee966b36ef44.png"
   },
   "122546": {
     "name": "켈로스의 알",
@@ -45126,6 +45090,10 @@
   "127145": {
     "name": "아라나시 연금술사",
     "img": null
+  },
+  "127153": {
+    "name": "험악한 동전",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50acbcb04b03ca2e9747f69fd045601f6227729aa89a8fde601a237dede61f68.png"
   },
   "127166": {
     "name": "시간왜곡의 뾰족털",
