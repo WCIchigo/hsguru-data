@@ -189529,6 +189529,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "126416": {
+    "type": null,
+    "type2": null,
+    "text": "<b>개전:</b> 내 덱에 다른 하수인이 없으면, 머그의 영웅 능력을 얻습니다. 내 덱에 주문이 없으면, 지의 영웅 능력을 얻습니다!",
+    "flavorText": "머그지는 갤라지오에서 전성기를 맞기 전, 가젯잔에서 카르텔들을 위해 일을 한 적이 있습니다. 다시는 그때로 돌아가지 않을 생각이라고만 해 두죠.",
+    "keywords": "개전",
+    "spellSchool": null,
+    "attack": 6,
+    "health": 7,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ivan Fomin",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "126451": {
     "type": "언데드",
     "type2": null,
@@ -194721,6 +194738,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "127468": {
+    "type": null,
+    "type2": null,
+    "text": "<b>지속 능력</b>, 매 턴마다 내가 처음 내는 하수인의 비용이 (2) 감소합니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Vlad Botos",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": null,
+    "dustCost": null
+  },
   "127469": {
     "type": "기계",
     "type2": null,
@@ -194805,6 +194839,23 @@
     "cardSet": "핵심",
     "rarityName": "특급",
     "dustCost": 400
+  },
+  "127476": {
+    "type": null,
+    "type2": null,
+    "text": "<b>지속 능력</b>, 내가 내는 다섯 번째 하수인마다 그 하수인의 <b>전투의 함성</b>이 두 번 발동합니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": null,
+    "dustCost": null
   },
   "127480": {
     "type": null,

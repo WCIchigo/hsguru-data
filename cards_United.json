@@ -44407,6 +44407,10 @@
     "name": "시간왜곡의 주방장 추천 요리",
     "img": null
   },
+  "126416": {
+    "name": "머그지",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36515abc3419d21885b1426d2f4982845d9173a63226fc6eefea4a0865be5744.png"
+  },
   "126451": {
     "name": "역병질주자",
     "img": null
@@ -45623,6 +45627,10 @@
     "name": "시간왜곡의 라디오 스타",
     "img": null
   },
+  "127468": {
+    "name": "머그의 마법",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58683d221c35e59d98553fd224c4102671614ec1d5d809cca8c91074cc23f4ef.png"
+  },
   "127469": {
     "name": "폭파용 투척로봇",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e731482a8fc1005ef4db780dd2b04754f62bb4e1bac8ffc0cca6e76be5d9052.png"
@@ -45642,6 +45650,10 @@
   "127474": {
     "name": "전쟁망치 도전자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/651df9419af287892c66bb0970da6b9e1e59800a333b15ff26c342ce002b5e8a.png"
+  },
+  "127476": {
+    "name": "지의 힘",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8df9a774acf174336d0a056d59934bef45f1711bff71ecf806510ab3d9b4c55.png"
   },
   "127480": {
     "name": "늑대인간 임원",

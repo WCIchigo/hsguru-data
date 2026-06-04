@@ -143025,6 +143025,36 @@
     "isStandard": false
   },
   {
+    "id": 126416,
+    "name": "머그지",
+    "enname": "Mug'Zee",
+    "manaCost": 6,
+    "classId": 8,
+    "classIds": null,
+    "rarityId": 5,
+    "cardSetId": 1988,
+    "setName": "보랏빛 요새 탈출 작전",
+    "cardType": "하수인",
+    "minionType": null,
+    "minionType2": null,
+    "spellSchool": null,
+    "keywords": "개전",
+    "text": "<b>개전:</b> 내 덱에 다른 하수인이 없으면, 머그의 영웅 능력을 얻습니다. 내 덱에 주문이 없으면, 지의 영웅 능력을 얻습니다!",
+    "flavorText": "머그지는 갤라지오에서 전성기를 맞기 전, 가젯잔에서 카르텔들을 위해 일을 한 적이 있습니다. 다시는 그때로 돌아가지 않을 생각이라고만 해 두죠.",
+    "attack": 6,
+    "health": 7,
+    "runeCost": null,
+    "collectible": true,
+    "childIds": [
+      127468,
+      127476
+    ],
+    "cardId": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36515abc3419d21885b1426d2f4982845d9173a63226fc6eefea4a0865be5744.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e2381608b79d9c3e7024bc93b4f2860877b16f695e4f830c10b74f2d6d06ffd.png",
+    "isStandard": true
+  },
+  {
     "id": 54424,
     "name": "메뚜기 떼",
     "enname": "Swarm of Locusts",
