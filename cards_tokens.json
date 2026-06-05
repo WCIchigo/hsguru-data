@@ -11291,18 +11291,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18b750aa80c9c25b2d67dc04ef324a5d140dea872e5eb7480693fa02b565250a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b4c4bf6439e3743532a542cf9eefa46dccf1ab520a97479df5fdf749aed63d0.png"
   },
-  "69629": {
-    "id": 69629,
-    "name": "번개 폭풍",
-    "manaCost": 3,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "모든 적 하수인에게 피해를 3 줍니다. <b>과부하:</b> (1)",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23e6f2a84c70889baaeba7ab5dff29a81a116b3e76fbc0a2f6ce7a37096dade6.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c99d822346e866494c6edb4535d23b1d73627782d7c5a758faf4bdaafc3f4de.png"
-  },
   "69634": {
     "id": 69634,
     "name": "영혼 착취",
@@ -21562,18 +21550,6 @@
     "text": "이 하수인은 내 손에 있으면 내 턴이 시작될 때마다 무작위 저그 하수인으로 변신합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd48f997c9337476bd577f1a05a5560a25b3cadeeb9f62d58221ff8445ac16d7.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SC_003t.jpg"
-  },
-  "113588": {
-    "id": 113588,
-    "name": "숲의 군주 세나리우스",
-    "manaCost": 10,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 5,
-    "health": 8,
-    "text": "<b>세 번 선택 -</b> 내 다른 하수인들에게 +1/+3을 부여합니다. 또는 <b>도발</b> 능력이 있는 5/5 고대정령을 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2a5e8bc72a33a65eae802018875a2aea2b087dbd209804af3c65631c3fcabc0.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86bb8b4e632dd4c903652a3fee972c7a214b136ed128a7438670a4c5a82c5fe7.png"
   },
   "113606": {
     "id": 113606,
