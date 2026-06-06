@@ -5753,6 +5753,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "993": {
+    "type": "정령",
+    "type2": null,
+    "text": "내 손에 있는 다른 카드 1장당 비용이 (1)씩 감소합니다.",
+    "flavorText": "이 친구의 어머니 말로는 좀 통뼈라 커보이는 거랍니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 8,
+    "health": 8,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Samwise",
+    "cardSet": "고전",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
   "994": {
     "type": null,
     "type2": null,
@@ -14035,6 +14052,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "2552": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 내 전장에 야수가 있으면, 무작위 야수를 소환합니다.",
+    "flavorText": "산양을 사육할 때 가장 중요한 것은 우선 밟히지 않는 겁니다.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Brandon Kitkouski",
+    "cardSet": "대 마상시합",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "2555": {
     "type": null,
     "type2": null,
@@ -14459,6 +14493,23 @@
     "cardSet": "대 마상시합",
     "rarityName": "일반",
     "dustCost": 40
+  },
+  "2612": {
+    "type": null,
+    "type2": null,
+    "text": "생명력을 8 회복시킵니다. 각 덱의 하수인을 공개해 내 것의 비용이 더 높으면, 생명력을 16 회복시킵니다.",
+    "flavorText": "복원의 길을 걷는 주술사들이 즐겨 쓰는 주문입니다. 가끔은 치유의 해일에 가까운 효과를 냅니다.",
+    "keywords": null,
+    "spellSchool": "자연",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Luca Zontini",
+    "cardSet": "대 마상시합",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "2613": {
     "type": "드레나이",
@@ -52217,6 +52268,23 @@
     "rarityName": "전설",
     "dustCost": 1600
   },
+  "55643": {
+    "type": null,
+    "type2": null,
+    "text": "이 하수인은 내 손에 있으면 내 턴이 시작될 때마다 무작위 <b>전설</b> 하수인으로 변신합니다. 능력치는 5/5가 됩니다.",
+    "flavorText": "두억시니가 말하기를 언제나 독기에 가득 차있다고 합니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 5,
+    "health": 5,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Matt Dixon",
+    "cardSet": "용의 강림",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "55778": {
     "type": null,
     "type2": null,
@@ -76797,6 +76865,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "64714": {
+    "type": null,
+    "type2": null,
+    "text": "<b>교환성</b>, <b>전투의 함성:</b> 하수인을 <b>침묵</b>시킵니다.",
+    "flavorText": "경매장 사재기 도서는 저쪽 구역에 있을 거예요.",
+    "keywords": "전투의 함성, 침묵, 교환성",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Jun Yan & Zhefei Hou",
+    "cardSet": "스톰윈드",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "64715": {
     "type": null,
     "type2": null,
@@ -82212,6 +82297,23 @@
     "cardSet": "핵심",
     "rarityName": "특급",
     "dustCost": 400
+  },
+  "69629": {
+    "type": null,
+    "type2": null,
+    "text": "모든 적 하수인에게 피해를 3 줍니다. <b>과부하:</b> (1)",
+    "flavorText": "안타깝지만 우산을 써도 소용이 없을 겁니다.",
+    "keywords": "과부하: X",
+    "spellSchool": "자연",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Christopher Moeller",
+    "cardSet": "핵심",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "69634": {
     "type": null,
@@ -127515,6 +127617,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "102222": {
+    "type": null,
+    "type2": null,
+    "text": "<b>교환성</b>, <b>전투의 함성:</b> 하수인을 <b>침묵</b>시킵니다.",
+    "flavorText": "경매장 사재기 도서는 저쪽 구역에 있을 거예요.",
+    "keywords": "전투의 함성, 침묵, 교환성",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Jun Yan & Zhefei Hou",
+    "cardSet": "핵심",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "102224": {
     "type": null,
     "type2": null,
@@ -131852,6 +131971,23 @@
     "cardSet": "시간의 동굴",
     "rarityName": "특급",
     "dustCost": 400
+  },
+  "103223": {
+    "type": null,
+    "type2": null,
+    "text": "생명력을 8 회복시킵니다. 각 덱의 하수인을 공개해 내 것의 비용이 더 높으면, 생명력을 16 회복시킵니다.",
+    "flavorText": "복원의 길을 걷는 주술사들이 즐겨 쓰는 주문입니다. 가끔은 치유의 해일에 가까운 효과를 냅니다.",
+    "keywords": null,
+    "spellSchool": "자연",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Luca Zontini",
+    "cardSet": "시간의 동굴",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "103224": {
     "type": null,
@@ -155623,6 +155759,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "113588": {
+    "type": null,
+    "type2": null,
+    "text": "<b>세 번 선택 -</b> 내 다른 하수인들에게 +1/+3을 부여합니다. 또는 <b>도발</b> 능력이 있는 5/5 고대정령을 소환합니다.",
+    "flavorText": "일리단이 아닌 말퓨리온을 최초의 드루이드로 선택하여, 끝없이 계속되는 형제 사이의 경쟁에 불을 붙인 장본인입니다.",
+    "keywords": "도발",
+    "spellSchool": null,
+    "attack": 5,
+    "health": 8,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "James Ryman",
+    "cardSet": "에메랄드의 꿈 속으로",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "113606": {
     "type": "야수",
     "type2": [
@@ -163354,6 +163507,23 @@
     "cardSet": null,
     "rarityName": null,
     "dustCost": null
+  },
+  "116495": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 내 덱에 있는 모든 중립 카드를 무작위 드루이드 카드로 변신시킵니다.",
+    "flavorText": "숲을 마십니다.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Kevin Sidharta",
+    "cardSet": "에메랄드의 꿈 속으로",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "116500": {
     "type": null,
