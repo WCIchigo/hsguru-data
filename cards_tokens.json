@@ -26255,6 +26255,54 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e138284cb98bcf913c415bbad485f932c2fd04bd726b3204f61c7afe6aa555dc.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_190t14.jpg"
   },
+  "127713": {
+    "id": 127713,
+    "name": "자그마한 친구",
+    "manaCost": 4,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 2,
+    "health": 3,
+    "text": "내 영웅이 공격한 후, 다른 무작위 적 2마리를 <b>빙결</b> 상태로 만듭니다. 다른 탄약을 선택합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4db6b079615370dbcb3ea1377a45882cbf402855d7467b9ed1526b330e7b8b4.png",
+    "cropImage": null
+  },
+  "127715": {
+    "id": 127715,
+    "name": "자그마한 친구",
+    "manaCost": 4,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 2,
+    "health": 3,
+    "text": "내 영웅이 공격한 후, 모든 적에게 피해를 1 줍니다. 다른 탄약을 선택합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2311c0291fca987919f9d960e6adc28fcaeec911ffd8998e71b3252c9bc1beec.png",
+    "cropImage": null
+  },
+  "127716": {
+    "id": 127716,
+    "name": "자그마한 친구",
+    "manaCost": 4,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 2,
+    "health": 3,
+    "text": "내 영웅이 공격한 후, 비용이 3인 무작위 하수인을 소환합니다. 그 하수인에게 <b>도발</b>을 부여합니다. 다른 탄약을 선택합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afd1294279a56cc9764a7599216e7f4ea3e78bc0fa9866bcda4d958719c1c7ba.png",
+    "cropImage": null
+  },
+  "127717": {
+    "id": 127717,
+    "name": "자그마한 친구",
+    "manaCost": 4,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 2,
+    "health": 3,
+    "text": "내 영웅이 공격한 후, 무작위 <b>전투의 함성</b> 하수인을 얻습니다. 그 하수인의 비용이 (2) 감소합니다. 다른 탄약을 선택합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3895c9a77a89109ba288cf35a359446868d5cd5bd0710b80c60acc147a84a10.png",
+    "cropImage": null
+  },
   "127933": {
     "id": 127933,
     "name": "나가 흉물",

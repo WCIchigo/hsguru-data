@@ -112709,6 +112709,38 @@
     "isStandard": false
   },
   {
+    "id": 127711,
+    "name": "자그마한 친구",
+    "enname": "Tiny Pal",
+    "manaCost": 4,
+    "classId": 8,
+    "classIds": null,
+    "rarityId": 5,
+    "cardSetId": 1988,
+    "setName": "보랏빛 요새 탈출 작전",
+    "cardType": "무기",
+    "minionType": null,
+    "minionType2": null,
+    "spellSchool": null,
+    "keywords": "전투의 함성",
+    "text": "<b>전투의 함성:</b> 원소 탄약을 선택합니다! <i>(내 영웅이 공격한 후, 하나 더 선택합니다).</i>",
+    "flavorText": "인사해 보세요!",
+    "attack": 2,
+    "health": 3,
+    "runeCost": null,
+    "collectible": true,
+    "childIds": [
+      127713,
+      127715,
+      127716,
+      127717
+    ],
+    "cardId": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/735b6366047d67c201d04d8452be388c3c7aa377cda0defbeb4385182c0873ee.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7daabf09d93a98ef866d75369f9c4c31f292b291649339ccd024410179300fd4.png",
+    "isStandard": true
+  },
+  {
     "id": 2059,
     "name": "자동화 마력제거기 X-21",
     "enname": "Arcane Nullifier X-21",
