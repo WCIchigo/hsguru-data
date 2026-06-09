@@ -6335,18 +6335,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9413a10edbfa8c20155b0b4bba0c8bcf7245ba3e50e68d44d4598c99b3319fea.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ULD_155p.jpg"
   },
-  "53946": {
-    "id": 53946,
-    "name": "승천자의 두루마리",
-    "manaCost": 2,
-    "cardType": null,
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "무작위 마법사 주문을 내 손으로 가져옵니다. 그 주문의 비용이 (2) 감소합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee50d9c29c7f606e8d8b2d84ffff9557347cd44ed38f9e73310717f1227e79fd.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ULD_433p.jpg"
-  },
   "54017": {
     "id": 54017,
     "name": "그림자",
@@ -8542,18 +8530,6 @@
     "text": "<b>속공</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee879af1741c86dc5abadf36ce1ce5411f4d0221de0b88618b122b3db57438b1.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_523t.jpg"
-  },
-  "61270": {
-    "id": 61270,
-    "name": "탐욕의 지옥사냥개",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": "악마",
-    "attack": 3,
-    "health": 6,
-    "text": "<b>타락함</b> <b>도발</b>, <b>생명력 흡수</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33f3565e4bbb39988db852af73972ce83e3590342cd61bd9543ee67827d35475.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_247t.jpg"
   },
   "61272": {
     "id": 61272,
