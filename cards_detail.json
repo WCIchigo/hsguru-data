@@ -188930,6 +188930,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "126055": {
+    "type": "언데드",
+    "type2": null,
+    "text": "내 덱이 카드 20장과 적의 카드를 복사한 카드 20장으로 구성됩니다. <b>전투의 함성:</b> 내 손이 가득 찰 때까지 카드를 뽑습니다.",
+    "flavorText": "원혼이 마녀숲을 공포로 지배하던 시대는 끝이 났습니다. 하지만 아잘리나의 창살을 빠져나가는 속삭임은 늘어만 갑니다. 그녀의 주문에 걸린 경비병은 몇 명이나 될까요? 한 가지만은 확실합니다. 바네사가 자의로 그녀와 거래하려 한다면, 거기에는 대가가 따른다는 것이죠...",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 7,
+    "health": 7,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Leroy Steinmann",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "126088": {
     "type": null,
     "type2": null,
