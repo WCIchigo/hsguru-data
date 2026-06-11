@@ -5991,23 +5991,6 @@
     "rarityName": "무료",
     "dustCost": 0
   },
-  "1022": {
-    "type": null,
-    "type2": null,
-    "text": "<b>전투의 함성:</b> 아군 하수인에게 <b>천상의 보호막</b>을 부여합니다.",
-    "flavorText": "\"화염구를 피할 수 있다고 말하는 게 아닙니다. 이 보호막이 있으면 피할 필요가 없다는 거지요.\"",
-    "keywords": "천상의 보호막, 전투의 함성",
-    "spellSchool": null,
-    "attack": 3,
-    "health": 2,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Doug Alexander",
-    "cardSet": "고전",
-    "rarityName": "일반",
-    "dustCost": 40
-  },
   "1023": {
     "type": null,
     "type2": null,
@@ -6092,6 +6075,23 @@
     "cardSet": "고전",
     "rarityName": "희귀",
     "dustCost": 100
+  },
+  "1047": {
+    "type": null,
+    "type2": null,
+    "text": "내 덱에서 카드를 <b>발견</b>합니다.",
+    "flavorText": "어떤 카드를 덱에 넣어야 할지 결정 못 하는 소심한 분들을 위해!",
+    "keywords": "발견",
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Mauro Cascioli",
+    "cardSet": "고전",
+    "rarityName": "무료",
+    "dustCost": 0
   },
   "1050": {
     "type": null,
@@ -6959,23 +6959,6 @@
     "cardSet": "고전",
     "rarityName": "일반",
     "dustCost": 40
-  },
-  "1365": {
-    "type": null,
-    "type2": null,
-    "text": "피해를 5 줍니다. 내 영웅이 생명력을 5 회복합니다.",
-    "flavorText": "흑마법사의 생명력 흡수와 뭐가 다르냐고요?... 신... 신성 모독이다!",
-    "keywords": null,
-    "spellSchool": "신성",
-    "attack": null,
-    "health": null,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Miguel Coimbra",
-    "cardSet": "고전",
-    "rarityName": "희귀",
-    "dustCost": 100
   },
   "1366": {
     "type": null,
@@ -10762,6 +10745,23 @@
     "cardSet": "고블린 대 노움",
     "rarityName": "일반",
     "dustCost": 40
+  },
+  "2045": {
+    "type": "기계",
+    "type2": null,
+    "text": "각 턴이 끝날 때, 내 전장에 다른 하수인이 없다면 이 하수인을 처치합니다.",
+    "flavorText": "암흑 원령은 사악하고, 신비롭고, 거대하며, 문장 하나도 제대로 완성하지 못하는 최악의 문법 실력을 갖고 있습니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 9,
+    "health": 9,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Josh Harris",
+    "cardSet": "고블린 대 노움",
+    "rarityName": "특급",
+    "dustCost": 400
   },
   "2046": {
     "type": "기계",
@@ -15685,6 +15685,23 @@
     "cardSet": "대 마상시합",
     "rarityName": "일반",
     "dustCost": 40
+  },
+  "2793": {
+    "type": null,
+    "type2": null,
+    "text": "하수인을 처치합니다. 무작위 하수인을 상대편의 손에 추가합니다.",
+    "flavorText": "흙에서 흙으로.",
+    "keywords": null,
+    "spellSchool": "자연",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Dan Scott",
+    "cardSet": "대 마상시합",
+    "rarityName": "특급",
+    "dustCost": 400
   },
   "2796": {
     "type": null,
@@ -30093,23 +30110,6 @@
     "rarityName": null,
     "dustCost": null
   },
-  "43064": {
-    "type": "언데드",
-    "type2": null,
-    "text": "<b>생명력 흡수</b> 이번 게임에서 내가 버린 카드 하나당 공격력을 +1 얻습니다.",
-    "flavorText": "피의 공주였던 시절에 라나텔은 숙녀가 알아야 할 기본적인 예절을 배웠습니다. 인사하는 법, 왕가의 다른 사람들을 대하는 법, 그리고 그들을 깨무는 법 등등.",
-    "keywords": "생명력 흡수",
-    "spellSchool": null,
-    "attack": 1,
-    "health": 6,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Greg Staples",
-    "cardSet": "얼어붙은 왕좌의 기사들",
-    "rarityName": "전설",
-    "dustCost": 1600
-  },
   "43072": {
     "type": null,
     "type2": null,
@@ -43848,6 +43848,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "51738": {
+    "type": null,
+    "type2": null,
+    "text": "내 영웅이 공격한 후에, 상대편의 덱에 폭탄을 섞어 넣습니다.",
+    "flavorText": "연장통에서 이 렌치를 뽑아 드는 자, 연구실의 정당한 왕이 될지어다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 3,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Akkapoj T.",
+    "cardSet": "어둠의 반격",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
   "51739": {
     "type": null,
     "type2": null,
@@ -48023,6 +48040,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "54011": {
+    "type": "해적",
+    "type2": null,
+    "text": "<b>죽음의 메아리:</b> 무작위 적 하수인을 상대편의 손으로 돌려보냅니다.",
+    "flavorText": "\"이거, 네가 떨어트린 거 같은데?\"",
+    "keywords": "죽음의 메아리",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "David Kegg",
+    "cardSet": "울둠의 구원자",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "54013": {
     "type": null,
     "type2": null,
@@ -48925,23 +48959,6 @@
     "cardSet": "울둠의 구원자",
     "rarityName": null,
     "dustCost": null
-  },
-  "54386": {
-    "type": null,
-    "type2": null,
-    "text": "피해를 받은 <b>모든</b> 하수인을 처치합니다.",
-    "flavorText": "줄여서 화병이라고 합니다.",
-    "keywords": null,
-    "spellSchool": null,
-    "attack": null,
-    "health": null,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Ludo Lullabi",
-    "cardSet": "울둠의 구원자",
-    "rarityName": "희귀",
-    "dustCost": 100
   },
   "54389": {
     "type": null,
@@ -50952,6 +50969,23 @@
     "cardSet": "용의 강림",
     "rarityName": "특급",
     "dustCost": 400
+  },
+  "55101": {
+    "type": null,
+    "type2": null,
+    "text": "카드를 3장 뽑습니다. 내 손에 용족이 있으면, 비용이 (3) 감소합니다.",
+    "flavorText": "\"그리하여 밀랍비늘이 타오르는 불길을 내뱉었으니, 오라, 악당과 무법자들이여! 충성을 맹세하고 양초를 높이 들어라!\"",
+    "keywords": null,
+    "spellSchool": "화염",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Konstantin Turovec",
+    "cardSet": "용의 강림",
+    "rarityName": "일반",
+    "dustCost": 40
   },
   "55102": {
     "type": null,
@@ -76457,6 +76491,23 @@
     "rarityName": "전설",
     "dustCost": 1600
   },
+  "64661": {
+    "type": null,
+    "type2": null,
+    "text": "<b>비밀</b>, 무기, 또는 <b>천상의 보호막</b> 하수인을 <b>발견</b>합니다.",
+    "flavorText": "저주받은 인형이나 반지 또는 타락한 룬검이 나오면 환불해 드리겠습니다.",
+    "keywords": "천상의 보호막, 비밀, 발견",
+    "spellSchool": "신성",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Akkapoj T.",
+    "cardSet": "스톰윈드",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "64665": {
     "type": null,
     "type2": null,
@@ -81686,6 +81737,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "69545": {
+    "type": null,
+    "type2": null,
+    "text": "내 덱에서 카드를 <b>발견</b>합니다.",
+    "flavorText": "어떤 카드를 덱에 넣어야 할지 결정 못 하는 소심한 분들을 위해!",
+    "keywords": "발견",
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Mauro Cascioli",
+    "cardSet": "핵심",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "69546": {
     "type": null,
     "type2": null,
@@ -83045,6 +83113,23 @@
     "cardSet": "알터랙 계곡",
     "rarityName": "일반",
     "dustCost": 40
+  },
+  "70025": {
+    "type": null,
+    "type2": null,
+    "text": "하수인에게 생명력을 +2 부여하고 그 하수인의 공격력을 생명력과 같은 수치로 바꿉니다.",
+    "flavorText": "축복은 나눌수록 커지잖아요.",
+    "keywords": null,
+    "spellSchool": "신성",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "BOSi Studio",
+    "cardSet": "알터랙 계곡",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "70026": {
     "type": null,
@@ -86809,6 +86894,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "71945": {
+    "type": "나가",
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 이번 턴에 내가 시전한 주문 하나당 빈 마나 수정을 회복합니다. <i>( )</i>",
+    "flavorText": "동시에 여러 일을 할 수 있어서 좋겠네요.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 1,
+    "health": 1,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Tanamaes Leejiarasaes",
+    "cardSet": "가라앉은 도시로의 항해",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "71949": {
     "type": "나가",
     "type2": null,
@@ -86910,6 +87012,23 @@
     "cardSet": "가라앉은 도시로의 항해",
     "rarityName": null,
     "dustCost": null
+  },
+  "72007": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 이 하수인이 살아있으면, 상대편이 내는 다음 하수인 또는 주문을 선택해 <b>차단</b>합니다. (비밀)",
+    "flavorText": "검으로 다 막아내는 검사가 여기 또 있군요.",
+    "keywords": "전투의 함성, 차단",
+    "spellSchool": null,
+    "attack": 2,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Hideaki Takamura",
+    "cardSet": "가라앉은 도시로의 항해",
+    "rarityName": "전설",
+    "dustCost": 1600
   },
   "72021": {
     "type": "멀록",
@@ -97115,6 +97234,23 @@
     "armor": null,
     "collectible": false,
     "artist": "Matt Dixon",
+    "cardSet": "나스리아 성채 살인 사건",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
+  "79537": {
+    "type": "악마",
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 아군 임프를 선택합니다. 그 임프로 변신합니다.",
+    "flavorText": "임포스터가 1명 남았습니다.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 1,
+    "health": 1,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Jason Kang",
     "cardSet": "나스리아 성채 살인 사건",
     "rarityName": "일반",
     "dustCost": 40
@@ -109065,6 +109201,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "92332": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 내 손을 촬영한 후에, 내 덱에 섞어 넣습니다. <i>(게임당 1회만 가능)</i>",
+    "flavorText": "인생샷 찍어드립니다.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Patrik Bjorkstrom",
+    "cardSet": "전설노래자랑",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "92333": {
     "type": null,
     "type2": null,
@@ -112875,6 +113028,23 @@
     "text": "<b>생명력 흡수</b>",
     "flavorText": null,
     "keywords": "생명력 흡수",
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Konstantin Turovec",
+    "cardSet": "티탄",
+    "rarityName": null,
+    "dustCost": null
+  },
+  "96489": {
+    "type": null,
+    "type2": null,
+    "text": "<b>질풍</b>",
+    "flavorText": null,
+    "keywords": "질풍",
     "spellSchool": null,
     "attack": null,
     "health": null,
@@ -123825,23 +123995,6 @@
     "rarityName": "전설",
     "dustCost": 1600
   },
-  "101075": {
-    "type": null,
-    "type2": null,
-    "text": "<b>전투의 함성:</b> 이번 게임에서 주문을 5회 이상 시전했으면, 카드를 2장 뽑습니다. <i>( 회 남음!)</i> <i>(달성!)</i>",
-    "flavorText": "용하게 들키지 않고 잘 빠져나갔습니다.",
-    "keywords": "전투의 함성",
-    "spellSchool": null,
-    "attack": 3,
-    "health": 4,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Vika Yarova",
-    "cardSet": "티탄",
-    "rarityName": "희귀",
-    "dustCost": 100
-  },
   "101076": {
     "type": "정령",
     "type2": null,
@@ -125137,6 +125290,23 @@
     "cardSet": "티탄",
     "rarityName": "희귀",
     "dustCost": 100
+  },
+  "101547": {
+    "type": null,
+    "type2": null,
+    "text": "이 하수인을 소환한 후에, 이번 게임에서 내가 소환한 다른 토석인 하나당 +2/+2를 얻습니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 2,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "James Ryman",
+    "cardSet": "티탄",
+    "rarityName": null,
+    "dustCost": null
   },
   "101549": {
     "type": null,
@@ -126552,6 +126722,23 @@
     "cardSet": "황야의 땅 결투",
     "rarityName": null,
     "dustCost": null
+  },
+  "102061": {
+    "type": null,
+    "type2": null,
+    "text": "생명력을 5 회복시킵니다. 주문을 <b>발견</b>합니다.",
+    "flavorText": "개구리가, 개구리를 위해, 개구리로 만들었습니다.",
+    "keywords": "발견",
+    "spellSchool": "자연",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Arthur Bozonnet",
+    "cardSet": "황야의 땅 결투",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "102067": {
     "type": "정령",
@@ -130364,6 +130551,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "102799": {
+    "type": null,
+    "type2": null,
+    "text": "<b>미니미</b>, <b>속공</b>, 내 턴에 이 하수인이 대상의 남은 생명력만큼 피해를 준 후에, 카드를 뽑습니다.",
+    "flavorText": "833일 전 알터랙 계곡의 일이 생생히 기억납니다.",
+    "keywords": "속공, 미니미",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ivan Fomin",
+    "cardSet": "위즈뱅의 장난감 공방",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "102800": {
     "type": null,
     "type2": null,
@@ -132074,6 +132278,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "103327": {
+    "type": null,
+    "type2": null,
+    "text": "<b>미니미</b>, 내가 주문을 처음 시전할 때 +2/+2를 얻습니다.",
+    "flavorText": "추억의 수습생: \"대학 시절로 다시 돌아갈 수 있다면 얼마나 좋을까...\" 켈투자드: \"그만.\"",
+    "keywords": "미니미",
+    "spellSchool": null,
+    "attack": 2,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Sergey Tsvelykh",
+    "cardSet": "위즈뱅의 장난감 공방",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "103329": {
     "type": null,
     "type2": null,
@@ -132124,23 +132345,6 @@
     "cardSet": "위즈뱅의 장난감 공방",
     "rarityName": "희귀",
     "dustCost": 100
-  },
-  "103333": {
-    "type": null,
-    "type2": null,
-    "text": "<b>미니미</b>, <b>전투의 함성:</b> 내 손에 있을 때 비용이 더 높은 카드를 냈으면, 피해를 4 줍니다.",
-    "flavorText": "예전에는 타락했었지만, 요즘은 오로지 재미만을 추구하는 공연을 합니다.",
-    "keywords": "전투의 함성, 미니미",
-    "spellSchool": null,
-    "attack": 6,
-    "health": 5,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "James Ryman",
-    "cardSet": "위즈뱅의 장난감 공방",
-    "rarityName": "특급",
-    "dustCost": 400
   },
   "103334": {
     "type": null,
@@ -138311,23 +138515,6 @@
     "cardSet": "위즈뱅의 장난감 공방",
     "rarityName": "희귀",
     "dustCost": 100
-  },
-  "105494": {
-    "type": "용족",
-    "type2": null,
-    "text": "<b>천상의 보호막</b>, <b>생명력 흡수</b> <b>전투의 함성:</b> 다른 하수인과 능력치를 바꿉니다.",
-    "flavorText": "불에 닿으면 종이에 베여, 화상과 맞먹는 쓰라림이 몰려옵니다. 어때요?",
-    "keywords": "천상의 보호막, 전투의 함성, 생명력 흡수",
-    "spellSchool": null,
-    "attack": 1,
-    "health": 1,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Ivo Campelo da Silva",
-    "cardSet": "위즈뱅의 장난감 공방",
-    "rarityName": "특급",
-    "dustCost": 400
   },
   "105495": {
     "type": "야수",
@@ -159100,6 +159287,23 @@
     "rarityName": "전설",
     "dustCost": 1600
   },
+  "115052": {
+    "type": null,
+    "type2": null,
+    "text": "하수인에게 +2/+2와 \"<b>죽음의 메아리:</b> 아군 하수인에게 +2/+2와 이 <b>죽음의 메아리</b> 능력 부여\" 능력을 부여합니다.",
+    "flavorText": "뛰기 전에 잘 살펴보세요.",
+    "keywords": "죽음의 메아리",
+    "spellSchool": "자연",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Danny Beck",
+    "cardSet": "에메랄드의 꿈 속으로",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
   "115055": {
     "type": null,
     "type2": null,
@@ -178764,6 +178968,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "120976": {
+    "type": "기계",
+    "type2": null,
+    "text": "이 하수인이 받는 모든 피해가 두 배 증가합니다.",
+    "flavorText": "이건 불공평해요! 측정하니까 결과가 바뀌었잖아요!",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 4,
+    "health": 9,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Matt Dixon",
+    "cardSet": "시간의 길 너머로",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "120977": {
     "type": "정령",
     "type2": null,
@@ -188034,6 +188255,23 @@
     "armor": null,
     "collectible": true,
     "artist": "Juan Calle",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
+  "124003": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 적 하수인을 선택합니다. 그 하수인의 <b>추가 효과</b>를 가져오고 가져온 효과 하나당 +1/+1을 획득합니다.",
+    "flavorText": "꽃밭에는 나쁜 소식입니다.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Mike Sass",
     "cardSet": "보랏빛 요새 탈출 작전",
     "rarityName": "일반",
     "dustCost": 40
