@@ -59,18 +59,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1faa6d09c4263d2da77105f4a06e1bd5fffd467b6bffa903b43dddb70b8b7356.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/123d66b8573200286177d91c820a041b83f1f6e334212d013a1a817b02e289a2.png"
   },
-  "45": {
-    "id": 45,
-    "name": "타우렌 전사",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 2,
-    "health": 3,
-    "text": "<b>도발</b> 피해를 받은 상태면 공격력을 +3 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6219795e64a94a9df8ef45dcfc9d1a064f96e2fdf3ea95cba9d291e66ca18adc.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/037e874398b53b64486b2417694ffa306d31643aff1bb4f55cb71623d47d4309.png"
-  },
   "48": {
     "id": 48,
     "name": "공허방랑자",
@@ -2842,66 +2830,6 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75dd05b825970ab8fc27923bb5976e14b208a757f81d7fa1c672289d1fd8758c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_083t1.jpg"
-  },
-  "41329": {
-    "id": 41329,
-    "name": "바위 정령",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "정령",
-    "attack": 1,
-    "health": 1,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e0e9b47bfd9d423b9731cafb98959e5d3446f711eadd6fb8015f4773e02a381.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_211aa.jpg"
-  },
-  "41330": {
-    "id": 41330,
-    "name": "대지의 기원",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "내 전장을 1/1 정령으로 가득 채웁니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61c612b50d58315a66347d8a9d7fb588e307a080d3a7dc48dfed97c583c151fc.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_211a.jpg"
-  },
-  "41334": {
-    "id": 41334,
-    "name": "물의 기원",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "내 영웅의 생명력을 12 회복시킵니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ad60e5cee8b3a64a682b5857422a78eb8e8050476445be130b93ec4c2136562.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_211b.jpg"
-  },
-  "41335": {
-    "id": 41335,
-    "name": "불의 기원",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "적 영웅에게 피해를 6 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/286dd700856be87e67c6e1579e548ed930e555334cbbe34de28c69a9b03fd876.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_211c.jpg"
-  },
-  "41336": {
-    "id": 41336,
-    "name": "바람의 기원",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "모든 적 하수인에게 피해를 3 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dddfce8dee5b34adbee40036bbf5e9b3c1b3d1ee12876cf8057aff0838fce592.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_211d.jpg"
   },
   "41356": {
     "id": 41356,
@@ -14878,18 +14806,6 @@
     "text": "내 턴이 끝날 때, 내 손에 있는 무작위 하수인에게 +2/+2를 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71e2baa2fdfa1436ecef2b0967e6882eea5268e6c151639d77e07d928e1c92d0.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/256d47e9cf82027eb66d851593c1d9a6f9a4f1427e89fba3bb4a599ce9f6390f.png"
-  },
-  "92266": {
-    "id": 92266,
-    "name": "전개 악절",
-    "manaCost": 1,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "이번 턴에 내 영웅이 공격력을 +2 얻습니다. 방어도를 +2 얻습니다. <b>피날레:</b> 내 마지막 악절을 냅니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a1f1b1f02283e2a815350e33ebcebff04074cfe819614e1d9f8e49a9a13ae6b.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7f90bcc3a6d99be4c3553ed8e6d0f6fa0904714089b132268af5605e9cb352f.png"
   },
   "92267": {
     "id": 92267,
