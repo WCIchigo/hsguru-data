@@ -18431,6 +18431,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5ddda448d01399d00feed14b177b11c917ef4cf893f03464de6f4c2145d2db7.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_340t1.jpg"
   },
+  "103334": {
+    "id": 103334,
+    "name": "추억의 광대",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 1,
+    "health": 1,
+    "text": "<b>미니</b>, <b>전투의 함성:</b> 내 손에 있을 때 비용이 더 높은 카드를 냈으면, 피해를 4 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ccc70385a8baf71f73c0d93a47e03f0e18290f0810a22b29b329b3e88d9b80d.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_341t.jpg"
+  },
   "103339": {
     "id": 103339,
     "name": "황야의 땅 감옥",

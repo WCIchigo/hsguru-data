@@ -5991,6 +5991,23 @@
     "rarityName": "무료",
     "dustCost": 0
   },
+  "1022": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 아군 하수인에게 <b>천상의 보호막</b>을 부여합니다.",
+    "flavorText": "\"화염구를 피할 수 있다고 말하는 게 아닙니다. 이 보호막이 있으면 피할 필요가 없다는 거지요.\"",
+    "keywords": "천상의 보호막, 전투의 함성",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Doug Alexander",
+    "cardSet": "고전",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "1023": {
     "type": null,
     "type2": null,
@@ -6959,6 +6976,23 @@
     "cardSet": "고전",
     "rarityName": "일반",
     "dustCost": 40
+  },
+  "1365": {
+    "type": null,
+    "type2": null,
+    "text": "피해를 5 줍니다. 내 영웅이 생명력을 5 회복합니다.",
+    "flavorText": "흑마법사의 생명력 흡수와 뭐가 다르냐고요?... 신... 신성 모독이다!",
+    "keywords": null,
+    "spellSchool": "신성",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Miguel Coimbra",
+    "cardSet": "고전",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "1366": {
     "type": null,
@@ -30110,6 +30144,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "43064": {
+    "type": "언데드",
+    "type2": null,
+    "text": "<b>생명력 흡수</b> 이번 게임에서 내가 버린 카드 하나당 공격력을 +1 얻습니다.",
+    "flavorText": "피의 공주였던 시절에 라나텔은 숙녀가 알아야 할 기본적인 예절을 배웠습니다. 인사하는 법, 왕가의 다른 사람들을 대하는 법, 그리고 그들을 깨무는 법 등등.",
+    "keywords": "생명력 흡수",
+    "spellSchool": null,
+    "attack": 1,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Greg Staples",
+    "cardSet": "얼어붙은 왕좌의 기사들",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "43072": {
     "type": null,
     "type2": null,
@@ -48959,6 +49010,23 @@
     "cardSet": "울둠의 구원자",
     "rarityName": null,
     "dustCost": null
+  },
+  "54386": {
+    "type": null,
+    "type2": null,
+    "text": "피해를 받은 <b>모든</b> 하수인을 처치합니다.",
+    "flavorText": "줄여서 화병이라고 합니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ludo Lullabi",
+    "cardSet": "울둠의 구원자",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "54389": {
     "type": null,
@@ -123995,6 +124063,23 @@
     "rarityName": "전설",
     "dustCost": 1600
   },
+  "101075": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 이번 게임에서 주문을 5회 이상 시전했으면, 카드를 2장 뽑습니다. <i>( 회 남음!)</i> <i>(달성!)</i>",
+    "flavorText": "용하게 들키지 않고 잘 빠져나갔습니다.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Vika Yarova",
+    "cardSet": "티탄",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "101076": {
     "type": "정령",
     "type2": null,
@@ -132346,6 +132431,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "103333": {
+    "type": null,
+    "type2": null,
+    "text": "<b>미니미</b>, <b>전투의 함성:</b> 내 손에 있을 때 비용이 더 높은 카드를 냈으면, 피해를 4 줍니다.",
+    "flavorText": "예전에는 타락했었지만, 요즘은 오로지 재미만을 추구하는 공연을 합니다.",
+    "keywords": "전투의 함성, 미니미",
+    "spellSchool": null,
+    "attack": 6,
+    "health": 5,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "James Ryman",
+    "cardSet": "위즈뱅의 장난감 공방",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
   "103334": {
     "type": null,
     "type2": null,
@@ -138515,6 +138617,23 @@
     "cardSet": "위즈뱅의 장난감 공방",
     "rarityName": "희귀",
     "dustCost": 100
+  },
+  "105494": {
+    "type": "용족",
+    "type2": null,
+    "text": "<b>천상의 보호막</b>, <b>생명력 흡수</b> <b>전투의 함성:</b> 다른 하수인과 능력치를 바꿉니다.",
+    "flavorText": "불에 닿으면 종이에 베여, 화상과 맞먹는 쓰라림이 몰려옵니다. 어때요?",
+    "keywords": "천상의 보호막, 전투의 함성, 생명력 흡수",
+    "spellSchool": null,
+    "attack": 1,
+    "health": 1,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ivo Campelo da Silva",
+    "cardSet": "위즈뱅의 장난감 공방",
+    "rarityName": "특급",
+    "dustCost": 400
   },
   "105495": {
     "type": "야수",

@@ -1407,6 +1407,10 @@
     "name": "공포의 지옥불악마",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12b9d0b5118c70552f57c2b3f29183981de75534dc2e1e51451ad80dfa188b48.png"
   },
+  "1022": {
+    "name": "여명회 파수병",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa5587b20ca1aed54dc0730cf34ada64829a4a619ac370ba597d1958ae9595bd.png"
+  },
   "1023": {
     "name": "방패 올리기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0763088348e6f6528144a8f87b78865adb717c68546c1477046d550a83c81ead.png"
@@ -1634,6 +1638,10 @@
   "1364": {
     "name": "사원 집행자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/457ebf81444f5d714b6cbebad8c513acafacd8d7a141f9f860e641a1e6c53944.png"
+  },
+  "1365": {
+    "name": "신성한 불꽃",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3941c6defffe60411bdc9633adde0f9b8dc7be0f57064dd4e45a91d942d44fb.png"
   },
   "1366": {
     "name": "대규모 무효화",
@@ -7067,6 +7075,10 @@
     "name": "해골",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad9fa6d6500e2927668359f73c9f4148f797409cf484a4f6ab8ee59737149894.png"
   },
+  "43064": {
+    "name": "피의 여왕 라나텔",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f98d36957faaccc1a5057082c5b1c190bddae7773fa9ac23cdc22f434304ef36.png"
+  },
   "43072": {
     "name": "무라비",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a828c968526e8b0643d9f9fca01c27dbfd9e5baa27f0112f83b6e2481cdade1f.png"
@@ -11482,6 +11494,10 @@
   "54370": {
     "name": "비르나알의 심장",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e51b9690a983ac0d9a1ed2c682398a08ca5e918647d4bae3325b0b87da367c2.png"
+  },
+  "54386": {
+    "name": "분노의 역병",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5eb71ad5b81fee03db2f72e9a421168de5db09200981801957a0564c16885d56.png"
   },
   "54389": {
     "name": "전류가 흐르는 창",
@@ -29071,6 +29087,10 @@
     "name": "저무는 태양 파이",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ede0a764bdd7bbabb5d2d9607cff6aaff41442694fd9982829d4d6728673647f.png"
   },
+  "101075": {
+    "name": "성가신 하인",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d894bd2f5b21b0c02ce78292920d1783b88ffea2d3d3f607048869bcdb7911b6.png"
+  },
   "101076": {
     "name": "오염된 잔존물",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db17f27625e96a655ef13709c869592fce8ce49e6df32e300de120baddcdd5e4.png"
@@ -31027,6 +31047,10 @@
     "name": "동화 숲",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9377fe89f8613206e0ed958bb2b0fd1b7767b8c0d4db6d2339a0aef32166a7c4.png"
   },
+  "103333": {
+    "name": "추억의 광대",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/002d5958a2466a2b56bf0f6c2dd59cd72a3d5e4cc05f6bf3a24b4980665e86bb.png"
+  },
   "103334": {
     "name": "추억의 광대",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ccc70385a8baf71f73c0d93a47e03f0e18290f0810a22b29b329b3e88d9b80d.png"
@@ -32466,6 +32490,10 @@
   "105493": {
     "name": "종이 학",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad84e1dcab047a332224628759a72658b5ce50cf174f642f5da1793edc6c749f.png"
+  },
+  "105494": {
+    "name": "종이 용",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf69656543ec53efeadd24d8ca7703f11bca69203ccf3c84b6f5839b044a39a3.png"
   },
   "105495": {
     "name": "흐물흐물 히드라",
