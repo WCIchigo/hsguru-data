@@ -31963,10 +31963,6 @@
     "name": "휘청거리는 좀비전차",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63bf05780b3a3c8fa6974a57975e06730f9a03ad8c645e6a77886b1337d7e611.png"
   },
-  "104637": {
-    "name": "저주받은 기사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/108e9abe852370af3bca53ca61efe5711e4cb30254484afcb1636cba4fd6c56d.png"
-  },
   "104638": {
     "name": "저주받은 기사의 머리",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1cd370f273bac7b39f4e88c8a2f2657fe2eb059b096e345090b94f4513da6da9.png"
@@ -33678,10 +33674,6 @@
   "108346": {
     "name": "고르곤조르무",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b280ca1c07b7152f6f5a7b038da27a7fbc04f6932292567281344d4967b9e02.png"
-  },
-  "108348": {
-    "name": "파두족이",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/403f98c0fc0584512273d25c2ea5042c5d17e9289416e62dac0890d14367342f.png"
   },
   "108357": {
     "name": "최고의 등껍질",
@@ -44306,6 +44298,10 @@
   "126088": {
     "name": "종말의 그림자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/264b5eef4865f46461bb5e6b229692fc6379f407047c2b501a040d4d46446e0d.png"
+  },
+  "126092": {
+    "name": "잘 속는 경비병",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6383441d722a26c088c0945509e8245a671dba04cdc546fd8669c355a8164e82.png"
   },
   "126097": {
     "name": "치명적인 뇌물",

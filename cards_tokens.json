@@ -18743,30 +18743,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e450f26a2ccb5046b6baa1b4929f244aee3b35f1f8c380646d7464ad01d754e.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_804t.jpg"
   },
-  "104638": {
-    "id": 104638,
-    "name": "저주받은 기사의 머리",
-    "manaCost": 2,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "<b>뽑을 때 시전</b>되어 적이 <i>두려움에 떨지어다!</i> 언데드의 영혼을 네 <i>영웅 능력</i>에 불어넣거라!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1cd370f273bac7b39f4e88c8a2f2657fe2eb059b096e345090b94f4513da6da9.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_829t.jpg"
-  },
-  "104639": {
-    "id": 104639,
-    "name": "고동치는 호박",
-    "manaCost": 2,
-    "cardType": null,
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "압도적인 <i>완력</i>으로 피해를 3 주어라! <i>졸개</i>로 부릴 언데드를 <b>발견</b>하라!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c80d28cff3ad790b1d18641b3be22881cc246048cf8d89a116c969940e7c577.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_829hp.jpg"
-  },
   "104642": {
     "id": 104642,
     "name": "장난감 대장 타림",
@@ -19979,18 +19955,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89ab9d482475a84501cae6e1b0ffacb6057c3ddc23187dd32da6fa13fb35c9e4.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_525t2.jpg"
   },
-  "109196": {
-    "id": 109196,
-    "name": "고동치는 호박",
-    "manaCost": 2,
-    "cardType": null,
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "압도적인 <i>완력</i>으로 피해를 3 주어라! 내 머리를 <i>뽑으면</i> 내 군대가 네 것이 되리라!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c84f4166f9078927018a2679d7081d52eec01c9e926251f45bd74376c2475c9a.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_829hp3.jpg"
-  },
   "109261": {
     "id": 109261,
     "name": "후렴 해적",
@@ -20698,18 +20662,6 @@
     "text": "<b><b>주문폭주</b>:</b> 주문의 힘을 흡수합니다! |1(을,를) 시전합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/572b527660b8e47777c6e34c06d95197a68ccddc157480609e52ce41b2784689.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/GDB_136t.jpg"
-  },
-  "111901": {
-    "id": 111901,
-    "name": "저주받은 기사",
-    "manaCost": 6,
-    "cardType": "영웅",
-    "minionType": null,
-    "attack": null,
-    "health": 30,
-    "text": "<b>전투의 함성:</b> <i>공격력</i>이 가장 높은 적 하수인을 처치한다! 내 머리를 덱에 섞어 넣고, 반드시 <i>되찾아라</i>!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a57f73e51f765ab9eb27b5a8081053d2c7d553b084cca7ed5921ecaf38a4b4b7.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_829t2.jpg"
   },
   "111907": {
     "id": 111907,

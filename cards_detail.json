@@ -136370,23 +136370,6 @@
     "rarityName": "일반",
     "dustCost": 40
   },
-  "104637": {
-    "type": null,
-    "type2": null,
-    "text": "<b>전투의 함성:</b> <i>공격력</i>이 가장 높은 적 하수인을 처치한다! 내 머리를 덱에 섞어 넣고, 반드시 <i>되찾아라</i>!",
-    "flavorText": "이 카드 설명에 재미있는 드립과 살아있는 라임을 기대했겠지! 하지만 그런 건 없다.",
-    "keywords": "전투의 함성",
-    "spellSchool": null,
-    "attack": null,
-    "health": 30,
-    "durability": null,
-    "armor": 5,
-    "collectible": true,
-    "artist": "Grafit Studio",
-    "cardSet": "위즈뱅의 장난감 공방",
-    "rarityName": "전설",
-    "dustCost": 1600
-  },
   "104638": {
     "type": null,
     "type2": null,
@@ -143690,23 +143673,6 @@
     "cardSet": "극한의 극락",
     "rarityName": "전설",
     "dustCost": 1600
-  },
-  "108348": {
-    "type": "야수",
-    "type2": null,
-    "text": "<b>전투의 함성:</b> 내가 뽑는 다음 주문은 <b>뽑을 때 시전</b>됩니다.",
-    "flavorText": "안녕하십니까! 문어 전문가인데, 이건 웃을 일이 아닙니다. 문어가 이러는 건 통돌이를 당했을 때뿐이거든요.",
-    "keywords": "전투의 함성",
-    "spellSchool": null,
-    "attack": 4,
-    "health": 4,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Max Grecke",
-    "cardSet": "극한의 극락",
-    "rarityName": "희귀",
-    "dustCost": 100
   },
   "108357": {
     "type": null,
@@ -189099,6 +189065,23 @@
     "cardSet": "핵심",
     "rarityName": "전설",
     "dustCost": 1600
+  },
+  "126092": {
+    "type": null,
+    "type2": null,
+    "text": "<b>죽음의 메아리:</b> 이번 게임에 사과할 수 있습니다.",
+    "flavorText": "아아, 경비병인데 장비를 집에 두고 왔다고요? 정말 미안해요. 탈옥하려는 죄수로 착각했지 뭐예요!",
+    "keywords": "죽음의 메아리",
+    "spellSchool": null,
+    "attack": 1,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Matt Dixon",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": "일반",
+    "dustCost": 40
   },
   "126097": {
     "type": null,
