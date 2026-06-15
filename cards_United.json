@@ -12823,10 +12823,6 @@
     "name": "사로잡힌 안타엔",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89158f76c629694fdbe0b9b23083eb6bc57c67dc2178d52e0b9eb67ad24cc10a.png"
   },
-  "56652": {
-    "name": "추방자 알트루이스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42990a5ba30d06cd50def6509ed020a3837642ed7f4e03b79ef97e7f134d9bea.png"
-  },
   "56656": {
     "name": "카르가스 프라임",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7969a7cea9d5508fda99f78186d94b331f6b061ff79a9c3fbc4a89dbb1958c69.png"
@@ -44226,6 +44222,10 @@
   "125451": {
     "name": "시네스트라의 날개",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4228fe30bf53763ba2ff37bbf1185eb8ff74ea363f3e786d9c6a4efeba7cac92.png"
+  },
+  "125462": {
+    "name": "임박한 죽음 브아마",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69c1c98f29e7f99b1972bbdd964434abf2e87ce51f98ca99f5cca5288e4bd328.png"
   },
   "125466": {
     "name": "무자비",
