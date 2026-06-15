@@ -54675,6 +54675,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "56652": {
+    "type": null,
+    "type2": null,
+    "text": "내가 내 손에서 가장 오른쪽 또는 왼쪽에 있는 카드를 낸 후에, 모든 적에게 피해를 1 줍니다.",
+    "flavorText": "이단아 알트루이스는 일리단을 배신하고 자신만의 길을 택했습니다. 충직한 친구 네스란다무스와 함께 말이죠.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 4,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Jerry Mascho",
+    "cardSet": "수습 악마사냥꾼",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "56656": {
     "type": "기계",
     "type2": null,
