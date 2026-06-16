@@ -1359,10 +1359,6 @@
     "name": "늑대인간 침투요원",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/111a5d6a9a22fb2c238b8f598ca1155341de58301f21a229e4f0f36a3b843d10.png"
   },
-  "995": {
-    "name": "오우거 마법사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6092a26818b61c14610210c68b30f3438b9740b53f90e72b6228b86b12e45466.png"
-  },
   "997": {
     "name": "붉은해적단 바다사냥꾼",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cdf08bb39b92cb9bfa7dc0837056da5d642e084729fd7bad37cc2ad1a525a43d.png"
@@ -22391,10 +22387,6 @@
     "name": "천상의 종",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d8fe4a4a0dee873b4e523ef28261bcc373e8e727510452286b18198ea016169.png"
   },
-  "78086": {
-    "name": "백작",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f941d60eecdefc2d36c4dc71039266145f8c0cab7d7ea9470549f1d6db74bb1.png"
-  },
   "78111": {
     "name": "죄악의 낙인",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d79a1e64353736ea9529f9bd20c4788801dd35ebdd603a888434cc89241a4e6.png"
@@ -24010,10 +24002,6 @@
   "84737": {
     "name": "핏빛 병사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e4ac565eae33e06b22302c0f0e30f5b28f2e41d39ba29df7525d43200ca3235.png"
-  },
-  "84739": {
-    "name": "피의 문장",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e9424d2ae393b00335ad89bb802495c8a014b21c3b6adef872fd476435209ae.png"
   },
   "84740": {
     "name": "혈기사단장 리아드린",
@@ -44294,6 +44282,10 @@
   "125989": {
     "name": "연꽃 두목 아이야",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e42d00bab92811db5fc73292bd3f0b5cf8116e0bb2ab744c4de2c2841f84995.png"
+  },
+  "125998": {
+    "name": "마법의 뒤안길의 왕",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/479fb74ee79dcea6b08ead17246692cd6dba705b0073ce83d40b0d47d55c75f1.png"
   },
   "126002": {
     "name": "사슬을 끊은 들창코",

@@ -13451,18 +13451,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6113bf9f86d96ca449bb1a925393e424bcea92aa7b6457c56612f328f33d29c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/REV_350t2.jpg"
   },
-  "79922": {
-    "id": 79922,
-    "name": "전설 초대장",
-    "manaCost": 2,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "다른 직업의 <b>전설</b> 하수인을 <b>발견</b>합니다. 그 하수인의 비용이 (0)이 됩니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2f5bda84d3cf349e062e4cc271448a2a7873e1d1b56fae68f4bea4b61441372.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/REV_951t.jpg"
-  },
   "79929": {
     "id": 79929,
     "name": "죄악가동 갑옷",
