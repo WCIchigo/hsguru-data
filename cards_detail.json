@@ -5787,6 +5787,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "995": {
+    "type": null,
+    "type2": null,
+    "text": "<b>주문 공격력 +1</b>",
+    "flavorText": "오우거에게 마법을 가르치다니, 차라리 드워프에게 금주를 권하겠어요! 어우, 끔찍해라.",
+    "keywords": "주문 공격력",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "James Ryman",
+    "cardSet": "고전",
+    "rarityName": "무료",
+    "dustCost": 0
+  },
   "997": {
     "type": "해적",
     "type2": null,
@@ -95426,6 +95443,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "78086": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 내 덱에 중립 카드가 없으면, <b>전설</b> 초대장 3장을 내 손으로 가져옵니다.",
+    "flavorText": "한 번에 전설 3장 나왔는데 이거 좋은 건가요?",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 7,
+    "health": 7,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "James Ryman",
+    "cardSet": "나스리아 성채 살인 사건",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "78111": {
     "type": null,
     "type2": null,
@@ -102307,6 +102341,23 @@
     "cardSet": "리치 왕의 진군",
     "rarityName": "희귀",
     "dustCost": 100
+  },
+  "84739": {
+    "type": null,
+    "type2": null,
+    "text": "하수인에게 +3/+3과 <b>천상의 보호막</b>을 부여합니다. 내 영웅에게 피해를 3 줍니다.",
+    "flavorText": "피는 잘 멎죠?",
+    "keywords": "천상의 보호막",
+    "spellSchool": "신성",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Vika Yarova",
+    "cardSet": "리치 왕의 진군",
+    "rarityName": "일반",
+    "dustCost": 40
   },
   "84740": {
     "type": null,
