@@ -190209,6 +190209,23 @@
     "rarityName": "전설",
     "dustCost": 1600
   },
+  "126425": {
+    "type": "기계",
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 내 덱에 있는 모든 주문을 복사합니다. <b>죽음의 메아리:</b> 하나를 뽑습니다.",
+    "flavorText": "널 잡아 버리겠어.",
+    "keywords": "전투의 함성, 죽음의 메아리",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": " Mooncolony",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "126451": {
     "type": "언데드",
     "type2": null,
