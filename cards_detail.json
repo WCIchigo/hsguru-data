@@ -2502,23 +2502,6 @@
     "rarityName": "무료",
     "dustCost": 0
   },
-  "447": {
-    "type": null,
-    "type2": null,
-    "text": "모든 적 하수인에게 피해를 1 줍니다.",
-    "flavorText": "위력에 비해 비용이 신비한 주문입니다.",
-    "keywords": null,
-    "spellSchool": "비전",
-    "attack": null,
-    "health": null,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Howard Lyon",
-    "cardSet": "고전",
-    "rarityName": "무료",
-    "dustCost": 0
-  },
   "453": {
     "type": "멀록",
     "type2": null,
@@ -3302,23 +3285,6 @@
     "cardSet": "고전",
     "rarityName": "전설",
     "dustCost": 1600
-  },
-  "564": {
-    "type": null,
-    "type2": null,
-    "text": "모든 적에게 3의 피해를 무작위로 나누어 입힙니다.",
-    "flavorText": "솔직히 당신은 엄청나게 강한 마법사니까 신비한 화살 정도는 잘 조준할 수 있을 거라 생각하셨죠?",
-    "keywords": null,
-    "spellSchool": "비전",
-    "attack": null,
-    "health": null,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Warren Mahy",
-    "cardSet": "고전",
-    "rarityName": "무료",
-    "dustCost": 0
   },
   "567": {
     "type": null,
@@ -25277,23 +25243,6 @@
     "armor": null,
     "collectible": true,
     "artist": "Rafael Zanchetin",
-    "cardSet": "운고로를 향한 여정",
-    "rarityName": "일반",
-    "dustCost": 40
-  },
-  "41315": {
-    "type": "야수",
-    "type2": null,
-    "text": null,
-    "flavorText": "긴 목이 진화하여 더욱 긴 목을 가지게 됐습니다.",
-    "keywords": null,
-    "spellSchool": null,
-    "attack": 7,
-    "health": 14,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Laurel Austin",
     "cardSet": "운고로를 향한 여정",
     "rarityName": "일반",
     "dustCost": 40
@@ -110558,23 +110507,6 @@
     "rarityName": "일반",
     "dustCost": 40
   },
-  "94205": {
-    "type": null,
-    "type2": null,
-    "text": "<b>전투의 함성:</b> 비용이 (6) 이상인 카드를 2장 뽑습니다. <b>피날레:</b> 그 카드들의 비용이 (1) 감소합니다.",
-    "flavorText": "\"으, 겨울의 평화파괴자들은 우리 음악을 이해 못 해.\"",
-    "keywords": "전투의 함성, 피날레",
-    "spellSchool": null,
-    "attack": 4,
-    "health": 5,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Tanamaes Leejierasaes",
-    "cardSet": "전설노래자랑",
-    "rarityName": "희귀",
-    "dustCost": 100
-  },
   "94210": {
     "type": null,
     "type2": null,
@@ -168043,23 +167975,6 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
-  "117877": {
-    "type": null,
-    "type2": null,
-    "text": "<b>전투의 함성:</b> 이번 게임에서 죽은 아군 하수인 다섯의 <b>죽음의 메아리</b> 능력을 발동시킵니다.",
-    "flavorText": "오랫동안 추방 생활을 한 움브라는 마침내 도시로 돌아가게 되었습니다. 도착하면 토르톨란들이 받아야 마땅한 것을 받도록 할 작정입니다...",
-    "keywords": "전투의 함성, 죽음의 메아리",
-    "spellSchool": null,
-    "attack": 6,
-    "health": 6,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Matt Dixon",
-    "cardSet": "운고로의 잃어버린 도시",
-    "rarityName": "전설",
-    "dustCost": 1600
-  },
   "117885": {
     "type": "정령",
     "type2": null,
@@ -177105,23 +177020,6 @@
     "rarityName": null,
     "dustCost": null
   },
-  "120658": {
-    "type": null,
-    "type2": null,
-    "text": "<b>죽음의 메아리:</b> 모든 하수인을 처치합니다.",
-    "flavorText": "드디어 우두머리에게서 갖고 싶던 전리품이 나왔어! 근데 하필 왜 부캐인 거야...",
-    "keywords": "죽음의 메아리",
-    "spellSchool": null,
-    "attack": 1,
-    "health": 6,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Drew Hill",
-    "cardSet": "이벤트",
-    "rarityName": "전설",
-    "dustCost": 1600
-  },
   "120662": {
     "type": "악마",
     "type2": null,
@@ -185244,23 +185142,6 @@
     "rarityName": "일반",
     "dustCost": 40
   },
-  "122832": {
-    "type": "용족",
-    "type2": null,
-    "text": "<b>전투의 함성:</b> 내 거수|1(을,를) <b>예고</b>합니다. 데스윙의 비용이 (1) 감소합니다. <i>(<b>예고</b> 시 강화됨!)</i>",
-    "flavorText": "몇 년 후면 울트라기각시온이라는 이름으로 통할 겁니다.",
-    "keywords": "전투의 함성, 예고",
-    "spellSchool": null,
-    "attack": 6,
-    "health": 7,
-    "durability": null,
-    "armor": null,
-    "collectible": true,
-    "artist": "Mooncolony",
-    "cardSet": "대격변",
-    "rarityName": "전설",
-    "dustCost": 1600
-  },
   "122833": {
     "type": null,
     "type2": null,
@@ -189201,6 +189082,23 @@
     "cardSet": "보랏빛 요새 탈출 작전",
     "rarityName": "일반",
     "dustCost": 40
+  },
+  "126116": {
+    "type": null,
+    "type2": null,
+    "text": "주문을 <b>발견</b>하거나, 선택지를 새로고침합니다. <i>(새로고침할 때마다 20% 확률로 피해를 5 받습니다!)</i>",
+    "flavorText": "마지막으로 이걸 사용하려던 사람의 유골입니다.",
+    "keywords": "발견",
+    "spellSchool": "비전",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Kevin Sidharta",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": "전설",
+    "dustCost": 1600
   },
   "126122": {
     "type": null,
