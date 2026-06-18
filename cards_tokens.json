@@ -25967,6 +25967,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a81ae6b1652ed74aa57b2568352f47e8a033fa2753921f38e30c5905156387b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_478t.jpg"
   },
+  "126319": {
+    "id": 126319,
+    "name": "시체간호사",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": "언데드",
+    "attack": 3,
+    "health": 1,
+    "text": "<b>생명력 흡수</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f503b67c9d1a40827c6e0a2e5a5c0e3fa01ec719121e37e42577d37ca27a431f.png",
+    "cropImage": null
+  },
   "126366": {
     "id": 126366,
     "name": "흡혈귀의 입맞춤",
