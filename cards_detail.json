@@ -6127,6 +6127,23 @@
     "rarityName": "무료",
     "dustCost": 0
   },
+  "1063": {
+    "type": "멀록",
+    "type2": null,
+    "text": "내 다른 멀록들이 공격력을 +2 얻습니다.",
+    "flavorText": "멀록들은 매일 똑같은 소리만 내는 게 지겹지 않을까요? 아니요! 므라아옳옳옳옳옳옳!",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Tim McBurnie",
+    "cardSet": "고전",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
   "1064": {
     "type": null,
     "type2": null,
@@ -27525,6 +27542,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "42068": {
+    "type": null,
+    "type2": null,
+    "text": "이번 게임에서 죽은 무작위 아군 하수인을 소환합니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Konstantin Turovec",
+    "cardSet": "비열한 거리의 가젯잔",
+    "rarityName": null,
+    "dustCost": null
+  },
   "42069": {
     "type": null,
     "type2": null,
@@ -28803,6 +28837,23 @@
     "cardSet": "얼어붙은 왕좌의 기사들",
     "rarityName": "전설",
     "dustCost": 1600
+  },
+  "42642": {
+    "type": "악마",
+    "type2": null,
+    "text": "이 하수인이 피해를 받을 때마다 무작위로 카드를 버립니다.",
+    "flavorText": "입에 카드를 넣고 다니는 게 문제라면 문제입니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 3,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Konstantin Turovec",
+    "cardSet": "얼어붙은 왕좌의 기사들",
+    "rarityName": "일반",
+    "dustCost": 40
   },
   "42648": {
     "type": null,
@@ -32118,6 +32169,23 @@
     "armor": null,
     "collectible": true,
     "artist": "Arthur Bozonnet",
+    "cardSet": "얼어붙은 왕좌의 기사들",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
+  "45328": {
+    "type": "언데드",
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 이번 턴에 죽은 하수인 하나당 +1/+1을 얻습니다.",
+    "flavorText": "이런 사악한 녀석들 때문에 정상적이고 준법 정신이 투철한 해골들에게까지 피해가 간단 말입니다.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 1,
+    "health": 1,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Nicola Saviori",
     "cardSet": "얼어붙은 왕좌의 기사들",
     "rarityName": "일반",
     "dustCost": 40
@@ -99212,6 +99280,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "80664": {
+    "type": null,
+    "type2": null,
+    "text": "내 손에 있는 모든 하수인에게 +1/+1을 부여합니다. <b>시체</b>를 2개 소모해 +1/+1을 더 부여합니다.",
+    "flavorText": "오늘 혈기 왕성한 친구들과 혈기 전환하러 왔나 보네요.",
+    "keywords": "시체",
+    "spellSchool": "암흑",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ivan Fomin",
+    "cardSet": "아서스의 길",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "80708": {
     "type": "언데드",
     "type2": null,
@@ -123621,6 +123706,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "101006": {
+    "type": null,
+    "type2": null,
+    "text": "아군 하수인에게 +2/+2을 부여합니다. 다른 <b>모든</b> 하수인에게 그 하수인의 공격력만큼 피해를 줍니다.",
+    "flavorText": "일명 승자독식의 힘이죠.",
+    "keywords": null,
+    "spellSchool": "신성",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ramzy Kamen",
+    "cardSet": "티탄",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "101009": {
     "type": "기계",
     "type2": null,
@@ -147169,6 +147271,25 @@
     "rarityName": null,
     "dustCost": null
   },
+  "110666": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "내가 전투 중에 하수인을 소환한 후에, 내 하수인들에게 공격력을 +4 부여합니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 3,
+    "health": 11,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
+    "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
   "110667": {
     "type": "언데드",
     "type2": [
@@ -150866,6 +150987,23 @@
     "type": "나가",
     "type2": null,
     "text": "<b>전투의 함성:</b> 무작위 적 하수인 둘을 처치합니다. 무작위 적 하수인 셋을 <b>빙결</b> 상태로 만듭니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성, 빙결",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
+    "cardSet": "극한의 극락",
+    "rarityName": null,
+    "dustCost": null
+  },
+  "111637": {
+    "type": "나가",
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 모든 적 하수인에게 피해를 2 줍니다. 무작위 적 하수인 셋을 <b>빙결</b> 상태로 만듭니다.",
     "flavorText": null,
     "keywords": "전투의 함성, 빙결",
     "spellSchool": null,
@@ -155549,6 +155687,23 @@
     "armor": null,
     "collectible": false,
     "artist": "Monika Palosz",
+    "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
+  "113559": {
+    "type": "기계",
+    "type2": null,
+    "text": "내 턴이 시작될 때, 6면체 주사위를 굴립니다. 그 단계의 선술집 주문을 <b>발견</b>합니다.",
+    "flavorText": null,
+    "keywords": "발견, 전우",
+    "spellSchool": null,
+    "attack": 6,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
     "cardSet": null,
     "rarityName": null,
     "dustCost": null
@@ -191469,6 +191624,25 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "126700": {
+    "type": "정령",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성:</b> 내 손에 있는 카드를 선택하여 불사릅니다. 3턴 후에, 그 카드를 버리고 이 하수인을 복사하여 소환합니다.",
+    "flavorText": "재로부터 9000번 다시 살아났다면 기분이 어떨 것 같으세요?",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 5,
+    "health": 5,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Daniil Kudriavtsev",
+    "cardSet": "이벤트",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
   "126711": {
     "type": "용족",
     "type2": null,
@@ -202642,6 +202816,23 @@
     "armor": null,
     "collectible": false,
     "artist": "Ira Fidler",
+    "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
+  "130836": {
+    "type": null,
+    "type2": null,
+    "text": "골드를 얻습니다. 내 다음 <b>장신구</b>가 하급 <b>장신구</b>입니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": "하급",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
     "cardSet": null,
     "rarityName": null,
     "dustCost": null

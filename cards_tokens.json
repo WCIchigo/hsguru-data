@@ -3551,6 +3551,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89ec2a2e772d767ee5ee833c31be26c1bb08d41c442bfb52218a6dbabc79c982.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621_m3.jpg"
   },
+  "42068": {
+    "id": 42068,
+    "name": "불사의 영액",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "이번 게임에서 죽은 무작위 아군 하수인을 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24225bd1d4dcb8455c6b3ee0cdef83be6d0f53166ae09b53e289102fed4d388b.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621t37.jpg"
+  },
   "42069": {
     "id": 42069,
     "name": "불사의 영액",
@@ -20578,6 +20590,18 @@
     "text": "<b>전투의 함성:</b> 무작위 적 하수인 둘을 처치합니다. 무작위 적 하수인 셋을 <b>빙결</b> 상태로 만듭니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2086b34e43aca2fd14d6c561e741771941e7a14e258c6757988744c8e2df003.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t13.jpg"
+  },
+  "111637": {
+    "id": 111637,
+    "name": "카바레 스타 카레스",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "나가",
+    "attack": 3,
+    "health": 3,
+    "text": "<b>전투의 함성:</b> 모든 적 하수인에게 피해를 2 줍니다. 무작위 적 하수인 셋을 <b>빙결</b> 상태로 만듭니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ba299b8bafac217f9dd37364d97a4666936142a228ab2911f2b921c1f736389.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t14.jpg"
   },
   "111638": {
     "id": 111638,

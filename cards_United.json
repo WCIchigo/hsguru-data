@@ -1439,6 +1439,10 @@
     "name": "할퀴기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85b8cb52a6da25277ebf8ce66143796c78d414ef606b15762b167504f1ce3663.png"
   },
+  "1063": {
+    "name": "멀록 전투대장",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48990995fe9e6b64cba4c79f655fd21e964806d8fcaeb28fa298d84c6b1461b6.png"
+  },
   "1064": {
     "name": "폭풍의 칼날",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05c01f5fe5d549ebae9a7156d9aea530d1212f6e8dc5128d730317204d458dbc.png"
@@ -6463,6 +6467,10 @@
     "name": "비밀결사 악마",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89ec2a2e772d767ee5ee833c31be26c1bb08d41c442bfb52218a6dbabc79c982.png"
   },
+  "42068": {
+    "name": "불사의 영액",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24225bd1d4dcb8455c6b3ee0cdef83be6d0f53166ae09b53e289102fed4d388b.png"
+  },
   "42069": {
     "name": "불사의 영액",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/029448711e2254e841ac36129febbaa05be9e445356da5f8c9082e792d43eee1.png"
@@ -6762,6 +6770,10 @@
   "42633": {
     "name": "대주교 베네딕투스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2bf8865f353add479636eebeb655d645296201b96038c61cbcd7a4a825dfb38.png"
+  },
+  "42642": {
+    "name": "울부짖는 마귀",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/752bc63296e5b892dbf3da730158d2595aa8203046dc649998c25dfa7c6b6568.png"
   },
   "42648": {
     "name": "맹독 화살",
@@ -7538,6 +7550,10 @@
   "45321": {
     "name": "핏빛 하객",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7ebaa4695aa786214536dbbd7f64bc2814c1dbc2bb6e74afe70103f078c1c3c.png"
+  },
+  "45328": {
+    "name": "사악한 해골",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b98ea4293d2cad21778c4b831cc1ebf0b3be5e070cdbb1e0372263b65edfa032.png"
   },
   "45329": {
     "name": "피구더기",
@@ -23275,6 +23291,10 @@
     "name": "흉포한 피구더기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/241282bbe3d2bb1bc66da3e02c7c0c121f218ff449e407a911385ec5bfb81dc5.png"
   },
+  "80664": {
+    "name": "혈기 전환",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e6639fc57e9e346ef6af066a93b545319e647649d591f88da18a1f0eba3234b.png"
+  },
   "80708": {
     "name": "여교주 데스위스퍼",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83757180e3d7574897432aa161cd8b9c976ddd4e019e799d310cec616a10ded9.png"
@@ -28983,6 +29003,10 @@
     "name": "황혼의 격류",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee35a3284c6db77ae70ef08bca8070b7729f0fbdea295ec9aabf324caecfc2a9.png"
   },
+  "101006": {
+    "name": "수호자의 힘",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac1826b4edf7a7e92e1198fd4018e17ab0c16fa4e0d9fd5561619a9483911c60.png"
+  },
   "101009": {
     "name": "경고하는 경비로봇",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38513fc5df9a8ccb1fb5413c838352e58469fc143115bcb70e8e0dc6055af20d.png"
@@ -34487,6 +34511,10 @@
     "name": "지옥멧돼지",
     "img": null
   },
+  "110666": {
+    "name": "죽음발망치",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79fb30aee4aa0ef22e1de3190e70abc39f9f180b143ba5532f0a521fd9827046.png"
+  },
   "110667": {
     "name": "죽음발망치",
     "img": null
@@ -35358,6 +35386,10 @@
   "111636": {
     "name": "카바레 스타 카레스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2086b34e43aca2fd14d6c561e741771941e7a14e258c6757988744c8e2df003.png"
+  },
+  "111637": {
+    "name": "카바레 스타 카레스",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ba299b8bafac217f9dd37364d97a4666936142a228ab2911f2b921c1f736389.png"
   },
   "111638": {
     "name": "카바레 스타 카레스",
@@ -36453,6 +36485,10 @@
   },
   "113557": {
     "name": "폭풍군주의 탈것 베라누스",
+    "img": null
+  },
+  "113559": {
+    "name": "쌍육",
     "img": null
   },
   "113568": {
@@ -44863,6 +44899,10 @@
     "name": "태고의 군주",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b65f0033396456cbedf9b7de764d3d6d9d47ef2e6824ed65e999fa4ace9b5e26.png"
   },
+  "126700": {
+    "name": "파괴의 불사조",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27bcf7403fd0c81ab3fe2be06930ebf83967eb5298e4059142326a7affa87175.png"
+  },
   "126711": {
     "name": "푸른 오색비룡",
     "img": null
@@ -47473,6 +47513,10 @@
   },
   "130835": {
     "name": "렌즈 상자",
+    "img": null
+  },
+  "130836": {
+    "name": "수수께끼의 보주",
     "img": null
   },
   "130838": {
