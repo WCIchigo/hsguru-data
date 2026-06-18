@@ -2363,6 +2363,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28adc59d01df1cc349fd48ab2957538caeef5b2a698656c44baef542462f31a0.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/KAR_094a.jpg"
   },
+  "39842": {
+    "id": 39842,
+    "name": "놀",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb1dee27d90736d31e45c8cbc78e658d2a45de1847ec8d53d264fe1f2168345b.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/OG_318t.jpg"
+  },
   "40297": {
     "id": 40297,
     "name": "화산 물약",
@@ -5914,18 +5926,6 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5835190b669bfba80be61bdc6823496e6c8f9c7546454cf2a7c104778bef23d3.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TRL_341t.jpg"
-  },
-  "52637": {
-    "id": 52637,
-    "name": "창조술사의 부름",
-    "manaCost": 3,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "하수인을 처치합니다. 그 하수인을 같은 비용의 무작위 하수인 둘로 교체합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51be57d27a111e7177782087681a731c3d2f7fc1140f2bcb3f8b4950c65976dd.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DAL_177ts.jpg"
   },
   "52709": {
     "id": 52709,
@@ -9959,18 +9959,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd2227b7f8be200303d84abfb23efc840bf73a58ae1df31120ec5b9c2978ea56.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_888t.jpg"
   },
-  "63644": {
-    "id": 63644,
-    "name": "토끼엉겅퀴풀",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "<b>속공</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c36cd019a110d41a91ed2e1651e94b6dd07dfa67ef3fe0deb85355d255e86fff.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_079t4.jpg"
-  },
   "63650": {
     "id": 63650,
     "name": "야생덩굴",
@@ -10342,6 +10330,18 @@
     "text": "<b>퀘스트 전개:</b> SI:7 카드를 2장 내야 합니다. <b>보상:</b> 첩보단장 스캡스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57c39200069e96b028f43ebe2eeb5112c818d0eb86ad434e666e2837c70a8007.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_052t2.jpg"
+  },
+  "64772": {
+    "id": 64772,
+    "name": "천 개의 진실의 검",
+    "manaCost": 10,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 15,
+    "health": 3,
+    "text": "내 영웅이 공격한 후에, 상대편의 마나 수정들을 파괴합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c4e06d26ca0fb089436aba5950f60d5f40aaa9cf27678740c6dd8febb88da02.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_075t.jpg"
   },
   "64851": {
     "id": 64851,
@@ -13355,6 +13355,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c79a5d2bcb1135abbfa22b83da42f0e497c6c44e5c2b12d3771636e4d6cc3d83.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/REV_940t.jpg"
   },
+  "79781": {
+    "id": 79781,
+    "name": "피고인 실바나스",
+    "manaCost": 6,
+    "cardType": "하수인",
+    "minionType": "언데드",
+    "attack": 5,
+    "health": 5,
+    "text": "<b>주입됨</b> <b>전투의 함성:</b> 적 하수인을 가져옵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4b75f1b5e2c003b49b41693d52b42d857d08b05dff5c1040bb1814f68a2162d.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/MAW_033t.jpg"
+  },
   "79785": {
     "id": 79785,
     "name": "개선된 요청 거부",
@@ -15863,6 +15875,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b720fee3341e8e9113040c1f0cbcf75b4b82321d15634822d7133f0b9dfe769.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_081t.jpg"
   },
+  "97100": {
+    "id": 97100,
+    "name": "포그스나우트 팬",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "가시멧돼지",
+    "attack": 1,
+    "health": 1,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81057cf5d79a38c13b5267e57f2183bd7909937c05e7293dc809ba42cb6893db.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_386t.jpg"
+  },
   "97105": {
     "id": 97105,
     "name": "행성 빚기",
@@ -16186,18 +16210,6 @@
     "text": "<b>합체</b>, <b>질풍</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f37a7c083db827f1918a303b843c2dc37a9c1900217b47a416d7670051ef50e.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_719t3.jpg"
-  },
-  "97634": {
-    "id": 97634,
-    "name": "전기로봇",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "기계",
-    "attack": 1,
-    "health": 1,
-    "text": "<b>합체</b>, <b>독성</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f921e11934bc3a72bbf9eddae41bb7df64ff109c1c797a534ee2d0dfa2f2d897.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_719t4.jpg"
   },
   "97635": {
     "id": 97635,
@@ -20014,6 +20026,18 @@
     "text": "<b>전투의 함성:</b> <b>황야의 땅 결투</b> 카드를 <b>발견</b>합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75fa5a82ef002d45a7eeb38870d5c340e2b7c7e628c5cb201b8d840f7f181ebe.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_199t35.jpg"
+  },
+  "109439": {
+    "id": 109439,
+    "name": "조주사의 특제 물약",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8166c6c9dabecad8170bd3abc0f351cf2d5efd682b86d03289cc9f1b688737b6.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_523t.jpg"
   },
   "110094": {
     "id": 110094,
@@ -25906,6 +25930,18 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a81ae6b1652ed74aa57b2568352f47e8a033fa2753921f38e30c5905156387b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_478t.jpg"
+  },
+  "126366": {
+    "id": 126366,
+    "name": "흡혈귀의 입맞춤",
+    "manaCost": 3,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "하수인에게 공격력을 +3 부여합니다. 이 영웅 능력이 마나 대신 <b>시체</b>를 비용으로 사용합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23975df17a8606f86233046388603a611a289f38ce4a9cc03d9bc206b4d62911.png",
+    "cropImage": null
   },
   "126408": {
     "id": 126408,
