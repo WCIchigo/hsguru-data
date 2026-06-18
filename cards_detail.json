@@ -191195,6 +191195,23 @@
     "rarityName": "전설",
     "dustCost": 1600
   },
+  "126602": {
+    "type": "멀록",
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 적의 손에 있는 카드를 조사합니다. 적이 다음 턴에 그 이름의 카드를 내면, 동전을 3개 얻습니다.",
+    "flavorText": "제일 좋아하는 책은 길니아스 특급 살인, 옌저 강의 죽음, 그리고 내 덱엔 아무 카드도 없었다입니다.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 5,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": " Mooncolony",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "126604": {
     "type": null,
     "type2": null,
