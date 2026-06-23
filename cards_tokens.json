@@ -4703,18 +4703,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13c51830a1ab7041f6ab429836fedbdb73e679974c5eb4e9993a7e0073a7903d.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_838t.jpg"
   },
-  "46033": {
-    "id": 46033,
-    "name": "포식자 아자리",
-    "manaCost": 10,
-    "cardType": "하수인",
-    "minionType": "악마",
-    "attack": 10,
-    "health": 10,
-    "text": "<b>전투의 함성:</b> 상대편의 덱을 파괴합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a732d45c347563dc96c881389457eabd3234eced830f898db9e15f1d427a93cd.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/LOOT_415t6.jpg"
-  },
   "46034": {
     "id": 46034,
     "name": "마지막 인장",
@@ -5602,18 +5590,6 @@
     "text": "1/1 초소형 로봇을 셋 소환합니다. 매 턴마다 바뀝니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8467ed84759dbf74ccce56d68c580111b013ee21789f9667bacb8f4ea77b8984.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BOT_238p6.jpg"
-  },
-  "49457": {
-    "id": 49457,
-    "name": "포악한 쥐",
-    "manaCost": 6,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 6,
-    "health": 6,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/234f6093e5819461dd52a0fc108fac5e6960a7fc606367d1b269b65f222f5d01.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/GIL_577t.jpg"
   },
   "49473": {
     "id": 49473,
@@ -9142,18 +9118,6 @@
     "text": "무작위 적 하수인 셋을 가져옵니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10289ab74da0b1eaecd18951ad6414b73ee58993cc7cf940b62fe22238ceefd6.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_004t4.jpg"
-  },
-  "62087": {
-    "id": 62087,
-    "name": "포식의 굶주림",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "다른 모든 하수인을 처치합니다. 그 하수인들의 공격력과 생명력을 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7039b1f83087c562145dce411b906a2d4acb58036be16f501bad69a9a0d02e1.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_004t5.jpg"
   },
   "62088": {
     "id": 62088,
@@ -13270,18 +13234,6 @@
     "text": "<b>속공</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85040b8a94dc1e75746f02733cc4b821b21ca4ad03d7e018cdf407c589096ab1.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/REV_375t.jpg"
-  },
-  "79536": {
-    "id": 79536,
-    "name": "멀로큘라",
-    "manaCost": 0,
-    "cardType": "하수인",
-    "minionType": "멀록",
-    "attack": 3,
-    "health": 4,
-    "text": "<b>주입됨</b> <b>생명력 흡수</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f59a963fd9a296a9f83917b162ce1ddec459e9cea9b2cc86e44a561cb9da36a3.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/REV_957t.jpg"
   },
   "79545": {
     "id": 79545,
@@ -18154,18 +18106,6 @@
     "text": "내 영웅에게 <b>천상의 보호막</b>을 부여합니다. 이번 턴에 내 영웅에게 공격력 + a2|1(과,와) <b>질풍</b>을 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/099436cb7123aa40d5ca8d4e9a69818c967ab85b8772acd3e16da9ea3d5c6643.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/WON_092p.jpg"
-  },
-  "102679": {
-    "id": 102679,
-    "name": "쌍둥이 제왕 베크닐라쉬",
-    "manaCost": 7,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 6,
-    "health": 7,
-    "text": "<b>도발</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b2372c978c1ef9f3b9eaa2bd767b9973235e43ea78196e2a401e206b91d8162.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/WON_134t.jpg"
   },
   "102716": {
     "id": 102716,
@@ -25977,6 +25917,18 @@
     "health": 1,
     "text": "<b>생명력 흡수</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f503b67c9d1a40827c6e0a2e5a5c0e3fa01ec719121e37e42577d37ca27a431f.png",
+    "cropImage": null
+  },
+  "126337": {
+    "id": 126337,
+    "name": "변장함!",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "적 전장에 나왔습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a34adbfc00dcc5b94c72a38b3cc02fc0ad09845f254402f984a42f25402a641.png",
     "cropImage": null
   },
   "126366": {
