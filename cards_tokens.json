@@ -26075,6 +26075,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/915191de7979f69913a066755f3eb20fcdab45b80fd08d507dbf91c9b166153d.png",
     "cropImage": null
   },
+  "126476": {
+    "id": 126476,
+    "name": "쉬바라 침투요원",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "악마",
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a71a8bfa50f56e07b502a71d2444fdc465e2671182acf2522ec3646e9d8fab07.png",
+    "cropImage": null
+  },
   "126480": {
     "id": 126480,
     "name": "탐정의 옷",
@@ -26098,6 +26110,18 @@
     "text": "내 턴이 끝날 때, 주라마트의 감옥이 버린 카드를 냅니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faf06e4ce768bfbd375b00258408dec2bd7570190d966a37bfab5f23c6844324.png",
     "cropImage": null
+  },
+  "126662": {
+    "id": 126662,
+    "name": "공허의 영혼",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "비용이 인 무작위 악마를 소환합니다. 미래의 내 공허의 영혼을 개선합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3be6980bf931265118842caf19988b50441817782851b08b52be649b1eb0ea86.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/859bbd2911c79ff49430a437a242b80a0268908ea4c3e9f9f8259d79c81cdb1a.png"
   },
   "126868": {
     "id": 126868,
