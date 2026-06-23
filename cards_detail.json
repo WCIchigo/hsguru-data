@@ -19859,6 +19859,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "39190": {
+    "type": null,
+    "type2": null,
+    "text": "내가 주문을 시전할 때마다 무작위 기본 토템을 소환합니다.",
+    "flavorText": "피해를 4 주면 처치할 수 있습니다. 머리 위에 집채를 떨어뜨리는 것도 한 방법입니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 3,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Rafael Zanchetin",
+    "cardSet": "한여름 밤의 카라잔",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "39197": {
     "type": null,
     "type2": null,
@@ -33590,6 +33607,23 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "46033": {
+    "type": "악마",
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 상대편의 덱을 파괴합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 10,
+    "health": 10,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
+    "cardSet": "코볼트와 지하 미궁",
+    "rarityName": null,
+    "dustCost": null
+  },
   "46034": {
     "type": null,
     "type2": null,
@@ -40922,6 +40956,23 @@
     "cardSet": "박사 붐의 폭심만만 프로젝트",
     "rarityName": "전설",
     "dustCost": 1600
+  },
+  "49457": {
+    "type": "야수",
+    "type2": null,
+    "text": null,
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 6,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
+    "cardSet": "마녀숲",
+    "rarityName": null,
+    "dustCost": null
   },
   "49473": {
     "type": null,
@@ -68674,6 +68725,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "62087": {
+    "type": null,
+    "type2": null,
+    "text": "다른 모든 하수인을 처치합니다. 그 하수인들의 공격력과 생명력을 얻습니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Akkapoj T.",
+    "cardSet": "광기의 다크문 축제",
+    "rarityName": null,
+    "dustCost": null
+  },
   "62088": {
     "type": null,
     "type2": null,
@@ -95626,6 +95694,25 @@
     "armor": null,
     "collectible": true,
     "artist": "Paul Mafayon",
+    "cardSet": "나스리아 성채 살인 사건",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
+  "78155": {
+    "type": "멀록",
+    "type2": [
+      "언데드"
+    ],
+    "text": "<b>생명력 흡수</b>, <b>주입 ( ):</b> 비용이 (0)이 됩니다.",
+    "flavorText": "멀로큘라 최고의 장면은 \"아옳옳옳!\" 하면서 그 녀석들을 아옳해버리는 장면이지요.",
+    "keywords": "생명력 흡수, 주입",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Matt Dixon",
     "cardSet": "나스리아 성채 살인 사건",
     "rarityName": "일반",
     "dustCost": 40
@@ -127876,6 +127963,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "102376": {
+    "type": null,
+    "type2": null,
+    "text": "방어도를 최대 5 잃습니다. 그만큼 내 다음 기계의 비용이 감소합니다.",
+    "flavorText": "\"잘 가! 잘 가! 잘 가!\"",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Patrik Bjorkstrom",
+    "cardSet": "위즈뱅의 장난감 공방",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "102381": {
     "type": "언데드",
     "type2": null,
@@ -129476,6 +129580,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "102625": {
+    "type": null,
+    "type2": null,
+    "text": "내가 주문을 시전할 때마다 무작위 기본 토템을 소환합니다.",
+    "flavorText": "피해를 4 주면 처치할 수 있습니다. 머리 위에 집채를 떨어뜨리는 것도 한 방법입니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 3,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Rafael Zanchetin",
+    "cardSet": "시간의 동굴",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "102626": {
     "type": null,
     "type2": null,
@@ -130070,6 +130191,23 @@
     "cardSet": "시간의 동굴",
     "rarityName": "전설",
     "dustCost": 1600
+  },
+  "102679": {
+    "type": null,
+    "type2": null,
+    "text": "<b>도발</b>",
+    "flavorText": null,
+    "keywords": "도발",
+    "spellSchool": null,
+    "attack": 6,
+    "health": 7,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mike Sass",
+    "cardSet": "시간의 동굴",
+    "rarityName": null,
+    "dustCost": null
   },
   "102680": {
     "type": null,
@@ -157087,6 +157225,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "114208": {
+    "type": null,
+    "type2": null,
+    "text": "전장에 공간이 생기면, 매 전투에서 내가 처음 소환하는 하수인을 복사하여 소환합니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": "상급",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Valeria Styajkina",
+    "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
   "114212": {
     "type": null,
     "type2": null,
@@ -169235,6 +169390,23 @@
     "spellSchool": null,
     "attack": 3,
     "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Felideus Bubastis",
+    "cardSet": "운고로의 잃어버린 도시",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
+  "118413": {
+    "type": null,
+    "type2": null,
+    "text": "내 다음 턴이 끝날 때, 내 하수인들에게 +2/+2를 부여합니다.",
+    "flavorText": "부화하지도 않은 공룡은 세지 말... 이젠 세도 되겠군요.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
     "durability": null,
     "armor": null,
     "collectible": true,
@@ -188707,6 +188879,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "125803": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>돌진</b>. 내 턴 중 하나에 아군 캐릭터 셋이 피해를 받으면, 이 하수인을 손이나 덱에서 소환합니다.",
+    "flavorText": "굽은니의 범죄 경력은 사랑니 발치 수술이 망하면서 시작되었습니다.",
+    "keywords": "돌진",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "James Ryman",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "125878": {
     "type": null,
     "type2": null,
@@ -189727,6 +189916,23 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "126259": {
+    "type": "언데드",
+    "type2": null,
+    "text": "<b>돌진</b>. 이 하수인은 영웅에게 피해를 주는 대신, 뽑으면 피해를 2 주는 파멸의 역병을 그만큼 그 영웅의 덱에 섞어 넣습니다.",
+    "flavorText": "\"저도 알고 보면 괜찮은 남자입니다.\" - 살아 있는 역병",
+    "keywords": "돌진",
+    "spellSchool": null,
+    "attack": 7,
+    "health": 7,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Jakub Kasper",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "126260": {
     "type": null,
     "type2": null,
@@ -189997,6 +190203,23 @@
     "armor": null,
     "collectible": false,
     "artist": "Leroy Steinmann",
+    "cardSet": "보랏빛 요새 탈출 작전",
+    "rarityName": null,
+    "dustCost": null
+  },
+  "126336": {
+    "type": null,
+    "type2": null,
+    "text": "아군 전장에 나왔습니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Timur Shevtsov",
     "cardSet": "보랏빛 요새 탈출 작전",
     "rarityName": null,
     "dustCost": null
