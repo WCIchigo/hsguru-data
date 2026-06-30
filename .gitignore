@@ -13,3 +13,6 @@
 !stats_translations.json
 !ui_translations.json
 !uncraftable.json
+
+!cards_battlegrounds.json
+!cards_battlegrounds_child.json
