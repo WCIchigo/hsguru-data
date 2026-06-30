@@ -25976,7 +25976,7 @@
     "attack": 3,
     "health": 1,
     "text": "<b>생명력 흡수</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f503b67c9d1a40827c6e0a2e5a5c0e3fa01ec719121e37e42577d37ca27a431f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b6c42227adf7e48cc2920fc8a70b969d16484fa8659ec6f07fd0a393f114d9c.png",
     "cropImage": null
   },
   "126336": {
@@ -25988,7 +25988,7 @@
     "attack": null,
     "health": null,
     "text": "아군 전장에 나왔습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5208cc353ebc78c888b373e607bd951ad153059c68b0d69eac5fa4ea2daa9005.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/762c00893c63644d3e30136b071e8da49c21844ab61dc1b7dc8a4419c328f4d3.png",
     "cropImage": null
   },
   "126337": {
@@ -26000,7 +26000,7 @@
     "attack": null,
     "health": null,
     "text": "적 전장에 나왔습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a34adbfc00dcc5b94c72a38b3cc02fc0ad09845f254402f984a42f25402a641.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e89b37053e6423489817465ba012bb75d29772b3bc986feda7048cc8677ee298.png",
     "cropImage": null
   },
   "126366": {
@@ -26012,7 +26012,7 @@
     "attack": null,
     "health": null,
     "text": "하수인에게 공격력을 +3 부여합니다. 이 영웅 능력이 마나 대신 <b>시체</b>를 비용으로 사용합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23975df17a8606f86233046388603a611a289f38ce4a9cc03d9bc206b4d62911.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b01104bcd2b9b420419d6624a4ffe66bb6167a3d7c64cda31eff7bc65fec841.png",
     "cropImage": null
   },
   "126408": {
@@ -26024,7 +26024,7 @@
     "attack": 3,
     "health": 3,
     "text": "<b>전투의 함성:</b> 피해를 4 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb0e0c7a39fa31d55998f7009dff5257f348824c7282eb91867081f2b146b2a9.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/baa27ebbfb0eeb03fbee300f69fe89a01bea31b7029cd9af75e0eae4bfdeaaaa.png",
     "cropImage": null
   },
   "126411": {
@@ -26036,7 +26036,7 @@
     "attack": 5,
     "health": 5,
     "text": "<b>전투의 함성:</b> 적을 <b>빙결</b> 상태로 만듭니다. 카드를 두 장 뽑습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b80f24921f7734db2b8bddb57af2a2bccd417a373f748f1eb26db2d44c35c8bc.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/697eab7e9c772095ef7ec60c134fbc0f52f2bc1dea5d8bb74b4d6b591750455d.png",
     "cropImage": null
   },
   "126414": {
@@ -26048,7 +26048,7 @@
     "attack": 7,
     "health": 7,
     "text": "<b>생명력 흡수</b>, <b>전투의 함성:</b> 모든 적 하수인에게 피해를 2 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24ad3625bbb7e9e2b6e4e9840d20196e163a5f54e93d62002bb5548dfc5ff830.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49f53be5b2e140d1f23cdeb43a87e5795ec2aec2212dbc42fc5223b9eb14ec47.png",
     "cropImage": null
   },
   "126421": {
@@ -26060,7 +26060,7 @@
     "attack": null,
     "health": null,
     "text": "<b>뽑을 때 시전</b> 비용이 5인 무작위 야수를 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb6ada2720c1db7f3ee2df00ddbe14abdd434d9370e815a730bcc00762f4cdde.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/815f298cf22250a1bfe0a8848c6f8cb13ba6252da2d7b5881c2a1e0883d61a10.png",
     "cropImage": null
   },
   "126424": {
@@ -26072,7 +26072,7 @@
     "attack": null,
     "health": null,
     "text": "<b>뽑을 때 시전</b> 모든 적에게 5의 피해를 무작위로 나누어 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/915191de7979f69913a066755f3eb20fcdab45b80fd08d507dbf91c9b166153d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da50c0722cf561bcb1358a43a6df6b96d484d74300b2311ec5bea3d6f9ebe85b.png",
     "cropImage": null
   },
   "126476": {
@@ -26084,7 +26084,7 @@
     "attack": 1,
     "health": 1,
     "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a71a8bfa50f56e07b502a71d2444fdc465e2671182acf2522ec3646e9d8fab07.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e7fcd067d6ab1fe1a746cdc31b3830c7c1a960697a49304fc3cc999c18b8d15.png",
     "cropImage": null
   },
   "126480": {
@@ -26096,7 +26096,7 @@
     "attack": null,
     "health": null,
     "text": "하수인에게 +4/+4와 <b>속공</b>을 부여합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c36f19ad5458f96c6c134245322f5a9c2a22340a96a1844d1ef867fae932c284.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2810eb33be3ad5120734307286f0c35c72edafb3bde88bb67b7bd94783cea3e8.png",
     "cropImage": null
   },
   "126499": {
@@ -26108,7 +26108,7 @@
     "attack": 8,
     "health": 8,
     "text": "내 턴이 끝날 때, 주라마트의 감옥이 버린 카드를 냅니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faf06e4ce768bfbd375b00258408dec2bd7570190d966a37bfab5f23c6844324.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4df9b69c285d4fe6ca024ac82c883527ebc1af76b1f572fd4e9c7ab8061a30c.png",
     "cropImage": null
   },
   "126662": {
@@ -26120,7 +26120,7 @@
     "attack": null,
     "health": null,
     "text": "비용이 인 무작위 악마를 소환합니다. 미래의 내 공허의 영혼을 개선합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3be6980bf931265118842caf19988b50441817782851b08b52be649b1eb0ea86.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf012ee8f6146cf02d7e6709d80acbc45ba0c0c60e60baabf134cffaa7db0337.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/859bbd2911c79ff49430a437a242b80a0268908ea4c3e9f9f8259d79c81cdb1a.png"
   },
   "126868": {
@@ -26132,7 +26132,7 @@
     "attack": null,
     "health": null,
     "text": "이번 턴에 내 영웅이 공격력을 +2 얻습니다. 방어도를 2 얻습니다. \"과부거미의 연회\"를 내 손으로 가져옵니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3cf87d69838e0c39403d09c8ea35d6bdf0de716a756a979d5a2491b91dd33cf.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50b6587fbcebc743636fd081cbd1c7b9abc6ca77c994f12d5943f20b2796c518.png",
     "cropImage": null
   },
   "126869": {
@@ -26144,7 +26144,7 @@
     "attack": null,
     "health": null,
     "text": "이번 턴에 내 영웅이 공격력을 +4 얻습니다. 방어도를 4 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/575a47cbfe71764da77e85493ed9333e554d19071c6631cb7132d3a2117c23e4.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94fb1507678a9975fc3e4b2978573f6b553fd70307bb8bdbe5dc63694cba4f8c.png",
     "cropImage": null
   },
   "126886": {
@@ -26168,7 +26168,7 @@
     "attack": null,
     "health": null,
     "text": "피해를 4 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3371cee1c01f078f62054122b73748f5fb2f33954cff398caa87520467a3d4c9.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3adab8c805b8d23897c1159b78999b010d52bd363a587b40603c9e496f9a1b11.png",
     "cropImage": null
   },
   "126983": {
@@ -26264,7 +26264,7 @@
     "attack": null,
     "health": null,
     "text": "이번 턴에만 마나 수정을 1개 얻습니다. <b>비취 골렘</b>을 소환합니다. 이번 턴에만 마나 수정을 1개 얻습니다. <b>비취 골렘</b>을 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8297729e9b84cdeed5f16af3b2e928b7ddfdb0d74b56abb04862e187225f04b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0a966ae9324f0506889b74c3b08827045225dc36bfdbb68f8a6f40e705ea58a.png",
     "cropImage": null
   },
   "127153": {
@@ -26276,7 +26276,7 @@
     "attack": null,
     "health": null,
     "text": "이번 턴에만 마나 수정을 1개 얻습니다. 무작위 적 하수인에게 피해를 2 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50acbcb04b03ca2e9747f69fd045601f6227729aa89a8fde601a237dede61f68.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/094cf4c469782f3b7ff6f8cb8f9766f1f166831c0c9c6af9517edf4a5c01e6f5.png",
     "cropImage": null
   },
   "127154": {
@@ -26288,7 +26288,7 @@
     "attack": null,
     "health": null,
     "text": "이번 턴에만 마나 수정을 1개 얻습니다. 비용이 1인 무작위 카자쿠스의 물약을 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a6bde302a5c823666dd1ab5a4bcc8c9f66122c935a47695863cdbdc631de3b2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e59423eef0e0cba33abecff66f5ee7d339740b213bbd094a2c9b26e22837d83.png",
     "cropImage": null
   },
   "127163": {
@@ -26300,7 +26300,7 @@
     "attack": 1,
     "health": 1,
     "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8053d5d0257dbf32f56eed1f4d28ab4ee93cfc339dd435188b064bddeee0532c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21ab02b01bf8eeafd7eea56bb9185891c9de58fc0040575ba01d684fc50e008b.png",
     "cropImage": null
   },
   "127174": {
@@ -26312,7 +26312,7 @@
     "attack": null,
     "health": null,
     "text": "<b>뽑을 때 시전</b> 방어도를 2 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb1bf6b4e6788c54fdd47c3978f6848f8507031fd29de20ca7d6a37a1a96abea.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/626590622ddb705f095379db819214a882f0ab1075d790975906638ca2a6c6c5.png",
     "cropImage": null
   },
   "127277": {
@@ -26324,7 +26324,7 @@
     "attack": 5,
     "health": 5,
     "text": "<b>도발</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1fc508d813d203607d7b360d11c5d41a823d9aaf06c5d0cbf21aa493be4b71f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7687c5fcecac864736b85c12d79a012ccd4f3b277aa2e77f48274025f7186c2f.png",
     "cropImage": null
   },
   "127468": {
@@ -26336,7 +26336,7 @@
     "attack": null,
     "health": null,
     "text": "<b>지속 능력</b>, 매 턴마다 내가 처음 내는 하수인의 비용이 (2) 감소합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58683d221c35e59d98553fd224c4102671614ec1d5d809cca8c91074cc23f4ef.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5c39dce5a3fe7277653cdf47659f60bd4a338b644992dbcb4bb8fca1385393d.png",
     "cropImage": null
   },
   "127476": {
@@ -26348,7 +26348,7 @@
     "attack": null,
     "health": null,
     "text": "<b>지속 능력</b>, 내가 내는 다섯 번째 하수인마다 그 하수인의 <b>전투의 함성</b>이 두 번 발동합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8df9a774acf174336d0a056d59934bef45f1711bff71ecf806510ab3d9b4c55.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78d5d6fe71137f50aba320770fabc335bbe35fa3ac4e05d7c65413b9914c5778.png",
     "cropImage": null
   },
   "127507": {
@@ -26360,7 +26360,7 @@
     "attack": 9,
     "health": 9,
     "text": "<b>도발</b> <b>생명력 흡수</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ff0b9fce76730bc3899a2d9e5e089fbf455352b1d35685ef3a7cdbd0d47fec4.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffd93a62788bbd885c0be08f5c797d6926943e4d79d32cc67d3b0a77d9cf6302.png",
     "cropImage": null
   },
   "127584": {
@@ -26396,7 +26396,7 @@
     "attack": 2,
     "health": 1,
     "text": "<b>죽음의 메아리:</b> 카드를 뽑습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2ece09c0a4360cce35d4ce930863b2b471ae54b4c3a9c4d1d8aa47f37fd4112.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f98fa691582a639238e957e7dde4cdeaa5ced39871246e2a4a33404ad26f1ac.png",
     "cropImage": null
   },
   "127699": {
@@ -26468,7 +26468,7 @@
     "attack": 2,
     "health": 3,
     "text": "내 영웅이 공격한 후, 다른 무작위 적 2마리를 <b>빙결</b> 상태로 만듭니다. 다른 탄약을 선택합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4db6b079615370dbcb3ea1377a45882cbf402855d7467b9ed1526b330e7b8b4.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/117c9fe065540ffd2322bb6cda30cb5496a8bdb958ee8d6c9ed5e694f8af5f31.png",
     "cropImage": null
   },
   "127715": {
@@ -26480,7 +26480,7 @@
     "attack": 2,
     "health": 3,
     "text": "내 영웅이 공격한 후, 모든 적에게 피해를 1 줍니다. 다른 탄약을 선택합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2311c0291fca987919f9d960e6adc28fcaeec911ffd8998e71b3252c9bc1beec.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/042644a742fd6e302d1b99eaba169a346f48fefa5cd0159b72c43a5e701bc150.png",
     "cropImage": null
   },
   "127716": {
@@ -26492,7 +26492,7 @@
     "attack": 2,
     "health": 3,
     "text": "내 영웅이 공격한 후, 비용이 3인 무작위 하수인을 소환합니다. 그 하수인에게 <b>도발</b>을 부여합니다. 다른 탄약을 선택합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afd1294279a56cc9764a7599216e7f4ea3e78bc0fa9866bcda4d958719c1c7ba.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/236d7800953f1a3a20dbd215d4b2229edfdc17c6c1ae3344b0e9edec1fa39025.png",
     "cropImage": null
   },
   "127717": {
@@ -26504,7 +26504,7 @@
     "attack": 2,
     "health": 3,
     "text": "내 영웅이 공격한 후, 무작위 <b>전투의 함성</b> 하수인을 얻습니다. 그 하수인의 비용이 (2) 감소합니다. 다른 탄약을 선택합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3895c9a77a89109ba288cf35a359446868d5cd5bd0710b80c60acc147a84a10.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64e1749ddf12f91282602bd80a292fb74b8ae22f921565ae2ca056fa177d51c7.png",
     "cropImage": null
   },
   "127933": {
@@ -26660,7 +26660,7 @@
     "attack": null,
     "health": null,
     "text": "<b>뽑을 때 시전</b> 내 영웅에게 피해를 2 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5155b6681b473334fcb75d3b7f29b7f32aeeb61ee6385c4b1f743401db148c6.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/398fd7497dd8c11d25a00d33716bb1733c2a62d3dc2d59ad7a31ad1394d35d86.png",
     "cropImage": null
   },
   "129987": {
@@ -26672,7 +26672,7 @@
     "attack": 4,
     "health": 4,
     "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a727a947c335295b09af4f0a887d8038f4edf417eaf9bcd2f35657ff909b8b3.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12f0e51068bde725bfff8401e3bfc8a902e75bc93d9ff5ebe019eb1dbb2fd9b7.png",
     "cropImage": null
   },
   "129988": {
@@ -26684,7 +26684,7 @@
     "attack": 7,
     "health": 7,
     "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef8617345b7ff2d14801c220e04ecfa6d4ae9fb8def7174db3671f8b7b9bd153.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7665df7aa9726a77d1c36b2d608d3c4e9f1bea6cb7811bf16ba511bdbfff6470.png",
     "cropImage": null
   },
   "129989": {
@@ -26696,7 +26696,7 @@
     "attack": 20,
     "health": 20,
     "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0f23db18303f19716caf258acc5ec5b4dfc357c2174e289266250792ea6554b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4c1e3ac83b75e1624c5763ae39562d1f146618118bbe456745b2a296d593919.png",
     "cropImage": null
   },
   "130019": {
@@ -26708,7 +26708,7 @@
     "attack": null,
     "health": null,
     "text": "이번 턴에 내 영웅이 공격력을 +2 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d24b15f527d3fd7850a15ae204502267a075401fa3aa18c33cd7a7a1bf87031.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae1e4074a812db579a0701eb8eda32b750f012e16a9e76f62f03db15a1cc616c.png",
     "cropImage": null
   },
   "130020": {
@@ -26720,7 +26720,7 @@
     "attack": null,
     "health": null,
     "text": "무작위 드루이드 카드를 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6a096682a3f871821a0ddfb779d7e07ba022bf6ff91ddedb4a7cc4be88e41c4.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d127c5ac901f8ed94cb7a029a0de099cc2c7df49e2d8a9faa7acd332a33a4367.png",
     "cropImage": null
   },
   "130022": {
@@ -26732,7 +26732,7 @@
     "attack": null,
     "health": null,
     "text": "아군 전장에 나왔습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88f36b62721eca859b5a383298455eab11e7e418f9991eb2515bfff0809eac4b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/023cea63cb172e7f04221125b113d969a0d0a006d360ee82a463d1322396201f.png",
     "cropImage": null
   },
   "130023": {
@@ -26744,7 +26744,7 @@
     "attack": null,
     "health": null,
     "text": "적 전장에 나왔습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/010f45d89b65fd3bcbb3ace815d8e3eef6c7ae90c127a681a0f69312b295d076.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19d0af6c2c48ec192893f0f521757087008d19c31e9975958e2682b4a864a4df.png",
     "cropImage": null
   },
   "130024": {
@@ -26756,7 +26756,7 @@
     "attack": null,
     "health": null,
     "text": "아군 전장에 나왔습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b4390fe77a06d176a946e128ec3d736cb7c4f80b4d421ef1078a2be2b74ff5f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2012e3273b8fa5cc734e336a6b423b9ba73ff51571065ddc74b5a1fee45a2bd9.png",
     "cropImage": null
   },
   "130025": {
@@ -26768,7 +26768,7 @@
     "attack": null,
     "health": null,
     "text": "적 전장에 나왔습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f74632fa7d047488d474ae2bfa7ae40d93dcb0be6da52307f3aba750cc93c59.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e3c1df3d13093b59a0da5b217eb692e8aaa556ecf33ed19602a33de4f78d7f7.png",
     "cropImage": null
   },
   "130026": {
@@ -26780,7 +26780,7 @@
     "attack": null,
     "health": null,
     "text": "아군 전장에 나왔습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da64cd0a36f1ffb88c2cfc77271d0e56674def21f84cce367a885897d586e4d8.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba4b7a995d231891a2be38ca97aaf68953f6c20a029da87ca797d689c094f74a.png",
     "cropImage": null
   },
   "130027": {
@@ -26792,7 +26792,7 @@
     "attack": null,
     "health": null,
     "text": "적 전장에 나왔습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a892e87960c3fc68aeacbfcc92d5f78ad42dd12bdcf4bb325a27d70ec9e6381.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a426d427f7b00eda4dfa48595af3453d4ed8662fff720ada8aa1d40777f2e9ee.png",
     "cropImage": null
   },
   "130722": {
@@ -26816,7 +26816,7 @@
     "attack": null,
     "health": null,
     "text": "선택지를 새로고침합니다. <i>(20% 확률로 피해를 5 받습니다!)</i>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f50fe365f99b9fba3bf284d4834a0d2459e5639eb3c541f8595616fe101d245b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0374532ec2f0d7972e3dc7637113689c2b2d76b57bf22f7df0e58b49be46ea03.png",
     "cropImage": null
   },
   "131326": {
@@ -26840,7 +26840,7 @@
     "attack": null,
     "health": null,
     "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7872e65d56556317aebf6f849c96a01c9143cf1d99c53c1c42391fd69c221fc9.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9440975eae50baf53e20f5f3c05e5bca295ab503d1c554f2aa9805fbdf54a11.png",
     "cropImage": null
   },
   "132017": {
