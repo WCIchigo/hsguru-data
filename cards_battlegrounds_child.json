@@ -553,7 +553,7 @@
   },
   "70148": {
     "name": "땡볕의 피서객",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70a04a4dff3332e031ecd853cb0d5c92465f611bca4af52939441405e7e4b32d.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG20_301_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12bb73067221cc228d296d3e0da93a594d9e48db7365f25181a3f1cb770ae0e8.png",
     "attack": 4,
     "health": 6,
@@ -561,7 +561,7 @@
   },
   "70150": {
     "name": "가시덩굴 흙점쟁이",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0834906dde093bd816acbb11e5a1408aa095cc3786c22c6bd8f409f1a0d65ff.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG20_100_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b428de9756d7910b4633e94e283dc6fd9c41eebb38ad444961607dcb0d6bc527.png",
     "attack": 4,
     "health": 2,
@@ -569,7 +569,7 @@
   },
   "70155": {
     "name": "멧돼지의 예언자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4408990436e3e89d546e655bb62f10309f431a5e8e38de2f7f2a48618cca5f38.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG20_203_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc1f2cbefee75290093eda000972a3e80d01c755d2d249552582f0a19b37cba8.png",
     "attack": 4,
     "health": 6,
@@ -633,7 +633,7 @@
   },
   "72824": {
     "name": "굶주린 지옥박쥐",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16cb5952b798b0391ad24171fa82d6dd6db5bd5ae94f1769ac1d91e6b86bae35.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG21_005_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a33dd4f339303f7f540147120f315eccee7710d8835bde8c1c1d36823789d945.png",
     "attack": 12,
     "health": 6,
@@ -641,7 +641,7 @@
   },
   "73452": {
     "name": "귀중한 고취비룡",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fe24625a991696573b5a98ee61ed8759c7bb61650164253364aa236ceb44fe1.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG21_014_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4803d61d9e9f8095e137153fc5d996f3b29ae9bbd25e56b18eac67a28c2c79bc.png",
     "attack": 2,
     "health": 2,
@@ -649,7 +649,7 @@
   },
   "73453": {
     "name": "타렉고사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddf87201ead56df36477aa629e661e254a7d6588e7d5b91a21f6d61c5bed173e.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG21_015_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ded33d7db4522a8adba6597e6cf368223da12d4a7d64d6b390e2051f8d6362f.png",
     "attack": 8,
     "health": 8,
@@ -665,7 +665,7 @@
   },
   "74899": {
     "name": "저항하는 조선공",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c181429334a6560819057416fe17e1ca17242d5909f317cfc42201ae54dce50d.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG21_018_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/727580ddf6187be4ca21500bb4c6a2a8e315dddaeb1e12532a7ffc13d7828be7.png",
     "attack": 4,
     "health": 10,
@@ -729,7 +729,7 @@
   },
   "76965": {
     "name": "두억시종",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e00c7cb4592163bc70f3fcc879ebcfe5219dfb8a63f2e6ba3b790ae8da7240d6.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/TB_BaconShop_HP_022t_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba841c69ea91c18f62419da6e7a93269d77faead81d9579432f6feae5e64766a.png",
     "attack": 2,
     "health": 2,
@@ -1457,7 +1457,7 @@
   },
   "80760": {
     "name": "심해 낚시꾼",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c2769458be9e2e7ca112022b89e272cfc73c46db2f62baafe7697fadadfadea.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_004_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/116c6161ee80df63b3593632c8228b1597e98329e559d618193c715a5ffdc591.png",
     "attack": 4,
     "health": 6,
@@ -1465,7 +1465,7 @@
   },
   "80764": {
     "name": "발광비늘",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c862091bddfe577db959fc4a61294f08cdc3b0a661e5d6ba6b3dd71b905dc8e0.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_008_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53d9bd127d2b0d73ad81e49c847d971f4a00b31e72659189a66e290833d74f03.png",
     "attack": 8,
     "health": 12,
@@ -1473,7 +1473,7 @@
   },
   "80765": {
     "name": "용암 잠복꾼",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca845e7f5c6d1c2016ab29f1c6385df51501c3b997b6c20afd40152fd93a11d7.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_009_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5639d535f87758d485da73412914d0919cc0195108bf4313aa16beed8cbab9e.png",
     "attack": 4,
     "health": 10,
@@ -1481,7 +1481,7 @@
   },
   "80773": {
     "name": "핏빛 용사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_017_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/266a83a7933338c3170d57555a644009eee7b39c6706adacefd2d3c4b6187d0b.png",
     "attack": 36,
     "health": 6,
@@ -1489,7 +1489,7 @@
   },
   "80774": {
     "name": "어둠주시 장로",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/967c0c70516b1894adaf52be84002bbf9ec7e8f1b7219d0a1f4a55ce9199434e.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_018_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75c28da61c39bc978ba1cefb2d83ce99a561909d77b0b62a2ebda19a520140cf.png",
     "attack": 12,
     "health": 16,
@@ -1545,7 +1545,7 @@
   },
   "82646": {
     "name": "소라 수집가",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43963e49761fbafaf419b89c34795fe5832d478a9683f7cedecfd619ed34d63e.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_002_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd30613760c40820484dae34231e19664905222a33a27900ee91ed9eda8a592e.png",
     "attack": 8,
     "health": 6,
@@ -1609,7 +1609,7 @@
   },
   "87062": {
     "name": "옳챙이",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fca81351e8c6a4fb7c58861106fd8537f03759f8e47af16e62c885b34ff7f169.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG22_202_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c32b15b4812038a554af8621792fd70d94613050d3347ed81634466634317aa6.png",
     "attack": 4,
     "health": 4,
@@ -1641,7 +1641,7 @@
   },
   "90430": {
     "name": "무모한 리로이",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9bf7d0115e634feb922ec70168994ea1ee93d5c0c2c0c84de4bc276248ec6bfd.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_318_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d732868a2fad8df01e08ae47dc681be65b1649ca4190b898ad2a4828c28e4eb2.png",
     "attack": 12,
     "health": 4,
@@ -1689,7 +1689,7 @@
   },
   "92427": {
     "name": "까다로운 포식자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a0bb471a8c98507bb9570ff57549000f813da4927e14b780b042bc1e12d9112.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG24_009_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67c7faec51602ce422e359243f64cf9952f354d3d4231b5ebb0027cba7f20338.png",
     "attack": 2,
     "health": 2,
@@ -1697,7 +1697,7 @@
   },
   "92436": {
     "name": "푸른껍질 토르톨란",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d46354f74abac538de632ad7dac5e7b7e5c2437cf5e6a894421868d493ccc57.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG24_018_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b22521b92c5d34601de142a688d4c008b0cfbd98868cbf8730be77ff43fe877.png",
     "attack": 6,
     "health": 12,
@@ -1705,7 +1705,7 @@
   },
   "92881": {
     "name": "땅굴 폭파범",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03216e4a899eaa5e3bcbe078ed2c948a3ca45f0c0c14fd30c6710e15a58ec3ce.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG_DAL_775_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e399457d59f491436b169f1ad8cf59f99156904e8d17c82148a488f664b580f7.png",
     "attack": 6,
     "health": 14,
@@ -1721,7 +1721,7 @@
   },
   "95010": {
     "name": "호박색 수호자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf3a2c984feb14f5ffa87c2cc86ae4acd329ac104204c4c5168a0d8063fd24c6.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG24_500_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb553d35cea9d9278c609ff3ada0b6794ee9fac507b440326f02f06b928ed2ee.png",
     "attack": 6,
     "health": 4,
@@ -1729,7 +1729,7 @@
   },
   "95248": {
     "name": "되살아난 기수",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/771503330781d4740698bf5a56a72918a50c14f4eeb5da68ad82ee51a7f812f3.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_001_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d70a96cfffb8cb26e5888dde78bfff5d69a48bcf6a970f04d1c60aa79abfdbc3.png",
     "attack": 4,
     "health": 2,
@@ -1745,7 +1745,7 @@
   },
   "95262": {
     "name": "영원의 기사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/690ddc457c3d05ad3058cb72afeca9c48799bcdf00f84047d6d184d6aa6b0e38.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_008_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10ddea187d852696273bc0a10a5048a1e5e19a578572408d0b591037b64b3fe2.png",
     "attack": 8,
     "health": 4,
@@ -1753,7 +1753,7 @@
   },
   "95264": {
     "name": "영원의 소환사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91ed831d8195a669fe70cd6bc5bac15f5a55753a50e90db25afbbff533ee2a40.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_009_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7950985182c38efee53d9b24bc72778d9a524f2bae2a8198296c1b286e075fa0.png",
     "attack": 16,
     "health": 2,
@@ -1761,7 +1761,7 @@
   },
   "95266": {
     "name": "손 없는 포세이큰",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84d0ac96afd5f0f9bffa909cb68fee8f702b39f7280132ca09940e85621074ae.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_010_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ed9cff26602ff731a8c16c3dd0d36f2a57d69a63778e298e494df9294539861.png",
     "attack": 4,
     "health": 2,
@@ -1769,7 +1769,7 @@
   },
   "95268": {
     "name": "네루비안 죽음거미",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c848bc577bbaba8e7ea46f8fbac4d8271a31b1ac7f1ae7d77fa61298afc9a512.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_011_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8804d9151578dda60e969c779a6487d54a704db74e60e649eda2e2054bc8f94b.png",
     "attack": 2,
     "health": 8,
@@ -1777,7 +1777,7 @@
   },
   "95272": {
     "name": "썩은가죽 놀",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23faccca591a5d458591e2537c81b94717cc04f6a0562b5b1ac97612ac11f6dd.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_013_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21d829eb0a900505a0b6c1b1def9cf44b99a82aaf36cf27d41ecb486369d9244.png",
     "attack": 2,
     "health": 8,
@@ -1785,7 +1785,7 @@
   },
   "95281": {
     "name": "진홍빛 해골",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d855b1811dde87112de03ae719ecffebbe10403d6426247eec516bdb3b71e54c.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_022_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e845f484bf2ce05c2ed5b379f1d0926b6de38864f5406177879090cbea776be5.png",
     "attack": 4,
     "health": 2,
@@ -1793,7 +1793,7 @@
   },
   "95287": {
     "name": "신도레이 직격 사수",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f912cf6a95823c1df82124e29e18ca7087b762fea44b667c90be0974ab72ae1d.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_016_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b495c321b99f4c4c3e04bcc1e6311f86d1c008b1ee1200d78736febe7c3b8229.png",
     "attack": 6,
     "health": 8,
@@ -1817,7 +1817,7 @@
   },
   "97116": {
     "name": "뻣뻣갈기 재활용 제작사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1ec54da00ff1f18080b762ee6815fc688d5ffabc0e07e84e2ec468fde1d336e.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG24_707_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0fd4d4b4d1eb1428e5d44126e3269a8aaeef6de6a7937d07b7793b1a38488d2.png",
     "attack": 8,
     "health": 8,
@@ -1825,7 +1825,7 @@
   },
   "97409": {
     "name": "티투스 리븐데어",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6498258feefa60b565b3fa0bc4aef78d91504add73b384330b95330386d6a2c4.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_354_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d818ad45c4ccfff51912dedc2b24bd0067a71cc21406ebf2fe7c890e3ad8701.png",
     "attack": 2,
     "health": 14,
@@ -1833,7 +1833,7 @@
   },
   "97536": {
     "name": "허드렛일 강골",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0658e8c6b91ca06f255af48a2b52f596d6f5cbb79f3808b4c15e6193995a1601.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_032_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7183c805ecf3fc385c20dc0ee417b459063628f10e6e9971831f98b526be94e2.png",
     "attack": 4,
     "health": 2,
@@ -1841,7 +1841,7 @@
   },
   "97540": {
     "name": "선장 샌더스",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_034_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fb3db433e3a4d83bcce87592e1732eb91b25bbb7dbc6f2d8c403dcebe04b2be.png",
     "attack": 18,
     "health": 18,
@@ -1849,7 +1849,7 @@
   },
   "97550": {
     "name": "복어깃",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_039_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a872ed6bfd6c3c44cab33a84f645ea650da2ade399bfd7e396b7cf947e6a596.png",
     "attack": 4,
     "health": 12,
@@ -1857,7 +1857,7 @@
   },
   "97554": {
     "name": "지옥정령",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba4fccfbd0f46f43d4f1ed0e0b47de2da056735fda9da6e1377e86f98b0a89f7.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_041_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f747baac6506e3886fa200a6a52b2ba3d91df07b5e380d9817dcd9038d8366c3.png",
     "attack": 6,
     "health": 6,
@@ -1865,7 +1865,7 @@
   },
   "97605": {
     "name": "침착한 정찰병",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89bea85652adb6bf1c2363d6627cba92e677791776aad6398de885ed5c172482.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG24_715_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd5a9c11d6c3bace14c3c2622d840435221d5eea61f1472e64fe8ae739bd2c43.png",
     "attack": 2,
     "health": 2,
@@ -1897,7 +1897,7 @@
   },
   "98502": {
     "name": "남쪽바다 악사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_135_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ff493370b8d1a4611ff5a610afc7e57477806677e01a3e13675fcc28d6e4503.png",
     "attack": 6,
     "health": 2,
@@ -1905,7 +1905,7 @@
   },
   "98513": {
     "name": "도미 계산원",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_137_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afbe23c97462f333f4f27b7139117c609e386ee694d6f205a74f120991a2e981.png",
     "attack": 12,
     "health": 12,
@@ -1913,7 +1913,7 @@
   },
   "98581": {
     "name": "화음로봇",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_147_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a04a2ff90b9420b10d69e787ab5fcf479cee664f0fc20f8f1d52c747f1a325b.png",
     "attack": 6,
     "health": 6,
@@ -1921,7 +1921,7 @@
   },
   "98585": {
     "name": "자장가봇",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_146_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e275d6ad5c96db0736aaf2d780e69bad838ea41408f51932448f86c110734bb3.png",
     "attack": 4,
     "health": 4,
@@ -1929,7 +1929,7 @@
   },
   "98593": {
     "name": "고철 수집기",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_148_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fa468176eda0dfec6997019db390dbba75f9da7a78ccc8f8fe7f0a24d97d476.png",
     "attack": 12,
     "health": 10,
@@ -1977,7 +1977,7 @@
   },
   "98718": {
     "name": "극성 슉슉로봇",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_149_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e761fd496e1c74d7d6a64ff2a56462bb07ac3b30e6db7edc1491eca7e75386bc.png",
     "attack": 10,
     "health": 20,
@@ -1993,7 +1993,7 @@
   },
   "98827": {
     "name": "바나나 강타자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_802_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1985708fd4cad92f6d14c06e39aea619ec6207021c7097ac4ff60608c0f6bd6d.png",
     "attack": 6,
     "health": 12,
@@ -2001,7 +2001,7 @@
   },
   "98830": {
     "name": "라일라크 메탈헤드",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_801_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c78283d0a3a2ad0e808c1327d4ccdd85cce197300e4c648c5e4450a375bc640.png",
     "attack": 10,
     "health": 6,
@@ -2017,7 +2017,7 @@
   },
   "98882": {
     "name": "산호초 악절 연주자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_501_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf9ed216892db634033caec672c820b9ee5fcb3ca00a1e0c214928d039545d65.png",
     "attack": 6,
     "health": 4,
@@ -2025,7 +2025,7 @@
   },
   "98887": {
     "name": "딥 블루 저음 가수",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_502_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b2b27ae5144e882b152f859960cf124acf16e8b17c9405a6a9d647e98d397dd.png",
     "attack": 4,
     "health": 4,
@@ -2041,7 +2041,7 @@
   },
   "98890": {
     "name": "화약 급사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_810_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1599a5303897235b1b4a96fe839046c5d5b4bca1da7d95de51815e8d6489c827.png",
     "attack": 6,
     "health": 12,
@@ -2057,7 +2057,7 @@
   },
   "98934": {
     "name": "열대야의 재즈 연주가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_159_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4892a2ce104a9ee4e305bb85ab22ef5f3db5dfbda8a2713c329e0e50d7e5847.png",
     "attack": 4,
     "health": 6,
@@ -2065,7 +2065,7 @@
   },
   "98941": {
     "name": "지저귀는 새",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_805_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/693c551d941f178827427965c84cc3da52193a1fee102a96f8ea5261c493ccc0.png",
     "attack": 2,
     "health": 8,
@@ -2073,7 +2073,7 @@
   },
   "98947": {
     "name": "날카로운 피리꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_160_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a690e66d3f0525f73ffa79bb066c43998bc0045186e387e8f0381749830a3706.png",
     "attack": 10,
     "health": 2,
@@ -2081,7 +2081,7 @@
   },
   "98950": {
     "name": "아옳옳 중창단",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_354_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8249125531286a9c3e7bf4cee4e5351c90aa257c35fb98aba22be3db57282987.png",
     "attack": 12,
     "health": 12,
@@ -2089,7 +2089,7 @@
   },
   "99012": {
     "name": "사랑앓이 발라드 가수",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_814_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6facabb4a1e6fe2c1f0245d35a0ce4568a0654d3e7ce3b779f98dce420d0d621.png",
     "attack": 6,
     "health": 4,
@@ -2105,7 +2105,7 @@
   },
   "99036": {
     "name": "칼날 수집가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_817_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02e714098070fe3b3415ab9f65855629cfdeda09a96dd2e32cf740192fc931a9.png",
     "attack": 6,
     "health": 4,
@@ -2113,7 +2113,7 @@
   },
   "99066": {
     "name": "정열적인 연주가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_505_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f10a851d8e0fd976900e10d236553006792e5c4c487a26fab1e7cf7253262683.png",
     "attack": 12,
     "health": 14,
@@ -2121,7 +2121,7 @@
   },
   "99220": {
     "name": "춤의 황태자 말체자르",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_524_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24df32152f402ad9dee873f3f466bc5bd4b95c729babb2135b2503d91bdb7d8b.png",
     "attack": 4,
     "health": 2,
@@ -2129,7 +2129,7 @@
   },
   "99233": {
     "name": "돋보이는 타악기 연주자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_525_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eaea18378d087256c3a700b211b3c0661a08a4f3999024dd7d1a28d925ccaf02.png",
     "attack": 8,
     "health": 8,
@@ -2137,7 +2137,7 @@
   },
   "99734": {
     "name": "춤추는 공연폭풍",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_162_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3009985e71e740e9f14775818e967860ae2d134d025d716516d014670b95fbc.png",
     "attack": 8,
     "health": 8,
@@ -2161,7 +2161,7 @@
   },
   "100931": {
     "name": "청소지느러미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_360_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cb099740dfd381278c1dbbedbc44aa91c547553aeacc1e0c8f149796eadd85a.png",
     "attack": 8,
     "health": 6,
@@ -2169,7 +2169,7 @@
   },
   "100950": {
     "name": "영혼 역행자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_174_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6236a3026de95d71d522460e6042b143a147c00188910d714b56197509b7d7b6.png",
     "attack": 8,
     "health": 2,
@@ -2177,7 +2177,7 @@
   },
   "100999": {
     "name": "뾰족작곡가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_157_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fe93d13f07060b7c6c24266e66aad97b40808164003ec18cab4a82f9e24b9f4.png",
     "attack": 6,
     "health": 20,
@@ -2185,7 +2185,7 @@
   },
   "101095": {
     "name": "신바람 2인조",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_199_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c58a45539dd6e7659540c470469a63ea8d57f237a9c42e5d09450bc240514e2.png",
     "attack": 12,
     "health": 12,
@@ -2193,7 +2193,7 @@
   },
   "101115": {
     "name": "신바람 리더예용",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_529_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ebdedd165464e852c4dcdcae5ad5183d4199ffb6e414f0ec2bf1c9c214e09f65.png",
     "attack": 2,
     "health": 2,
@@ -2209,7 +2209,7 @@
   },
   "101281": {
     "name": "깜짝 정령",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_175_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c23f82811911ed3968d049fd053e123cd8958ce5105cb85d471b0d2980bd3308.png",
     "attack": 16,
     "health": 16,
@@ -2217,7 +2217,7 @@
   },
   "101315": {
     "name": "드라카리 마법부여사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5eadbc1fc239f3face2c03055c51fc21bfff28cdaa5e0da13e77c9d1a9d166f3.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_ICC_901_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36634c8ac30778ff0dbf0d8195285c32df67e5ac8c602e2946d07fcd374c61ce.png",
     "attack": 2,
     "health": 10,
@@ -2273,7 +2273,7 @@
   },
   "101591": {
     "name": "교활한 랩터",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_806_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/174bfdb5bc35a14f8a0170b975207f3b785a0111078ac5bf3a54a6ce8d851fd0.png",
     "attack": 2,
     "health": 6,
@@ -2305,7 +2305,7 @@
   },
   "103075": {
     "name": "바다 마녀 자르지라",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG27_514_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4cc937dd359ac01bfa48ae58fcb44b1bc0dd1075267aed94ea702711497eb41d.png",
     "attack": 8,
     "health": 10,
@@ -2329,7 +2329,7 @@
   },
   "103620": {
     "name": "유랑자 초",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_100_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9bbf4dbf6f79fba8021670e8e6dbc511a80166d7a5bb18bcafd210ce0fb46bc.png",
     "attack": 8,
     "health": 6,
@@ -2337,7 +2337,7 @@
   },
   "103671": {
     "name": "수액덩어리 검투사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG27_002_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb5b3b7253bb0c241f2459a35d327f5522e99da241af370fdea5b47b9df74e62.png",
     "attack": 4,
     "health": 4,
@@ -2345,7 +2345,7 @@
   },
   "103675": {
     "name": "해상과 해착",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG27_004_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b08b83d1c762b20483f4e30bac8888b7ec19790d4dea53346e6b0aab92fec20.png",
     "attack": 2,
     "health": 2,
@@ -2353,7 +2353,7 @@
   },
   "103677": {
     "name": "시간선장 후크테일",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG27_005_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4b44a62bfb80380ca0cd137237f77161422377e1b3fe949897c324ee95b83f3.png",
     "attack": 2,
     "health": 8,
@@ -2361,7 +2361,7 @@
   },
   "103699": {
     "name": "살게라스의 용사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG27_016_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9507f460575d6f85f7195ed40b778529079c6c1dd5ddfae8b1c02652871b41ee.png",
     "attack": 20,
     "health": 20,
@@ -2369,7 +2369,7 @@
   },
   "103701": {
     "name": "흑요석 약탈자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG27_017_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9e73e09deccf9447616aea60cc27a0f05648cc4fa7ff4a370c5754ffbd1885a.png",
     "attack": 14,
     "health": 14,
@@ -2377,7 +2377,7 @@
   },
   "104467": {
     "name": "로데오 공연자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_550_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22f5e3ed39ef06d0166d8d1c258c10761055a7976857534e02bf0c57c6c0d1bd.png",
     "attack": 6,
     "health": 8,
@@ -2385,7 +2385,7 @@
   },
   "104471": {
     "name": "구원자 날라",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_551_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3803a7c9cdedaf3844ff5a0d83bac2c9743193466513248c99f4cadd28051fa7.png",
     "attack": 10,
     "health": 12,
@@ -2393,7 +2393,7 @@
   },
   "104539": {
     "name": "친근한 선술집 주인",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_104_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2de49d8352de2c137711698cc5b2c3a5e94eae0ab6e2f6d7e9b625d7e253628.png",
     "attack": 6,
     "health": 8,
@@ -2401,7 +2401,7 @@
   },
   "104541": {
     "name": "왕큰엘크",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_105_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/516ec23163a2186e5dabc04b5e562e39ac5e541ee338bcb22172c9486343dfa4.png",
     "attack": 10,
     "health": 4,
@@ -2409,7 +2409,7 @@
   },
   "104549": {
     "name": "아빠미소 드랙티르",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_107_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94e07f23ab9e02f16d07ae2b53c41b0a329a6a78f152fc90f532b86a75705cb8.png",
     "attack": 8,
     "health": 6,
@@ -2417,7 +2417,7 @@
   },
   "104552": {
     "name": "거울 괴물",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_108_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73cf7f1cf3cb3d0332df6fd3cd8c8ef6d9ce4ea5811a804dc42fe653f52ab200.png",
     "attack": 8,
     "health": 8,
@@ -2425,7 +2425,7 @@
   },
   "104554": {
     "name": "무해한 해골바가지",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_300_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60f3bd9264a01447fcab756244df7ead02cb678e73731e7912e96d3899e50a54.png",
     "attack": 2,
     "health": 2,
@@ -2433,7 +2433,7 @@
   },
   "104563": {
     "name": "지원 시스템",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_109_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8457e4277de9a2808e372136c1f4e15bf10290f3cdd90e7c1469ee4752f85269.png",
     "attack": 8,
     "health": 10,
@@ -2449,7 +2449,7 @@
   },
   "104611": {
     "name": "변장한 도굴꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_303_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cff880c7cac489764f983774e5b9c1755425dfda74f985a46cfe66b43403a70f.png",
     "attack": 8,
     "health": 8,
@@ -2457,7 +2457,7 @@
   },
   "104627": {
     "name": "혈기 왕성한 민물정령",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_110_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb5af9c96ba612710b16e3f2f7f812a2fd57a295271e15f8aa53b183696568c6.png",
     "attack": 12,
     "health": 8,
@@ -2489,7 +2489,7 @@
   },
   "104767": {
     "name": "대지마술사 루구그",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_583_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/703597df127d57f747b9c5dd1e7907476dec3d667e70f3bf9e282fcdaca7c12f.png",
     "attack": 8,
     "health": 12,
@@ -2505,7 +2505,7 @@
   },
   "104958": {
     "name": "인심 좋은 흙점쟁이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_111_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f43f9abf8d51620184cd94845eb08295e1ab0f6cef4e5c300d7af98eb3b37f6.png",
     "attack": 2,
     "health": 2,
@@ -2513,7 +2513,7 @@
   },
   "104962": {
     "name": "무덤 이야기꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_112_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd93d86b601b16445187a6a62ca64ece468aa5192161242d2d146dcec07a69dd.png",
     "attack": 4,
     "health": 14,
@@ -2537,7 +2537,7 @@
   },
   "105254": {
     "name": "여행객",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_114_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcfcc476a04f5164db2fd0b68aa7534740e98b2a5b38f23435daa74c5342fbf1.png",
     "attack": 4,
     "health": 4,
@@ -2561,7 +2561,7 @@
   },
   "105436": {
     "name": "도약하는 잭",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_115_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/279bee51ceba152985d942e69c7fbc606df33efa186276e5258bee1a5550dbb1.png",
     "attack": 6,
     "health": 8,
@@ -2569,7 +2569,7 @@
   },
   "105520": {
     "name": "고위 리치 켈투자드",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_308_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e6efd44500c3334a184db4a64bf1a0a4a6a287627d077ebd51598e7e51d5734.png",
     "attack": 20,
     "health": 16,
@@ -2577,7 +2577,7 @@
   },
   "105649": {
     "name": "웅덩이 첨벙이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_117_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d236fbe0fcc595bfa356d74e55a6c1f079e3fc6ed1e61b8eb4d92882133b10e3.png",
     "attack": 8,
     "health": 8,
@@ -2585,7 +2585,7 @@
   },
   "105715": {
     "name": "약탈 동료",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_118_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/150b79e589c18c9fb0c0e89880bb2d2f969527f40e9f008184c3d6460013d221.png",
     "attack": 4,
     "health": 4,
@@ -2593,7 +2593,7 @@
   },
   "105808": {
     "name": "오크에스트라 지휘자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_119_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d43f17fb6d11855ab1a3be33ba6d7ac9645239cd53b437dcddc6c534e0457d97.png",
     "attack": 8,
     "health": 8,
@@ -2609,7 +2609,7 @@
   },
   "105837": {
     "name": "우물 기도자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_120_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ab423f5549f30b78460b5e84c1029a8c670d3c3e417e423e433219161a5f20c.png",
     "attack": 12,
     "health": 12,
@@ -2617,7 +2617,7 @@
   },
   "105853": {
     "name": "점화 전문가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_595_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c3a4d7757ac91ee844ed548c1a4a1a1d2c5cddf2ca71832a61003e0b377555e.png",
     "attack": 16,
     "health": 16,
@@ -2641,7 +2641,7 @@
   },
   "106544": {
     "name": "만아리 전령",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_121_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6461f3cd5ae6008acbac8434e7d59c097eb2b071cbe806d93eb4fa7c93e88eb3.png",
     "attack": 18,
     "health": 12,
@@ -2657,7 +2657,7 @@
   },
   "107883": {
     "name": "폭풍 절단자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_122_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0102662115a5c3ccb446ab0fd77e45a0713b029463ca8aae14fad0fbfc75435.png",
     "attack": 10,
     "health": 10,
@@ -2665,7 +2665,7 @@
   },
   "107934": {
     "name": "채찍꼬리 트리고어",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_807_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/289bb36cfe8627cea0e7e451c6c9d8b43099cf961c49e7d0b60cf4ce40e21380.png",
     "attack": 18,
     "health": 6,
@@ -2673,7 +2673,7 @@
   },
   "107938": {
     "name": "무지갯빛 하늘광휘",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_806_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e3508fe29e273adffaffa2c57ae3ed59d5e852749161fa63bcc0a8128195fd9.png",
     "attack": 6,
     "health": 16,
@@ -2681,7 +2681,7 @@
   },
   "107945": {
     "name": "샌디",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_125_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4f6ee4d61a4235193de81ad1e9910e252ad8700d9a9124fc2a2548a6bcf8b8f.png",
     "attack": 2,
     "health": 2,
@@ -2689,7 +2689,7 @@
   },
   "108394": {
     "name": "달을 삼킨 구렁이의 용사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_840_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e0908eef12fb0733c18cedf4b822c3f96d7e90d6a77c67ecbe95f92a0acfd4d.png",
     "attack": 10,
     "health": 10,
@@ -2697,7 +2697,7 @@
   },
   "108400": {
     "name": "그레이메인의 용사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_841_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33069f7a224d3be1ddf276ab0f43a251035a360321eb3a74f03f5527fa8d9a25.png",
     "attack": 8,
     "health": 8,
@@ -2705,7 +2705,7 @@
   },
   "108435": {
     "name": "고대의 전투로봇",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cdf0d9afbd4d2b7fa6452a007e2e2097fc06d2385df8677731da2f4e4fd1d2fb.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG_TTN_401_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d9539e29f3673c032751cf97641bc2c68b24b3133de8a6a88df9624ba37b14d.png",
     "attack": 6,
     "health": 8,
@@ -2713,7 +2713,7 @@
   },
   "108455": {
     "name": "가시 돋친 구원자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_808_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd27c8db5331278cb33d41c32b2d437c57e347d90f6be544f47097ba5fb00e43.png",
     "attack": 16,
     "health": 4,
@@ -2721,7 +2721,7 @@
   },
   "108464": {
     "name": "영속적인 시인",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_813_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b60cada83f9d18b8b015ce2deecedbc4d0edb3e0fba2e9634579fad6b018100.png",
     "attack": 4,
     "health": 6,
@@ -2729,7 +2729,7 @@
   },
   "108910": {
     "name": "활기 넘치는 딱정벌레",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0a15c85f2346ffa932b1cbfa7833e4deba4f43053a40769f31693d50bf6d056.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG27_084_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19bf227788b2463fa5439a1ed080bb73b46a214d5bcd3068b5abae83d4157b2a.png",
     "attack": 6,
     "health": 2,
@@ -2737,7 +2737,7 @@
   },
   "108930": {
     "name": "진흙탕 채집꾼",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b914383cf61dab52a9aaadcd3f2bee0425057de971feca935044279f17382d22.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG27_556_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d616bac2a7d096c3b6ed252a7ced9087fddff7ce444e188cabc101cc58a24994.png",
     "attack": 10,
     "health": 12,
@@ -2745,7 +2745,7 @@
   },
   "109003": {
     "name": "미라 활성가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_309_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c7b1eafcfcd6f1450f0dae29132f56bbb75d7e71ca751034663251fd20e0acb.png",
     "attack": 10,
     "health": 4,
@@ -2753,7 +2753,7 @@
   },
   "109807": {
     "name": "포효하는 모병관",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_816_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd878e2a89f6d44e7f360a7b4f32c3b90f77667619893c8968e878a00fc00091.png",
     "attack": 4,
     "health": 16,
@@ -2761,7 +2761,7 @@
   },
   "109881": {
     "name": "아주 배고픈 겨울지느러미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_300_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcc54d99651796a6141448402bd12a55b9924a6d2fc05c53e9bdd9ba945d824a.png",
     "attack": 4,
     "health": 10,
@@ -2769,7 +2769,7 @@
   },
   "110102": {
     "name": "코드 뽑는 로봇",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_611_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6cc2f7c24b3521fec39490caf4d645bc4eb2aa54ab1ee6a8f58123c600570d1.png",
     "attack": 2,
     "health": 2,
@@ -2777,7 +2777,7 @@
   },
   "110322": {
     "name": "충전 중인 황후",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_741_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c67357a93b104f37230fb684ee0337d2e294232f1089808486b9ce926474c7f.png",
     "attack": 8,
     "health": 2,
@@ -2801,7 +2801,7 @@
   },
   "110665": {
     "name": "지옥멧돼지",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_633_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/578269657f24de48854a7f10c02b8fc9ba9a8f773c5d7984ea5028f61553e357.png",
     "attack": 4,
     "health": 12,
@@ -2809,7 +2809,7 @@
   },
   "112366": {
     "name": "로봇 의수",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6eb718cca19e2ce378218bb8d3d7047cc7ef2f07f23f2b6cfbc3431a877b25b4.png",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG_DEEP_015_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a7c4564f0ee2c6e88916d29b4ab748d1992e035b11ce26206dd4f5688839e22.png",
     "attack": 6,
     "health": 2,
@@ -2825,7 +2825,7 @@
   },
   "113153": {
     "name": "열기구 측량사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_121_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10842daf8e01932bf889fa6cd8a62f6739fee45af8fe4ab0e5c9e837f3501b5a.png",
     "attack": 6,
     "health": 14,
@@ -2833,7 +2833,7 @@
   },
   "113155": {
     "name": "겁 없는 미식가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_123_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b96f49b52635237a8c6d2422ee2737fa2ea289a21a909cc577af4910dd9a081.png",
     "attack": 4,
     "health": 8,
@@ -2841,7 +2841,7 @@
   },
   "113159": {
     "name": "송장 관리인",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_125_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0f00217043c225142dd1edf899e6b13a2d3a4faa8d71ad47beed8b265dc4316.png",
     "attack": 6,
     "health": 6,
@@ -2945,7 +2945,7 @@
   },
   "113767": {
     "name": "고물로봇 폐품",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_503_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7b774ec3a34a8ef96a17fe7dddea2d4a21ab09c009200da74987e4109e915b1.png",
     "attack": 6,
     "health": 8,
@@ -2953,7 +2953,7 @@
   },
   "114100": {
     "name": "화산 방문객",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_117_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91dc79d1f80ab4d2d38e53d2846df8eef5248d46cef5cdb1fbcf55718bc4072e.png",
     "attack": 8,
     "health": 8,
@@ -2977,7 +2977,7 @@
   },
   "114380": {
     "name": "미궁 분쇄자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_129_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4aa676b8082a1489e9679e590b78be9dae91d19bde1771ff9621de088e352b2c.png",
     "attack": 8,
     "health": 20,
@@ -2985,7 +2985,7 @@
   },
   "114392": {
     "name": "므르글 도둑",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_122_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be1dd7275b3fe1e09bd45d61ad99f2c10431e6e4ecc21c09c6675c0019296a0c.png",
     "attack": 20,
     "health": 20,
@@ -2993,7 +2993,7 @@
   },
   "114470": {
     "name": "불모의 땅 창조술사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_862_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ab5d6c38f008b676001d0f0e53c34de49ffdc8096763332710d288c8edfdefe.png",
     "attack": 12,
     "health": 4,
@@ -3001,7 +3001,7 @@
   },
   "114487": {
     "name": "아기 가멧 삼형제",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_867_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2403f1c641ab08d3ec02d68c1e0677d4cb5d8a1a0bedb2a937e384cca1b02167.png",
     "attack": 6,
     "health": 6,
@@ -3017,7 +3017,7 @@
   },
   "114817": {
     "name": "대지파괴자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_035_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b281d5c3ed1e48459d22156e3370d559dcc610d6089345cb90f7618083356528.png",
     "attack": 10,
     "health": 8,
@@ -3105,7 +3105,7 @@
   },
   "115578": {
     "name": "숲 방랑자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_801_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/819750e49e581f4a2c227aeeb3b1b023fd5c9697052de55bf5a356fec61661e6.png",
     "attack": 2,
     "health": 2,
@@ -3113,7 +3113,7 @@
   },
   "115594": {
     "name": "우주 항해사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_820_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e04a8e19dc8605257c8563f3a1e705d202bc165d2a97c26198215672b375ff8.png",
     "attack": 6,
     "health": 12,
@@ -3121,7 +3121,7 @@
   },
   "115611": {
     "name": "죽음의 공격수",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_835_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/691cd84a889bc5229f071aaba256fcd7e4b94eaba91a63d54005612c8c45e5fc.png",
     "attack": 16,
     "health": 16,
@@ -3129,7 +3129,7 @@
   },
   "115667": {
     "name": "달빛강철 돌격전차",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_171_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05f90ae956759ec2565f16ce9d92f14ce54c5f5859f990a05339f2946b13fdd6.png",
     "attack": 16,
     "health": 16,
@@ -3137,7 +3137,7 @@
   },
   "115675": {
     "name": "홀로그램 방랑자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_175_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0152fccf968a841267e4ec3603637d757315b453c69fc61d7b1c99e9fba7a398.png",
     "attack": 8,
     "health": 12,
@@ -3145,7 +3145,7 @@
   },
   "115681": {
     "name": "안내판 로봇",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_178_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dfc014a97b6b0f88592cc1442e300d2227594288d9e8ba539b87dd2bd3809606.png",
     "attack": 6,
     "health": 14,
@@ -3153,7 +3153,7 @@
   },
   "115709": {
     "name": "쌍수 무기 해적",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_824_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0486064e52a8bb40623a1a79361e1d9deb790177005f4fa9dc61dac1aa7e195d.png",
     "attack": 6,
     "health": 8,
@@ -3161,7 +3161,7 @@
   },
   "116241": {
     "name": "윙윙거리는 해충",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_803_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6be2ea0119c9e42f224f05c4d95477de464710c56c215db986cb3270049b453.png",
     "attack": 2,
     "health": 2,
@@ -3177,7 +3177,7 @@
   },
   "116735": {
     "name": "모래살이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_815_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0592b0615c67b847fc551e157281d5d5504aa4adae8477655e39ac02a1fc13b.png",
     "attack": 6,
     "health": 4,
@@ -3185,7 +3185,7 @@
   },
   "116737": {
     "name": "화염구 투수",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_816_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5995a4ee7e6653d757f4669d2090f22312b86c5c8a9a3ac816142095b489ffe6.png",
     "attack": 8,
     "health": 6,
@@ -3209,7 +3209,7 @@
   },
   "117327": {
     "name": "휘몰아치는 폭풍술사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_201_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fa796dec8ef096cf673178eebbeada7731f5fd0782b37827e538b624ba9b2dc.png",
     "attack": 10,
     "health": 2,
@@ -3217,7 +3217,7 @@
   },
   "117329": {
     "name": "의뭉스러운 뱀",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_203_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a5a1286d82540eaae507405c7324c342d2cdfca8d697dc2e998457383e399af.png",
     "attack": 12,
     "health": 2,
@@ -3225,7 +3225,7 @@
   },
   "117333": {
     "name": "헌신적인 관광객",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_205_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92015b0d048791a6ff1d6ffc669cb2c310fd8e79c57b97b42ea41c6e96fe3756.png",
     "attack": 12,
     "health": 4,
@@ -3233,7 +3233,7 @@
   },
   "117335": {
     "name": "산레인 서기",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_208_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a21fb50b5b169fd1ab1585f663a76a597d0ff0b0a695fa4935d18949ad4b703f.png",
     "attack": 8,
     "health": 8,
@@ -3241,7 +3241,7 @@
   },
   "117337": {
     "name": "사마귀 왕",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_212_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4fc50ecbd7ee1f61b4266536142cf32a748a743ae8e0a1af3539a28b0fd04b2a.png",
     "attack": 6,
     "health": 6,
@@ -3249,7 +3249,7 @@
   },
   "117354": {
     "name": "바퀴 달린 선원",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_207_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcdc39c190367a76e687c95e169b4afbd3ca6fde7e504305360b28ff3e492755.png",
     "attack": 12,
     "health": 6,
@@ -3257,7 +3257,7 @@
   },
   "117356": {
     "name": "개인 요리사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_209_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e72a8208f58c7d8ca565d0486d8c805f0d38a80818357c688d93ca82174158d.png",
     "attack": 10,
     "health": 8,
@@ -3265,7 +3265,7 @@
   },
   "117360": {
     "name": "수송 반응로",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_211_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a78f275623e9e8ca48fcf43cb57f0ea710fa109a206f53d343d6b6a77c6a2f17.png",
     "attack": 2,
     "health": 2,
@@ -3297,7 +3297,7 @@
   },
   "117493": {
     "name": "충성스러운 깡패",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_202_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c81325d5c4b2fa5c965f0361e04bbe38cb4bdf9cdcbed07da363cff0b3a3d646.png",
     "attack": 12,
     "health": 10,
@@ -3313,7 +3313,7 @@
   },
   "117505": {
     "name": "개인 취향",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_209t_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83507ae13b31dfa3758cd483031b76d73416919b7dbbc32a5026de7e6d4d1189.png",
     "attack": null,
     "health": null,
@@ -3321,7 +3321,7 @@
   },
   "117554": {
     "name": "불길한 예언자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_330_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/470cee98515a90563672a98eb9549893df3a68a09797697251ef7b94b623b539.png",
     "attack": 4,
     "health": 2,
@@ -3345,7 +3345,7 @@
   },
   "117668": {
     "name": "눈덩이 투수",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_818_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81f78295ffbd77228f74aba83b12dc89dc9a039615336017d48829c171d231c8.png",
     "attack": 6,
     "health": 8,
@@ -3393,7 +3393,7 @@
   },
   "118685": {
     "name": "전투순양함",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_801pt_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7718d8e4144c9179a55a49552e1da723a31470b177813eab5808db9586207010.png",
     "attack": 4,
     "health": 4,
@@ -3417,7 +3417,7 @@
   },
   "119203": {
     "name": "기술적 요소",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_859_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bc93f51ddd6ebe9e05725cf0972df369bc4b851bb7e2c6bdbf4833cd9d9aa19.png",
     "attack": 10,
     "health": 12,
@@ -3425,7 +3425,7 @@
   },
   "119256": {
     "name": "청록색 거미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_809_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fe788c5a7b148536a9a043d5d14ea1d74f1abece47a2c7a45237c5b4870dd7c.png",
     "attack": 10,
     "health": 10,
@@ -3433,7 +3433,7 @@
   },
   "119669": {
     "name": "기워 붙인 회수꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_999_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a63e7fd50f532c4b4c4706b380bd6ec8d72c0b50b41ac869d84eb770ccf9b76.png",
     "attack": 32,
     "health": 8,
@@ -3481,7 +3481,7 @@
   },
   "119943": {
     "name": "평온한 명상가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_835_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa8316877f08198767736da6375e280ec2740e6d5922019f39a4767ce13c623b.png",
     "attack": 6,
     "health": 16,
@@ -3489,7 +3489,7 @@
   },
   "119950": {
     "name": "모래 빙빙이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_841_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56452885de8219a757f03a83ed087dd6829e949a9063d58bf829ef55b6a0886b.png",
     "attack": 10,
     "health": 6,
@@ -3497,7 +3497,7 @@
   },
   "119952": {
     "name": "빛나는 잿불",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_842_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf796ae9c02d45cfad83eb2cc05eac2886f99638796a441c06cdaf7ab8e70f5b.png",
     "attack": 6,
     "health": 2,
@@ -3513,7 +3513,7 @@
   },
   "119993": {
     "name": "악랄한 드러스트",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_234_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16e030ccaa102dc1ded55b0df5541243ca5bbf76b6a042c945bce9b2ed4da95e.png",
     "attack": 10,
     "health": 8,
@@ -3521,7 +3521,7 @@
   },
   "119995": {
     "name": "파도 타는 실바르",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_235_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8888f1f5d1ec68b3d3e400ea0f8cb70ef98415a51039c902f3c29de0009571af.png",
     "attack": 2,
     "health": 4,
@@ -3529,7 +3529,7 @@
   },
   "119997": {
     "name": "황금빛 수상자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_236_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84020cb5da9fc87265cd6e4404bcaf0445e3fd8fa5f8cc2b68bad1b6791bcc47.png",
     "attack": 2,
     "health": 2,
@@ -3537,7 +3537,7 @@
   },
   "120022": {
     "name": "금속 사냥꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_170_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfd104bea5b4cd7b85764b00f4a10a3c27f18827462592ab3e7b5644480064a1.png",
     "attack": 8,
     "health": 4,
@@ -3545,7 +3545,7 @@
   },
   "120026": {
     "name": "자동 조립기",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_172_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38211c73b2c52ffd0d4f5f1daa7d7990ff75322007a8b18221011b3722d7bf7f.png",
     "attack": 4,
     "health": 4,
@@ -3553,7 +3553,7 @@
   },
   "120032": {
     "name": "불빛먹보 전쟁군주",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_430_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d3b625615f9f9ea8d05a7573f22de2d54745b184c438d6731249b5c47773297.png",
     "attack": 4,
     "health": 4,
@@ -3561,7 +3561,7 @@
   },
   "120105": {
     "name": "타락드러스트 도살자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_324_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2225b6d534c4fd7befbbb82a9e53682918acadfec40ec25aee64c74cafb8617b.png",
     "attack": 4,
     "health": 14,
@@ -3569,7 +3569,7 @@
   },
   "120224": {
     "name": "용감한 식물학자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_237_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5dce0077e09c40e558826592e4a0ec51bbdec51625290f0baf60d25d4f70b6f5.png",
     "attack": 6,
     "health": 8,
@@ -3761,7 +3761,7 @@
   },
   "120300": {
     "name": "지옥불 창조술사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_821_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3066d9c6073d23cb5d0dbe9f018956da1984c80147974c1dfbf1834870f1ae7e.png",
     "attack": 12,
     "health": 10,
@@ -3769,7 +3769,7 @@
   },
   "120302": {
     "name": "불벼림 기원사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_822_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b1632f262868e5fa05ac966d7e31e3af8fca10bc3d2a3f920fcdaef489dba71.png",
     "attack": 16,
     "health": 10,
@@ -4073,7 +4073,7 @@
   },
   "120663": {
     "name": "어둠춤꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_891_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4cd1aa5990d479eb5cc8ea7598efbb6f6b1578d557c1fd160cf2e5b077e2f87e.png",
     "attack": 10,
     "health": 6,
@@ -4081,7 +4081,7 @@
   },
   "120675": {
     "name": "방출된 마력의 폭풍",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_846_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4956cf5fda5d3e3e99c480ce006718f2cf8519f3c36cf917eb0801c806a04cf1.png",
     "attack": 12,
     "health": 10,
@@ -4089,7 +4089,7 @@
   },
   "120678": {
     "name": "변덕스러운 정찰병",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_330_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76eae897c37f5f9230b93ebf3d8d8f4321f8a4f977121e09e0503f475fbbef1f.png",
     "attack": 6,
     "health": 6,
@@ -4097,7 +4097,7 @@
   },
   "120709": {
     "name": "꿈꾸는 가시마술사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_433_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37ca43c9aacfb6ad4bc927d2758aabb6d962a081ae08e1d9e2794c045d0e4dbf.png",
     "attack": 4,
     "health": 16,
@@ -4113,7 +4113,7 @@
   },
   "120719": {
     "name": "불빛먹보 병사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_430t_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a61823a94e9a2791b2339633e1bdbc273e53f4f85acb1c026061ce68a35739c1.png",
     "attack": 2,
     "health": 2,
@@ -4121,7 +4121,7 @@
   },
   "120758": {
     "name": "악몽의 다도회 손님",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_111_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60fee965d5067df2cf96dc581699de158fddf7ba1b8c7aefbde09bd777216041.png",
     "attack": 6,
     "health": 6,
@@ -4145,7 +4145,7 @@
   },
   "121136": {
     "name": "비단결 아른나방",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_204_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fb140430b424b777adec6ed84fa792a205f055f2d8d775efa0b8dc95c9b2a43.png",
     "attack": 6,
     "health": 24,
@@ -4177,7 +4177,7 @@
   },
   "121642": {
     "name": "휴몽고스",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_341_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34e9f7fb934d75ea1ee5135afd41af48438d28123c5e671f046357ef23113a8f.png",
     "attack": 10,
     "health": 10,
@@ -4185,7 +4185,7 @@
   },
   "121688": {
     "name": "잿빛 타락자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_873_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d9d9612d2ae05f1696fd305524c8ac963f8548615875c2a023abf70401a299c.png",
     "attack": 12,
     "health": 12,
@@ -4225,7 +4225,7 @@
   },
   "122087": {
     "name": "현혹날개",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_240_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5af4273af88f4e6519652ab17fc3eb56baa8d9146304f70e828c5d3ad1202845.png",
     "attack": 6,
     "health": 20,
@@ -4233,7 +4233,7 @@
   },
   "122093": {
     "name": "강 펄럭이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_140_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75859cededed99dbe35f38d2bd369df4d5d38ca9ae30f9eb4321dd7410d84c99.png",
     "attack": 2,
     "health": 2,
@@ -4241,7 +4241,7 @@
   },
   "122095": {
     "name": "성난비늘 도적",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_920_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6893875daa61d92868134fef232b034efaf599ea81278e083458819117f19741.png",
     "attack": 6,
     "health": 12,
@@ -4249,7 +4249,7 @@
   },
   "122117": {
     "name": "파멸의 군주",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_154_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/468cfab425ec4c862bb563baa70fbd0a172d9207a939d32456bff3c8c68594c5.png",
     "attack": 10,
     "health": 12,
@@ -4257,7 +4257,7 @@
   },
   "122176": {
     "name": "잃어버린 도시 노략꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_820_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed58c591de52c32aab728f15ae725436ca95430519e08f243de9fc012ed21eea.png",
     "attack": 2,
     "health": 2,
@@ -4265,7 +4265,7 @@
   },
   "122178": {
     "name": "조난당한 불량배",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_821_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f740f3bed16e63f81c1320efa3150596d00d20d8ee3388fed12038f63a4a0f9a.png",
     "attack": 10,
     "health": 8,
@@ -4273,7 +4273,7 @@
   },
   "122180": {
     "name": "거물 도둑",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_822_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3ee0956582b61329a21bf193b777aab03bab95439c632a745cd7667a62cb861.png",
     "attack": 8,
     "health": 12,
@@ -4281,7 +4281,7 @@
   },
   "122220": {
     "name": "담즙뱉기 지네",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_318_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e614ed567cc7df5998b1d4c33850dc1facfc33b48aedb96cf1fecfd3f7c91cc.png",
     "attack": 2,
     "health": 20,
@@ -4289,7 +4289,7 @@
   },
   "122230": {
     "name": "먼지해골 섬멸자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_323_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/637f4cce26d6db447d39d960338f317fdb7edcce12a3221dd98919b0f714a43a.png",
     "attack": 2,
     "health": 12,
@@ -4297,7 +4297,7 @@
   },
   "122278": {
     "name": "뾰로롫 균류학자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_891_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/481c791da22dd5afa722b03e3f4001bf69c0f6fca7f3d61f0416f99965647683.png",
     "attack": 8,
     "health": 16,
@@ -4305,7 +4305,7 @@
   },
   "122282": {
     "name": "원시적인 화가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_893_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4efdc63367d73a96a7049c6bf54c1ac37b2c85ff9eca9107cfafe15afa74860d.png",
     "attack": 4,
     "health": 14,
@@ -4313,7 +4313,7 @@
   },
   "122284": {
     "name": "시린빛 잠수부",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_894_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59bed0b6b935a0475d2aa31b14589f8818ea3f7083780fbd106e8c25742de3d0.png",
     "attack": 2,
     "health": 2,
@@ -4321,7 +4321,7 @@
   },
   "122435": {
     "name": "잠든 지원용",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_241_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae41e7b24844a7e5581fcffdac619776744d252a5bfdbdd04791ce15e9b5b063.png",
     "attack": 8,
     "health": 6,
@@ -4329,7 +4329,7 @@
   },
   "122517": {
     "name": "하늘 제독 로저스",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_823_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19ab8bbcb0458d635c4ec8e2a686e279798a7773c07f6a2ee2378e3eca142620.png",
     "attack": 8,
     "health": 10,
@@ -4337,7 +4337,7 @@
   },
   "122521": {
     "name": "위풍당당한 선원",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_825_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a5f32058234817a6f42f6f1abe9a992dc98bc07d042a9c34bb8cb5797acdc29.png",
     "attack": 16,
     "health": 16,
@@ -4345,7 +4345,7 @@
   },
   "122587": {
     "name": "헌신적인 지옥소환사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_155_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3577d646405a5bf0ae1fcceabba4e0e8b5410406ceca40947f25a8cea19aa69d.png",
     "attack": 4,
     "health": 4,
@@ -4353,7 +4353,7 @@
   },
   "122606": {
     "name": "조용한 집행자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_156_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e44e4b2f268a06d0099b30eddd8398cd5f303a6a371d5e4e787ed54457cda33e.png",
     "attack": 12,
     "health": 4,
@@ -4361,7 +4361,7 @@
   },
   "122673": {
     "name": "조각난 여군주",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_923_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/291d6cc648b3898575546f789cf051ded6095ff2c0134f231a0472401182e87f.png",
     "attack": 14,
     "health": 8,
@@ -4369,7 +4369,7 @@
   },
   "122738": {
     "name": "돼지 감시자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_888_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3d1c82bb36b5d73713f0d89c512060864b8ea9e38abe0215995d3074c06e611.png",
     "attack": 10,
     "health": 10,
@@ -4409,7 +4409,7 @@
   },
   "126170": {
     "name": "파도정령",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_856_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d1edc6fc46b74f64308b89abe5dbfe8dd4580229a7961591855fbc0b0e69818.png",
     "attack": 12,
     "health": 2,
@@ -4417,7 +4417,7 @@
   },
   "126174": {
     "name": "바람의 망령",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_858_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87c44000001600cfbbf62f2984df92ff978a0c37a49cf4193fd5e898166c4ffc.png",
     "attack": 6,
     "health": 12,
@@ -4425,7 +4425,7 @@
   },
   "126176": {
     "name": "불길의 신령",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_865_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75686dd56b1d23fda2894feadab68fac65337bfcdd11f5616b3c117f8ec9f7d7.png",
     "attack": 8,
     "health": 8,
@@ -4433,7 +4433,7 @@
   },
   "126452": {
     "name": "역병질주자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_690_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b356777c4d03746078b212fbb915a21fccd86e5cbb35f717026f4f0903f3c471.png",
     "attack": 8,
     "health": 4,
@@ -4457,7 +4457,7 @@
   },
   "126630": {
     "name": "물결 인도자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_920_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c73d33a1426f8c9146734ad81bc42ba25fbeb0ee1ab5d3d10e7f418733ce4cc.png",
     "attack": 4,
     "health": 2,
@@ -4465,7 +4465,7 @@
   },
   "126632": {
     "name": "반지를 지닌 자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_921_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9721ace498e38b074d886e3f0c7a464048f5bbb1bb58ec2d6e009df3a70b83fd.png",
     "attack": 10,
     "health": 20,
@@ -4473,7 +4473,7 @@
   },
   "126634": {
     "name": "혼돈의 소용돌이 출현자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_922_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96865a6b21ec3892d64b9c9831633658b4abb426628873bbbcd02d46f1d8d71c.png",
     "attack": 4,
     "health": 14,
@@ -4481,7 +4481,7 @@
   },
   "126638": {
     "name": "숙련 비행사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_140_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18d81c31b115a4c772ef968ac936ab05bd25815930d257c3e7fa6da814266a32.png",
     "attack": 6,
     "health": 8,
@@ -4489,7 +4489,7 @@
   },
   "126642": {
     "name": "분장 애호가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_142_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e21088b9c07aa0305acc7a7eb01b5364a127eaf9ad29da7323fb0880e9c98fa.png",
     "attack": 8,
     "health": 10,
@@ -4497,7 +4497,7 @@
   },
   "126668": {
     "name": "가시덩굴 신여성",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_682_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25b506488b1212d6ca0b0c9129c7d3f8308e879ab43c7b8d578a2eb73723c121.png",
     "attack": 12,
     "health": 4,
@@ -4505,7 +4505,7 @@
   },
   "126670": {
     "name": "뽀족털 북장이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_683_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6db04482f6d33a74ea445b197cbcba7e2311ae643c448302a25328ddf9f68f1e.png",
     "attack": 10,
     "health": 6,
@@ -4513,7 +4513,7 @@
   },
   "126672": {
     "name": "참호 투사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_684_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e44dc2f763c8e3091f32d28550df81eb8b4a6644338bff7abc1824e0d2643c5.png",
     "attack": 12,
     "health": 12,
@@ -4521,7 +4521,7 @@
   },
   "126734": {
     "name": "포세이큰 방직공",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_692_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f762cdc0ae506bd9914e454eb6833cb63c0e2fa6d076d96d142190b21c44c849.png",
     "attack": 6,
     "health": 20,
@@ -4529,7 +4529,7 @@
   },
   "126742": {
     "name": "새끼 황혼의 비룡",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_630_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d456f8f50b143e4b92725864e6326e3a197395fd4e652e5b659180b66f26f617.png",
     "attack": 2,
     "health": 2,
@@ -4537,7 +4537,7 @@
   },
   "126746": {
     "name": "부화 연구원",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_632_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e2014bcffa162d7ab6e0f911da26ba30a3e97282ba8fca5cce705a686868a9c.png",
     "attack": 4,
     "health": 16,
@@ -4561,7 +4561,7 @@
   },
   "126803": {
     "name": "나이 든 영혼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_231_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8834022dd3433f6f3fbff773ff71da149c5cf60435a1ea0779acf43f15df19f.png",
     "attack": 6,
     "health": 8,
@@ -4569,7 +4569,7 @@
   },
   "126831": {
     "name": "고물 창기사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_175_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6565a3be7b785139174110c266dfee39821a514c55b2cfd70a43b2c584494629.png",
     "attack": 16,
     "health": 14,
@@ -4577,7 +4577,7 @@
   },
   "126850": {
     "name": "강건한 범고래",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_312_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b44d8dfe38cee25d0a7f2e9848089a6bb2a06fbd88f9b92cf3cb6caa590cc2ad.png",
     "attack": 2,
     "health": 12,
@@ -4585,7 +4585,7 @@
   },
   "126861": {
     "name": "용 감시관",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_633_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f2985bdc2f803521a8dd7465e338d1c77e124cd7dbcd85dd5754a6d044f5618.png",
     "attack": 14,
     "health": 8,
@@ -4593,7 +4593,7 @@
   },
   "126917": {
     "name": "해저 모집관",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_925_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ab38337a8e8181706296570ef40a625f23174d722e8b2c550a4748af3d40861.png",
     "attack": 6,
     "health": 10,
@@ -4601,7 +4601,7 @@
   },
   "126919": {
     "name": "무자비한 여왕 근위병",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_926_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea59f45da5494156b8cfd2c2d1462db6c33cf8b5d0843a5699d7f05c2ccc5465.png",
     "attack": 6,
     "health": 6,
@@ -4609,7 +4609,7 @@
   },
   "126925": {
     "name": "불타오르는 집행자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_500_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ff0e2aaddd71b920502389fe92471faca195f2c008b6149c46e180d9145ff32.png",
     "attack": 8,
     "health": 10,
@@ -4617,7 +4617,7 @@
   },
   "126956": {
     "name": "겨울손아귀 구울",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_694_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f81a00c8aaba0e6c0fb77b7a348bb11e8f659daa24b396867eea00bfa81c469.png",
     "attack": 10,
     "health": 6,
@@ -4625,7 +4625,7 @@
   },
   "126960": {
     "name": "석기 시대 석판",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_950_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c24b7e52f94d221f7ad9b7bbfaa06367492f0eb7641ec8237127ee16a606a1b9.png",
     "attack": 10,
     "health": 20,
@@ -4633,7 +4633,7 @@
   },
   "126967": {
     "name": "역전의 영웅",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_604_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68940917c99bdfce5950d876729571b24925ea66cab276aeabcbc587e523183f.png",
     "attack": 2,
     "health": 20,
@@ -4641,7 +4641,7 @@
   },
   "127108": {
     "name": "고위수호자 라",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_319_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6e086484779c4af1f9f6a423572682e578c9ad1ffa92f0ce2e4ab0c95e423e5.png",
     "attack": 12,
     "health": 12,
@@ -4649,7 +4649,7 @@
   },
   "127110": {
     "name": "최후의 일인",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_320_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62c6b483fa13a0e47a6e50cc1ca2cf4596f0d6bfba7cbf99f7c8e29da97a4248.png",
     "attack": 24,
     "health": 24,
@@ -4657,7 +4657,7 @@
   },
   "127112": {
     "name": "광견병 걸린 표범",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_321_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97ba5904c1385d5c7d9c60d5ef81794c8e0ae8798c0343c3df1935a51a2e9a75.png",
     "attack": 8,
     "health": 16,
@@ -4665,7 +4665,7 @@
   },
   "127114": {
     "name": "굳건한 코도",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_322_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/161c402efda309b80148476ee75b669ed3a4a5aa7406bcfbff2cda9e8cc61832.png",
     "attack": 32,
     "health": 64,
@@ -4673,7 +4673,7 @@
   },
   "127237": {
     "name": "황혼의 무리어미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_731_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad77c4a67459ce42bf0affe45e7ee209a742a9896574d8c9e6a14c2753b2d5a1.png",
     "attack": 14,
     "health": 8,
@@ -4681,7 +4681,7 @@
   },
   "127241": {
     "name": "죽은 바다 약탈자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_765_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5461a2d65ced05927f8a0bb9f8e19d6023610d0c9432de0747884050f34ece0.png",
     "attack": 8,
     "health": 10,
@@ -4689,7 +4689,7 @@
   },
   "127326": {
     "name": "시간왜곡의 폴짝개구리",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_031_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/033d4bf91d34c4166db22f3158ef749cabeed0b24f5be5003c6fd608625126bc.png",
     "attack": 6,
     "health": 6,
@@ -4697,7 +4697,7 @@
   },
   "127328": {
     "name": "시간왜곡의 멧돼지",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_201_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0e5659f43073aff53e3f6753f41c7d1aa715eed31692ed209a6a94dc9eb0ecc.png",
     "attack": 2,
     "health": 2,
@@ -4705,7 +4705,7 @@
   },
   "127329": {
     "name": "시간왜곡의 사우로리스크",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_202_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97c3499ff716831b6ff5d46a7d0a3caf9641565b2a0775a5f804d415b535fdd9.png",
     "attack": 8,
     "health": 8,
@@ -4713,7 +4713,7 @@
   },
   "127332": {
     "name": "시간왜곡의 아기용",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_029_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f66d1ab920dbc31d51ff196fcc8a24f5381dfb3f3a7c5fedb57d019ecf2a49ea.png",
     "attack": 6,
     "health": 6,
@@ -4721,7 +4721,7 @@
   },
   "127334": {
     "name": "시간왜곡의 새끼용 밀수꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_064_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a0cd58b2ca8b2d1d4d13da9695212a8dff59c92804adf5877e6c3e50247225a.png",
     "attack": 6,
     "health": 16,
@@ -4729,7 +4729,7 @@
   },
   "127335": {
     "name": "시간왜곡의 회오리",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_012_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34f16d1ebf2b0365786be6b2584d9c6a86dae396ac714e591a14ff2c9060e401.png",
     "attack": 12,
     "health": 2,
@@ -4737,7 +4737,7 @@
   },
   "127336": {
     "name": "시간왜곡의 판다네 정령",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_067_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8104312b1339fe870d164ca8f6c6eabe9e0dfd499ebce33408460b7c134dcd9.png",
     "attack": 16,
     "health": 16,
@@ -4745,7 +4745,7 @@
   },
   "127337": {
     "name": "시간왜곡의 바다 유리",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_110_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c1ce08e476f48f3f1f44a2d43418e9561c89ce239e43d9296ef90c3b869f227.png",
     "attack": 20,
     "health": 16,
@@ -4753,7 +4753,7 @@
   },
   "127338": {
     "name": "시간왜곡의 안녕로봇",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_007_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48900794a9e42015cc5143139f1126b2c8ce590fab5e2cac6583e4f284a7efbb.png",
     "attack": 12,
     "health": 12,
@@ -4761,7 +4761,7 @@
   },
   "127340": {
     "name": "시간왜곡의 사부",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_209_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccc519c9b7a93c2faa36e72a46ec41676116ef94155ac46c819db4cb07592635.png",
     "attack": 12,
     "health": 12,
@@ -4769,7 +4769,7 @@
   },
   "127341": {
     "name": "시간왜곡의 베이스아가미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_071_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cadc19b077341c321acf68e828652019c28a2a22c6089e81d58c73b95491424.png",
     "attack": 14,
     "health": 8,
@@ -4777,7 +4777,7 @@
   },
   "127342": {
     "name": "시간왜곡의 펄럭이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_072_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75859cededed99dbe35f38d2bd369df4d5d38ca9ae30f9eb4321dd7410d84c99.png",
     "attack": 10,
     "health": 12,
@@ -4785,7 +4785,7 @@
   },
   "127343": {
     "name": "시간왜곡의 청소지느러미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_017_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cb099740dfd381278c1dbbedbc44aa91c547553aeacc1e0c8f149796eadd85a.png",
     "attack": 14,
     "health": 14,
@@ -4793,7 +4793,7 @@
   },
   "127344": {
     "name": "시간왜곡의 머키",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_206_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27a160da4d22ee4a5777cd1e0b46f938f247fc7982df0749bdc200c5eba5c533.png",
     "attack": 10,
     "health": 10,
@@ -4801,7 +4801,7 @@
   },
   "127345": {
     "name": "시간왜곡의 멀로클레스",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_207_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1eaf1198118e7daf148609f3c9aa1b4dc1622f0e8827d4e5d53735ae3dd0b002.png",
     "attack": 20,
     "health": 10,
@@ -4809,7 +4809,7 @@
   },
   "127346": {
     "name": "시간왜곡의 악사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_001_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ff493370b8d1a4611ff5a610afc7e57477806677e01a3e13675fcc28d6e4503.png",
     "attack": 8,
     "health": 4,
@@ -4817,7 +4817,7 @@
   },
   "127347": {
     "name": "시간왜곡의 페이글",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_208_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65975c73dc13e435724b5ab3a6845508231b6b19295380017e500a0a09dafcd7.png",
     "attack": 16,
     "health": 12,
@@ -4825,7 +4825,7 @@
   },
   "127348": {
     "name": "시간왜곡의 사령관",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_210_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c4212c29dac850b1bb7f3c581128bf15607967ccac568988dddf40e61eb748e.png",
     "attack": 10,
     "health": 10,
@@ -4833,7 +4833,7 @@
   },
   "127349": {
     "name": "시간왜곡의 파쉬마",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_211_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/496947f4fcf0929c5cea7bf53075da03937defa1ce01623ef3340b8c5a376b6c.png",
     "attack": 18,
     "health": 20,
@@ -4841,7 +4841,7 @@
   },
   "127350": {
     "name": "시간왜곡의 궁수",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_212_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85e0a069a4247204ff77f86738dcc034fe9124335f02a61c3a4a14d33ea90238.png",
     "attack": 8,
     "health": 18,
@@ -4849,7 +4849,7 @@
   },
   "127352": {
     "name": "시간왜곡의 피리꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_069_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a690e66d3f0525f73ffa79bb066c43998bc0045186e387e8f0381749830a3706.png",
     "attack": 4,
     "health": 16,
@@ -4857,7 +4857,7 @@
   },
   "127353": {
     "name": "시간왜곡의 가시소환사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_078_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60ae38d1490c3d11902139074763abf844ffb96555515c68e991cc7ffdd6e639.png",
     "attack": 10,
     "health": 6,
@@ -4865,7 +4865,7 @@
   },
   "127354": {
     "name": "시간왜곡의 재활용사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_082_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3eba9ae665cd6c5b0feea8d4283dfcfa8cd6c897ee42c10d35211269f2ecf4fd.png",
     "attack": 4,
     "health": 14,
@@ -4873,7 +4873,7 @@
   },
   "127355": {
     "name": "시간왜곡의 죽음거미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_081_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8804d9151578dda60e969c779a6487d54a704db74e60e649eda2e2054bc8f94b.png",
     "attack": 2,
     "health": 18,
@@ -4881,7 +4881,7 @@
   },
   "127357": {
     "name": "시간왜곡의 느림보",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_066_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/edd2c8cf2297b750ba0d33d853b121654a9007d298f1e5212914b1e404a77107.png",
     "attack": 10,
     "health": 14,
@@ -4889,7 +4889,7 @@
   },
   "127358": {
     "name": "시간왜곡의 당첨자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_039_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fc969413d30af2dee0e9f30fae1eb79927aad2bf98aa117766f0e7e60ce76c4.png",
     "attack": 12,
     "health": 12,
@@ -4897,7 +4897,7 @@
   },
   "127359": {
     "name": "시간왜곡의 엘리스",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_038_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b91cd68e9bbd3eb184151115cdaf4a5ddeb365ee331a34a0cca404f1f9bdf84.png",
     "attack": 12,
     "health": 14,
@@ -4905,7 +4905,7 @@
   },
   "127360": {
     "name": "시간왜곡의 길고양이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_009_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d361b3d416a39d38896ddea30342bafb5663644e3308e33a3705faab3426200.png",
     "attack": 14,
     "health": 14,
@@ -4913,7 +4913,7 @@
   },
   "127362": {
     "name": "시간왜곡의 밀림왕",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_004_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fa2ba44352e24cc567b66da97c6666715cf9c0ecef80a4b72ff0a8a7fea8fc1.png",
     "attack": 16,
     "health": 24,
@@ -4921,7 +4921,7 @@
   },
   "127363": {
     "name": "시간왜곡의 카멜레온",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_042_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66647817bab572446214e5d6c048a51b352a840428dba40a620bf7e7d1499b0a.png",
     "attack": 12,
     "health": 30,
@@ -4929,7 +4929,7 @@
   },
   "127364": {
     "name": "시간왜곡의 거대마귀",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_011_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5aea8e81cfd917d04acc93eb2d4e6f23bcf6fdd1c2df9a016b7eec2d116ed6f8.png",
     "attack": 14,
     "health": 26,
@@ -4937,7 +4937,7 @@
   },
   "127365": {
     "name": "시간왜곡의 임프침투요원",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_013_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c27cd9088788314aaf261fb6cd3015690fdf72487960fb1f4c5110bfceafa0b.png",
     "attack": 26,
     "health": 14,
@@ -4945,7 +4945,7 @@
   },
   "127367": {
     "name": "시간왜곡의 황혼이빨",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_020_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f2c935e74d5e557ce1c653646623c9106c958634ca3da865afa99da79707d23.png",
     "attack": 12,
     "health": 28,
@@ -4953,7 +4953,7 @@
   },
   "127368": {
     "name": "시간왜곡의 프리즘비늘",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_022_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e51d6c42bb72389326162294afdb88b2edfa9e597c76e133603830562a612b7.png",
     "attack": 16,
     "health": 24,
@@ -4961,7 +4961,7 @@
   },
   "127369": {
     "name": "시간왜곡의 고취비룡",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_088_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4803d61d9e9f8095e137153fc5d996f3b29ae9bbd25e56b18eac67a28c2c79bc.png",
     "attack": 12,
     "health": 12,
@@ -4969,7 +4969,7 @@
   },
   "127370": {
     "name": "시간왜곡의 후크테일",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_015_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4b44a62bfb80380ca0cd137237f77161422377e1b3fe949897c324ee95b83f3.png",
     "attack": 12,
     "health": 24,
@@ -4977,7 +4977,7 @@
   },
   "127371": {
     "name": "시간왜곡의 녹지 관리인",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_041_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c142148811c26611a9d38334142f979897b9772b6e24946b166134f39c0cdf0.png",
     "attack": 10,
     "health": 18,
@@ -4985,7 +4985,7 @@
   },
   "127373": {
     "name": "시간왜곡의 폭풍구름",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_031_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/484b582f3cdab7b299a4f338f530a18fc74440fbcbfb599b7452696a08c42645.png",
     "attack": 22,
     "health": 18,
@@ -4993,7 +4993,7 @@
   },
   "127374": {
     "name": "시간왜곡의 녹아내린 바위",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_006_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23fd5d55d3542746dab4ab020028c26c79ba28cf370147fb711f9db98321ba88.png",
     "attack": 14,
     "health": 14,
@@ -5001,7 +5001,7 @@
   },
   "127377": {
     "name": "시간왜곡의 노미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_032_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66c009ec02f46c09c14df9696cb93aa3341e7ca96912192f34f4051e36a116c8.png",
     "attack": 20,
     "health": 20,
@@ -5009,7 +5009,7 @@
   },
   "127378": {
     "name": "시간왜곡의 이코론",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_040_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b68705dc61e83094ceaccbbd78758f80f3a372ea9af6399c5f72ead8d78e32f.png",
     "attack": 14,
     "health": 8,
@@ -5017,7 +5017,7 @@
   },
   "127383": {
     "name": "시간왜곡의 돌풍지느러미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_049_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59da0b059fd85d3f9f1cc7ff9a8754aa60f275b0d94c38e76648d4bd7c153f88.png",
     "attack": 12,
     "health": 28,
@@ -5025,7 +5025,7 @@
   },
   "127385": {
     "name": "시간왜곡의 세이렌",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_058_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22bf7085ddfbefd3586e9dbb2f46ba03fe2594829d1c668f5fb93628461b3ad2.png",
     "attack": 12,
     "health": 28,
@@ -5033,7 +5033,7 @@
   },
   "127386": {
     "name": "시간왜곡의 발광비늘",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_035_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53d9bd127d2b0d73ad81e49c847d971f4a00b31e72659189a66e290833d74f03.png",
     "attack": 12,
     "health": 24,
@@ -5041,7 +5041,7 @@
   },
   "127389": {
     "name": "시간왜곡의 혈술사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_076_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/921ffa5e2cbeaf15522ce7aef0484f96e6eec1b46eff5ae4040ddc81922100d3.png",
     "attack": 24,
     "health": 16,
@@ -5049,7 +5049,7 @@
   },
   "127392": {
     "name": "시간왜곡의 머리 강타꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_102_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/677348b7d7417c0b9040e47fc48f1ee2aa659d18a1bf8381fa0000f7d94a2540.png",
     "attack": 14,
     "health": 28,
@@ -5057,7 +5057,7 @@
   },
   "127394": {
     "name": "시간왜곡의 아눕아락",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_083_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43206a0b6c5e312ae20b7065b57ca2dcd4d925bcb8e1ebb7b6b61971c16eb3fe.png",
     "attack": 24,
     "health": 16,
@@ -5065,7 +5065,7 @@
   },
   "127396": {
     "name": "시간왜곡의 외눈깨비",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_034_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73aab8f7348f262c2992b093b91a89c945da97b32136b725e73b16c46a10bb64.png",
     "attack": 20,
     "health": 12,
@@ -5073,7 +5073,7 @@
   },
   "127399": {
     "name": "시간왜곡의 날라",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_205_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3803a7c9cdedaf3844ff5a0d83bac2c9743193466513248c99f4cadd28051fa7.png",
     "attack": 24,
     "health": 24,
@@ -5081,7 +5081,7 @@
   },
   "127421": {
     "name": "시간왜곡의 약탈자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_065_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0430a2e2410de92ab77101c52033520729edc751f002217be15d469c334de32.png",
     "attack": 28,
     "health": 12,
@@ -5089,7 +5089,7 @@
   },
   "127422": {
     "name": "시간왜곡의 노략질꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_067_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e2c2020b0c9231621fcd281f20c57ddb38921e3c8a1085cae97d71e9fb8a032.png",
     "attack": 30,
     "health": 10,
@@ -5097,7 +5097,7 @@
   },
   "127428": {
     "name": "시간왜곡의 라그나로스",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_580_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6293a2e987a5f1c75b460dfc3e2ae643256f8e0c53b8a877fa4197329e3163a8.png",
     "attack": 16,
     "health": 16,
@@ -5105,7 +5105,7 @@
   },
   "127432": {
     "name": "시간왜곡의 흙점쟁이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_305_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b428de9756d7910b4633e94e283dc6fd9c41eebb38ad444961607dcb0d6bc527.png",
     "attack": 4,
     "health": 18,
@@ -5113,7 +5113,7 @@
   },
   "127433": {
     "name": "시간왜곡의 재즈 연주가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_306_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4892a2ce104a9ee4e305bb85ab22ef5f3db5dfbda8a2713c329e0e50d7e5847.png",
     "attack": 10,
     "health": 6,
@@ -5121,7 +5121,7 @@
   },
   "127440": {
     "name": "시간왜곡의 백인대장",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_200_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0abfee38295840876a458d46a77a85c6e45f70f1db3ba9efdd4bf2b0dbed929.png",
     "attack": 16,
     "health": 16,
@@ -5129,7 +5129,7 @@
   },
   "127442": {
     "name": "시간왜곡의 시인",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_314_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b60cada83f9d18b8b015ce2deecedbc4d0edb3e0fba2e9634579fad6b018100.png",
     "attack": 12,
     "health": 14,
@@ -5137,7 +5137,7 @@
   },
   "127445": {
     "name": "시간왜곡의 전쟁구울",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_331_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ee0c624dbf25bd22e475ab75b811482b556bf3455fac51a5aabc00d1a449a51.png",
     "attack": 18,
     "health": 6,
@@ -5145,7 +5145,7 @@
   },
   "127448": {
     "name": "시간왜곡의 라디오 스타",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_330_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0bb89104f96219f0b30edf86a8951e59dc73751bc93d2a611dac021332b750c2.png",
     "attack": 2,
     "health": 2,
@@ -5153,7 +5153,7 @@
   },
   "127495": {
     "name": "미래지느러미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_145_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cf8c030df56ebce0e1a1cda042d82c2208590110fa81c31203bda9dd1365915.png",
     "attack": 14,
     "health": 26,
@@ -5161,7 +5161,7 @@
   },
   "127500": {
     "name": "시간왜곡의 아옳옳",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_321_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8249125531286a9c3e7bf4cee4e5351c90aa257c35fb98aba22be3db57282987.png",
     "attack": 16,
     "health": 16,
@@ -5169,7 +5169,7 @@
   },
   "127509": {
     "name": "시간왜곡의 허드렛일",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_327_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7183c805ecf3fc385c20dc0ee417b459063628f10e6e9971831f98b526be94e2.png",
     "attack": 18,
     "health": 10,
@@ -5177,7 +5177,7 @@
   },
   "127512": {
     "name": "시간왜곡의 정찰병",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_333_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd5a9c11d6c3bace14c3c2622d840435221d5eea61f1472e64fe8ae739bd2c43.png",
     "attack": 14,
     "health": 14,
@@ -5185,7 +5185,7 @@
   },
   "127529": {
     "name": "시간왜곡의 새끼 붉은용",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_091_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/378a10ee1bf675535d7b7a6ec66435143b473d76cda0da43eb0ecc591583f6b5.png",
     "attack": 8,
     "health": 12,
@@ -5193,7 +5193,7 @@
   },
   "127540": {
     "name": "시간왜곡의 역행자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_300_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6236a3026de95d71d522460e6042b143a147c00188910d714b56197509b7d7b6.png",
     "attack": 10,
     "health": 8,
@@ -5201,7 +5201,7 @@
   },
   "127554": {
     "name": "시간왜곡의 도굴꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_204_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1265f93d457e05945ae0298357238d7dda190381d2c631e15d82a5a8ccfa3c1e.png",
     "attack": 8,
     "health": 6,
@@ -5209,7 +5209,7 @@
   },
   "127557": {
     "name": "시간왜곡의 콥터",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_302_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4fe48c40e3f34622c5bbd079fdc7a46a9d7f50c9434ca10846fa4697f756d66.png",
     "attack": 8,
     "health": 12,
@@ -5217,7 +5217,7 @@
   },
   "127563": {
     "name": "시간왜곡의 공병",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_304_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9305be2237bd3a3c39f547ca0ff7c210bacd3b198b9010a5cd6ecb5309a4d235.png",
     "attack": 20,
     "health": 12,
@@ -5225,7 +5225,7 @@
   },
   "127566": {
     "name": "시간왜곡의 장의사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_332_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09db55170f17bf7e22c014504d4f2e7a44f5acadd178991bbba4d6e3bc360ec4.png",
     "attack": 20,
     "health": 20,
@@ -5233,7 +5233,7 @@
   },
   "127569": {
     "name": "시간왜곡의 칼날해일호",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_328_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/203d320a30a8453465361a67aef3ec4b9b989b700b2777c74677bf779e481752.png",
     "attack": 24,
     "health": 16,
@@ -5241,7 +5241,7 @@
   },
   "127577": {
     "name": "시간왜곡의 쉬바라",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_311_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3a4d9dc0209f98527a5396fd95062ab640c807883243254157b1be3e985fe9a.png",
     "attack": 8,
     "health": 4,
@@ -5257,7 +5257,7 @@
   },
   "127712": {
     "name": "시간왜곡의 중간체",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_032_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c063ff17a2a9174a4599b0c43ae90f23d36754a444204ad0c8132eac4ee47cbb.png",
     "attack": 16,
     "health": 16,
@@ -5265,7 +5265,7 @@
   },
   "127718": {
     "name": "시간왜곡의 하이에나",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_581_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59ee2d883012468cdf958b2342828c287740514d64baddd12b471479769dc934.png",
     "attack": 6,
     "health": 10,
@@ -5273,7 +5273,7 @@
   },
   "127720": {
     "name": "시간왜곡의 포자박쥐",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_582_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/637aac2f64620d7f3784b64317b9cb66baaa1c46df9010f476f36fe93133f1dd.png",
     "attack": 18,
     "health": 4,
@@ -5281,7 +5281,7 @@
   },
   "127722": {
     "name": "시간왜곡의 포식자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_583_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6769a4035f26353789cf7215ca44ec0d71374fc5c0fa22e528f4fb094d058327.png",
     "attack": 10,
     "health": 10,
@@ -5289,7 +5289,7 @@
   },
   "127724": {
     "name": "시간왜곡의 킬렉",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_584_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10d64a5b22863197c9eac347dd775bc19b6af4352e37c4444906ddf042af3094.png",
     "attack": 8,
     "health": 14,
@@ -5297,7 +5297,7 @@
   },
   "127726": {
     "name": "시간왜곡의 밸라스트라즈",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_585_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6bb5f93b24854b0653d1dedb338a608acfba1606e9fa388aa2ad08b9184b5d4.png",
     "attack": 12,
     "health": 12,
@@ -5305,7 +5305,7 @@
   },
   "127728": {
     "name": "시간왜곡의 눈 정령",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_586_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b972a788dd20079b99bcc35a03a6f3fa22915b38095233695658fae9ba5894f.png",
     "attack": 12,
     "health": 10,
@@ -5313,7 +5313,7 @@
   },
   "127734": {
     "name": "시간왜곡의 선원",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_589_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3af67643d1513015c7424276bef04b6132d482fcb197d6e3c33ecb0426273ae3.png",
     "attack": 10,
     "health": 8,
@@ -5321,7 +5321,7 @@
   },
   "127736": {
     "name": "시간왜곡의 구린속",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_590_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5330430f0690e60e6c4fbfcdb3a4a383521723221ecc7460ff4086c5f1f5ca01.png",
     "attack": 14,
     "health": 6,
@@ -5329,7 +5329,7 @@
   },
   "127741": {
     "name": "시간왜곡의 해석가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_120_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/027f00ade957e61f3690639217933993dc0e0ce2fedebc5b0517c5d4756c522d.png",
     "attack": 12,
     "health": 16,
@@ -5337,7 +5337,7 @@
   },
   "127762": {
     "name": "시간왜곡의 수행사제",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_591_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89b33c5f8a06228c10401c2220ed8eee3e2815ddcf3a45c3b11edd298e22a963.png",
     "attack": 8,
     "health": 12,
@@ -5345,7 +5345,7 @@
   },
   "127766": {
     "name": "시간왜곡의 심복",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_593_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/588e876b57375b0f28cf025648b3fc2b153d6d846aa49eb55a21ee76358d2475.png",
     "attack": 10,
     "health": 14,
@@ -5353,7 +5353,7 @@
   },
   "127768": {
     "name": "시간왜곡의 신록지기",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_594_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fd13fdab226b3eea346e8e975f3cb33a4f74f67ce6c2bb26e596e6c5a8156e7.png",
     "attack": 16,
     "health": 12,
@@ -5361,7 +5361,7 @@
   },
   "127770": {
     "name": "시간왜곡의 타무조",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_595_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59a604b1bc47ab91864f1c08570b90c8af805312843d8692c5074e3a1e90c403.png",
     "attack": 10,
     "health": 10,
@@ -5369,7 +5369,7 @@
   },
   "127772": {
     "name": "시간왜곡의 아키몬드",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_596_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42af1a46267c339aee94f6a0eddb06fc908e292fbe8c25c063e96d30bb74bca5.png",
     "attack": 10,
     "health": 10,
@@ -5377,7 +5377,7 @@
   },
   "127775": {
     "name": "시간왜곡의 불멸자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_597_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80b5f2e6c85afae310365d69868e7155b89be4b66751b70b2e83cb73c047cbe9.png",
     "attack": 16,
     "health": 16,
@@ -5385,7 +5385,7 @@
   },
   "127777": {
     "name": "시간왜곡의 모선",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_598_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4b0d849f1265c9c5606bc83129d330bef1f7a4341c4667ea3ce353e8bbee1a1.png",
     "attack": 10,
     "health": 14,
@@ -5393,7 +5393,7 @@
   },
   "127779": {
     "name": "시간왜곡의 회전로봇",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_599_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4fc8f615b12a50bdb2d8f9e7025b72bb4f66b7fd006763e1030a71dd50abe22.png",
     "attack": 14,
     "health": 10,
@@ -5401,7 +5401,7 @@
   },
   "127791": {
     "name": "시간왜곡의 레이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_602_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7a7827e6eca7d97930c836601fbc0f2777ed3022bc2bde695c522181ef9c89c.png",
     "attack": 6,
     "health": 10,
@@ -5409,7 +5409,7 @@
   },
   "127795": {
     "name": "시간왜곡의 아홉 개구리",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_309_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7a7401278cdbadabae4a2515b721af32d4685a406cf6fe695f5f1020b8a5994.png",
     "attack": 24,
     "health": 24,
@@ -5417,7 +5417,7 @@
   },
   "127803": {
     "name": "시간왜곡의 거먹눈 멀록",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_318_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e0704242e3f46a137f469c91548fad44093736dcda4edcf209dce25f0774786.png",
     "attack": 24,
     "health": 10,
@@ -5425,7 +5425,7 @@
   },
   "127804": {
     "name": "시간왜곡의 비술사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_320_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92f7c98ac562190564db3b6a44d9b62ffac906baaac3d7f52f5e2b6b48544a70.png",
     "attack": 12,
     "health": 12,
@@ -5433,7 +5433,7 @@
   },
   "127805": {
     "name": "시간왜곡의 화가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_319_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4efdc63367d73a96a7049c6bf54c1ac37b2c85ff9eca9107cfafe15afa74860d.png",
     "attack": 8,
     "health": 18,
@@ -5441,7 +5441,7 @@
   },
   "127806": {
     "name": "시간왜곡의 선구자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_322_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09cf71d787a8c9ee687925db3ac6a0d8d703a28f2a3114aba513db56bc28ddfc.png",
     "attack": 8,
     "health": 26,
@@ -5449,7 +5449,7 @@
   },
   "127808": {
     "name": "시간왜곡의 비서",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_323_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21303f1f3ce864f33573d5c0e504e205e355bcbf9565bc0ef85fd92414e5b5c0.png",
     "attack": 10,
     "health": 22,
@@ -5457,7 +5457,7 @@
   },
   "127809": {
     "name": "시간왜곡의 거수",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_777_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38ca1c1f43eb0fefbc9a0c429bde872596388c47e8d1b0e6f3a190a5f4c7f257.png",
     "attack": 18,
     "health": 22,
@@ -5465,7 +5465,7 @@
   },
   "127867": {
     "name": "시간왜곡의 킬제덴",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_313_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc53441615bfa9fd2a20329551b4ddc7ba3987f1b0beb2a6d536c8682fff538b.png",
     "attack": 14,
     "health": 14,
@@ -5473,7 +5473,7 @@
   },
   "127872": {
     "name": "시간왜곡의 소환사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_324_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7318f12f8f82013d65b1d0abd5ecf0648458edc55746de41849c1c57352389d1.png",
     "attack": 12,
     "health": 18,
@@ -5481,7 +5481,7 @@
   },
   "127874": {
     "name": "시간왜곡의 도둑",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_078_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31072f9512269f142b04e9e98582bf9036f5642eb9eb8d93274706bad14a2fc1.png",
     "attack": 14,
     "health": 26,
@@ -5489,7 +5489,7 @@
   },
   "127876": {
     "name": "시간왜곡의 파열채찍",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_325_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47fd0237334bbd466fe5f4ba1035e56f3660ee70f08207bbacc48afa5423e016.png",
     "attack": 26,
     "health": 10,
@@ -5497,7 +5497,7 @@
   },
   "127878": {
     "name": "시간왜곡의 아기 가멧",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_608_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2403f1c641ab08d3ec02d68c1e0677d4cb5d8a1a0bedb2a937e384cca1b02167.png",
     "attack": 10,
     "health": 10,
@@ -5505,7 +5505,7 @@
   },
   "127949": {
     "name": "시간왜곡의 팁 주는 손님",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_604_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b80bc56222298c2a2598e871c6f1a036a8353e95d2df1bf762ec2d48a1029cdb.png",
     "attack": 12,
     "health": 16,
@@ -5513,7 +5513,7 @@
   },
   "127964": {
     "name": "시간왜곡의 여행자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_605_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e4a4afe569895c14d8a7fa7281ef0dbf7f46d6c06cfbeaf9ea9d7ce7a2ffa73.png",
     "attack": 8,
     "health": 16,
@@ -5521,7 +5521,7 @@
   },
   "127975": {
     "name": "시간왜곡의 갈래발굽",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_090_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35b48c30a4020ef1d378e61c77575254d9b825e256f757d73abb09d8577ee444.png",
     "attack": 2,
     "health": 20,
@@ -5529,7 +5529,7 @@
   },
   "127977": {
     "name": "시간왜곡의 서예가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_091_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cc94d10060c1157f1b866fbf48d0db9c31eaaa725c5f7831cdf650059b13e86.png",
     "attack": 24,
     "health": 28,
@@ -5537,7 +5537,7 @@
   },
   "128005": {
     "name": "시간왜곡의 어둠춤꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_360_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4cd1aa5990d479eb5cc8ea7598efbb6f6b1578d557c1fd160cf2e5b077e2f87e.png",
     "attack": 12,
     "health": 10,
@@ -5545,7 +5545,7 @@
   },
   "128048": {
     "name": "시간왜곡의 구울라카브라",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_609_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ac715a6abcc00aea9f44ca14b06309c4863ca0aa008fdca9d229a344076032b.png",
     "attack": 12,
     "health": 30,
@@ -5553,7 +5553,7 @@
   },
   "128118": {
     "name": "시간왜곡의 혈석절단자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_644_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a0693731683b52549343a27d6a1a969eb512970d9f88e6d3e44c0027a1e4302.png",
     "attack": 10,
     "health": 20,
@@ -5561,7 +5561,7 @@
   },
   "128169": {
     "name": "사냥하는 호랑상어",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_523_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ea229a95b02f40f4194b79c2b5660ce95bcbd4b6d554f5e7d56e9c56c9fbcce.png",
     "attack": 6,
     "health": 10,
@@ -5569,7 +5569,7 @@
   },
   "128176": {
     "name": "시간왜곡의 죽음발망치",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_654_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94e55d9a5e34f33f90289840e16ae30f22ecb161131ff25107b628632535d7f9.png",
     "attack": 12,
     "health": 24,
@@ -5577,7 +5577,7 @@
   },
   "128178": {
     "name": "시간왜곡의 관리인",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_618_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0f00217043c225142dd1edf899e6b13a2d3a4faa8d71ad47beed8b265dc4316.png",
     "attack": 10,
     "health": 10,
@@ -5585,7 +5585,7 @@
   },
   "128212": {
     "name": "시간왜곡의 매타조",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_370_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3ede4e49970313389deb038b04137ca469c904fd1ce14b23650b101da478075.png",
     "attack": 16,
     "health": 8,
@@ -5593,7 +5593,7 @@
   },
   "128918": {
     "name": "시간왜곡의 제루스",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_671_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ce3351e02daf81331d8b651e71d0b6d6e092a61818db4e8fc7659dd5cc6c060.png",
     "attack": 12,
     "health": 12,
@@ -5609,7 +5609,7 @@
   },
   "129084": {
     "name": "시간왜곡의 성가신 임프",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_674_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3e89e833870ab56a100aa188c70bfe3d33d8c9385e358f676e7dc08c9749ba0.png",
     "attack": 24,
     "health": 24,
@@ -5617,7 +5617,7 @@
   },
   "129099": {
     "name": "시간왜곡의 바위 비룡",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_675_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef5cc417f57a376c2eb43c055d57eb2c206723d528cedb9bd480d2b24509c6a0.png",
     "attack": 12,
     "health": 12,
@@ -5625,7 +5625,7 @@
   },
   "129102": {
     "name": "시간왜곡의 강풍연주자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_676_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/633b05bf1d069b1e666ff4787004b36b9de630c6a4f4bbab6996199b20cfc91f.png",
     "attack": 14,
     "health": 16,
@@ -5633,7 +5633,7 @@
   },
   "129104": {
     "name": "시간왜곡의 용암 잠복꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_678_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5639d535f87758d485da73412914d0919cc0195108bf4313aa16beed8cbab9e.png",
     "attack": 16,
     "health": 18,
@@ -5641,7 +5641,7 @@
   },
   "129107": {
     "name": "시간왜곡의 빙빙이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_686_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56452885de8219a757f03a83ed087dd6829e949a9063d58bf829ef55b6a0886b.png",
     "attack": 18,
     "health": 18,
@@ -5649,7 +5649,7 @@
   },
   "129110": {
     "name": "시간왜곡의 전투 기계",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_677_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c516e3b94ff941e30e7c80fb3439cd6cf79ed0d78e79e1546c2b3425f9277c5.png",
     "attack": 10,
     "health": 10,
@@ -5657,7 +5657,7 @@
   },
   "129115": {
     "name": "시간왜곡의 수집가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_680_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02e714098070fe3b3415ab9f65855629cfdeda09a96dd2e32cf740192fc931a9.png",
     "attack": 24,
     "health": 24,
@@ -5665,7 +5665,7 @@
   },
   "129121": {
     "name": "시간왜곡의 마녀",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_342_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b112ca0ea03b6d566f2a98c3a7090bef6961baa50c40de0d4c81903e47d765ab.png",
     "attack": 12,
     "health": 16,
@@ -5673,7 +5673,7 @@
   },
   "129125": {
     "name": "시간왜곡의 행운의 알",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_683_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bd2a4adee94a95830780a63fbdbaac3d2f49ae393291e7d4a283836e05b604f.png",
     "attack": 4,
     "health": 4,
@@ -5681,7 +5681,7 @@
   },
   "129129": {
     "name": "시간왜곡의 미스락스",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_684_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94c06e3fe33e044c421be2c1605c877a357dc2dc31c6b5d5823b2d08c06526db.png",
     "attack": 16,
     "health": 18,
@@ -5697,7 +5697,7 @@
   },
   "129264": {
     "name": "영원한 거물",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_403_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4198e94f7f63bdd7bf5df64705849c02495ab09f97c44418e76dc46482385e4b.png",
     "attack": 8,
     "health": 16,
@@ -5705,7 +5705,7 @@
   },
   "129429": {
     "name": "시간왜곡의 키메라",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_679_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb4484443b317a6c8520cc4d0a50821bb62842c8b241046a97d7bac1a8de0958.png",
     "attack": 2,
     "health": 16,
@@ -5713,7 +5713,7 @@
   },
   "129439": {
     "name": "지옥뿔",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_781_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/813ea84e347e47b13a1e42302e47ac3f6616ef22a897d077aabc0bbf8a11eecc.png",
     "attack": 4,
     "health": 8,
@@ -5721,7 +5721,7 @@
   },
   "129579": {
     "name": "시간왜곡의 둥지 무리벌레",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_687_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2561d1e0a9d83634ae98e893e5e417446a725a5efc68085e035fe18ef0b9b0f5.png",
     "attack": 14,
     "health": 14,
@@ -5737,7 +5737,7 @@
   },
   "129746": {
     "name": "걸신들린 트로그",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_801_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e7625a75f72ec09c9db9277d33803978ad673b037fb5a40dc3f51607ad2a0ec.png",
     "attack": 4,
     "health": 6,
@@ -5745,7 +5745,7 @@
   },
   "129750": {
     "name": "진홍빛 생존자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_814_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bb7167ef07b1c9e1c4e150746d0fade09bfe67d5cad1a59ef23d212c9cb67f2.png",
     "attack": 6,
     "health": 6,
@@ -5753,7 +5753,7 @@
   },
   "130080": {
     "name": "연구실 조수",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_150_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0495854cfad54e78a271593dc9eb748d0dd47767e20164213ab862710943a524.png",
     "attack": 6,
     "health": 8,
@@ -5761,7 +5761,7 @@
   },
   "130081": {
     "name": "삼림지 파멸자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_151_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bca54eaf7ff183c5bdc0c164ab52113b4d0cd53f5ab82257fe8db21a1101a6a.png",
     "attack": 10,
     "health": 12,
@@ -5769,7 +5769,7 @@
   },
   "130082": {
     "name": "공허 강아지 조련사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_152_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75eddb0787796a754da552d2e2e0806d33b6d2aa99d1a9c17502d379e00ea5c8.png",
     "attack": 14,
     "health": 14,
@@ -5777,7 +5777,7 @@
   },
   "130083": {
     "name": "잡아먹는 정복자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_153_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75d68c1cbd4a3f4438be1d4f406a8e13fbbf4ff42ea66d91689d1bc4b8b923c7.png",
     "attack": 18,
     "health": 14,
@@ -5793,7 +5793,7 @@
   },
   "130085": {
     "name": "악마 먹이",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_150t_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9dde47325002e2ba8284b00a2f7048103168e6a8c4c46d441687767a3d21a98b.png",
     "attack": 4,
     "health": 4,
@@ -5809,7 +5809,7 @@
   },
   "130150": {
     "name": "대지노래 주술사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_431_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ee0811e0784056cde25d2b116de93755eb5e0c31b2611f9f10fad62f857f4d3.png",
     "attack": 8,
     "health": 10,
@@ -5817,7 +5817,7 @@
   },
   "130154": {
     "name": "붉은엄니 가시난동꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_433_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d17369559693e6057d277256707234dd44f19bdac9f78fe6d9bdcb960d1e4e61.png",
     "attack": 6,
     "health": 14,
@@ -5825,7 +5825,7 @@
   },
   "130158": {
     "name": "덩굴대변자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_437_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4bc8628ad6d514dd131a446b24fc760a81e30aebbf67e8c74255f25bcbf854a.png",
     "attack": 14,
     "health": 16,
@@ -5833,7 +5833,7 @@
   },
   "130291": {
     "name": "시간왜곡의 천문아가미",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_801_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/126fff437ee606a304307fdd534eac2d5fbaac33152713a038205be7bda49273.png",
     "attack": 10,
     "health": 10,
@@ -5841,7 +5841,7 @@
   },
   "130295": {
     "name": "지맥 포장사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_881_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01567f83080f9c7ba23fdd518c4f9aa369245ba302d34a41699d59a0a524c744.png",
     "attack": 8,
     "health": 12,
@@ -5849,7 +5849,7 @@
   },
   "130297": {
     "name": "불의 땅 도망자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_882_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/396124c9d2afbef496119b2d2c6a3b2e1f786f7ecefca014985799f700fe9345.png",
     "attack": 10,
     "health": 14,
@@ -5857,7 +5857,7 @@
   },
   "130299": {
     "name": "발린다 스톤하스",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_883_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/895aaeac59f5fb4562ad6b01658fe278ef8ac675425c562b0f629306e69776c9.png",
     "attack": 12,
     "health": 12,
@@ -5865,7 +5865,7 @@
   },
   "130553": {
     "name": "해골 사격수",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_334_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/755c79ea6652b9496bcf008181e419880433266c3686deb81a6d22d24f1a3966.png",
     "attack": 10,
     "health": 10,
@@ -5873,7 +5873,7 @@
   },
   "130659": {
     "name": "심연의 투사",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_921_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f94611bd2b71bc31d989ea7fad4518fefb903059127f80590351aa0d425393b.png",
     "attack": 2,
     "health": 2,
@@ -5881,7 +5881,7 @@
   },
   "130663": {
     "name": "뒤틀린 격노수호병",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_155_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d904a385f53d20b54d2552ce584da9c006eed159718c45721eab80c17f01507d.png",
     "attack": 16,
     "health": 16,
@@ -5889,7 +5889,7 @@
   },
   "130704": {
     "name": "뻔뻔한 해적단원",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_701_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/158c0d3ab6dd14e78e59ae08a36f1a58fcc1e4212eba251f4ec974a2f1395cef.png",
     "attack": 10,
     "health": 12,
@@ -5897,7 +5897,7 @@
   },
   "130706": {
     "name": "방랑하는 선원",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_702_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e15703cc5563e91d53fb885516e8aab739dbdabb9aa7b2fb5c31abe58d42df8b.png",
     "attack": 14,
     "health": 6,
@@ -5905,7 +5905,7 @@
   },
   "130710": {
     "name": "와이번 척후병",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_601_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ef961173240c4affdd69a127b5297b2799cf89b2122fa65ec1d7f65b72d561c.png",
     "attack": 4,
     "health": 16,
@@ -5913,7 +5913,7 @@
   },
   "130712": {
     "name": "도사린 거대괴수",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_602_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed278843807e8d15e1f095f75cb947f9a9bf8b608040d1ed847c9bdfdad7b939.png",
     "attack": 6,
     "health": 16,
@@ -5921,7 +5921,7 @@
   },
   "130795": {
     "name": "경계하는 경보자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_340_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cea65ad9ac6ac9bbf5d866440291e098c508af73e065110ef9482fb6511a238e.png",
     "attack": 4,
     "health": 4,
@@ -5929,7 +5929,7 @@
   },
   "130797": {
     "name": "마력 깃든 파수꾼",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_341_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/913bfeebbcc6efd0115c253bb6514ea79c710feaf89778a1166832fccbf5060d.png",
     "attack": 6,
     "health": 10,
@@ -5937,7 +5937,7 @@
   },
   "130799": {
     "name": "무너지는 하늘 골렘",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_342_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af4e6b48ff92e54bdd14f4ae4b4507d8499290bbcb0cee00d1c8d812e1d281d2.png",
     "attack": 8,
     "health": 4,
@@ -5977,7 +5977,7 @@
   },
   "130885": {
     "name": "대격변의 전령",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_123_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87c0837e990386c035dc4a0f5bfc80feee16d0fd39c826cf48be236af58e3a35.png",
     "attack": 12,
     "health": 20,
@@ -6001,7 +6001,7 @@
   },
   "130997": {
     "name": "하수도 군주",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_604_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/611490200f2c2b1e239eb1c140a0cfa42106fdabe2063aa1294acf0106e281bb.png",
     "attack": 8,
     "health": 12,
@@ -6017,7 +6017,7 @@
   },
   "131146": {
     "name": "엄마 므르글턴",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_140_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df00f5fbf268ef33f3d19b93b0d7c690e6859e59d98b5983fee3de3036bab721.png",
     "attack": 10,
     "health": 6,
@@ -6025,7 +6025,7 @@
   },
   "131148": {
     "name": "아빠 므르글턴",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_141_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d3a2340e67cc7db852c625416912a771aee732124eb87016c37cdb6331d94a3.png",
     "attack": 6,
     "health": 10,
@@ -6033,7 +6033,7 @@
   },
   "131150": {
     "name": "사촌 어옳",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_142_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f05fa63457707e3158391c1a9c6d57c2269bc419963572dcdaf5e8164295cbb.png",
     "attack": 10,
     "health": 10,
@@ -6041,7 +6041,7 @@
   },
   "131217": {
     "name": "깊은물 족장",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_143_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e7bee59100ab3a6920d54e5fe5ff92f3916be85e8cca6c80712d3cf2b54ff13.png",
     "attack": 6,
     "health": 4,
@@ -6089,7 +6089,7 @@
   },
   "131607": {
     "name": "독창적인 발명가",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_890_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02172e64c8ca9a674ca7caaefb70917a6fb81856056800d25929df9b615c187d.png",
     "attack": 18,
     "health": 8,
@@ -6097,7 +6097,7 @@
   },
   "131609": {
     "name": "파도술사 예언자",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_895_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b635e722c82797365bac35ae5f9c88985431faa6466a78f059295a7fa3c66f6.png",
     "attack": 10,
     "health": 12,
