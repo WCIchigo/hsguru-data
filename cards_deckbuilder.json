@@ -6155,7 +6155,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CATA_554",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8215ba0ad09b9ada0caa96d444a42e3f3d121e3411c042fc94b006ad61bb446.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0e71e878846ad1012343ced1209dc0b61520366f03085ba91b7d8f0e74d01fa.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78367ac7ecb71a99cbaf0959f4c89bddcb7a176c452e12ad9f1de2b76588315c.png",
     "isStandard": true
   },
@@ -7962,7 +7962,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "MEND_040",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ab981bf050b21f8fef944bf27bb5f1ca8c229f677478d7b71884dea3eecb84e.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9aa209660c5cca191dfe6feef28e0377635c13fd9a1f4ac473685f5ff764705e.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a606d2a27200acbfb8c54b11e50b8378c73ae32670f5115034b5a3a1e5c2d6ad.png",
     "isStandard": true
   },
@@ -27185,7 +27185,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "도발 이중 주문",
-    "text": "<b>이중 주문</b> <b>도발</b> 능력이 있는 1/1 은빛 성기사단 신병을 둘 소환합니다.",
+    "text": "<b>이중 주문</b> <b>도발</b> 능력이 있는 은빛 성기사단 신병을 둘 소환합니다.",
     "flavorText": "공중 강습은 모집하기가 어렵습니다. 공격대원 25명이 필요한데, 모두 성기사만 하고 싶어 하거든요!",
     "attack": null,
     "health": null,
@@ -27193,8 +27193,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "YOD_012",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec2e873484d47107ce72ebbf483c81fcac715b83cbbaf56889587b8c0d6f646d.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e7ba8ba86036ad1b98ab203d712192f60fc2cd59508c117db2e464a20abeb53.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6644f44c223f00f99cd76da5dddccf3ff0d0380d1a41f169359cd5b1f918d101.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd54f6edf5931eddd329c99318b6a0cc89f15185c8ca475c22971e2768e9ab40.png",
     "isStandard": false
   },
   {
@@ -35668,7 +35668,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": null,
-    "text": "내 턴이 시작될 때, 1/1 은빛 성기사단 신병을 둘 소환합니다.",
+    "text": "내 턴이 시작될 때, 은빛 성기사단 신병을 둘 소환합니다.",
     "flavorText": "짐마차에 정의가 가득해요!",
     "attack": 1,
     "health": 3,
@@ -35676,7 +35676,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "BAR_871",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a51bf2aab9098a23c24575ce9e2eea39b0908f409f0bd9418f7aff15b061271.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99940b68d28cbe368dfadaac801c2091ebbbf207d191da37f879087d98b47a70.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0972a751787270a07641288fdfc37e1fa0a83b080f5fa8f383673e8858ea700f.png",
     "isStandard": false
   },
@@ -46369,7 +46369,7 @@
     "minionType2": null,
     "spellSchool": "신성",
     "keywords": "천상의 보호막",
-    "text": "<b>천상의 보호막</b> 능력이 있는 1/1 은빛 성기사단 신병을 둘 소환합니다.",
+    "text": "<b>천상의 보호막</b> 능력이 있는 은빛 성기사단 신병을 둘 소환합니다.",
     "flavorText": "빨리 나으세요.",
     "attack": null,
     "health": null,
@@ -46379,7 +46379,7 @@
       1652
     ],
     "cardId": "MEND_802",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/229d43f4e59e514d77e7083f3f1a67d450503cdd8d3b67fd89953327e57f918e.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8dd793b750bcf49944e5eb0f33f46da96efe33e49c4aa562db0eaec7b619d8dc.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef7dad82a8905d8801507ea2338779b3125920de69f12daef0945d0eaef6b586.png",
     "isStandard": true
   },
@@ -50990,7 +50990,7 @@
     ],
     "spellSchool": null,
     "keywords": null,
-    "text": "내 턴이 끝날 때, 1/1 은빛 성기사단 신병을 소환합니다.",
+    "text": "내 턴이 끝날 때, 은빛 성기사단 신병을 소환합니다.",
     "flavorText": "하스스톤을 사랑하신다면 토템이 동전을 먹어도 이해해 주세요.",
     "attack": 0,
     "health": 4,
@@ -50998,7 +50998,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "JAM_010",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54397a35e19dccd83ed7a2b1b0ec5c534e39cbcc64991c440cf77e2353090097.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4321bc9944ac41c05d754de6ad5a5768f6d6d88b7da66eba65d9ed6ba649808.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b64893eb58e937096b3001ae2da9e1efb12f13351cd0e88e80d853512dc232a.png",
     "isStandard": false
   },
@@ -52124,7 +52124,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "죽음의 메아리",
-    "text": "'<b>죽음의 메아리:</b> 1/1 취약한 구울을 소환함' 능력이 있는 1/1 은빛 성기사단 신병을 둘 소환합니다.",
+    "text": "'<b>죽음의 메아리:</b> 1/1 취약한 구울을 소환함' 능력이 있는 은빛 성기사단 신병을 둘 소환합니다.",
     "flavorText": "괜찮아, 안 죽어.",
     "attack": null,
     "health": null,
@@ -52135,7 +52135,7 @@
       78164
     ],
     "cardId": "DEEP_017",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4a01fafa39144d1662a71b0c5d0d58dcc2712675a52901ef49359adea1901dc.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f319ce21275d2b8d0ecf81764e66a2aacd2403ad7322f15b3fd8a5b273646597.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/272f27a4e425bc14f1169ca64ead75d680717b7c83bc612cbc9970306e7c5acc.png",
     "isStandard": false
   },
@@ -58906,7 +58906,7 @@
       123854
     ],
     "cardId": "MEND_100",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc4a8f41e512988048a39aa625f1a0de05187bee0f837ee984572d7ec1519626.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4253456dfc3d217eceac410016d091392fe069b66253d1c1628350fc6dc713a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/156f01c9e57e896df19aaa68d6613580af2ab5ff0290e051af0eb4105c318219.png",
     "isStandard": true
   },
@@ -60702,7 +60702,7 @@
       109395
     ],
     "cardId": "VAC_955",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b280ca1c07b7152f6f5a7b038da27a7fbc04f6932292567281344d4967b9e02.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a32b1218ae4d0d1dd880f955723792e817008c104b8bd2b8ea3589c7f9836bb6.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be48c1a64506690fe8b1bfb44f364332f89cdb15fed9dbf0545f477176cf5677.png",
     "isStandard": false
   },
@@ -62227,7 +62227,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CATA_EVENT_401",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5793c275bfd530ca1a0f70ba5fc2e9ee8c291947f50f1634e99618b10b1a919f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0e5c06f70bd272535c471f78d6cac84636be09b7549938c447b0faa3c5dc0b6.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfdcc44bd36fb19534570b32a681e4288e0887cf59dc7a934c3b3957db53a5bb.png",
     "isStandard": true
   },
@@ -70539,7 +70539,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": null,
-    "text": "1/1 은빛 성기사단 신병을 3명 소환합니다. 1/4 무기를 장착합니다.",
+    "text": "은빛 성기사단 신병을 3명 소환합니다. 1/4 무기를 장착합니다.",
     "flavorText": "\"말 잘 들으시면 조기 퇴소시켜 드립니다!\"",
     "attack": null,
     "health": null,
@@ -70550,7 +70550,7 @@
       383
     ],
     "cardId": "CORE_GVG_061",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d9b10336a4fde3a4e3724f73d308e5b493920a5f508e252f0e5f4c351be537d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f2e8939c9f3cf5a511f33e8dbb191efd97145835174b2f5328426c47fecbcbe.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afac42809ada9a0bcde1cd919a8faf17a3bd8195d4f24b2339cbce3ab4385f5f.png",
     "isStandard": true
   },
@@ -70615,6 +70615,33 @@
     "cardId": "TLC_620",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0054882eed4f3a19492ddb5159cb6116c7644108e74f4942691003eeb435725e.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c62bd77b0267f273f25c8fc54900f7caa93e57bfacaf4687b75329f59aaba5b7.png",
+    "isStandard": true
+  },
+  {
+    "id": 130005,
+    "name": "보급상 크룩",
+    "enname": "Commissary Crook",
+    "manaCost": 3,
+    "classId": 2,
+    "classIds": null,
+    "rarityId": 4,
+    "cardSetId": 1941,
+    "setName": "이벤트",
+    "cardType": "하수인",
+    "minionType": "언데드",
+    "minionType2": null,
+    "spellSchool": null,
+    "keywords": "전투의 함성 준비",
+    "text": "<b>준비</b>, <b>전투의 함성:</b> 마나를 모두 소모합니다. 소모한 만큼의 비용을 가진 무작위 하수인을 소환합니다.",
+    "flavorText": "두통이 있다면, 보급상 크룩이 치료해 줄 수 있습니다. 이 파란색으로 마시세요.",
+    "attack": 4,
+    "health": 3,
+    "runeCost": null,
+    "collectible": true,
+    "childIds": null,
+    "cardId": "CATA_EVENT_400",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71986d2494dbcd72066f9664642a43dd554cd49ac1f50014416a755c69a146a2.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e4e0f21eb7e972c1fa5d170076839623a5f636a5f8604a1fb0adaab5263e629.png",
     "isStandard": true
   },
   {
@@ -71101,7 +71128,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TLC_233",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6edf3b9e4728d534d9fe0996d4d67e4e4026b311e0dd9dfc6d2872465bf19e27.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4cca2602602152baa25121ab81ea36fceb6f6e6924e567124964546693fbbc2f.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73df5671580d3712835cbe816556db0b631abe38f850ab93453df96748bbf7d6.png",
     "isStandard": true
   },
@@ -72824,7 +72851,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TSC_060",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4ac6ccc9ae5ea31a493298320f26a94da7846c5720ba4fee3a78513aaf2e459.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/491089ae5734203bbc30e4aa38b2fa0d61f62a4c766e288519523cede741d4b0.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b6806db77dd315fff395f5b704fa28937d486fd20004fab07aff60224b045fe.png",
     "isStandard": false
   },
@@ -73660,33 +73687,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07772d45a8a1209c0e079ef1aa6fa463a0b1fe1b68d56a5687b316fdb16e3a80.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a18376dd694c768e02cd314288e4de7b9a9139bded52622929ce4d880c43595e.png",
     "isStandard": false
-  },
-  {
-    "id": 130005,
-    "name": "사절 크룩",
-    "enname": "Commissary Crook",
-    "manaCost": 3,
-    "classId": 2,
-    "classIds": null,
-    "rarityId": 4,
-    "cardSetId": 1941,
-    "setName": "이벤트",
-    "cardType": "하수인",
-    "minionType": "언데드",
-    "minionType2": null,
-    "spellSchool": null,
-    "keywords": "전투의 함성 준비",
-    "text": "<b>준비</b>, <b>전투의 함성:</b> 마나를 모두 소모합니다. 소모한 만큼의 비용을 가진 무작위 하수인을 소환합니다.",
-    "flavorText": "두통이 있다면, 두통 사절 크룩이 치료해 줍니다. 이 파란색으로 마시세요.",
-    "attack": 4,
-    "health": 3,
-    "runeCost": null,
-    "collectible": true,
-    "childIds": null,
-    "cardId": "CATA_EVENT_400",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18ff549904bfe3ca9a3454b86e01e6f3b4dd63fa699f55bf0334124f50a07859.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e4e0f21eb7e972c1fa5d170076839623a5f636a5f8604a1fb0adaab5263e629.png",
-    "isStandard": true
   },
   {
     "id": 92332,
@@ -84119,7 +84119,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "DAL_605",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba59f2591d5f5a72a0b5a44670e9153f72c4bc4140e2b03d6c1d3abea304543d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e42548abd95e3d4f02196ae3da1d8224e7267cbe443ef9dd9d95d529c530d0e.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/046a1fc3001de92f6f364e900a0a160a91d292c01294214337fcb69f08eba033.png",
     "isStandard": false
   },
@@ -85947,7 +85947,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TRL_085",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe1bdbd19363082404bedec55de90b513b059c963ddff635d84e6d698c5239ec.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17ebabd4fb373b68ff029f0351c8f3b5294115d8d99b653700907a8c8341033d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8791d3c102d76b4dcef92621899943a12379824d92a768e21b1d3871b27140fc.png",
     "isStandard": false
   },
@@ -89149,7 +89149,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CATA_EVENT_402",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4008249f78c0d516f3938260578042534839f02a505f97eaaea2a3e3735f1b20.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c2b4eae8b1caeac3c97fe32ad915d7e77301b81787d5875f9c601020ff9f876.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ed167aa4d73266e037eaf2022dc82cc97457a11a497262e25ed0dc0df43e5fc.png",
     "isStandard": true
   },
@@ -90355,7 +90355,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "DAL_060",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4da671456aa4ba86fdb3e08a1048a4e7d41d2461d6e5225d3cdf3ff4311d453.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3c09693737ae6bfcd963eeee72e5b2281021e85929a7e8a2ce397530e928c85.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7102e985c3edbb14367e0a23edb310d7a93d8024594346e1a9a7a8e506c5c340.png",
     "isStandard": false
   },
@@ -92943,7 +92943,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TIME_612",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1148239f98b2581abc35dcd741b26d43cdb82d03e811691b7d18e8dde9db5d2b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c9f73e970a1681386d222785eefcc152f04d502199632632361b6fe261670e0.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/319c44a82319c3ea951a6b615d8b6ac9ddf3f049a42cbe89108bc341df9218be.png",
     "isStandard": true
   },
@@ -117585,7 +117585,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CATA_474",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7d2961db15b05be25df59e43144a2c72e8f63188e8264b8120f9c8626cd97f2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abf4be8d7fc63fb33d8e2f68691f1419e97135cda18efe6148849b30d95bcea7.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/760fbe4875f61051596e9ea8d21ecb4f8920960ad48bd3629c7936478456a38b.png",
     "isStandard": true
   },
@@ -119487,7 +119487,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CATA_560",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9d091689717a23621bb0ebd6aedd75bf79e7c4c38ee6414a42a1feabed3563c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21cb31a41f0fdd31561fa29bfda04625166b2a6e08f2f2b030918eefcb8d1561.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcb72d3a7a7975a3ce0be650fec02bf0d94ede641f3d6611080dde2ab2951104.png",
     "isStandard": true
   },
@@ -121820,7 +121820,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": null,
-    "text": "1/1 은빛 성기사단 신병을 4명 소환하고 얻습니다.",
+    "text": "은빛 성기사단 신병을 4명 소환하고 얻습니다.",
     "flavorText": "아아, 네. 저도 그러면 좋겠네요.",
     "attack": null,
     "health": null,
@@ -121830,7 +121830,7 @@
       1652
     ],
     "cardId": "MEND_900",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5674113897f2eff169baf131106de25e897a73b2ddd90c919a39e16493a934e0.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b12f2d926d741843bf8619d033f70d4472db4dc9aa2e7eb283ae04eae0a78c26.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f348c3060c714848813dd7f576cf8976982dbd2497688d966c6b7adc9aa523c4.png",
     "isStandard": true
   },
@@ -127889,7 +127889,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "ULD_270",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d45cc5df77b3fece1d7f504117d35bcd52c269e821e67ac19213683ad608104.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e461afc83c4d566cce53ce504790055538b0f1be0d71f8ffc523b7b912d68519.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70b75feedb5b50e1839dc3b0a638d65b3dc33c4a0b3fab0b84ed0e8b9880e5e0.png",
     "isStandard": false
   },
@@ -145348,7 +145348,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "전투의 함성 준비",
-    "text": "<b>준비</b> 내가 카드를 낸 후에, 무작위 <b>전투의 함성</b> 하수인을 얻습니다. 그 하수인의 비용이 (2) 감소합니다.",
+    "text": "<b>준비</b>, 내가 카드를 낸 후에, 무작위 <b>전투의 함성</b> 하수인을 얻습니다. 그 하수인의 비용이 (2) 감소합니다.",
     "flavorText": "연계 조합이 가능한 카드가 최소 열두 장은 필요해요. 당장 생각나는 건 갤리윅스 한 장, 후크터스크 한 장, 덩가 한 장, 초갈 두 장, 나불대는 책 정도네요... 사상 최대의 퀘스트 중인 모험가는 말할 필요도 없고요.",
     "attack": 4,
     "health": 4,
@@ -145356,7 +145356,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_407",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcc2ddc6b95bce6292b8b2e13566441b1e4721af877b18557147e8468971ecfa.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f53d7384eba220d0b16511eccfb5f854d2335731ce713ef681745240cc841d4.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca20fe0d83098518f2ce38bd61d43b7ef5daccd38a0f6e535b7322e830eee6a2.png",
     "isStandard": true
   },
@@ -150430,7 +150430,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "YOD_014",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/234f251e036fc63bffd97b4b80a09e5dff446b7b8df57a728f41dc0d87a186c9.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ea8e5845edf152283a0a184fb95c072fccf8943cd723dd4cd6c75e6aa7dd73f.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ba4e76eda9cd9081ae8cbceeda14461f731c3626360d9bae31823780f12c407.png",
     "isStandard": false
   },
@@ -150457,7 +150457,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TIME_446",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1dbb76e3b1c65b024d6df00f1c3d5caec2fc1df9793a61881809bedc424661c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f98773521a48d0dd0aa192a2fc74c15c43dbe5832db616223c22f30243f95fd9.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e375ec3387256b16fbf93f354806af57ae347ed61c3373dfc7b3a4afe8e0395b.png",
     "isStandard": true
   },
@@ -159285,7 +159285,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CFM_623",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d9c36317ff109259315a0df71122371bb988fa2fbd811304db9aca2ed301056.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d5a0efafd2f4609c41c2e2c9cee6b12ffac0b45ee7aa16a18cc875d6b5f9e3f.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74839b2435234efe1713300529d70b908713b83a63e3cada227ebf1a785ff346.png",
     "isStandard": false
   },
@@ -159339,7 +159339,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CATA_307",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60fab22ea74525c87edfd3ab4f10540b7780fa2b5a8d61d62a64724904b56449.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c822310334f36c39b105cceabf66e46df8c063b0d93ec505b25ae69fded9e91.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/118ed83404c80e13977b36b43031ba38350786bb6fc01e07e44c8eb651c90e65.png",
     "isStandard": true
   },
@@ -175314,7 +175314,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_906",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2ee3445263e5a8ced56a28256cdea69cae4fc5df9e0fb3f85afcc2b3e085bb1.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ad2c8d3a0cd4c0c35dd26bfcb91adf208a1d49523309cc0bdb9b2e1ce4c9193.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29c62cb6459c10dbdc6d3fc95f474807d2131d7b3b2189b703ce48afdab58793.png",
     "isStandard": true
   },

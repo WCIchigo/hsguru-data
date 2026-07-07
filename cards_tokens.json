@@ -475,8 +475,8 @@
     "minionType": null,
     "attack": null,
     "health": null,
-    "text": "<b>영웅 능력</b> 1/1 은빛 성기사단 신병을 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5690ea0a86e8e07c76516c10b2ed13c65410fa39630dd79f9e5125d0dad443c6.png",
+    "text": "<b>영웅 능력</b> 은빛 성기사단 신병을 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b94b76f7757451069290e111d6bf80cb171e431d62d8d787ed665a64a9e6e5c3.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a60b28b4a9bb70748ce68815582bbde7a0c2ebfdf70988adb51da88c5d655fc.jpg"
   },
   "479": {
@@ -1591,8 +1591,8 @@
     "minionType": null,
     "attack": null,
     "health": null,
-    "text": "<b>영웅 능력</b> 1/1 은빛 성기사단 신병을 2명 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/981c292fcdfd45213f500510554189451e5bca333baaacd61ee3a533df3c3ad5.png",
+    "text": "<b>영웅 능력</b> 은빛 성기사단 신병을 2명 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8de2f2517374a5539e737ee8560b73994037fd06f7576ed1d1848adfe3ce68f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/HERO_04bp2.jpg"
   },
   "2742": {
@@ -3608,7 +3608,7 @@
     "attack": 1,
     "health": 1,
     "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f81114d867dbd827a5488717f45502095ea053d5d2d7b0a3cef73b2160e4879c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee35559ea9ceeb1c1dbb0a0d03b6213da2fc26c00726c18347ff19cdb33e2e66.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621_m5.jpg"
   },
   "42098": {
@@ -6080,7 +6080,7 @@
     "attack": 1,
     "health": 1,
     "text": "<i>모든 종족값을 가집니다.</i>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/927f7bdbb8799f46f130f13fa28af17ee748c672cd1160bf453b76265ba5c1de.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64e428c7406993754d7fa85c45392b195b5b928c82dac8427e768448aa746a06.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DAL_087t.jpg"
   },
   "53160": {
@@ -15319,8 +15319,8 @@
     "minionType": "토템",
     "attack": 0,
     "health": 4,
-    "text": "내 턴이 끝날 때, 1/1 은빛 성기사단 신병을 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54397a35e19dccd83ed7a2b1b0ec5c534e39cbcc64991c440cf77e2353090097.png",
+    "text": "내 턴이 끝날 때, 은빛 성기사단 신병을 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4321bc9944ac41c05d754de6ad5a5768f6d6d88b7da66eba65d9ed6ba649808.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b64893eb58e937096b3001ae2da9e1efb12f13351cd0e88e80d853512dc232a.png"
   },
   "95409": {
@@ -25458,9 +25458,9 @@
     "cardType": "하수인",
     "minionType": "용족",
     "attack": 2,
-    "health": 2,
+    "health": 1,
     "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88abc507f15c76cc5355220548f4601d33bf37120da553931d6a77b67300ca31.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a436b75491202ab706a09739cc1cfc47654c610a580a4c404a737e793cd1aa68.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_210t.jpg"
   },
   "123140": {
