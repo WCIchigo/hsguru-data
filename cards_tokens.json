@@ -10388,7 +10388,7 @@
     "attack": null,
     "health": null,
     "text": "<b>퀘스트 전개:</b> 내 턴에 내 영웅이 피해를 12 받아야 합니다. <b>보상:</b> <b>생명력 흡수</b>, 적 영웅에게 피해를 3 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1d09dfe173545448fab50a8e29d2865a5162927032733ad3400b3cbcf7a9496.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12f9fdd785988ec6735110d56955c91f8e1002fc686a044871cbbbc84f34c6c1.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_091t.jpg"
   },
   "64917": {
@@ -24056,7 +24056,7 @@
     "attack": 8,
     "health": 8,
     "text": "<b>도발</b>, <b>환생</b>. <b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다. <b>죽음의 메아리:</b> 무작위 적에게 피해를 5 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36e2c978ce478719ada03a62831fd48c96b8f697c45659d1098a7d43f977ff57.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccf6084f0649ff26fd989487b5884aa7999f3e1ddca9f0a1d39a8061d74a6b36.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_817t5.jpg"
   },
   "119897": {
@@ -24200,7 +24200,7 @@
     "attack": null,
     "health": null,
     "text": "상대편에게 1/1 악마를 소환해 줍니다. 그 악마가 죽으면 카드를 뽑고 다음 차원문을 내 덱에 섞어 넣습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93223ffb32e0ba4390a8e212b8f6898e4cadbe934c15ac381f250265b53fb5ff.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bc83a1c522e1e1d8d5af753f097544736bf95d9f8a62147e7113617e4ae9de4.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_020t2.jpg"
   },
   "120142": {
@@ -25244,7 +25244,7 @@
     "attack": null,
     "health": null,
     "text": "피해를 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1dab11f24672ba08c7ee84349e7cc57927adbf8e54b7053fa58feadc48bf55c3.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82d01546c5dcb48f70b782dfad7a11c84331a99d3c32fc31f220d21bd21561d9.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_464t.jpg"
   },
   "122756": {
@@ -25832,8 +25832,8 @@
     "attack": 6,
     "health": 6,
     "text": "<b>거수 +2</b>, 내 팔과 병사들이 적의 덱에 있는 하수인들을 처치합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17dacaa6bb45330e7a5550760f454cc02b7af87e484a578675cb09fbe82918df.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79dbc1e2255c20c136c1c8d525a532c6bceff5346e8c9a124e69ec9a5a42d231.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11ebae8eb1f2db7f13853c20299ecda18fd86b7c503f5a8f1a14d4a377cd8101.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37587bc94138be0f6a23f0ca01eb3c3b5afa7dbfd38f185141c0d49c8677d23d.png"
   },
   "125433": {
     "id": 125433,
@@ -26347,20 +26347,20 @@
     "minionType": null,
     "attack": null,
     "health": null,
-    "text": "<b>지속 능력</b>, 내가 내는 다섯 번째 하수인마다 그 하수인의 <b>전투의 함성</b>이 두 번 발동합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78d5d6fe71137f50aba320770fabc335bbe35fa3ac4e05d7c65413b9914c5778.png",
+    "text": "<b><b>지속 능력</b></b>, 내가 내는 다섯 번째 하수인마다 그 하수인의 <b>전투의 함성</b>이 두 번 발동합니다. <i>( 번 남음!)</i> <i>(준비 완료!)</i>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73982ac4f9d865eee9c8cea0d18b3a819f838c2c10b3e8c9b4a6ee165bf9e897.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_800hp2.jpg"
   },
   "127507": {
     "id": 127507,
     "name": "할머니 임프",
-    "manaCost": 9,
+    "manaCost": 8,
     "cardType": "하수인",
     "minionType": "악마",
-    "attack": 9,
-    "health": 9,
+    "attack": 8,
+    "health": 8,
     "text": "<b>도발</b> <b>생명력 흡수</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffd93a62788bbd885c0be08f5c797d6926943e4d79d32cc67d3b0a77d9cf6302.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3388d0a634592cc996edb254db0756265f74c157ce8f5fd822196e9718e4e15e.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_399t1.jpg"
   },
   "127584": {
@@ -26816,7 +26816,7 @@
     "attack": null,
     "health": null,
     "text": "선택지를 새로고침합니다. <i>(20% 확률로 피해를 5 받습니다!)</i>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0374532ec2f0d7972e3dc7637113689c2b2d76b57bf22f7df0e58b49be46ea03.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00f5826aeb6099b4dd2795fd8af8571685dfd787685267fd0f7286a8d631fcd4.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_319t.jpg"
   },
   "131326": {

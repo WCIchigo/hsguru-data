@@ -571,8 +571,8 @@
     "name": "멧돼지의 예언자",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG20_203_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc1f2cbefee75290093eda000972a3e80d01c755d2d249552582f0a19b37cba8.png",
-    "attack": 4,
-    "health": 6,
+    "attack": 6,
+    "health": 8,
     "text": "<b>도발</b>, 내가 가시멧돼지를 낸 후에, <b>혈석</b>을 2개 얻습니다."
   },
   "70957": {
@@ -3055,14 +3055,6 @@
     "health": null,
     "text": "선술집 주문을 둘 <b>발견</b>합니다. 매 턴이 시작될 때, 둘 더 <b>발견</b>합니다."
   },
-  "115231": {
-    "name": "호랑이 조각상",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_MagicItem_427t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c065efd71d013e49a78c104c3e8c89e127ba4926399005027d705af483dab4a2.png",
-    "attack": null,
-    "health": null,
-    "text": "아군 하수인이 피해를 받을 때마다 다른 아군 하수인에게 영구히 + /+ |1(을,를) 부여합니다."
-  },
   "115235": {
     "name": "노미 스티커",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_MagicItem_544t.png",
@@ -3491,17 +3483,17 @@
     "name": "모래 빙빙이",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_841_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56452885de8219a757f03a83ed087dd6829e949a9063d58bf829ef55b6a0886b.png",
-    "attack": 10,
+    "attack": 8,
     "health": 6,
-    "text": "<b>전투의 함성:</b> 내 정령들이 이번 게임 동안 추가로 공격력을 +2 부여합니다."
+    "text": "<b>전투의 함성:</b> 내 정령들이 이번 게임 동안 추가로 공격력을 + 부여합니다."
   },
   "119952": {
     "name": "빛나는 잿불",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_842_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf796ae9c02d45cfad83eb2cc05eac2886f99638796a441c06cdaf7ab8e70f5b.png",
-    "attack": 6,
+    "attack": 8,
     "health": 2,
-    "text": "<b>죽음의 메아리:</b> 내 정령들이 이번 게임 동안 추가로 생명력을 +2 부여합니다."
+    "text": "<b>죽음의 메아리:</b> 내 정령들이 이번 게임 동안 추가로 생명력을 + 부여합니다."
   },
   "119960": {
     "name": "모선",
@@ -4095,14 +4087,6 @@
     "health": 6,
     "text": "<b>기선 제압:</b> 이 하수인이 내 손에 있으면, 이 하수인을 복사하여 능력치가 2배인 상태로 소환합니다."
   },
-  "120709": {
-    "name": "꿈꾸는 가시마술사",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_433_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37ca43c9aacfb6ad4bc927d2758aabb6d962a081ae08e1d9e2794c045d0e4dbf.png",
-    "attack": 4,
-    "health": 16,
-    "text": "<b>복수 ( ):</b> 내 <b>혈석</b>들이 이번 게임 동안 추가로 생명력을 부여합니다. <b>복수 :</b> 내 <b>혈석</b>들이 이번 게임 동안 추가로 공격력을 부여합니다. <i>(다음 턴에 생명력으로 바뀝니다!)</i>"
-  },
   "120718": {
     "name": "불빛먹보 병사",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_430t.png",
@@ -4157,7 +4141,7 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a91bec7d9f05a0967822c60708e5c7839b764199471a9b19d64380bf200e0f29.png",
     "attack": null,
     "health": null,
-    "text": "<b>복수 (6):</b> / 딱정벌레를 둘 소환합니다. 그 딱정벌레들에게 <b>도발</b>을 부여합니다."
+    "text": "<b>복수 (7):</b> / 딱정벌레를 둘 소환합니다. 그 딱정벌레들에게 <b>도발</b>을 부여합니다."
   },
   "121479": {
     "name": "명상",
@@ -4342,6 +4326,14 @@
     "attack": 16,
     "health": 16,
     "text": "내 <b>포상</b>들이 3번 시전됩니다."
+  },
+  "122567": {
+    "name": "핏빛 정제사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_885_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f7d24af7a517257ed80c21e4d8dbe115618086f582e7832f5e208bfbd58e398.png",
+    "attack": 6,
+    "health": 22,
+    "text": "<b>집결:</b> 이번 게임에서 내 <b>혈석</b>이 추가로 /+ |1(을,를) 부여합니다."
   },
   "122587": {
     "name": "헌신적인 지옥소환사",
@@ -5827,8 +5819,8 @@
     "name": "덩굴대변자",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_437_G_triple.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4bc8628ad6d514dd131a446b24fc760a81e30aebbf67e8c74255f25bcbf854a.png",
-    "attack": 14,
-    "health": 16,
+    "attack": 10,
+    "health": 12,
     "text": "아군 <b>죽음의 메아리</b> 하수인이 죽은 후에, 내 <b>혈석들</b>이 이번 게임 동안 추가로 공격력을 + 부여합니다."
   },
   "130291": {
