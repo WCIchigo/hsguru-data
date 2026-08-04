@@ -8949,7 +8949,7 @@
   },
   "48393": {
     "name": "타오르는 기원",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73cf217ecfe5128846fb86e378f5056fa2fdcb345d197710fea7c2bd869c8a3d.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99d8b125f6a2f46e84408c51c9778d0ef8afb5c057a30044e3fed2e064db8f15.png"
   },
   "48415": {
     "name": "홀로그램 기술자",
@@ -16897,7 +16897,7 @@
   },
   "63359": {
     "name": "돌연변이 물고기 별미",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a74a9646b7591d2e3820c96175b71f41b265ea0be2d796ab27d489fe0004eef.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/793e92f85db29574591c928bc8d00ec7fc518a7252992cc2056d822bf224ac82.png"
   },
   "63368": {
     "name": "불안정한 암흑 작렬",
@@ -17113,7 +17113,7 @@
   },
   "63650": {
     "name": "야생덩굴",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81548879d62d0c9ed1a76bd93218ea26dd443d27a6ea730887eb5c748992bbe7.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d49f09bef81096d1bcebfa52f7dabbae9ba99001296e5c5b3625dc6899d68b9d.png"
   },
   "63666": {
     "name": "하급 골렘",
@@ -18993,11 +18993,11 @@
   },
   "68234": {
     "name": "야생덩굴",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/004a80acb7520bfd4dedbf7af2fd96202b648af115dea0533bb488ae235b7611.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba88283a007a20a0f7e09a15f1d679aac706fbec69b0ca2e420a2ad348d71591.png"
   },
   "68235": {
     "name": "야생덩굴",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4200260bd4fe21aa28ac292917fc84913551dcdb2b05a0256ff5ee85d02497e8.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2676422aaeb2a23133953eac6a1e1bbef856ab458f82a57cef378f95df3d6fb0.png"
   },
   "68244": {
     "name": "영광 추적자",
@@ -19761,7 +19761,7 @@
   },
   "70328": {
     "name": "야생덩굴",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09a7bbdcb4897ff66c3f9f088a1ac52d60d35fd09d989c0217a5c990b516e932.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78745031e5f65e7abc3b3c78ce7d51ef9783e0aeeb0926c2f1609699386390a0.png"
   },
   "70333": {
     "name": "무리 추적자",
@@ -38795,6 +38795,18 @@
     "name": "시든 그림자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d524991b1553b8785acf0d0301de5d56a288570c41a4c689cd5d18c31c18401.png"
   },
+  "117567": {
+    "name": "얼라이언스 깃발",
+    "img": null
+  },
+  "117568": {
+    "name": "동맹 철퇴",
+    "img": null
+  },
+  "117569": {
+    "name": "동맹 버클러",
+    "img": null
+  },
   "117573": {
     "name": "시간 관리",
     "img": null
@@ -41257,7 +41269,7 @@
   },
   "120572": {
     "name": "타오르는 기원",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5a41e65723dae2ab753730417c888c6c293e3eea4d05d8ea4aab704c7997b9d.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a509391cf422e40467eba027a994868325047697f43447c17319a4806f34a0e9.png"
   },
   "120573": {
     "name": "날뛰는 구울",
@@ -41889,7 +41901,7 @@
   },
   "120999": {
     "name": "영원의 요새",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f98773521a48d0dd0aa192a2fc74c15c43dbe5832db616223c22f30243f95fd9.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68a22c3a4ca62f5156aefd22f8a7dfdcd865ffac485edfe865083a31de733489.png"
   },
   "121000": {
     "name": "영원한 사신 허스크",
@@ -44053,7 +44065,7 @@
   },
   "124079": {
     "name": "예언자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d61f85d15cde728356d998b367394a58fc63f46e60c0599a1efcca04766955b.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef2e28b48c4df900af0bc5d64b31f61e792489b95e643a843f5b734dc3dc0e12.png"
   },
   "124080": {
     "name": "저지해라!",
@@ -44165,7 +44177,7 @@
   },
   "125878": {
     "name": "고대 점술가",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8da85cfee3aefea8f27a77bdf2b46eab371b4a2814bcc66598b5ef93f88bd50.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/676e37770a790658ae0ac33a7f0c6ede1625c6ef8f25031d7540751f2e75ad34.png"
   },
   "125893": {
     "name": "장비 쟁탈",
@@ -44241,7 +44253,7 @@
   },
   "126055": {
     "name": "영혼절단 아잘리나",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7639f1b8cc2a4811bcdf2bcb3e525bb00de80854cc1305b3e21581c5405b4b2.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/830e45fd6123c3904d8d3aebac316b8f2f963aba79e1908fe6d8bbdb1c3152b8.png"
   },
   "126088": {
     "name": "종말의 그림자",
@@ -44317,7 +44329,7 @@
   },
   "126136": {
     "name": "광란하는 사냥개",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d42f1ae7e7c351600470eb7f17f9acb4dc99a46425a998217cf1c9ee693bd07.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8cf7514245e3f8dd816367c14aa344343958d0d1fc229064ef3b2863905d8ba.png"
   },
   "126154": {
     "name": "시간왜곡의 진화하는 선술집",
@@ -44597,7 +44609,7 @@
   },
   "126413": {
     "name": "폭풍격노",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cad7825392ea79fe24614591894feea89a07f2b4112654e4424427bd83790f15.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a5caadc666cc3b6f1f5be92b83337c2ab9023b9f43206d79ce0568666a524b4.png"
   },
   "126414": {
     "name": "폭풍격노 정령",
@@ -47257,7 +47269,7 @@
   },
   "129983": {
     "name": "연꽃 골칫덩이",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44fedf6323a045ce2a7c34488d9365ec9e063cf967dfb3985386c027d05a6dcc.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b551d1bd326f99fe9dd3d5c8888b6063e7676dac0bfea88aed89c2434975649.png"
   },
   "129987": {
     "name": "비취 골렘",

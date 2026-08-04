@@ -6373,8 +6373,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "WC_017",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a74a9646b7591d2e3820c96175b71f41b265ea0be2d796ab27d489fe0004eef.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b430eae7c6f076689114d66ffec82ace930d595ccdd726ea3324781dd6738b4.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/793e92f85db29574591c928bc8d00ec7fc518a7252992cc2056d822bf224ac82.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad2b8cbd61c2e3ef34c888b1cef697fe1cc4ac73253cdbcda0330ae394c01757.png",
     "isStandard": false
   },
   {
@@ -21900,8 +21900,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "GIL_836",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73cf217ecfe5128846fb86e378f5056fa2fdcb345d197710fea7c2bd869c8a3d.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1924f0abb1cdc1bbc58d1be549146369c77870ec81419467f8cc745976b4872.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99d8b125f6a2f46e84408c51c9778d0ef8afb5c057a30044e3fed2e064db8f15.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/424bcf0a9a119c7685b1fa6407719b6dee1ee18493d6961a20d1b0fb6002a6e9.png",
     "isStandard": false
   },
   {
@@ -21927,7 +21927,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CORE_GIL_836",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5a41e65723dae2ab753730417c888c6c293e3eea4d05d8ea4aab704c7997b9d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a509391cf422e40467eba027a994868325047697f43447c17319a4806f34a0e9.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CORE_GIL_836.jpg",
     "isStandard": true
   },
@@ -80914,8 +80914,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_470",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44fedf6323a045ce2a7c34488d9365ec9e063cf967dfb3985386c027d05a6dcc.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9617de1a61ca0d1b82edde02464a9e00c2104f388cebdcdcf8a745e1b1562d96.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b551d1bd326f99fe9dd3d5c8888b6063e7676dac0bfea88aed89c2434975649.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b9c782206a2d3820264977b56d546d312201529c7347e3f94a58aab104c4cbf.png",
     "isStandard": true
   },
   {
@@ -95980,8 +95980,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_303",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8da85cfee3aefea8f27a77bdf2b46eab371b4a2814bcc66598b5ef93f88bd50.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b780857b53c9297d3b02b71b5677f00636ac6a104e857ec5d508ab0f25860a1c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/676e37770a790658ae0ac33a7f0c6ede1625c6ef8f25031d7540751f2e75ad34.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d488526b27608d4432163153b9c690f28763806bae5afddb083aff2d4b841022.png",
     "isStandard": true
   },
   {
@@ -150490,8 +150490,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TIME_446",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f98773521a48d0dd0aa192a2fc74c15c43dbe5832db616223c22f30243f95fd9.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e375ec3387256b16fbf93f354806af57ae347ed61c3373dfc7b3a4afe8e0395b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68a22c3a4ca62f5156aefd22f8a7dfdcd865ffac485edfe865083a31de733489.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/233a55d2994409b62ec5439a23ece694d20b14c6d0b7989159870c5b5e65576f.png",
     "isStandard": true
   },
   {
@@ -156113,7 +156113,9 @@
     "setName": "보랏빛 요새 탈출 작전",
     "cardType": "하수인",
     "minionType": "야수",
-    "minionType2": null,
+    "minionType2": [
+      "정령"
+    ],
     "spellSchool": null,
     "keywords": "전투의 함성 준비",
     "text": "<b>준비</b>, <b>전투의 함성:</b> 모든 적 하수인이 이 하수인을 공격하게 만듭니다.",
@@ -156124,8 +156126,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_435",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d42f1ae7e7c351600470eb7f17f9acb4dc99a46425a998217cf1c9ee693bd07.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a89ce5ecc16ac7128a6bb402ddf133c7ac7f09a52b85246e92d1c25182872fc.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8cf7514245e3f8dd816367c14aa344343958d0d1fc229064ef3b2863905d8ba.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95c03ee97d34f9446d6a814bbc1da476c9c3bf001790d2196fa2a61209d089c7.png",
     "isStandard": true
   },
   {
@@ -161372,7 +161374,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "전투의 함성 개전",
-    "text": "내 영웅의 시작하는 생명력이 40이 되고 덱이 카드 20장과 적의 카드를 복사한 카드 20장으로 구성됩니다. <b>전투의 함성:</b> 내 손이 가득 찰 때까지 카드를 뽑습니다.",
+    "text": "내 영웅의 시작 생명력이 40이 됩니다. 덱이 카드 20장과 적의 카드를 복사한 카드 20장으로 구성됩니다. <b>전투의 함성:</b> 내 손이 가득 찰 때까지 카드를 뽑습니다.",
     "flavorText": "원혼이 마녀숲을 공포로 지배하던 시대는 끝이 났습니다. 하지만 아잘리나의 창살을 빠져나가는 속삭임은 늘어만 갑니다. 그녀의 주문에 걸린 경비병은 몇 명이나 될까요? 한 가지만은 확실합니다. 바네사가 자의로 그녀와 거래하려 한다면, 거기에는 대가가 따른다는 것이죠...",
     "attack": 7,
     "health": 7,
@@ -161380,8 +161382,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_430",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7639f1b8cc2a4811bcdf2bcb3e525bb00de80854cc1305b3e21581c5405b4b2.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c608dd17787909df2c2841c671befccff365ba849523f3a061b7e508f01e830.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/830e45fd6123c3904d8d3aebac316b8f2f963aba79e1908fe6d8bbdb1c3152b8.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af86fd4425b931c070e3c103397ff65c964bb9d7cb9888bff5e7baca12e822bb.png",
     "isStandard": true
   },
   {
@@ -161440,8 +161442,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_912",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d61f85d15cde728356d998b367394a58fc63f46e60c0599a1efcca04766955b.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6d3220cfb9043698b9be1f3f387cfa5a6ae8582f7bd0a686483d9b8b12cb08c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef2e28b48c4df900af0bc5d64b31f61e792489b95e643a843f5b734dc3dc0e12.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b1d134590754c9646a662d113cbf97c00d655f8676bb7ba430af9a4c7636b81.png",
     "isStandard": true
   },
   {
@@ -163885,8 +163887,8 @@
       126414
     ],
     "cardId": "JAIL_805",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cad7825392ea79fe24614591894feea89a07f2b4112654e4424427bd83790f15.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e6157e2e17b805e0ecdedbb89b49b7f6f208633f12ed8eeedb1a5c488600820.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a5caadc666cc3b6f1f5be92b83337c2ab9023b9f43206d79ce0568666a524b4.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/378a78fba7fd7b252a950834dc3c761da96424b71707d41955e9120f1c19f828.png",
     "isStandard": true
   },
   {
