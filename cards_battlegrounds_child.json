@@ -3201,7 +3201,7 @@
   },
   "117568": {
     "name": "동맹 철퇴",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_880t.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01a3602f6cb0e4ea36ff58de0356b7ad9cc2a3e5412d6055a2e53b484a2df340.png",
     "attack": null,
     "health": null,
@@ -3209,7 +3209,7 @@
   },
   "117569": {
     "name": "동맹 버클러",
-    "img": null,
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_880t2.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/561320842c4a3d8e55c94bb783f0fad0527e512ed8974ece6dafcb64b78efc6e.png",
     "attack": null,
     "health": null,
