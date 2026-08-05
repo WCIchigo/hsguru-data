@@ -7487,10 +7487,6 @@
     "name": "주문직공",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a498eef4628e3ad3e2ed6d7d4b84fa3f0baa21fca8230e782cf0490e9b8c3569.png"
   },
-  "45384": {
-    "name": "죽음의 고리",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/707b9357c5306d05d32a9ff83da2d6ddb05aed97b0d82ecde193df56f47e2dff.png"
-  },
   "45387": {
     "name": "대마법 보호막",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddc1af11b0041dd2a89ee3db358fb88a678b8171939ef7a5a98d0c48c960e573.png"
@@ -20123,10 +20119,6 @@
     "name": "호드를 위하여!",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55d1e130d13d291415748217a90cefc8949b338484d7cc3509e52de1bcfebafe.png"
   },
-  "71458": {
-    "name": "죽음예언자 블랙쏜",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07eab0905e6dbdc4816be6303f748ba20afc069ec040f303bd85c347f33c5fa0.png"
-  },
   "71459": {
     "name": "피의 결속",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef54f48f82f715c4ece3fb5ee0197260f2b28476345fcf4cc5618cb90bc6d523.png"
@@ -23219,10 +23211,6 @@
     "name": "발광비늘",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87459313056f7b92fa417cc546582e843b35c99cd9efcebf3a7e30200adc3017.png"
   },
-  "80747": {
-    "name": "용암 잠복꾼",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2fd41a726c7a3815076aea0b0a381fd0cdad30506c0b4196d262722ac41b69b.png"
-  },
   "80748": {
     "name": "어스름 투사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/604a256e5da8a5d36bfc2d194471cb960cc2c35f894e2f330a4bb09233b4f3d0.png"
@@ -23274,10 +23262,6 @@
   "80764": {
     "name": "발광비늘",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c862091bddfe577db959fc4a61294f08cdc3b0a661e5d6ba6b3dd71b905dc8e0.png"
-  },
-  "80765": {
-    "name": "용암 잠복꾼",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca845e7f5c6d1c2016ab29f1c6385df51501c3b997b6c20afd40152fd93a11d7.png"
   },
   "80766": {
     "name": "어스름 투사",
@@ -26247,10 +26231,6 @@
     "name": "소음 음악가",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d9fc19ddabe3c84c2819babbb82f102279ea81292e1c5c49e565cdf5971ce7c.png"
   },
-  "95469": {
-    "name": "메카 자락서스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02468e0656a082bb2ce0988b4ab73cbbf60080262993291bb0013c7bde77c83a.png"
-  },
   "95470": {
     "name": "돌심장 왕",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1290ad4a11231e2cc79e9d97606c2dd5cb352c8a062eb96082e849eddc55f2f4.png"
@@ -27358,10 +27338,6 @@
   "97636": {
     "name": "전기로봇",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e142386f5694ba467ea4e46540116899f839594d91cd12ba43979e499357f35.png"
-  },
-  "97637": {
-    "name": "전기로봇",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43f75367f8831101cc6895642d3c3a163cb9a14e3124200658db081377bc0c27.png"
   },
   "97638": {
     "name": "고철 더미에서",
@@ -29742,10 +29718,6 @@
   "102154": {
     "name": "루에크",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbe501b8cd9135d6975fc69dd708a824017b0155ddae2d6308ab03a8c05531da.png"
-  },
-  "102155": {
-    "name": "메쇼",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/941d09cdfade854b3f230afc086e46ad5488ea77c8725699093c2cf1122a321b.png"
   },
   "102158": {
     "name": "반짝이는 사격",
@@ -35159,10 +35131,6 @@
     "name": "아이언포지 모루",
     "img": null
   },
-  "111499": {
-    "name": "용암 등불",
-    "img": null
-  },
   "111502": {
     "name": "도살자의 낫",
     "img": null
@@ -35270,34 +35238,6 @@
   "111633": {
     "name": "카바레 스타 카레스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90536927f8dc7b1257b343813aa689ead163fef82ebeaa537dcb5e2c6c3017c1.png"
-  },
-  "111634": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae50d650144a725da25c011c64f2e3434ac5948700d49ca97b9baf6082d9b84e.png"
-  },
-  "111635": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da2c5e4401ec33f6f13cae9d09fda729b83d54df3ea9f0a0965905039560fccc.png"
-  },
-  "111636": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2086b34e43aca2fd14d6c561e741771941e7a14e258c6757988744c8e2df003.png"
-  },
-  "111637": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ba299b8bafac217f9dd37364d97a4666936142a228ab2911f2b921c1f736389.png"
-  },
-  "111638": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/021c781fe8b488471f94b69f93a55cb4ed247c5a108adb1592900998293e0d81.png"
-  },
-  "111639": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a631f5ee0b53295a53dec26ef4c3fe3c7eee2e16203fca398ccb9f719ea3712f.png"
-  },
-  "111640": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00a3ae2b1dcc34bc180f4a302c8c957dfe62bd28cc16586a0c5a815de656297d.png"
   },
   "111641": {
     "name": "카바레 스타 카레스",
@@ -37571,14 +37511,6 @@
     "name": "견실한 인간사냥꾼",
     "img": null
   },
-  "115610": {
-    "name": "죽음의 공격수",
-    "img": null
-  },
-  "115611": {
-    "name": "죽음의 공격수",
-    "img": null
-  },
   "115612": {
     "name": "뒤틀린 그물거미",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df378ab7d8871ddab727240e685014ae458d3fa0dd99acd9b11e3139cdad5829.png"
@@ -37890,10 +37822,6 @@
   "115892": {
     "name": "화염 물어뜯기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8d8cc06cddc8e632cf160a96a71a8935669ef56fbd1eac65fb9454d3cd9d59e.png"
-  },
-  "115893": {
-    "name": "용암 파도",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b857b80c6f968916980dab17495993da2f256c18b77022f1f00d427ec13383f.png"
   },
   "115897": {
     "name": "그레이스 파세일",
@@ -39158,10 +39086,6 @@
   "117786": {
     "name": "물어뜯는 식물",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4467eb27cd89090618ddd423760a459fe0cebb8b8634d499ff7a772854c40fd8.png"
-  },
-  "117793": {
-    "name": "용암 흐름",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/295b913aa803f8f73d051240088413535bd82624c1a48c6dc1875826b40c6bec.png"
   },
   "117794": {
     "name": "죽음의 성물함",
@@ -41757,10 +41681,6 @@
   },
   "120925": {
     "name": "휴대용 공장",
-    "img": null
-  },
-  "120926": {
-    "name": "전령 스티커",
     "img": null
   },
   "120927": {
@@ -47879,10 +47799,6 @@
     "name": "전사 타자기",
     "img": null
   },
-  "131131": {
-    "name": "죽음손길 사과",
-    "img": null
-  },
   "131132": {
     "name": "영혼 발효기",
     "img": null
@@ -48173,6 +48089,14 @@
   },
   "133476": {
     "name": "전쟁의 상흔",
+    "img": null
+  },
+  "133478": {
+    "name": "다가오는 죽음",
+    "img": null
+  },
+  "133480": {
+    "name": "주문 흡수",
     "img": null
   },
   "133860": {

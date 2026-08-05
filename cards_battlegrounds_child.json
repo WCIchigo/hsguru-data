@@ -1463,14 +1463,6 @@
     "health": 12,
     "text": "<b>도발</b>, <b>주문제작:</b> 다음 턴까지 하수인에게 <b>천상의 보호막</b>을 부여합니다."
   },
-  "80765": {
-    "name": "용암 잠복꾼",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_009_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5639d535f87758d485da73412914d0919cc0195108bf4313aa16beed8cbab9e.png",
-    "attack": 4,
-    "health": 10,
-    "text": "매 턴마다 내 손에서 이 하수인에게 내는 첫 2개의 <b>주문제작</b> 주문의 효과를 영구히 얻습니다. <i>( 개 남음!)</i>"
-  },
   "80773": {
     "name": "핏빛 용사",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_017_G_triple.png",
@@ -2902,14 +2894,6 @@
     "attack": 2,
     "health": 2,
     "text": "<b>전투의 함성:</b> 이번 게임 동안 내 딱정벌레들이 + /+ |1(을,를) 얻습니다. <b>죽음의 메아리:</b> / 딱정벌레를 둘 소환합니다."
-  },
-  "115611": {
-    "name": "죽음의 공격수",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_835_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/691cd84a889bc5229f071aaba256fcd7e4b94eaba91a63d54005612c8c45e5fc.png",
-    "attack": 16,
-    "health": 16,
-    "text": "<b>복수 ( ):</b> 무작위 언데드를 둘 얻습니다. <b>죽음의 메아리:</b> 이번 전투에서만 내 손에서 그 언데드들을 소환합니다."
   },
   "115679": {
     "name": "기계노움 해석가",
