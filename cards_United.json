@@ -13479,6 +13479,10 @@
     "name": "악당의 계획",
     "img": null
   },
+  "58275": {
+    "name": "밀랍 창",
+    "img": null
+  },
   "58276": {
     "name": "살아 움직이는 양초",
     "img": null
@@ -22170,10 +22174,6 @@
   "77839": {
     "name": "길거리 마술사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14c556cbe4640d3e2b98e47c1a0a9031ac05e31e68e42c972987cb9b24e24126.png"
-  },
-  "77841": {
-    "name": "멍서스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5ceca41e7055dfb3eea7a5277b747c6425cc1d6b05881341bbc96f35b454895.png"
   },
   "77843": {
     "name": "비둘기 군주",
@@ -33895,6 +33895,10 @@
     "name": "기동력의 부적",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/207e201c8e9c5d08ad67ad56abc274d66d51a376b3b28efa6bf98643f2174c6f.png"
   },
+  "109044": {
+    "name": "활보의 부적",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8860dc36c7e8d09bd13f83cb68d4bf64d48e0204e6175e3c811e19881d4e8408.png"
+  },
   "109045": {
     "name": "활보의 부적",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48e78d480edbc087eb582f5cf620c644d301440ce236a8a57c249fb202bf2815.png"
@@ -40987,6 +40991,10 @@
     "name": "칼날 여왕 케리건",
     "img": null
   },
+  "120359": {
+    "name": "애벌레",
+    "img": null
+  },
   "120362": {
     "name": "산란못",
     "img": null
@@ -45907,10 +45915,6 @@
     "name": "시간왜곡의 뾰족털",
     "img": null
   },
-  "127392": {
-    "name": "시간왜곡의 머리 강타꾼",
-    "img": null
-  },
   "127394": {
     "name": "시간왜곡의 아눕아락",
     "img": null
@@ -48241,6 +48245,10 @@
   },
   "133363": {
     "name": "티탄급 힘",
+    "img": null
+  },
+  "133400": {
+    "name": "늑대머리 도리깨",
     "img": null
   },
   "133421": {

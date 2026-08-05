@@ -14065,7 +14065,7 @@
   {
     "id": 133400,
     "name": "늑대머리 도리깨",
-    "enname": null,
+    "enname": "Wolfhead Flail",
     "cardType": "장신구",
     "tier": null,
     "minionType": null,
@@ -14667,6 +14667,28 @@
     "childIds": null
   },
   {
+    "id": 133402,
+    "name": "모반자의 칼날",
+    "enname": "Insurrectionist's Blade",
+    "cardType": "장신구",
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": "상급",
+    "keywords": "집결",
+    "text": "내 턴이 끝날 때, 아군의 모든 <b>집결</b>을 발동시킵니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4be040dfd53cd142334d4b7e677629ff49cf97bdcf40eccc2aaa4160653375b7.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9523a1407fdd6b2ac7712b37e6bc48c2d5850b42e34b0aef6b5919cabc7bdd03.png",
+    "childIds": null
+  },
+  {
     "id": 120606,
     "name": "묘기꾼 초상화",
     "enname": "Thaumaturgist Portrait",
@@ -15047,9 +15069,9 @@
     "childIds": null
   },
   {
-    "id": 130893,
-    "name": "보호의 반지",
-    "enname": "Protective Ring",
+    "id": 131002,
+    "name": "부대 호루라기",
+    "enname": "Warband Whistle",
     "cardType": "장신구",
     "tier": null,
     "minionType": null,
@@ -15058,14 +15080,14 @@
     "health": null,
     "armor": null,
     "trinketTier": "상급",
-    "keywords": "천상의 보호막",
-    "text": "<b>기선 제압:</b> 무작위 아군 해적 명에게 <b>천상의 보호막</b>을 부여합니다.",
+    "keywords": "새로고침",
+    "text": "내 전장 조합에 있는 하수인들을 강화 효과 없이 복사한 하수인들이 생기는 무료 <b>새로고침</b>을 얻습니다.",
     "flavorText": null,
     "duosOnly": false,
     "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e353c3be4d67eb57155a20c895f8a16f4f811a0d09f9a4e66509b3f01ef0329.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8955f8dbe7f91677a3d3d231f7b98f141185eccd9e372c3252b1c0be798f6cf.png",
     "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a80c7f954ad43bb85278dd0993491dbcc0fa557d509602e72390bfab677b6c36.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/923fa6392eb61f93ff7916210836c5f1dccf23d17f4d812f687297eef10ac3df.png",
     "childIds": null
   },
   {
@@ -18609,6 +18631,30 @@
     ]
   },
   {
+    "id": 127761,
+    "name": "시간왜곡의 수행사제",
+    "enname": "Timewarped Acolyte",
+    "cardType": "시간왜곡",
+    "tier": 3,
+    "minionType": "멀록",
+    "minionType2": null,
+    "attack": 4,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내 턴이 시작될 때, 요그사론의 수레바퀴를 돌립니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdd08b22d5a151a7a0422ca333134120b1e7fac416654507ec81c0132d9d78e6.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89b33c5f8a06228c10401c2220ed8eee3e2815ddcf3a45c3b11edd298e22a963.png",
+    "childIds": [
+      127762
+    ]
+  },
+  {
     "id": 127767,
     "name": "시간왜곡의 신록지기",
     "enname": "Timewarped Botani",
@@ -20521,6 +20567,54 @@
     "childIds": null
   },
   {
+    "id": 127706,
+    "name": "시간왜곡의 소라고둥",
+    "enname": "Timewarped Conch",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "아군 멀록을 선택합니다. 그 멀록을 복사하여 소환합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/666ee2196c44175b54da56837abdc239dd7e7a9754af3741ebad62315a5eff17.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2d18e58876461973f4669ea19c96984f74b8a9fcefe8da8b2b4a979967ba64a.png",
+    "childIds": null
+  },
+  {
+    "id": 127830,
+    "name": "시간왜곡의 소환사",
+    "enname": "Timewarped Summoner",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "나가",
+    "minionType2": [
+      "정령"
+    ],
+    "attack": 6,
+    "health": 9,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "주문제작",
+    "text": "<b>주문제작:</b> 하수인을 선택합니다. 선술집에 있는 모든 하수인을 그 종족의 하수인으로 변신시킵니다. 단계는 유지됩니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6ba492234037808bb3c67c48d90823bf616c988ac767e10e6f4417c8857a962.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7318f12f8f82013d65b1d0abd5ecf0648458edc55746de41849c1c57352389d1.png",
+    "childIds": [
+      127872
+    ]
+  },
+  {
     "id": 127830,
     "name": "시간왜곡의 소환사",
     "enname": "Timewarped Summoner",
@@ -20571,27 +20665,27 @@
     ]
   },
   {
-    "id": 127567,
-    "name": "시간왜곡의 쉬바라",
-    "enname": "Timewarped Shivarra",
+    "id": 129114,
+    "name": "시간왜곡의 수집가",
+    "enname": "Timewarped Collector",
     "cardType": "시간왜곡",
     "tier": 5,
-    "minionType": "악마",
+    "minionType": "해적",
     "minionType2": null,
-    "attack": 4,
-    "health": 2,
+    "attack": 12,
+    "health": 12,
     "armor": null,
     "trinketTier": null,
-    "keywords": null,
-    "text": "하수인이 잡아먹힐 때마다, 이 하수인이 그 하수인의 능력치를 얻습니다.",
+    "keywords": "천상의 보호막, 집결",
+    "text": "양옆의 하수인들에게도 피해를 줍니다. <b>집결:</b> 내 전장에 황금 하수인 4마리가 있으면, <b>천상의 보호막</b>을 얻습니다.",
     "flavorText": null,
     "duosOnly": false,
     "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5ae4e7808ac72dc081f38cfe557ececa7e83fe11486f4108307c80ed5cc62c4.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcd3ce162937ba5d94d203bfe20c1bd55ee2f37ddac712f37b837a63466379c2.png",
     "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3a4d9dc0209f98527a5396fd95062ab640c807883243254157b1be3e985fe9a.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02e714098070fe3b3415ab9f65855629cfdeda09a96dd2e32cf740192fc931a9.png",
     "childIds": [
-      127577
+      129115
     ]
   },
   {

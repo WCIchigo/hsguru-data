@@ -1175,14 +1175,6 @@
     "health": 5,
     "text": "'위대한 마술'로 우수한 <b>비밀</b>을 선택할 수 있습니다."
   },
-  "77841": {
-    "name": "멍서스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5ceca41e7055dfb3eea7a5277b747c6425cc1d6b05881341bbc96f35b454895.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7599cae58426687f6ecaecaca9d462a7c222e750b0013e535403f87159102a31.png",
-    "attack": 8,
-    "health": 4,
-    "text": "아군 하수인이 <b>환생</b>한 후에, 그 하수인에게 이 하수인의 공격력을 부여합니다."
-  },
   "77843": {
     "name": "비둘기 군주",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ea02095ce460bb939ec0b8d0ef19196a3530e64cd60eece2fa274ffb4ad994d.png",
@@ -3823,6 +3815,14 @@
     "health": null,
     "text": "내 전투순양함에 <b>환생</b>과 \"최대 생명력과 강화 효과를 모두 회복한 상태로 <b>환생</b>함\" 능력을 부여합니다."
   },
+  "120359": {
+    "name": "애벌레",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_811t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e4751e1b303956a7645e6c6855ec480a221a28eca79bb96fb6865722a6861c4.png",
+    "attack": 2,
+    "health": 2,
+    "text": "매 턴이 시작될 때 저그 하수인을 선택하여 그 하수인으로 변태합니다. 능력치와 강화 효과를 유지합니다."
+  },
   "120362": {
     "name": "산란못",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_811p.png",
@@ -4734,14 +4734,6 @@
     "attack": 24,
     "health": 16,
     "text": "내 턴이 시작될 때 <b>혈석</b>을 개 얻습니다. 그 혈석들이 선술집 주문으로도 간주됩니다."
-  },
-  "127392": {
-    "name": "시간왜곡의 머리 강타꾼",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_102_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/677348b7d7417c0b9040e47fc48f1ee2aa659d18a1bf8381fa0000f7d94a2540.png",
-    "attack": 14,
-    "health": 28,
-    "text": "<b>질풍</b>, <b>집결:</b> 이 하수인이 내 다른 모든 하수인에게 영구적인 <b>혈석</b>을 개 냅니다."
   },
   "127394": {
     "name": "시간왜곡의 아눕아락",

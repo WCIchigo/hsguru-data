@@ -19907,6 +19907,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/207e201c8e9c5d08ad67ad56abc274d66d51a376b3b28efa6bf98643f2174c6f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_959t09t.jpg"
   },
+  "109044": {
+    "id": 109044,
+    "name": "활보의 부적",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 손에 있는 카드들의 비용이 (1) 감소합니다. <i>(주문 제외!)</i>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8860dc36c7e8d09bd13f83cb68d4bf64d48e0204e6175e3c811e19881d4e8408.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_959t10.jpg"
+  },
   "109045": {
     "id": 109045,
     "name": "활보의 부적",
