@@ -679,14 +679,6 @@
     "health": null,
     "text": "3턴 후에, 내 단계의 하수인을 <b>발견</b>합니다. <i>( 턴 남음!)</i>"
   },
-  "76520": {
-    "name": "벌목기 조종",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfb292eab60b26e79e9db2cacaf58c2ac6af594d1f6f039c6db441027e722c7b.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb5f4fe725f4bec52a298e1efb0756eb9bed4e60fa194852bd0a818bac703274.png",
-    "attack": null,
-    "health": null,
-    "text": "내 손에서 하수인을 소환하고 <b>천상의 보호막</b>을 부여하는 2/1 벌목기를 소환하고 게임을 시작합니다."
-  },
   "76563": {
     "name": "내 눈엔 다 보여",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb25b989339a0c1120aff2f60c0fd01c6d2e00399ca8338791ff0dcad4221647.png",
@@ -1407,14 +1399,6 @@
     "health": null,
     "text": "아군 하수인이 적을 처치한 후에, 그 하수인에게 영구히 공격력을 +1 부여합니다."
   },
-  "80244": {
-    "name": "서리늑대의 열정",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90c482960fe6a519855e353f64ac554914296267ebe6dc3978a2f3f85c19e988.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67378e9678c8381d4bc412e42c9a4c86eb087a9b8cbe12248c8ca5edcbafaf6a.png",
-    "attack": null,
-    "health": null,
-    "text": "전투 중에 전장에 공간이 생기면, 공격력이 가장 높은 내 하수인을 복사하여 소환합니다. <i>(7턴에 잠금 해제됩니다.)</i>"
-  },
   "80248": {
     "name": "스톰파이크의 힘",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e3ca08263e33afee25a33e91104c648d7a418eceb15074335f57dd6adfc0d1a.png",
@@ -1462,6 +1446,14 @@
     "attack": 8,
     "health": 12,
     "text": "<b>도발</b>, <b>주문제작:</b> 다음 턴까지 하수인에게 <b>천상의 보호막</b>을 부여합니다."
+  },
+  "80765": {
+    "name": "용암 잠복꾼",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_009_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5639d535f87758d485da73412914d0919cc0195108bf4313aa16beed8cbab9e.png",
+    "attack": 4,
+    "health": 10,
+    "text": "매 턴마다 내 손에서 이 하수인에게 내는 첫 2개의 <b>주문제작</b> 주문의 효과를 영구히 얻습니다. <i>( 개 남음!)</i>"
   },
   "80773": {
     "name": "핏빛 용사",
@@ -2103,14 +2095,6 @@
     "health": null,
     "text": "내가 해적을 살 때마다 1골드를 얻습니다."
   },
-  "101268": {
-    "name": "번영하는 작은 서리",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_537_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2eb5b65dbb0de08522cc21676b2438fa70048ed31dd69e4ecb6f907a35df5c1b.png",
-    "attack": 4,
-    "health": 2,
-    "text": "이번 게임에서 내가 낸 정령 하나당 + /+ |1(을,를) 얻습니다. <i>(어디에 있든)</i>"
-  },
   "101281": {
     "name": "깜짝 정령",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_175_G_triple.png",
@@ -2342,14 +2326,6 @@
     "attack": 12,
     "health": 8,
     "text": "<b>죽음의 메아리:</b> 나와 내 팀원이 각각 무료 <b>새로고침</b>을 4번씩 얻습니다."
-  },
-  "104628": {
-    "name": "용사 선택",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1cb7d3473849d2fe1f80112a6895ecfb53262691990fb617febca4081e91d0b.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc358d1d8ebf709642f3df27a1b07c92a782d8b8cd21f05ce1292a9a9fc1941d.png",
-    "attack": null,
-    "health": null,
-    "text": "<b><b>지속 능력</b></b> 게임이 시작될 때, 60골드를 소모한 후에 얻을 7단계 하수인을 <b>발견</b>합니다. <i>( 남음!)</i> <b><b>지속 능력</b></b> 게임이 시작될 때, 60골드를 소모한 후에 얻을 7단계 하수인을 <b>발견</b>합니다. <i>(완료!)</i>"
   },
   "104672": {
     "name": "수상망측한 수액",
@@ -2894,6 +2870,14 @@
     "attack": 2,
     "health": 2,
     "text": "<b>전투의 함성:</b> 이번 게임 동안 내 딱정벌레들이 + /+ |1(을,를) 얻습니다. <b>죽음의 메아리:</b> / 딱정벌레를 둘 소환합니다."
+  },
+  "115611": {
+    "name": "죽음의 공격수",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_835_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/691cd84a889bc5229f071aaba256fcd7e4b94eaba91a63d54005612c8c45e5fc.png",
+    "attack": 16,
+    "health": 16,
+    "text": "<b>복수 ( ):</b> 무작위 언데드를 둘 얻습니다. <b>죽음의 메아리:</b> 이번 전투에서만 내 손에서 그 언데드들을 소환합니다."
   },
   "115679": {
     "name": "기계노움 해석가",
@@ -4415,14 +4399,6 @@
     "health": 2,
     "text": "<b>천상의 보호막</b>, <b>질풍<b>, </b>환생</b>"
   },
-  "127336": {
-    "name": "시간왜곡의 판다네 정령",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_067_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8104312b1339fe870d164ca8f6c6eabe9e0dfd499ebce33408460b7c134dcd9.png",
-    "attack": 16,
-    "health": 16,
-    "text": "내 턴이 끝날 때 판다네 정령을 둘 얻습니다."
-  },
   "127337": {
     "name": "시간왜곡의 바다 유리",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_110_G_triple.png",
@@ -4455,14 +4431,6 @@
     "health": 8,
     "text": "<b>죽음의 메아리:</b> 이번 전투에만 내 손에 있는 생명력이 가장 높은 하수인을 둘 소환하고 <b>천상의 보호막</b>을 부여합니다."
   },
-  "127342": {
-    "name": "시간왜곡의 펄럭이",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_072_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75859cededed99dbe35f38d2bd369df4d5d38ca9ae30f9eb4321dd7410d84c99.png",
-    "attack": 10,
-    "health": 12,
-    "text": "내가 2단계 하수인을 판 후 무작위 1단계 하수인을 둘 얻습니다."
-  },
   "127343": {
     "name": "시간왜곡의 청소지느러미",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_017_G_triple.png",
@@ -4494,14 +4462,6 @@
     "attack": 8,
     "health": 4,
     "text": "<b>전투의 함성과 죽음의 메아리:</b> 다음 턴에 골드를 얻습니다."
-  },
-  "127347": {
-    "name": "시간왜곡의 페이글",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_208_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65975c73dc13e435724b5ab3a6845508231b6b19295380017e500a0a09dafcd7.png",
-    "attack": 16,
-    "health": 12,
-    "text": "전투당 한 번, 이 하수인이 공격하여 다른 하수인을 처치하면 황금 보상을 2개 얻습니다."
   },
   "127348": {
     "name": "시간왜곡의 사령관",
