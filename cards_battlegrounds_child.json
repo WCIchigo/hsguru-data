@@ -3359,6 +3359,14 @@
     "health": 1,
     "text": "<b>천상의 보호막</b>. 아군 하수인이 공격할 때마다 그 하수인과 이 하수인에게 공격력 +5를 영구히 부여합니다."
   },
+  "119943": {
+    "name": "평온한 명상가",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_835_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa8316877f08198767736da6375e280ec2740e6d5922019f39a4767ce13c623b.png",
+    "attack": 6,
+    "health": 16,
+    "text": "<b>주문제작:</b> 내 선술집 주문들이 이번 게임 동안 추가로 + /+ |1(을,를) 부여합니다."
+  },
   "119950": {
     "name": "모래 빙빙이",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_841_G_triple.png",

@@ -24,7 +24,7 @@
   {
     "id": 132207,
     "name": "경의",
-    "enname": null,
+    "enname": "Admiration",
     "cardType": null,
     "tier": null,
     "minionType": null,
@@ -46,7 +46,7 @@
   {
     "id": 132835,
     "name": "골렘술",
-    "enname": null,
+    "enname": "Golemancy",
     "cardType": null,
     "tier": null,
     "minionType": null,
@@ -134,7 +134,7 @@
   {
     "id": 133457,
     "name": "기민함",
-    "enname": null,
+    "enname": "Dexterity",
     "cardType": null,
     "tier": null,
     "minionType": null,
@@ -244,7 +244,7 @@
   {
     "id": 133353,
     "name": "독성",
-    "enname": null,
+    "enname": "Toxicity",
     "cardType": null,
     "tier": null,
     "minionType": null,
@@ -288,7 +288,7 @@
   {
     "id": 132833,
     "name": "무적",
-    "enname": null,
+    "enname": "Invulnerability",
     "cardType": null,
     "tier": null,
     "minionType": null,
@@ -574,7 +574,7 @@
   {
     "id": 132205,
     "name": "저항",
-    "enname": null,
+    "enname": "Resistance",
     "cardType": null,
     "tier": null,
     "minionType": null,
@@ -596,7 +596,7 @@
   {
     "id": 133359,
     "name": "적대성",
-    "enname": null,
+    "enname": "Hostility",
     "cardType": null,
     "tier": null,
     "minionType": null,
@@ -662,7 +662,7 @@
   {
     "id": 132555,
     "name": "주문 흡수",
-    "enname": null,
+    "enname": "Spell Siphon",
     "cardType": null,
     "tier": null,
     "minionType": null,
@@ -721,6 +721,28 @@
     "duosOnly": false,
     "solosOnly": false,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8dc2ec9538b8b9aa9598be4f54c71b86d465f6449b692cd488fc9530b4b2a992.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
+    "childIds": null
+  },
+  {
+    "id": 132276,
+    "name": "지속되는 공포",
+    "enname": "Persisting Horror",
+    "cardType": null,
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>환생</b>, 최대 능력치와 <b>보너스 키워드</b>를 모두 회복한 상태로 <b>환생</b>합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1986d1cd4a4101aa8c12358bdbae21e834bc64059ee99660be6866ae45f8d41b.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
     "childIds": null
@@ -794,7 +816,7 @@
   {
     "id": 132201,
     "name": "카리스마",
-    "enname": null,
+    "enname": "Charisma",
     "cardType": null,
     "tier": null,
     "minionType": null,
@@ -860,7 +882,7 @@
   {
     "id": 133363,
     "name": "티탄급 힘",
-    "enname": null,
+    "enname": "Titanic Strength",
     "cardType": null,
     "tier": null,
     "minionType": null,
@@ -2581,6 +2603,28 @@
     ]
   },
   {
+    "id": 132608,
+    "name": "악몽의 군주 자비우스",
+    "enname": "Nightmare Lord Xavius",
+    "cardType": "영웅",
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": 30,
+    "armor": 12,
+    "trinketTier": null,
+    "keywords": null,
+    "text": null,
+    "flavorText": "파멸이 정확히 어떤 느낌인지는 자비우스도 모릅니다.",
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7573a0b9ffc49f1d8907727f20319826b1f97f1ce3e152c66c6596a2e2351f34.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79798ba038e2b48d131c48a1598b81875585552df61091cc059c072a40f91912.png",
+    "childIds": null
+  },
+  {
     "id": 61488,
     "name": "알렉스트라자",
     "enname": "Alexstrasza",
@@ -2755,6 +2799,28 @@
       59863,
       77629
     ]
+  },
+  {
+    "id": 132578,
+    "name": "영혼 기생체 트라스타스",
+    "enname": "Tras'tath, Soul Parasite",
+    "cardType": "영웅",
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": 30,
+    "armor": 10,
+    "trinketTier": null,
+    "keywords": null,
+    "text": null,
+    "flavorText": "선물을 가져오는 공허 생물을 조심하세요.",
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a785b3acfe01997788e66b3f64959058e798665b683063fb96c07f561569557b.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41f6440249aa4a0c64cdf382f98e209c97e038662732abd1340c9a004b210350.png",
+    "childIds": null
   },
   {
     "id": 82110,
