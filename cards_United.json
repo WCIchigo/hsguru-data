@@ -3107,10 +3107,6 @@
     "name": "불의 군주 라그나로스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7fa86f76643693ef141ac114604541033bec281949fd713fd447f572da7131d.png"
   },
-  "2319": {
-    "name": "죽어라, 벌레 같은 놈!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1ca86783efd6d77340eb35268c1ab8cdc86a0b0584e848453bbbf9e8c74b8b6.png"
-  },
   "2408": {
     "name": "검은날개 기술병",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8effe8af4c9e250ad264c15c6a4f825ad7b85b9c585e9c365b5a07969eede48.png"
@@ -3126,10 +3122,6 @@
   "2436": {
     "name": "검은 새끼용",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e1b708bf226597e0ec12e763cbfe056ae27bfe9880c88767ab25ad61d6712bd.png"
-  },
-  "2448": {
-    "name": "죽어라, 벌레 같은 놈들!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/924e1867c8138df3131482f48cf64ca5542255b48a7bdd494eb95ce9d6abf903.png"
   },
   "2483": {
     "name": "거미떼",
@@ -3891,10 +3883,6 @@
     "name": "엄청나게 큰 바위",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e38e0449019bb3d2e7ed0d12b0f3a109c2adf2f7e5ff188a4b9809495c44b7ec.png"
   },
-  "2992": {
-    "name": "황금 원숭이 보물지도",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9504cfbc51ac7fde1c55bf3ce4d91b2a80ebda5ab3e0bd743fea74d75af4508f.png"
-  },
   "2993": {
     "name": "황금 원숭이",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/400a2a37f1896316acb62057a48e9490cc80d22ebdc17434480a03294798ec84.png"
@@ -4582,10 +4570,6 @@
   "38961": {
     "name": "오염된 수집가",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c740ab487784981f6b32c13f0246eeae6ce8bbb5116e173e7163e2e9bc34058a.png"
-  },
-  "38968": {
-    "name": "수액괴물",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3c9aa81d446d406af7a1e59c9703ed28cc43e86c088e832ead9427ff7725b0d.png"
   },
   "38985": {
     "name": "청소부구더기",
@@ -5623,6 +5607,10 @@
     "name": "육중한 몸집",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/857ea4ad5e3896e59fca879b504c9f4f2e90e102cf3d089fe779054a94005f42.png"
   },
+  "41062": {
+    "name": "번개같은 속도",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ee6707c0cad01a17f56696bffeed47ed8118ab5789f5b8c582b2daa68c50dba.png"
+  },
   "41063": {
     "name": "요동치는 보호막",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fb6f29858bbcc64fb0b5533e5ef668e8bdfb73d5e19dd0baf5208e6f08c2a0a.png"
@@ -6399,10 +6387,6 @@
     "name": "원정대장 엘리스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30a767d7f68eb8bfcae6fd9acb242072baf4ddb1e3547e0fd977d1153e9ae474.png"
   },
-  "41940": {
-    "name": "죽어라, 벌레 같은 놈!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e579071bd319050f0e6aa8f9335836d459fdb7c7e9f3e6e99af2a3f9d1e16738.png"
-  },
   "41942": {
     "name": "황천의 차원문",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a19c7bf00950063c182c8d113a6144b270c84da9f645fe687b4e76e42c3757d6.png"
@@ -6527,6 +6511,10 @@
     "name": "해골술사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc4c55573a757b83d5e8c770f0d19bf482417ff19e620e12014732bfd2554215.png"
   },
+  "42329": {
+    "name": "해골 타작꾼",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2cf5209a280d314da2c6878ba4cbbfb1c6896bafd866615c43121cffe6e2378.png"
+  },
   "42338": {
     "name": "눈발바닥 펭귄",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/905ea095c24fdda1c70fb2fe8f3d76e59e06ca7eb73e81af72cdf613400e300d.png"
@@ -6554,6 +6542,10 @@
   "42422": {
     "name": "아장아장거리는 해골",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b9f5eb9fdc3f10fdd6d797d69746d64b48956dea1d059e700d34db3872b0e26.png"
+  },
+  "42423": {
+    "name": "해골 집행자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c33094cb0d20781016e5900d158283aeb58f479d3923a050797b00ac6c41fd0.png"
   },
   "42438": {
     "name": "음산한 강령술사",
@@ -9747,6 +9739,10 @@
     "name": "사냥용 파수견",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5564808218d8a6ba6d7ae1aab52235058164b6db5c6af86f6dca91ca4ca5c99e.png"
   },
+  "50143": {
+    "name": "썩은무리 거미",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2a82f7508f9881f637d045320a53c03857f7ba550af6a62608e00b80b1d318a.png"
+  },
   "50144": {
     "name": "흉포한 비늘가죽",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6878b4a44895cebdd1f819417aff479dde1a68786b1e7ff170ce3df4cadb3d5d.png"
@@ -11022,6 +11018,10 @@
   "53919": {
     "name": "압력판",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e72a995c52097be83f01c92aa5b2d583fffe6b0ad01114c0a6d66eb5130f9b7.png"
+  },
+  "53921": {
+    "name": "메뚜기",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b565f2c42151c3e8f85e38ecd3ff867e016dfa2f33805a69d643d86707eafda.png"
   },
   "53922": {
     "name": "우두머리 하이에나",
@@ -13362,10 +13362,6 @@
   "58005": {
     "name": "향상된 조준경",
     "img": null
-  },
-  "58017": {
-    "name": "죽어라, 벌레 같은 놈들!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04954e70d96899070bf74f2d637b399d582bb38bf4215c751a7a68f2b5827a32.png"
   },
   "58021": {
     "name": "위대한 아카잠자락",
@@ -16463,10 +16459,6 @@
     "name": "평원의 드루이드",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c1da3aa841dd9e2bb4ce0248b21307855df74c4731e24ff626dc9cd652cb32b.png"
   },
-  "63039": {
-    "name": "평원의 드루이드",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce6232f0a2766d6974a00d41455360cd2005a89b03a1464c65675e8e009ae253.png"
-  },
   "63040": {
     "name": "천체의 정렬",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a59c0293e9ce62dd8cec12f90779c1ed9599c2dd7c63986ff23d6f83f1ddd15.png"
@@ -17746,6 +17738,10 @@
   "64563": {
     "name": "자이렐라",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02e3313ef3784be24ba1de0a6dd08bf909a7cc55d173a1e032335fa139df5d57.png"
+  },
+  "64567": {
+    "name": "메디브",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bdd152ac06367119a28c3b10007e6adb23ed99da46b750861dfdf90456fc3432.png"
   },
   "64573": {
     "name": "유도라",
@@ -21287,6 +21283,10 @@
     "name": "돌풍날개",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eda79487214478b8bcff245832c91bd8ea1116b5339c06e42538514d410c36fe.png"
   },
+  "75703": {
+    "name": "덩가의 그리핀",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63a397b8513510592e1b05ab6a14ac011000f81ebb8344d929e503108f9e06b2.png"
+  },
   "75704": {
     "name": "서부 몰락지대",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b91c40a0476669cbfede4642fe7363da871312ea8bd1cfac447a4495ea3567f.png"
@@ -21963,6 +21963,10 @@
     "name": "환영의 유물",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ffe72e506dd9fd3499f8db3c6ff1abc6c1ada06bf9fcaa816cac5e9bac406ac.png"
   },
+  "77626": {
+    "name": "해그늘 일리다리",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06bcb6fc34b0c4c98b55a91f37c3895b4a2464e15979b34e83f4d53a15dd4467.png"
+  },
   "77629": {
     "name": "장로 태그왜그",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1ed72813274277b7e13f4a1bcad64b6fc6974212966c4218e2dac82c004f015.png"
@@ -22006,6 +22010,10 @@
   "77723": {
     "name": "마력의 군주",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75dac4524e87a50bd7fcf1869f4b0e9ffa1cc65ad4429df3d28bbce08824c732.png"
+  },
+  "77724": {
+    "name": "해동된 용사",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d941f3b38b864da18352602a9e238fe048489a2291e0f2194afca66ae150f22c.png"
   },
   "77761": {
     "name": "과부꽃 종묘상",
@@ -25359,6 +25367,10 @@
     "name": "욕망의 악장",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29833ae651d0b6a8840901fec148a46449714f9132b99836085fae7f9869060e.png"
   },
+  "92190": {
+    "name": "해구 측량사",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9668bbd9e4fe1cc13bdb4152dc395109a2f5624c675d802377d32d7c8645f629.png"
+  },
   "92222": {
     "name": "변형된 화음",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/164a84537efba0c7f8d549aba579c6eb9441539885912cecd77588246a9c391b.png"
@@ -26426,6 +26438,10 @@
   "96708": {
     "name": "풍작",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de1bf825955bf4cb4a523bae053647ab9dbad59b784b50adf91ed9c85b003d8a.png"
+  },
+  "96709": {
+    "name": "번성",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45b176d115bd4d72cae401959221e60f92cb07be876f3f4c423b54618003d787.png"
   },
   "96710": {
     "name": "카즈고로스",
@@ -27503,6 +27519,10 @@
     "name": "연구소 건설로봇",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce452e3ea9a2014c63e0f70633910f5e63514920b882802d9e21b31e024e3938.png"
   },
+  "97919": {
+    "name": "연구소 건설로봇",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/537412e7799822cc5aed3e7bd2bffa2a0f2be8b50071a03f8cedcbb42aea77b9.png"
+  },
   "97957": {
     "name": "얼굴 없는 사도",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae254888a7ba7aa255b2a1e648f96c5dce23ce3c7cfd0934c7058ade41e884a9.png"
@@ -27582,10 +27602,6 @@
   "98063": {
     "name": "강화",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/949ccbb52047e2a4bfb8cf5a0bde98edeff004d65983c6deb6be753221625c68.png"
-  },
-  "98064": {
-    "name": "평정",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/869e4151d83ff58402c76de866b27be8158e33b555eeb55d39af64d551177bfc.png"
   },
   "98087": {
     "name": "관리자 요정",
@@ -28198,6 +28214,10 @@
   "99129": {
     "name": "다트 던지기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1356594ef72294a48913448fd17c241cc69519a5bab91ab7dd36b5043762198c.png"
+  },
+  "99164": {
+    "name": "해골마",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9724c95b7959f4f0b89216839c93a262149ac5fee55487aabbc93f968d1ce789.png"
   },
   "99171": {
     "name": "디스코 셔플 춤꾼",
@@ -29050,6 +29070,14 @@
   "101265": {
     "name": "윤작",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b44abbc07d61baa0e98407537572019f8d93abe07e67ffe5647daba77ea1df2.png"
+  },
+  "101267": {
+    "name": "번영하는 작은 서리",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d7ed5b74b2bac3744e5626222b27b75986e716a4e0dc3d400df972aee409fdd.png"
+  },
+  "101268": {
+    "name": "번영하는 작은 서리",
+    "img": null
   },
   "101269": {
     "name": "폐기물 처리 조수",
@@ -31387,6 +31415,10 @@
     "name": "성원투사",
     "img": null
   },
+  "103722": {
+    "name": "뽀족털 매표원",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93c2ddb10433a7a51ba19fae92e5341e137a2d30e9fd17d5d8fb2a93d644d61f.png"
+  },
   "103723": {
     "name": "뽀족털 매표원",
     "img": null
@@ -32118,10 +32150,6 @@
   "105208": {
     "name": "떠 다니는 감시자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bf8f3e747e9048a1676515e12c61ea38b8d15ae0588cbfe1c74f7cba548c8ca.png"
-  },
-  "105230": {
-    "name": "편입생",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81ce34ebc4d2b8f54d3f177b867d54c7ed46db3b1d7ad805b763c040e850c13f.png"
   },
   "105250": {
     "name": "병에 담긴 차원문",
@@ -33947,10 +33975,6 @@
     "name": "끈적한 지옥피",
     "img": null
   },
-  "109426": {
-    "name": "편입생",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75fa5a82ef002d45a7eeb38870d5c340e2b7c7e628c5cb201b8d840f7f181ebe.png"
-  },
   "109439": {
     "name": "조주사의 특제 물약",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8166c6c9dabecad8170bd3abc0f351cf2d5efd682b86d03289cc9f1b688737b6.png"
@@ -35147,6 +35171,10 @@
     "name": "브론즈비어드 초상화",
     "img": null
   },
+  "111609": {
+    "name": "메디브의 책",
+    "img": null
+  },
   "111622": {
     "name": "카바레 스타 카레스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48c9ef7e00e479a3f92c2d75123aed16694e9849fe48969d3390d4eb8f14af13.png"
@@ -35549,10 +35577,6 @@
   },
   "112004": {
     "name": "주술사 염주",
-    "img": null
-  },
-  "112009": {
-    "name": "평온초 양초",
     "img": null
   },
   "112011": {
@@ -36170,10 +36194,6 @@
   "113212": {
     "name": "충격탄",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c32e6c44b901c943e6fa703e51c12c701441dbd92e5150b10eabe28dd5c3f0ed.png"
-  },
-  "113231": {
-    "name": "편입생",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f6bdc7de3157ebd242a0326be912d1901bdd0fdbb029321ac1db01b3ae32f46.png"
   },
   "113237": {
     "name": "바이킹",
@@ -37295,6 +37315,10 @@
     "name": "아늑한 관",
     "img": null
   },
+  "115230": {
+    "name": "메디브의 책",
+    "img": null
+  },
   "115231": {
     "name": "호랑이 조각상",
     "img": null
@@ -38130,10 +38154,6 @@
   "116495": {
     "name": "숲의 사절",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/546ad91a44bf2d2f457a9d12dbbf787108cb63c53d3c326a38804cd7414591b0.png"
-  },
-  "116500": {
-    "name": "평온한 산들바람",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afe53d289cda3009800cd8b7a8052e7b225a5084080ff022ec12903e4c5e3eed.png"
   },
   "116501": {
     "name": "변화의 바람",
@@ -40007,14 +40027,6 @@
     "name": "선조들의 도끼",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e40c33e3280a606d5ad711af031321d982067e35ba10e3ecfbdd6008165f5a4a.png"
   },
-  "119639": {
-    "name": "죽어라, 벌레 같은 놈!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c57fd05e32eda644f450906f8a9297347e1e92d2c3027dea3e391f0bf153b8b1.png"
-  },
-  "119640": {
-    "name": "죽어라, 벌레 같은 놈!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe25ef98632cd90751649e6bec4f264325fe86263e904a71f921af97201b265d.png"
-  },
   "119643": {
     "name": "국왕 무라딘",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f13af15bb457aa6884296ef3392f70e0bdc3707d5c608bf66dc2e30b228ef2de.png"
@@ -40183,10 +40195,6 @@
     "name": "분화구의 왕 크로그",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd00d73427ce375a6ccfca16adfe5f06fae21bbe754004df62d81ca275cc748c.png"
   },
-  "119813": {
-    "name": "편입생",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9f1beada38a05e5510e663810433e0b69ca2da8bfe8237a6d9324ba9124b730.png"
-  },
   "119814": {
     "name": "가로나 하프오큰",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7113d9ee67c6dacc204e508ea2326af975211c3c68f353cf1d1f00f4ff4e5d05.png"
@@ -40253,14 +40261,6 @@
   },
   "119939": {
     "name": "수면 마술사",
-    "img": null
-  },
-  "119942": {
-    "name": "평온한 명상가",
-    "img": null
-  },
-  "119943": {
-    "name": "평온한 명상가",
     "img": null
   },
   "119949": {
@@ -41707,6 +41707,10 @@
     "name": "상어 대포",
     "img": null
   },
+  "120940": {
+    "name": "해물 스튜",
+    "img": null
+  },
   "120942": {
     "name": "베이스아가미 초상화",
     "img": null
@@ -42507,6 +42511,14 @@
     "name": "폐허 재건축가",
     "img": null
   },
+  "122072": {
+    "name": "번뜩이는 상인",
+    "img": null
+  },
+  "122073": {
+    "name": "번뜩이는 상인",
+    "img": null
+  },
   "122086": {
     "name": "현혹날개",
     "img": null
@@ -42839,14 +42851,6 @@
     "name": "스컬지 수확자",
     "img": null
   },
-  "122485": {
-    "name": "죽어라 달려라",
-    "img": null
-  },
-  "122486": {
-    "name": "죽어라 달려라",
-    "img": null
-  },
   "122487": {
     "name": "시든 자 오라노모노스",
     "img": null
@@ -43005,6 +43009,14 @@
   },
   "122651": {
     "name": "등불 용암",
+    "img": null
+  },
+  "122656": {
+    "name": "덩굴 등반가",
+    "img": null
+  },
+  "122657": {
+    "name": "덩굴 등반가",
     "img": null
   },
   "122672": {
@@ -45343,6 +45355,10 @@
     "name": "시간왜곡의 피리꾼",
     "img": null
   },
+  "127097": {
+    "name": "시간왜곡의 멧돼지",
+    "img": null
+  },
   "127105": {
     "name": "사이쿠스",
     "img": null
@@ -45471,6 +45487,10 @@
     "name": "시간왜곡의 머키",
     "img": null
   },
+  "127181": {
+    "name": "시간왜곡의 멀로클레스",
+    "img": null
+  },
   "127182": {
     "name": "시간왜곡의 페이글",
     "img": null
@@ -45583,6 +45603,10 @@
     "name": "시간왜곡의 폴짝개구리",
     "img": null
   },
+  "127328": {
+    "name": "시간왜곡의 멧돼지",
+    "img": null
+  },
   "127329": {
     "name": "시간왜곡의 사우로리스크",
     "img": null
@@ -45637,6 +45661,14 @@
   },
   "127343": {
     "name": "시간왜곡의 청소지느러미",
+    "img": null
+  },
+  "127344": {
+    "name": "시간왜곡의 머키",
+    "img": null
+  },
+  "127345": {
+    "name": "시간왜곡의 멀로클레스",
     "img": null
   },
   "127346": {
@@ -46155,6 +46187,10 @@
     "name": "탈취당한 경비로봇",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a53987d928023b6ce82a6e6fcb8243552c92d6a5fe29f14b460cfca72f4c90b.png"
   },
+  "127696": {
+    "name": "해방된 무르도즈노",
+    "img": null
+  },
   "127697": {
     "name": "평행 시간대",
     "img": null
@@ -46365,6 +46401,10 @@
   },
   "127775": {
     "name": "시간왜곡의 불멸자",
+    "img": null
+  },
+  "127776": {
+    "name": "시간왜곡의 모선",
     "img": null
   },
   "127777": {
@@ -47335,6 +47375,14 @@
     "name": "동물원 식기",
     "img": null
   },
+  "130552": {
+    "name": "해골 사격수",
+    "img": null
+  },
+  "130553": {
+    "name": "해골 사격수",
+    "img": null
+  },
   "130580": {
     "name": "노련한 전쟁의무관",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48a295d246b82e60914c4f6c0fe151087004c123bcce12e571ddd50175b16f6e.png"
@@ -47987,6 +48035,10 @@
     "name": "신비의 정수",
     "img": null
   },
+  "132205": {
+    "name": "저항",
+    "img": null
+  },
   "132208": {
     "name": "메아리치는 목소리",
     "img": null
@@ -48023,8 +48075,8 @@
     "name": "전쟁의 상흔",
     "img": null
   },
-  "132554": {
-    "name": "다가오는 죽음",
+  "132555": {
+    "name": "주문 흡수",
     "img": null
   },
   "132732": {
@@ -48043,6 +48095,10 @@
     "name": "융합체",
     "img": null
   },
+  "132833": {
+    "name": "무적",
+    "img": null
+  },
   "133310": {
     "name": "가라앉은 끈기",
     "img": null
@@ -48055,8 +48111,20 @@
     "name": "악마학",
     "img": null
   },
+  "133353": {
+    "name": "독성",
+    "img": null
+  },
+  "133359": {
+    "name": "적대성",
+    "img": null
+  },
   "133361": {
     "name": "기민함",
+    "img": null
+  },
+  "133363": {
+    "name": "티탄급 힘",
     "img": null
   },
   "133421": {
@@ -48069,10 +48137,6 @@
   },
   "133424": {
     "name": "단단한 방패",
-    "img": null
-  },
-  "133457": {
-    "name": "기민함",
     "img": null
   },
   "133472": {
