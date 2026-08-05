@@ -183,6 +183,14 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f013329be19dee6439f472f644d896bb7eeebdc10821c247c285270dc4829e1b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_005t7.jpg"
   },
+  "119447": {
+    "name": "멀록 라팜",
+    "manaCost": 3,
+    "classId": 9,
+    "rarityId": 1,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16940ab90c0d65903cf1d83e1658c603b97597eca83d703ea012fecd3ace8aa4.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_005t8.jpg"
+  },
   "119450": {
     "name": "대마법사 라팜",
     "manaCost": 9,
@@ -294,6 +302,14 @@
     "rarityId": 1,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e22379dcd40c38ced6dcb00e2aab4a638d20da242826ff22e6cdf906c0554388.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_211t1.jpg"
+  },
+  "119930": {
+    "name": "진아즈샤리",
+    "manaCost": 4,
+    "classId": 2,
+    "rarityId": 1,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be69bff4b8128c53a4be3663429a512739f010338582f07d69eb2a31123d6f08.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_211t2.jpg"
   },
   "120064": {
     "name": "대지팡이 아티쉬",
