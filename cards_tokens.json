@@ -2927,18 +2927,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f02f25c9cff4d0727bf66391c7f2467e11fd4ee66f7a53d819bebee4440a3b7.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_917t1.jpg"
   },
-  "41367": {
-    "id": 41367,
-    "name": "여왕 칼나사",
-    "manaCost": 5,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 8,
-    "health": 8,
-    "text": "<b>속공</b>. <b>전투의 함성:</b> 랩터 20마리를 내 덱에 섞어 넣습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14952347ca312bd2a417419a469949f47e11f6800aff482bb786aac909e2868e.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_920t1.jpg"
-  },
   "41426": {
     "id": 41426,
     "name": "설퍼라스",
@@ -3382,18 +3370,6 @@
     "text": "<b>모든</b> 하수인에게 피해를 6 줍니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca9f459f93deed98ee0970d11a9d978bfe0ebc9b8e1e4992f466e8a716401354.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621t33.jpg"
-  },
-  "41691": {
-    "id": 41691,
-    "name": "화산의 힘",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "+1/+1",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b4f826e69f7a5f63a933c109d7acbb9c11c2b64ab620464845d71dddd70d733.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_999t14.jpg"
   },
   "41839": {
     "id": 41839,
@@ -7943,18 +7919,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0034c5346821b7f3235a57246cac0081c472439d5d182325994b883d9b19ec8d.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_600t3.jpg"
   },
-  "59518": {
-    "id": 59518,
-    "name": "길 잃은 혼령",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "언데드",
-    "attack": 2,
-    "health": 1,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/891d577193392a91c550e6920d0415f898bcb7d727dbcff3c98f0629747238f5.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acd4034a22300086da62b8552cf593f744037be61eafa836a7dbf41874a930f6.jpg"
-  },
   "59650": {
     "id": 59650,
     "name": "살아있는 부패물",
@@ -10751,18 +10715,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85eef57e32dfa436f1d9040253577095b8828551dbe84f2221dee85abd546960.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_199t27.jpg"
   },
-  "67041": {
-    "id": 67041,
-    "name": "여왕의 축복",
-    "manaCost": 2,
-    "cardType": null,
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "내 손에 있는 무작위 하수인에게 +4/+4를 부여합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b409c4b961d368dc64425c17973676770135832a190cf2b78be09b0305e90b2.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_206p.jpg"
-  },
   "67047": {
     "id": 67047,
     "name": "신비한 파열",
@@ -11014,18 +10966,6 @@
     "text": "모든 아군 캐릭터의 생명력을 6 회복시킵니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16fe215b46d3233687963723f1fc3ba6a6a39bbcd945b9c87bc97cf3b0e55558.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_258t2.jpg"
-  },
-  "67817": {
-    "id": 67817,
-    "name": "화염 기원",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "적 영웅에게 피해를 6 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b4cde72c5f597fafb11d73d5e8abacbc85c4c1bbdcee445ea0522001ca72698.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_258t3.jpg"
   },
   "67818": {
     "id": 67818,
@@ -13067,18 +13007,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd5b72206202423b7a2fe51f92037efa0dadefccc2e3ded04611a20c028d6524.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/REV_958t.jpg"
   },
-  "78406": {
-    "id": 78406,
-    "name": "여우 영혼 야생씨앗",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 3,
-    "health": 1,
-    "text": "<b>속공</b>, 1턴 동안 <b>휴면</b> 상태입니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fed1f17c9f2457d66d23d49f1cb5ce1b49137826eca878e0304cc75be738eeea.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/REV_360t.jpg"
-  },
   "78408": {
     "id": 78408,
     "name": "곰 영혼 야생씨앗",
@@ -13847,30 +13775,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74a6bd66b3497a800510d707630482d206bea83e6e038119c407c46c055c9b8e.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_819t.jpg"
   },
-  "85043": {
-    "id": 85043,
-    "name": "팔 잃은 좀비",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "언데드",
-    "attack": 1,
-    "health": 1,
-    "text": "<b>죽음의 메아리:</b> 1/1 좀비를 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0f0c72564b84e27101504c3a79ead34caa81ad94bbcd363c4da290872249e7d.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_650t.jpg"
-  },
-  "85045": {
-    "id": 85045,
-    "name": "팔 없는 좀비",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "언데드",
-    "attack": 1,
-    "health": 1,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce594c95246c57e78e80cc419a2555a7ffaceed7b451ba36c0eec891838c7fbd.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_650t2.jpg"
-  },
   "85059": {
     "id": 85059,
     "name": "어둠의 환영",
@@ -14171,18 +14075,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f4c5e6ee34e87996b99fa4831850da3537b1acb4d7165e426ba72c38a428e6d.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_570tt4.jpg"
   },
-  "86162": {
-    "id": 86162,
-    "name": "빛나는 혼합물",
-    "manaCost": 3,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "카드를 2장 뽑습니다. <i>혼합물을 내 손으로 가져와 섞어보세요!</i>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c5a9acff4bb2042ce7ce9973b96aecccae11c5e659f1e60a445d66374ed67e2.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_570t5.jpg"
-  },
   "86172": {
     "id": 86172,
     "name": "조합된 혼합물",
@@ -14434,18 +14326,6 @@
     "text": "<b>도발</b>, <b>죽음의 메아리:</b> 이번 게임에서 기사단원 넷이 모두 죽었으면, 적 영웅을 파괴합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62701c09dfb533cc021912e2905337712f6db6db69fac22b5d70c0e033c1daca.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/NX2_034t2.jpg"
-  },
-  "86776": {
-    "id": 86776,
-    "name": "죄악의 정원",
-    "manaCost": 3,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "<b>주입됨</b> 5/5 고대정령을 둘 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ad36523fc49165e9f31195eb4097a706cc65d4fb613d4cadf501b203f50d5ae.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/REV_336t4.jpg"
   },
   "86800": {
     "id": 86800,
@@ -16018,18 +15898,6 @@
     "text": "<b>도발</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1211e5a401867c3d63fed5ab54decdecdf794089f0b5f51af4bcd262574de83.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_903t4.jpg"
-  },
-  "97459": {
-    "id": 97459,
-    "name": "팝스타",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "드레나이",
-    "attack": 1,
-    "health": 1,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f80423b32bea581d9c832268d0ce5823a21433efef8faa92691cc7de71162d10.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_314t2.jpg"
   },
   "97461": {
     "id": 97461,
@@ -23938,18 +23806,6 @@
     "text": "<b>질풍</b>, <b>죽음의 메아리:</b> 이 무기에 영구히 공격력을 +2 부여하고 내 덱에 섞어 넣습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/853607cd872f558292f3ed62561cdb24c2a2d3074143922c82019743dfd608e9.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_209t.jpg"
-  },
-  "119653": {
-    "id": 119653,
-    "name": "화신 형상",
-    "manaCost": 3,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "이번 턴에 아군 캐릭터에게 공격력 +2와 \"이 캐릭터가 공격한 후에, 모든 적에게 피해를 2 줌\" 능력을 부여합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab5b9c2823bce8386d4ac9f83a67d0f902000706bc83dc5353b910116781eeea.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_209t2.jpg"
   },
   "119664": {
     "id": 119664,

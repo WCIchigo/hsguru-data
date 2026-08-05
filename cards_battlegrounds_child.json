@@ -1167,14 +1167,6 @@
     "health": 4,
     "text": "내 융합체가 능력치를 얻을 때마다 이 하수인도 그만큼 능력치를 얻습니다."
   },
-  "77839": {
-    "name": "길거리 마술사",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14c556cbe4640d3e2b98e47c1a0a9031ac05e31e68e42c972987cb9b24e24126.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b0ea96833f7e87413f6747039aa51a2d9eb41f76014fdeb85f122a2f8ee3369.png",
-    "attack": 3,
-    "health": 5,
-    "text": "'위대한 마술'로 우수한 <b>비밀</b>을 선택할 수 있습니다."
-  },
   "77841": {
     "name": "멍서스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5ceca41e7055dfb3eea7a5277b747c6425cc1d6b05881341bbc96f35b454895.png",
@@ -1559,14 +1551,6 @@
     "health": null,
     "text": "다음 턴까지 하수인에게 + /+ |1(과,와) <b>도발</b>을 부여합니다."
   },
-  "84362": {
-    "name": "빛나는 왕관",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64b786e0bc2476d68663c2ee7c5253519c91215d4275425c5a8bb156288e9fa2.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b34cbb0c830ec1a44bf00330dd387933a088b6de3e3b52abf51e0ae69c1492ea.png",
-    "attack": null,
-    "health": null,
-    "text": "다음 턴까지 하수인에게 <b>천상의 보호막</b>을 부여합니다."
-  },
   "84374": {
     "name": "수중 탈것",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_007t.png",
@@ -1582,14 +1566,6 @@
     "attack": null,
     "health": null,
     "text": "매 턴이 시작될 때, 무작위 <b>주문제작</b> 주문을 얻습니다."
-  },
-  "86014": {
-    "name": "화려한 촉수",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/373ebeafb8082422feff22c2c88a6f9bb5bcc9042ac4b1e774ce77cd781cfc7a.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42a95b9a5c4444285ecd9dbaac441578a700d77d38b79dfae9212c0c931543a2.png",
-    "attack": null,
-    "health": null,
-    "text": "전투 중에 전장에 공간이 생기면, <b>도발</b> 능력이 있는 / 촉수를 소환합니다. <i>(내가 하수인을 판 후에 +1/+1을 얻습니다!)</i>"
   },
   "86227": {
     "name": "오주마트의 촉수",
@@ -1974,14 +1950,6 @@
     "attack": null,
     "health": null,
     "text": "언데드를 <b>발견</b>합니다. 매 턴마다 종족이 바뀝니다."
-  },
-  "98890": {
-    "name": "화약 급사",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_810_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9c5ec101b2176048a53344ad5534e2323f09f39bbc96ecc31dc3afcd2b05867.png",
-    "attack": 4,
-    "health": 12,
-    "text": "내가 5골드를 소모할 때마다, 내 해적들에게 공격력 + |1(을,를) 두 번 부여합니다. <i>( 골드 남음!)</i> 내가 5골드를 소모할 때마다, 내 해적들에게 + /+ |1(을,를) 두 번 부여합니다. <i>( 골드 남음!)</i>"
   },
   "98941": {
     "name": "지저귀는 새",
@@ -2414,14 +2382,6 @@
     "attack": null,
     "health": null,
     "text": "내가 황금 하수인을 낼 때마다 나와 초가 황금 보상을 얻습니다.<i> ( 회 남음!)</i>"
-  },
-  "105254": {
-    "name": "여행객",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_114_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcfcc476a04f5164db2fd0b68aa7534740e98b2a5b38f23435daa74c5342fbf1.png",
-    "attack": 4,
-    "health": 4,
-    "text": "매 턴마다 내 팀이 처음 <b>전달</b>하면, +2/+4를 얻습니다."
   },
   "105315": {
     "name": "행운의 주사위",
@@ -3374,14 +3334,6 @@
     "attack": 8,
     "health": 6,
     "text": "<b>전투의 함성:</b> 내 정령들이 이번 게임 동안 추가로 공격력을 + 부여합니다."
-  },
-  "119952": {
-    "name": "빛나는 잿불",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_842_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf796ae9c02d45cfad83eb2cc05eac2886f99638796a441c06cdaf7ab8e70f5b.png",
-    "attack": 8,
-    "health": 2,
-    "text": "<b>죽음의 메아리:</b> 내 정령들이 이번 게임 동안 추가로 생명력을 + 부여합니다."
   },
   "119960": {
     "name": "모선",
@@ -4391,14 +4343,6 @@
     "health": 6,
     "text": "<b>도발</b>, <b>환생</b>, <b>죽음의 메아리:</b> 아군 야수에게 +2/+2와 이 <b>죽음의 메아리</b>를 부여합니다."
   },
-  "127328": {
-    "name": "시간왜곡의 멧돼지",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_201_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0e5659f43073aff53e3f6753f41c7d1aa715eed31692ed209a6a94dc9eb0ecc.png",
-    "attack": 2,
-    "health": 2,
-    "text": "세 번째 아군 시간왜곡의 멧돼지가 죽을 때마다 무작위 황금 야수를 2마리 얻습니다. <i>( 마리 남음!)</i>"
-  },
   "127329": {
     "name": "시간왜곡의 사우로리스크",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_202_G_triple.png",
@@ -4486,22 +4430,6 @@
     "attack": 14,
     "health": 14,
     "text": "<b><b>도발</b>,</b> <b>죽음의 메아리:</b> 내 손에 있는 무작위 하수인에게 + /+ |1(을,를) 부여하고 이번 전투에서만 소환합니다."
-  },
-  "127344": {
-    "name": "시간왜곡의 머키",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_206_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27a160da4d22ee4a5777cd1e0b46f938f247fc7982df0749bdc200c5eba5c533.png",
-    "attack": 10,
-    "health": 10,
-    "text": "내 턴이 끝날 때 + /+ |1(을,를) 얻습니다. <i>(내가 이번 게임에 발동시킨 <b>전투의 함성</b>의 수만큼 강화됩니다!)</i>"
-  },
-  "127345": {
-    "name": "시간왜곡의 멀로클레스",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_207_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1eaf1198118e7daf148609f3c9aa1b4dc1622f0e8827d4e5d53735ae3dd0b002.png",
-    "attack": 20,
-    "health": 10,
-    "text": "<b>천상의 보호막</b>. 이 하수인이 다른 하수인을 처치할 때마다 내 손에서 가장 왼쪽에 있는 하수인에게 + /+ |1(을,를) 부여합니다."
   },
   "127346": {
     "name": "시간왜곡의 악사",
@@ -4606,14 +4534,6 @@
     "attack": 14,
     "health": 14,
     "text": "내 턴이 끝날 때, 이 하수인의 능력치를 가진 얼룩고양이를 2마리 소환합니다."
-  },
-  "127362": {
-    "name": "시간왜곡의 밀림왕",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_004_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fa2ba44352e24cc567b66da97c6666715cf9c0ecef80a4b72ff0a8a7fea8fc1.png",
-    "attack": 16,
-    "health": 24,
-    "text": "<b>은신</b>, 내가 야수를 소환한 후에 그 야수에게 + /+ |1(을,를) 부여합니다. 내가 주문을 시전한 후 강화됩니다."
   },
   "127363": {
     "name": "시간왜곡의 카멜레온",
@@ -4742,14 +4662,6 @@
     "attack": 24,
     "health": 16,
     "text": "내 턴이 시작될 때 <b>혈석</b>을 개 얻습니다. 그 혈석들이 선술집 주문으로도 간주됩니다."
-  },
-  "127392": {
-    "name": "시간왜곡의 머리 강타꾼",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_102_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/677348b7d7417c0b9040e47fc48f1ee2aa659d18a1bf8381fa0000f7d94a2540.png",
-    "attack": 14,
-    "health": 28,
-    "text": "<b>질풍</b>, <b>집결:</b> 이 하수인이 내 다른 모든 하수인에게 영구적인 <b>혈석</b>을 개 냅니다."
   },
   "127394": {
     "name": "시간왜곡의 아눕아락",
@@ -5079,14 +4991,6 @@
     "health": 16,
     "text": "<b>기선 제압:</b> 양옆의 하수인들의 능력치를 2배로 얻습니다."
   },
-  "127777": {
-    "name": "시간왜곡의 모선",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_598_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4b0d849f1265c9c5606bc83129d330bef1f7a4341c4667ea3ce353e8bbee1a1.png",
-    "attack": 10,
-    "health": 14,
-    "text": "<b>복수 ( ):</b> 무작위 프로토스 하수인을 둘 얻습니다."
-  },
   "127779": {
     "name": "시간왜곡의 회전로봇",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_599_G_triple.png",
@@ -5263,14 +5167,6 @@
     "health": 10,
     "text": "<b>죽음의 메아리:</b> 1/1 해골을 열 소환합니다. 소환하지 못한 해골의 수만큼 이번 게임 동안 내 언데드들에게 공격력을 + 부여합니다. <i>(어디에 있든)</i>"
   },
-  "128212": {
-    "name": "시간왜곡의 매타조",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_370_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3ede4e49970313389deb038b04137ca469c904fd1ce14b23650b101da478075.png",
-    "attack": 16,
-    "health": 8,
-    "text": "<b>기선 제압:</b> 모든 아군의 <b>죽음의 메아리</b>를 2번 발동시킵니다."
-  },
   "128918": {
     "name": "시간왜곡의 제루스",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_671_G_triple.png",
@@ -5343,14 +5239,6 @@
     "health": 24,
     "text": "양옆의 하수인들에게도 피해를 줍니다. <b>집결:</b> 내 전장에 황금 하수인 4마리가 있으면, <b>천상의 보호막</b>을 얻습니다."
   },
-  "129121": {
-    "name": "시간왜곡의 마녀",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_342_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b112ca0ea03b6d566f2a98c3a7090bef6961baa50c40de0d4c81903e47d765ab.png",
-    "attack": 12,
-    "health": 16,
-    "text": "<b>기선 제압:</b> 양옆에 있는 언데드들에게 <b>환생</b>과 \"최대 생명력과 강화 효과를 모두 회복한 상태로 <b>환생</b>함\" 능력을 부여합니다."
-  },
   "129125": {
     "name": "시간왜곡의 행운의 알",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_683_G_triple.png",
@@ -5358,14 +5246,6 @@
     "attack": 4,
     "health": 4,
     "text": "2턴 후, 황금 7단계 하수인 셋 중 하나를 선택하여 그 하수인으로 변신합니다. <i>( 턴 남음!)</i>"
-  },
-  "129129": {
-    "name": "시간왜곡의 미스락스",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_684_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94c06e3fe33e044c421be2c1605c877a357dc2dc31c6b5d5823b2d08c06526db.png",
-    "attack": 16,
-    "health": 18,
-    "text": "<b>기선 제압:</b> 종족이 서로 다른 아군 하수인 3마리의 능력치를 두 배로 얻습니다. <i>(시간왜곡의 미스락스 제외)</i>"
   },
   "129164": {
     "name": "영웅의 감화",
@@ -5662,6 +5542,14 @@
     "attack": null,
     "health": null,
     "text": "게임이 시작될 때 <b>어둠의 선물</b> 능력이 있는 5단계 하수인을 <b>발견</b>합니다. 그 하수인은 7턴에 잠금 해제됩니다. <i>( 턴 남음!)</i> 게임이 시작될 때 <b>어둠의 선물</b> 능력이 있는 5단계 하수인을 <b>발견</b>합니다. 그 하수인은 7턴에 잠금 해제됩니다. <i>(완료!)</i>"
+  },
+  "133694": {
+    "name": "전기 유도 회전톱날",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_MagicItem_810t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57410f1767b8d57174393c22d3e48c9ec3dc0e2639da424297b6ecbb7c6a3f83.png",
+    "attack": null,
+    "health": null,
+    "text": "내 턴이 끝날 때, / <b>합체</b> 위성을 얻습니다. <i>(이번 턴에 내가 시전한 선술집 주문의 수만큼 강화됩니다!)</i>"
   },
   "134010": {
     "name": "파멸 느끼기",
