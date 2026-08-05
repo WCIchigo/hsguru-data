@@ -2622,7 +2622,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7573a0b9ffc49f1d8907727f20319826b1f97f1ce3e152c66c6596a2e2351f34.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79798ba038e2b48d131c48a1598b81875585552df61091cc059c072a40f91912.png",
-    "childIds": null
+    "childIds": [
+      134010
+    ]
   },
   {
     "id": 61488,
@@ -2820,7 +2822,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a785b3acfe01997788e66b3f64959058e798665b683063fb96c07f561569557b.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41f6440249aa4a0c64cdf382f98e209c97e038662732abd1340c9a004b210350.png",
-    "childIds": null
+    "childIds": [
+      132581
+    ]
   },
   {
     "id": 82110,
@@ -14059,6 +14063,28 @@
     "childIds": null
   },
   {
+    "id": 133400,
+    "name": "늑대머리 도리깨",
+    "enname": null,
+    "cardType": "장신구",
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": "상급",
+    "keywords": "죽음의 메아리",
+    "text": "내 턴이 끝날 때, 아군의 모든 <b>죽음의 메아리</b>를 발동시킵니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b1aa777817d0b00fd125b639f0a0e92ec749e676f56c55830d70892ce9b80df.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbff02603e3833cc78a115622edacbfa8536aa232d04adc2de6280e60d65eee6.png",
+    "childIds": null
+  },
+  {
     "id": 120932,
     "name": "다목적 사료",
     "enname": "All-Purpose Kibble",
@@ -15040,28 +15066,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e353c3be4d67eb57155a20c895f8a16f4f811a0d09f9a4e66509b3f01ef0329.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a80c7f954ad43bb85278dd0993491dbcc0fa557d509602e72390bfab677b6c36.png",
-    "childIds": null
-  },
-  {
-    "id": 131002,
-    "name": "부대 호루라기",
-    "enname": "Warband Whistle",
-    "cardType": "장신구",
-    "tier": null,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": "상급",
-    "keywords": "새로고침",
-    "text": "내 전장 조합에 있는 하수인들을 강화 효과 없이 복사한 하수인들이 생기는 무료 <b>새로고침</b>을 얻습니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8955f8dbe7f91677a3d3d231f7b98f141185eccd9e372c3252b1c0be798f6cf.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/923fa6392eb61f93ff7916210836c5f1dccf23d17f4d812f687297eef10ac3df.png",
     "childIds": null
   },
   {
@@ -20564,6 +20568,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02e714098070fe3b3415ab9f65855629cfdeda09a96dd2e32cf740192fc931a9.png",
     "childIds": [
       129115
+    ]
+  },
+  {
+    "id": 127567,
+    "name": "시간왜곡의 쉬바라",
+    "enname": "Timewarped Shivarra",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 4,
+    "health": 2,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "하수인이 잡아먹힐 때마다, 이 하수인이 그 하수인의 능력치를 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5ae4e7808ac72dc081f38cfe557ececa7e83fe11486f4108307c80ed5cc62c4.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3a4d9dc0209f98527a5396fd95062ab640c807883243254157b1be3e985fe9a.png",
+    "childIds": [
+      127577
     ]
   },
   {

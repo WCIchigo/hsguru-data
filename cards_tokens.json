@@ -7355,18 +7355,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/404ce831239fd8e9ae157a3ec4be2d8b4d6e11f3c9dee8b962c946b263bde262.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/999961afed4b3334361306e48af495daaf69a38481682f1ad704b5032c40c2d0.jpg"
   },
-  "57200": {
-    "id": 57200,
-    "name": "용기수",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 3,
-    "health": 4,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94347b5220c58b2c0a18968bd487f9628b9601b55695f5a1661542f04555af0b.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/696caff6e331cdafef4ce4b185afbcc2c725f569687485bdd1e914cf9e484995.jpg"
-  },
   "57218": {
     "id": 57218,
     "name": "뒤틀린 매복자",
@@ -19918,18 +19906,6 @@
     "text": "카드를 3장 뽑습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/207e201c8e9c5d08ad67ad56abc274d66d51a376b3b28efa6bf98643f2174c6f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_959t09t.jpg"
-  },
-  "109044": {
-    "id": 109044,
-    "name": "활보의 부적",
-    "manaCost": 1,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "내 손에 있는 카드들의 비용이 (1) 감소합니다. <i>(주문 제외!)</i>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8860dc36c7e8d09bd13f83cb68d4bf64d48e0204e6175e3c811e19881d4e8408.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_959t10.jpg"
   },
   "109045": {
     "id": 109045,

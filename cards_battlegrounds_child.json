@@ -3823,14 +3823,6 @@
     "health": null,
     "text": "내 전투순양함에 <b>환생</b>과 \"최대 생명력과 강화 효과를 모두 회복한 상태로 <b>환생</b>함\" 능력을 부여합니다."
   },
-  "120359": {
-    "name": "애벌레",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_811t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e4751e1b303956a7645e6c6855ec480a221a28eca79bb96fb6865722a6861c4.png",
-    "attack": 2,
-    "health": 2,
-    "text": "매 턴이 시작될 때 저그 하수인을 선택하여 그 하수인으로 변태합니다. 능력치와 강화 효과를 유지합니다."
-  },
   "120362": {
     "name": "산란못",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_811p.png",
@@ -5654,5 +5646,21 @@
     "attack": null,
     "health": null,
     "text": "내가 상급 <b>장신구</b>를 구매하면, 그 장신구로 변신합니다."
+  },
+  "132581": {
+    "name": "공허의 힘",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_HERO_101p.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5284b809789d4c6ca4e988ee003d755acae3bbdf291c8d6778bbc69fe03fe03f.png",
+    "attack": null,
+    "health": null,
+    "text": "게임이 시작될 때 <b>어둠의 선물</b> 능력이 있는 5단계 하수인을 <b>발견</b>합니다. 그 하수인은 7턴에 잠금 해제됩니다. <i>( 턴 남음!)</i> 게임이 시작될 때 <b>어둠의 선물</b> 능력이 있는 5단계 하수인을 <b>발견</b>합니다. 그 하수인은 7턴에 잠금 해제됩니다. <i>(완료!)</i>"
+  },
+  "134010": {
+    "name": "파멸 느끼기",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_HERO_105p.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25940d8bb43df104acb61a9dcf66ba0e2bf02a3d50277a114a36e1187b946ab8.png",
+    "attack": null,
+    "health": null,
+    "text": "4턴마다 <b>어둠의 선물</b> 능력이 있는 하수인을 <b>발견</b>합니다. <i>( 턴 남음!)</i>"
   }
 }

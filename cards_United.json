@@ -13023,10 +13023,6 @@
     "name": "마이에브 섀도송",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c922d50b279628abfc090a97b7cda64842af6db1631d2ac4d24453aefd5696c.png"
   },
-  "57200": {
-    "name": "용기수",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94347b5220c58b2c0a18968bd487f9628b9601b55695f5a1661542f04555af0b.png"
-  },
   "57217": {
     "name": "에펙시스 폭발",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43a63d5e2a3f8d32911459f30bbc15d69a4b2b0f3988f2d4ade5bcd87214caf9.png"
@@ -13481,10 +13477,6 @@
   },
   "58272": {
     "name": "악당의 계획",
-    "img": null
-  },
-  "58275": {
-    "name": "밀랍 창",
     "img": null
   },
   "58276": {
@@ -21122,10 +21114,6 @@
   "74898": {
     "name": "매연정령",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95a74d5372c144f99b276b116db1c9a3efe5b7fec21a1c39136229ad2d24e85d.png"
-  },
-  "74899": {
-    "name": "저항하는 조선공",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c181429334a6560819057416fe17e1ca17242d5909f317cfc42201ae54dce50d.png"
   },
   "74902": {
     "name": "하얀비늘 악어",
@@ -33907,10 +33895,6 @@
     "name": "기동력의 부적",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/207e201c8e9c5d08ad67ad56abc274d66d51a376b3b28efa6bf98643f2174c6f.png"
   },
-  "109044": {
-    "name": "활보의 부적",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8860dc36c7e8d09bd13f83cb68d4bf64d48e0204e6175e3c811e19881d4e8408.png"
-  },
   "109045": {
     "name": "활보의 부적",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48e78d480edbc087eb582f5cf620c644d301440ce236a8a57c249fb202bf2815.png"
@@ -41001,10 +40985,6 @@
   },
   "120358": {
     "name": "칼날 여왕 케리건",
-    "img": null
-  },
-  "120359": {
-    "name": "애벌레",
     "img": null
   },
   "120362": {
@@ -48203,6 +48183,10 @@
     "name": "영혼 기생체 트라스타스",
     "img": null
   },
+  "132581": {
+    "name": "공허의 힘",
+    "img": null
+  },
   "132608": {
     "name": "악몽의 군주 자비우스",
     "img": null
@@ -48301,6 +48285,10 @@
   },
   "133860": {
     "name": "친화력",
+    "img": null
+  },
+  "134010": {
+    "name": "파멸 느끼기",
     "img": null
   }
 }
