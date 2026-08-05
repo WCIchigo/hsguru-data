@@ -1763,6 +1763,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58bfc44f255abad7b5201eb18215c4bd069c2fc65f8b15dc3ca5a555d068cf89.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/AT_042a.jpg"
   },
+  "2862": {
+    "id": 2862,
+    "name": "흑표범 변신",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 3,
+    "health": 2,
+    "text": "<b>은신</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/568292be85f55d284caaa1680505a044b9188914ebac65e4fc2bfc28ce543c56.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/AT_042b.jpg"
+  },
   "2949": {
     "id": 2949,
     "name": "브란 브론즈비어드",
@@ -9203,6 +9215,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/043075b8efb48306099fbf8c01efe8c6c55cf66513d55ba4808f68db9d70387a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36ac8ce6c4df78705d3102e1ab00e7ee9dfececc8ba9ff720c4650fd481e6b51.png"
   },
+  "62190": {
+    "id": 62190,
+    "name": "신성 정령",
+    "manaCost": 6,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 6,
+    "health": 6,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faade4c45789fdd7598bcda53b8376b88449d1bfd83bb709dd81aab22391b30c.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_238t.jpg"
+  },
   "62233": {
     "id": 62233,
     "name": "새로운 운명",
@@ -13618,6 +13642,18 @@
     "text": "<b>속공</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e03ed5c33329f849e6c8f7d1fb45ddc542029b99dbed04cf6077f3ffea7e55c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ONY_005ta5t.jpg"
+  },
+  "81895": {
+    "id": 81895,
+    "name": "흡혈 송곳니",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "하수인을 처치합니다. 그 하수인의 생명력만큼 내 영웅이 생명력을 회복합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1888c52e66d64c183658360a348d79797d19a0c98a89c3cb180307ad220212f9.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ONY_005tb14.jpg"
   },
   "82021": {
     "id": 82021,
@@ -18491,6 +18527,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd108068be23d7003cbbf1c100fe8819c929cf01c5936f03e90c9ef11e18049d.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/WW_0700p3.jpg"
   },
+  "103476": {
+    "id": 103476,
+    "name": "신성 탄환",
+    "manaCost": 2,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "피해를 2 줍니다. 무작위 아군 하수인에게 +2/+2를 부여합니다. 매 턴마다 바뀝니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/277ec41021832a8fc006b7a74b0bd92fa38d89031cd9e23cbdcccf42ccd5f85e.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/WW_0700p4.jpg"
+  },
   "103478": {
     "id": 103478,
     "name": "자연 탄환",
@@ -21058,6 +21106,18 @@
     "text": "<b>속공</b> 이 하수인은 다른 하수인을 공격하고 생존한 후에, 8/8 하수인으로 변신합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68faa989ec770b4ab0e8852a763153e209545ad7a5bb948a6c5129e85b948130.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_464t27.jpg"
+  },
+  "111966": {
+    "id": 111966,
+    "name": "흡혈 송곳니",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "하수인을 처치합니다. 그 하수인의 생명력만큼 내 영웅이 생명력을 회복합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abc1c271495df3e0519c631727fe66111298f0127b7245461d4558f40cbccbfe.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_464t28.jpg"
   },
   "111996": {
     "id": 111996,
@@ -25918,6 +25978,18 @@
     "text": "적 전장에 나왔습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e89b37053e6423489817465ba012bb75d29772b3bc986feda7048cc8677ee298.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_442b.jpg"
+  },
+  "126366": {
+    "id": 126366,
+    "name": "흡혈귀의 입맞춤",
+    "manaCost": 3,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "하수인에게 공격력을 +3 부여합니다. 이 영웅 능력이 마나 대신 <b>시체</b>를 비용으로 사용합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b01104bcd2b9b420419d6624a4ffe66bb6167a3d7c64cda31eff7bc65fec841.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_446hp.jpg"
   },
   "126408": {
     "id": 126408,

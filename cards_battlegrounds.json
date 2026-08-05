@@ -4996,6 +4996,30 @@
     ]
   },
   {
+    "id": 132921,
+    "name": "영리한 조난자",
+    "enname": "Clever Castaway",
+    "cardType": "하수인",
+    "tier": 2,
+    "minionType": "해적",
+    "minionType2": null,
+    "attack": 2,
+    "health": 3,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "발견",
+    "text": "<b>사용 ( ):</b> 선술집 주문을 <b>발견</b>합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c19864d33e47c2a5be37e38acbe135721d806d9e10d66db8f09288f9afc4c0b.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e20756c2e4d1cef897c1949602543a7b5d88bee12401cc34da4edc0fb3116b8a.png",
+    "childIds": [
+      132922
+    ]
+  },
+  {
     "id": 95261,
     "name": "영원의 기사",
     "enname": "Eternal Knight",
@@ -5746,7 +5770,7 @@
   {
     "id": 132318,
     "name": "사립 탐정",
-    "enname": null,
+    "enname": "Private Investigator",
     "cardType": "하수인",
     "tier": 3,
     "minionType": "해적",
@@ -6031,6 +6055,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/150b79e589c18c9fb0c0e89880bb2d2f969527f40e9f008184c3d6460013d221.png",
     "childIds": [
       105715
+    ]
+  },
+  {
+    "id": 131145,
+    "name": "엄마 므르글턴",
+    "enname": "Mama Mrrglton",
+    "cardType": "하수인",
+    "tier": 3,
+    "minionType": "멀록",
+    "minionType2": null,
+    "attack": 5,
+    "health": 3,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성",
+    "text": "<b>전투의 함성:</b> 내 다른 멀록들에게 공격력을 + 부여합니다. <i>(이번 게임에 내가 낸 므르글턴의 수만큼 강화됩니다!)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99659ab5c84fb8d0fa722fd892092925a5f54c8568a595aec7a7450a2244f213.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df00f5fbf268ef33f3d19b93b0d7c690e6859e59d98b5983fee3de3036bab721.png",
+    "childIds": [
+      131146
     ]
   },
   {
@@ -9028,6 +9076,30 @@
     ]
   },
   {
+    "id": 132923,
+    "name": "조용한 배달부",
+    "enname": "Silent Deliverer",
+    "cardType": "하수인",
+    "tier": 6,
+    "minionType": "해적",
+    "minionType2": null,
+    "attack": 7,
+    "health": 7,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성",
+    "text": "<b>전투의 함성:</b> 무작위 단계 황금 하수인을 얻습니다. 그 하수인은 황금 보상을 주지 않습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63dce707bb1f0c19d4466480a4b72cef387570158c20ec320ecd9ab853dadab9.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73db780376ca142e7e2ff3fcaf6c77956e7f0e186087025dd2745db730f84cd3.png",
+    "childIds": [
+      132924
+    ]
+  },
+  {
     "id": 132808,
     "name": "죽음기수",
     "enname": "Deathstrider",
@@ -10774,31 +10846,6 @@
     ]
   },
   {
-    "id": 117567,
-    "name": "얼라이언스 깃발",
-    "enname": "Alliance Flag",
-    "cardType": "주문",
-    "tier": 1,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": null,
-    "text": "<b>선택 -</b> 하수인에게 + /+ |1(을,를) 부여합니다. 또는 + /+ |1(을,를) 부여합니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91b9d23edd0ac8c854bf3fb2d60b843ada2033527a38151e900debc1dfe34d48.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4386a88c3a8f091b5fe4bf9a8df90ec63794c0b61befc261baf9aefca2644a4d.png",
-    "childIds": [
-      117568,
-      117569
-    ]
-  },
-  {
     "id": 104029,
     "name": "석유 발견",
     "enname": "Strike Oil",
@@ -11151,28 +11198,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57c282333d00c987e4d076ef670a12d9454fef1ad222cdd18abdc18c9c3eb53e.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c631256ef595d3963e04a4b3eb5c2fca799eca2eb2ff8b90493400e6d9a0738c.png",
-    "childIds": null
-  },
-  {
-    "id": 122862,
-    "name": "압도적인 눈사태",
-    "enname": "Mounting Avalanche",
-    "cardType": "주문",
-    "tier": 3,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": null,
-    "text": "아군 하수인을 팝니다. 가장 왼쪽에 있는 내 정령에게 그 하수인의 능력치를 부여합니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0872a0e57b361fc664de01f9f96f6cb9a97c4166198b15f96f19246ea8f631bf.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33c85e9cc99f89a349f2acef10f53c912f8cdff926cdd58a691ef86d80cd44f0.png",
     "childIds": null
   },
   {
@@ -12124,28 +12149,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8a81c89468ac2fda4d82a514f92a628ffdc6f210e6eb7d303f81a628ce4c929.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6515137b49475a3ede32d14599ef796a30d4dc233cc4c89e11f60bf26819daf2.png",
-    "childIds": null
-  },
-  {
-    "id": 109232,
-    "name": "아제라이트 강화",
-    "enname": "Azerite Empowerment",
-    "cardType": "주문",
-    "tier": 6,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": null,
-    "text": "내 하수인들에게 + /+ |1(을,를) 부여합니다. 두 번 발동합니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4a5b61bfaaf801bfaa5bcebc7068d2eabd3d358a33936f279a3d09ab5ecf446.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/523f61215684dec3fafeeeb448f89836a027acc89bf482f2e5b5b81f5fde2f1e.png",
     "childIds": null
   },
   {

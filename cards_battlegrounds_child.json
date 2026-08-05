@@ -1911,6 +1911,14 @@
     "health": 4,
     "text": "내가 전투 중에 하수인을 소환한 후에, 그 하수인의 능력치가 2배가 됩니다."
   },
+  "98650": {
+    "name": "흘러내리는 밀랍비늘",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8f518f6b95bc2dffed150e50ecad8b5f1f664ea30014d9544dff956caf90a8f.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/045ace925da6fc5a60e6bcb129b284727d253115b7d7c834e547f276bf5c9e7e.png",
+    "attack": 7,
+    "health": 5,
+    "text": "<b>전투의 함성:</b> 선술집을 <b>새로고침</b>합니다. 각 상대편이 보유한 가장 높은 단계의 하수인만 생깁니다."
+  },
   "98656": {
     "name": "왓핀",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0dbe15a4dfcdf1ac7ae80f6e3f7d12302fff00aa9acd4f12682abda26714bd70.png",
@@ -5567,6 +5575,14 @@
     "health": null,
     "text": "아군 언데드를 처치하고 무작위 언데드를 얻습니다."
   },
+  "131146": {
+    "name": "엄마 므르글턴",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_140_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df00f5fbf268ef33f3d19b93b0d7c690e6859e59d98b5983fee3de3036bab721.png",
+    "attack": 10,
+    "health": 6,
+    "text": "<b>전투의 함성:</b> 내 다른 멀록들에게 공격력을 + 부여합니다. <i>(이번 게임에 내가 낸 므르글턴의 수만큼 강화됩니다!)</i>"
+  },
   "131148": {
     "name": "아빠 므르글턴",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_141_G_triple.png",
@@ -5750,6 +5766,14 @@
     "attack": 20,
     "health": 22,
     "text": "아군 <b>집결</b> 하수인이 공격한 후에, 가장 왼쪽에 있는 내 <b>죽음의 메아리</b> 능력을 두 번 발동시킵니다."
+  },
+  "132922": {
+    "name": "영리한 조난자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_342_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e20756c2e4d1cef897c1949602543a7b5d88bee12401cc34da4edc0fb3116b8a.png",
+    "attack": 4,
+    "health": 6,
+    "text": "<b>사용 ( ):</b> 선술집 주문을 2개 발견합니다."
   },
   "132926": {
     "name": "약탈의 대가 후크터스크",
