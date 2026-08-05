@@ -1763,18 +1763,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58bfc44f255abad7b5201eb18215c4bd069c2fc65f8b15dc3ca5a555d068cf89.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/AT_042a.jpg"
   },
-  "2862": {
-    "id": 2862,
-    "name": "흑표범 변신",
-    "manaCost": 2,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 3,
-    "health": 2,
-    "text": "<b>은신</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/568292be85f55d284caaa1680505a044b9188914ebac65e4fc2bfc28ce543c56.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/AT_042b.jpg"
-  },
   "2949": {
     "id": 2949,
     "name": "브란 브론즈비어드",
@@ -7103,18 +7091,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3a6caf87dedab5a191720b324b6370f85d7e55957c13d7c4dc3e700c6a58315.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/YOD_041t.jpg"
   },
-  "56349": {
-    "id": 56349,
-    "name": "상어밥",
-    "manaCost": 4,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 4,
-    "health": 2,
-    "text": "<b>속공</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c63beec2ce4632ae48d84ff16747a8e42292e9d7c47e63ff4080cf139cf7f993.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/YOD_038t.jpg"
-  },
   "56371": {
     "id": 56371,
     "name": "나무정령",
@@ -9227,18 +9203,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/043075b8efb48306099fbf8c01efe8c6c55cf66513d55ba4808f68db9d70387a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36ac8ce6c4df78705d3102e1ab00e7ee9dfececc8ba9ff720c4650fd481e6b51.png"
   },
-  "62190": {
-    "id": 62190,
-    "name": "신성 정령",
-    "manaCost": 6,
-    "cardType": "하수인",
-    "minionType": "정령",
-    "attack": 6,
-    "health": 6,
-    "text": "<b>도발</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faade4c45789fdd7598bcda53b8376b88449d1bfd83bb709dd81aab22391b30c.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_238t.jpg"
-  },
   "62233": {
     "id": 62233,
     "name": "새로운 운명",
@@ -10546,18 +10510,6 @@
     "text": "내 턴이 끝날 때, 내 전장을 3/2 임프로 가득 채웁니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b841ae317ff71b57fab615cbd09d69ee13f13ea9915d6800edf23a3f10c05ae2.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_919t.jpg"
-  },
-  "65581": {
-    "id": 65581,
-    "name": "상어 변신",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 3,
-    "health": 1,
-    "text": "<b>속공</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34a8aa09afe5ffe3882d1ee13f15d2744e9a0e4b831358a138a7510335d5201c.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DED_001a.jpg"
   },
   "65582": {
     "id": 65582,
@@ -13667,18 +13619,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e03ed5c33329f849e6c8f7d1fb45ddc542029b99dbed04cf6077f3ffea7e55c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ONY_005ta5t.jpg"
   },
-  "81895": {
-    "id": 81895,
-    "name": "흡혈 송곳니",
-    "manaCost": 3,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "하수인을 처치합니다. 그 하수인의 생명력만큼 내 영웅이 생명력을 회복합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1888c52e66d64c183658360a348d79797d19a0c98a89c3cb180307ad220212f9.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ONY_005tb14.jpg"
-  },
   "82021": {
     "id": 82021,
     "name": "원소 지휘",
@@ -15358,6 +15298,18 @@
     "text": "내 영웅이 공격하는 대상 양옆의 하수인들에게도 피해를 줍니다. <i>(매 턴마다 바뀝니다.)</i> 내 영웅이 공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e1387990e2c7ec54296b3620a8ec38c3e9d04a898a3e7d534ecf286ffe1ef87.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAM_015t3.jpg"
+  },
+  "95412": {
+    "id": 95412,
+    "name": "여분 소리굽쇠",
+    "manaCost": 2,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>전투의 함성:</b> <b>도발</b> 하수인을 <b>발견</b>합니다. <i>(매 턴마다 바뀝니다.)</i> <b>전투의 함성:</b> <b>도발</b> 하수인을 <b>발견</b>합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cf9bc1b707ce7dd43d6486d4f45680dd9a8a38d43be6bd92cb88633f88bdbcc.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAM_015t4.jpg"
   },
   "95455": {
     "id": 95455,
@@ -18539,18 +18491,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd108068be23d7003cbbf1c100fe8819c929cf01c5936f03e90c9ef11e18049d.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/WW_0700p3.jpg"
   },
-  "103476": {
-    "id": 103476,
-    "name": "신성 탄환",
-    "manaCost": 2,
-    "cardType": null,
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "피해를 2 줍니다. 무작위 아군 하수인에게 +2/+2를 부여합니다. 매 턴마다 바뀝니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/277ec41021832a8fc006b7a74b0bd92fa38d89031cd9e23cbdcccf42ccd5f85e.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/WW_0700p4.jpg"
-  },
   "103478": {
     "id": 103478,
     "name": "자연 탄환",
@@ -21119,18 +21059,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68faa989ec770b4ab0e8852a763153e209545ad7a5bb948a6c5129e85b948130.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_464t27.jpg"
   },
-  "111966": {
-    "id": 111966,
-    "name": "흡혈 송곳니",
-    "manaCost": 3,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "하수인을 처치합니다. 그 하수인의 생명력만큼 내 영웅이 생명력을 회복합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abc1c271495df3e0519c631727fe66111298f0127b7245461d4558f40cbccbfe.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_464t28.jpg"
-  },
   "111996": {
     "id": 111996,
     "name": "고양이자리",
@@ -22762,6 +22690,30 @@
     "text": "<b>전투의 함성:</b> <b>은신</b> 능력이 있는 3/3 닌자를 둘 소환합니다. 이제 내 닌자들이 죽으면 덱으로 다시 섞여 들어갑니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae2ded9d5f407c5bb7d1083ea648b04d9c7dac2a6396cb91e882b4429ff08b06.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_513t.jpg"
+  },
+  "117240": {
+    "id": 117240,
+    "name": "여분 눈",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "이번 턴에 <b>독성</b>을 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f60764f4fc116a041200e7e279416830180af4a5a57730e77be55576564197d.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_525A.jpg"
+  },
+  "117241": {
+    "id": 117241,
+    "name": "여분 가시",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "\"<b>죽음의 메아리:</b> 모든 적에게 피해 2\"를 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f06d55d414dc197ab60a4b138b7319a1513436dd6622ba5d30479f4c692c97f.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_525B.jpg"
   },
   "117286": {
     "id": 117286,
@@ -25307,6 +25259,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3494e45251b7ddb447d80951d292ce59d212ff19b2cc8caf4b15494f8ec6bd87.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_306t1.jpg"
   },
+  "122877": {
+    "id": 122877,
+    "name": "분파",
+    "manaCost": 4,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>조각</b>, 아군 하수인을 복사하여 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/518bc2476c3b5eeccd8870d1e717b094d959321bfd7eaaae10f0f0a804e45369.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_306t2.jpg"
+  },
   "122962": {
     "id": 122962,
     "name": "위협 완화",
@@ -25954,18 +25918,6 @@
     "text": "적 전장에 나왔습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e89b37053e6423489817465ba012bb75d29772b3bc986feda7048cc8677ee298.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_442b.jpg"
-  },
-  "126366": {
-    "id": 126366,
-    "name": "흡혈귀의 입맞춤",
-    "manaCost": 3,
-    "cardType": null,
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "하수인에게 공격력을 +3 부여합니다. 이 영웅 능력이 마나 대신 <b>시체</b>를 비용으로 사용합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b01104bcd2b9b420419d6624a4ffe66bb6167a3d7c64cda31eff7bc65fec841.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_446hp.jpg"
   },
   "126408": {
     "id": 126408,
