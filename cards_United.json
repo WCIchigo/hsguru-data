@@ -2175,6 +2175,10 @@
     "name": "척살",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59e90f4b72136d0b61499374576b18159cc8bc5e8d742db0f7333a6bc94eca80.png"
   },
+  "1892": {
+    "name": "아귀",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81b8baa8ca7c09c354ec3260a2484485f1649b13c8d8754ac82377e8e0d6b363.png"
+  },
   "1893": {
     "name": "격노",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b7063a8d459d00061732b3a8936e528c8164c9988035b4aac977640fda5e0d2.png"
@@ -2846,6 +2850,10 @@
   "2141": {
     "name": "척살",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8107e6461dc7b8713590a740ff7e2d3697b0af0ac62fa62b0b9e5bf12c4863fb.png"
+  },
+  "2142": {
+    "name": "아귀",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f153d6228de6071822aa71cb68e0d04bb7871b10511ca0b5ac570b0c9ef0ee9.png"
   },
   "2143": {
     "name": "타디우스",
@@ -7119,6 +7127,10 @@
     "name": "테러닥스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/becec512b78aa91860012df4cae60a1287012a6a46f171744b764182e09626c6.png"
   },
+  "43314": {
+    "name": "라바사우루스",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb5146fb442c72dce914c068b5bcf89b18918071b12687e8e00746cef77edf2e.png"
+  },
   "43315": {
     "name": "전쟁드루이드 로티",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e17ae09ba0f00db90be506efe42d4a4eddb586d8553708499ab9483531ce9671.png"
@@ -10230,6 +10242,10 @@
   "51795": {
     "name": "수정껍질",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd01a61f33f957283daf21621c2bec1523093cb324c3e8376b01b36d715b9293.png"
+  },
+  "51796": {
+    "name": "수정껍질의 영혼",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/646b7bbfd2e361ffa28bed94e1ac77e379f7ae8583c453bd975f51a1a0a2e1f2.png"
   },
   "51816": {
     "name": "난동을 피우는 용",
@@ -19507,6 +19523,10 @@
     "name": "튼튼엄니",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1dfc21293f4151b516bb618c8aa99b764c9e828a5864a5e70de593cbe53a8651.png"
   },
+  "70164": {
+    "name": "아겜 쏜커스",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/edef5ad70e16aceaf089b4991cbfd45b4a6391441e993d8c385d1ebcf5ae678e.png"
+  },
   "70165": {
     "name": "차를가",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7675cf5f105830e176298682633f101d034c2e0f4856b0609820f6dfc4981f9a.png"
@@ -19822,6 +19842,10 @@
   "70802": {
     "name": "등딱지거북",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d437203976f03f9578b56233fe512a3882190e68e6c0a49048674a7788622f7.png"
+  },
+  "70817": {
+    "name": "라소리안",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ebde06f93d58c706ec2963f550676c352c2de138561c530ab41cf027dc68a67c.png"
   },
   "70838": {
     "name": "로카라",
@@ -20742,6 +20766,10 @@
   "72832": {
     "name": "소금비늘 우두머리",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3829b9f63bbd70338348bf36ffe8b6e4c60ba3ec14864b36bc63a9f385fe161c.png"
+  },
+  "72839": {
+    "name": "수정꽃",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6b0fee4d4e1f6a106e874db41634fe43cc443de119858397201419bc8af2230.png"
   },
   "72840": {
     "name": "계곡 뿌리",
@@ -25762,10 +25790,6 @@
   "93882": {
     "name": "토리벨로레",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c57ee6aa059f5a439e2d61091ce5bdc2ebcad33429a7bebb12e1a8f47e0ff1bb.png"
-  },
-  "93883": {
-    "name": "토리벨로레",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4530df3459a060def825667477d88e3cf121c1bb2d232a57d87dae71a6108c4b.png"
   },
   "93886": {
     "name": "불사조 알",
@@ -33451,10 +33475,6 @@
     "name": "해변의 거인",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfc2ecc7ce5674522806ccfb76b71a029b293bf5b1eca53c8147bdf7203572e6.png"
   },
-  "107930": {
-    "name": "채찍꼬리 트리고어",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a7824efe3ab09535278c00c1965d771bd2271fb45d29adf20e7e8c918157082.png"
-  },
   "107931": {
     "name": "관세 징수관",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51044f0c3a9417b8e5a657b386046edb9ded0d8b571e0b1543d1024153e8474c.png"
@@ -33462,6 +33482,10 @@
   "107933": {
     "name": "소포 담당자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/161138abf310c0ce772efee914dea9cdeead2c454eae321cf3a9c1423045eae0.png"
+  },
+  "107934": {
+    "name": "채찍꼬리 트리고어",
+    "img": null
   },
   "107937": {
     "name": "무지갯빛 하늘광휘",
@@ -38028,6 +38052,10 @@
     "img": null
   },
   "116188": {
+    "name": "수정 주입사",
+    "img": null
+  },
+  "116189": {
     "name": "수정 주입사",
     "img": null
   },
@@ -48091,6 +48119,10 @@
     "name": "자기 복제",
     "img": null
   },
+  "132448": {
+    "name": "시간 돌리기",
+    "img": null
+  },
   "132733": {
     "name": "지속적인 성장",
     "img": null
@@ -48121,6 +48153,10 @@
   },
   "133474": {
     "name": "피를 나눈 사이",
+    "img": null
+  },
+  "133476": {
+    "name": "전쟁의 상흔",
     "img": null
   },
   "133860": {

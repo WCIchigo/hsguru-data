@@ -4043,6 +4043,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/becec512b78aa91860012df4cae60a1287012a6a46f171744b764182e09626c6.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TRL_343ct1.jpg"
   },
+  "43314": {
+    "id": 43314,
+    "name": "라바사우루스",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 1,
+    "health": 2,
+    "text": "<b>독성</b> <b>은신</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb5146fb442c72dce914c068b5bcf89b18918071b12687e8e00746cef77edf2e.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TRL_343dt1.jpg"
+  },
   "43315": {
     "id": 43315,
     "name": "전쟁드루이드 로티",
@@ -5890,6 +5902,18 @@
     "text": "생명력을 5 회복시킵니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/710ba788426a7438f30f016a5b4bb9447dbd8f2242faa9d18412d5dd4df66fa8.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DAL_350b.jpg"
+  },
+  "51796": {
+    "id": 51796,
+    "name": "수정껍질의 영혼",
+    "manaCost": 11,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 0,
+    "health": 1,
+    "text": "<b>휴면</b> 상태입니다. 생명력을 5 회복시키면, 깨어납니다. <i>( 남음!)</i>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/646b7bbfd2e361ffa28bed94e1ac77e379f7ae8583c453bd975f51a1a0a2e1f2.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DAL_357t.jpg"
   },
   "51868": {
     "id": 51868,
@@ -11999,6 +12023,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c17629fb3c3befa4e03d40ca365f64489f9de7915a3ebcbb5a6bdfc17cbebe0.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_257t.jpg"
   },
+  "72839": {
+    "id": 72839,
+    "name": "수정꽃",
+    "manaCost": 2,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "빈 마나 수정을 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6b0fee4d4e1f6a106e874db41634fe43cc443de119858397201419bc8af2230.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_205a.jpg"
+  },
   "72840": {
     "id": 72840,
     "name": "계곡 뿌리",
@@ -14938,18 +14974,6 @@
     "text": "<b>속공</b>, <b>죽음의 메아리:</b> <b>휴면</b> 상태가 됩니다. 화염 주문을 시전하면 토리벨로레가 부활합니다! <i>(부활 1회 남음)</i>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c57ee6aa059f5a439e2d61091ce5bdc2ebcad33429a7bebb12e1a8f47e0ff1bb.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_604a.jpg"
-  },
-  "93883": {
-    "id": 93883,
-    "name": "토리벨로레",
-    "manaCost": 4,
-    "cardType": "하수인",
-    "minionType": "정령",
-    "attack": 4,
-    "health": 4,
-    "text": "<b>속공</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4530df3459a060def825667477d88e3cf121c1bb2d232a57d87dae71a6108c4b.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_604b.jpg"
   },
   "93886": {
     "id": 93886,
