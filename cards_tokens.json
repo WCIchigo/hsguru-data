@@ -14975,6 +14975,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c57ee6aa059f5a439e2d61091ce5bdc2ebcad33429a7bebb12e1a8f47e0ff1bb.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_604a.jpg"
   },
+  "93883": {
+    "id": 93883,
+    "name": "토리벨로레",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 4,
+    "health": 4,
+    "text": "<b>속공</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4530df3459a060def825667477d88e3cf121c1bb2d232a57d87dae71a6108c4b.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/RLK_604b.jpg"
+  },
   "93886": {
     "id": 93886,
     "name": "불사조 알",

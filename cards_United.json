@@ -19523,6 +19523,10 @@
     "name": "튼튼엄니",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1dfc21293f4151b516bb618c8aa99b764c9e828a5864a5e70de593cbe53a8651.png"
   },
+  "70163": {
+    "name": "아겜 쏜커스",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fb5e6f1594c7541e38631c9430bd85bb7430711605d575da3a3da2d8e30c6ee.png"
+  },
   "70164": {
     "name": "아겜 쏜커스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/edef5ad70e16aceaf089b4991cbfd45b4a6391441e993d8c385d1ebcf5ae678e.png"
@@ -25790,6 +25794,10 @@
   "93882": {
     "name": "토리벨로레",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c57ee6aa059f5a439e2d61091ce5bdc2ebcad33429a7bebb12e1a8f47e0ff1bb.png"
+  },
+  "93883": {
+    "name": "토리벨로레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4530df3459a060def825667477d88e3cf121c1bb2d232a57d87dae71a6108c4b.png"
   },
   "93886": {
     "name": "불사조 알",
@@ -33475,6 +33483,10 @@
     "name": "해변의 거인",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfc2ecc7ce5674522806ccfb76b71a029b293bf5b1eca53c8147bdf7203572e6.png"
   },
+  "107930": {
+    "name": "채찍꼬리 트리고어",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a7824efe3ab09535278c00c1965d771bd2271fb45d29adf20e7e8c918157082.png"
+  },
   "107931": {
     "name": "관세 징수관",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51044f0c3a9417b8e5a657b386046edb9ded0d8b571e0b1543d1024153e8474c.png"
@@ -38532,6 +38544,10 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0a2faea94f9178b9232fd62afff27289e4c3973ab8ecce2ae517c53305efe1d.png"
   },
   "117351": {
+    "name": "해저 수색꾼",
+    "img": null
+  },
+  "117352": {
     "name": "해저 수색꾼",
     "img": null
   },
