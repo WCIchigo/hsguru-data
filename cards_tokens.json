@@ -803,6 +803,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c73b66bc7e057a2468d091bb040a70c267258430ac78543a06fd10cd5b4b743a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e75f24de4b95a013e04f9c98e333b57cf146c45d4368053338ecc74922ce3b6d.png"
   },
+  "1086": {
+    "id": 1086,
+    "name": "주문왜곡사",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 1,
+    "health": 3,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8fbd453694126ac23abf08403037c5cecc062d3061db8b9f2f0dd3a5f7fa533.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/tt_010a.jpg"
+  },
   "1123": {
     "id": 1123,
     "name": "변신",
@@ -3875,6 +3887,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c958ed94fa77bf4702e060f8e27809aff078385b58879913d5c8f7a3c57b840.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_831p.jpg"
   },
+  "43182": {
+    "id": 43182,
+    "name": "역병의 군주",
+    "manaCost": 2,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>선택 -</b> 이번 턴에 공격력을 + a3 얻습니다. 또는 방어도를 d3 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b33efe77c9f5a18a37b02de819d421715356f0756cd651a2d596015166ace3e1.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_832p.jpg"
+  },
   "43183": {
     "id": 43183,
     "name": "누더기야수 제작",
@@ -3946,6 +3970,18 @@
     "text": "하수인에게 피해를 6 줍니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a6a5b6526ec6692f5b1dbd01273d52e4737c1e0365e46f6e3dc17d9d796cb00.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/LOOT_051t2.jpg"
+  },
+  "43297": {
+    "id": 43297,
+    "name": "탐험",
+    "manaCost": 4,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 하수인들에게 공격력을 +1 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a172dce6610ce31266082377e03db95100a00249a7f9b1ae06600a89141f27a6.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/LOOT_054b.jpg"
   },
   "43298": {
     "id": 43298,
@@ -4979,6 +5015,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b07a30a940e3beaece1de59b888a6b540ba26dbd9f5e03f519c814ef19a8767a.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/LOOT_507t.jpg"
   },
+  "46389": {
+    "id": 46389,
+    "name": "역병 구울",
+    "manaCost": 5,
+    "cardType": "하수인",
+    "minionType": "언데드",
+    "attack": 5,
+    "health": 5,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fc87608bb2aeb4fd107ee5873a0063bd4f34e995aacffdffd366cf40c479733.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_085t.jpg"
+  },
   "46446": {
     "id": 46446,
     "name": "늑대",
@@ -5075,6 +5123,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e28e21fe5e30008cae62d36d417326f34fda0f5651db7b5017fdde2572e15f49.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/GIL_201t.jpg"
   },
+  "46602": {
+    "id": 46602,
+    "name": "길니아스 왕실근위병",
+    "manaCost": 8,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 8,
+    "health": 3,
+    "text": "<b>천상의 보호막</b>, <b>속공</b> 이 하수인은 내 손에 있으면 내 턴마다 공격력과 생명력을 바꿉니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b286374d3ae5f351fb0990aa665be692dc71ceed3e9c6c5dd91b8e1386093796.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/GIL_202t.jpg"
+  },
   "46672": {
     "id": 46672,
     "name": "커다란 말벌",
@@ -5134,6 +5194,18 @@
     "text": "<b>속공</b>, 이 하수인은 내 손에 있으면 내 턴마다 공격력과 생명력을 바꿉니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3098de54be304f870cafef444a8c73f1f7fcf6cc0e3f4a138cd467b1a599a54a.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/GIL_528t.jpg"
+  },
+  "46995": {
+    "id": 46995,
+    "name": "주문 전문가",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 4,
+    "health": 1,
+    "text": "<b>주문 공격력 +1</b>, 이 하수인은 내 손에 있으면 내 턴마다 공격력과 생명력을 바꿉니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb37bc81ef6fa574887cc9123ae7d6cabc819de4c49f4a8c4b74fa09dbd82c2a.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/GIL_529t.jpg"
   },
   "47048": {
     "id": 47048,
@@ -6635,6 +6707,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f07c6c31553444963b9ea50c36d522d5eb7c73b4f7e3a0151606dae9409e0f9.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58273af62b3999a386a21f14fed589994335e0c664dc3520d9971df51e07433d.jpg"
   },
+  "55244": {
+    "id": 55244,
+    "name": "역병에 감염된 단검",
+    "manaCost": 1,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>독성</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00a9fbad0f26803a5c93f34a8e70e88374dd58339b1374854bdbe04a0c430934.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ULD_715t.jpg"
+  },
   "55282": {
     "id": 55282,
     "name": "용족 사절",
@@ -7559,6 +7643,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c5332e182f52365a4c0af5b846e8a152439f13e336601d78683e36e6d40cbab.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16365770db630abdc4963c56f361831cf161f91c63476cab469febbfd4d6d0c5.jpg"
   },
+  "57689": {
+    "id": 57689,
+    "name": "학살",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "적 영웅에게 피해를 5 줍니다. 내 영웅의 생명력을 5 회복시킵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8971836e668b8b256590904af73b53825a9e887f2d4840af9194480d1a2a5f3.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cfd05d3e0b3407880cea9952058aaa217dc1e2585dc68fdd552d5641e257445.jpg"
+  },
   "57690": {
     "id": 57690,
     "name": "생환",
@@ -7870,6 +7966,18 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b40d4aea57f76cbf64d658066c83a1ac752ddd57d22f62b751dde135352ccc6a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d711b163d879c1ad098ba9b26bb86999a13c588c76a2e8c780ba04adb554b4a1.jpg"
+  },
+  "59659": {
+    "id": 59659,
+    "name": "역병 걸린 작은 새끼용",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "용족",
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b458eacfff367e45723773bf9cf6afe3ef293e12da01d48ab50e66b76fe58b5.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_162t.jpg"
   },
   "59699": {
     "id": 59699,
@@ -8434,6 +8542,18 @@
     "text": "<b>속공</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee879af1741c86dc5abadf36ce1ce5411f4d0221de0b88618b122b3db57438b1.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_523t.jpg"
+  },
+  "61270": {
+    "id": 61270,
+    "name": "탐욕의 지옥사냥개",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "악마",
+    "attack": 3,
+    "health": 6,
+    "text": "<b>타락함</b> <b>도발</b>, <b>생명력 흡수</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33f3565e4bbb39988db852af73972ce83e3590342cd61bd9543ee67827d35475.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_247t.jpg"
   },
   "61272": {
     "id": 61272,
@@ -10703,6 +10823,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8dd8de57be62a40d6a0eec41ea37ff10f52a314bf6d96c816774f419317d1d41.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_039t3_t.jpg"
   },
+  "67547": {
+    "id": 67547,
+    "name": "역병뿌리 탬신",
+    "manaCost": 5,
+    "cardType": "하수인",
+    "minionType": "언데드",
+    "attack": 7,
+    "health": 7,
+    "text": "<b>전투의 함성:</b> 이번 게임 동안 내 턴에 내가 받는 피해는 상대편이 대신 받습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03802d127bf0b7f177d6b6d53fa8098879f3e945b9630dedabffb09a47dde575.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_091t4.jpg"
+  },
   "67550": {
     "id": 67550,
     "name": "비전술사 던그래스프",
@@ -10750,6 +10882,18 @@
     "text": "<b>죽음의 메아리:</b> 무작위 적 하수인에게 이 무기를 던집니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5684ace8343f63d195bdfa7c9a44a1d2fb0f24f069c2d2279375cd7906ea8a9.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_052t7.jpg"
+  },
+  "67610": {
+    "id": 67610,
+    "name": "빛살이 카리엘",
+    "manaCost": 5,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 7,
+    "health": 7,
+    "text": "<b>전투의 함성:</b> 이번 게임 동안 내 은빛 성기사단 신병들이 +2/+2를 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/393d0c1f4604e9bc5cfd7de8f1eb669c8d134873a4d31320e18d244d75918348.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_313t4.jpg"
   },
   "67752": {
     "id": 67752,
@@ -11399,6 +11543,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d74543b12d4b80e822de31cddf85271b8aefa5998c87e1920056981baad5a0f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_258pt3.jpg"
   },
+  "70522": {
+    "id": 70522,
+    "name": "번개 기원",
+    "manaCost": 2,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "모든 적 하수인에게 피해를 2 줍니다. 매 턴마다 바뀝니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2eacae0a3c4bd1b3da9956f65e0df9ee295a0d4b9f1ac39463a4a0855e08b202.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_258pt4.jpg"
+  },
   "70897": {
     "id": 70897,
     "name": "정화된 파편",
@@ -11590,6 +11746,18 @@
     "text": "상대편이 내는 다음 하수인을 <b>차단</b>합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8462a7bf1f8385989ae3746e956232a8b277e3ad9d4a3d821ee63d0c81868ed6.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TSC_032t.jpg"
+  },
+  "72003": {
+    "id": 72003,
+    "name": "주문 차단",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "상대편이 내는 다음 주문을 <b>차단</b>합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9162d027fd1e1cfe5780fb29c0688bcc0add9d0c1c8bd5199ff7a1175704d28a.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TSC_032t2.jpg"
   },
   "72032": {
     "id": 72032,
@@ -12047,6 +12215,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c40d68fbab1856292e5a6c2b8a6260b4bcbcff0af7fd809df924a67b0e1b6fda.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TSC_660t.jpg"
   },
+  "74927": {
+    "id": 74927,
+    "name": "심해의 저주",
+    "manaCost": 2,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 턴이 시작될 때, 피해를 받습니다. 저주는 매번 강해집니다. <i>( 턴 남음)</i>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7c1ac23c7889be22c7ae44def1550a9a01bee4705ca1f958c72f938822ed1b5.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TSC_955t.jpg"
+  },
   "74953": {
     "id": 74953,
     "name": "범고래 호출",
@@ -12443,6 +12623,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a67f63529bda1e84f06d24369218bb8a5e7374153745faebdf09df34cf70259c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ONY_005tb12.jpg"
   },
+  "75830": {
+    "id": 75830,
+    "name": "밀랍 광전사",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 5,
+    "health": 1,
+    "text": "<b>죽음의 메아리:</b> 이 하수인을 다시 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2df17136840da4911f6faaaf2241b51e3de6d92f7691a9179b5d50d948f2b9.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ONY_005tb13.jpg"
+  },
   "75831": {
     "id": 75831,
     "name": "라그나로스의 잿불",
@@ -12646,6 +12838,18 @@
     "text": "상대편의 손에 있는 카드를 2장 가져옵니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14646f0929d81cb4a38b0e6ad84a5ffaa6a990887f81d933688e4780839136fe.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TSC_934t2.jpg"
+  },
+  "77504": {
+    "id": 77504,
+    "name": "함선 약탈!",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "공격력이 가장 높은 적 하수인을 가져옵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be961b6371204ad94c8f19cffa414d6b4a5062231f7450a2c940fcb11df75773.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TSC_934t3.jpg"
   },
   "77616": {
     "id": 77616,
@@ -14555,6 +14759,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/284b958e70f3324e130b9cb62642e11567d3ccf616063ccf009cd254480bef58.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_070t.jpg"
   },
+  "91233": {
+    "id": 91233,
+    "name": "역병머리",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "언데드",
+    "attack": 1,
+    "health": 1,
+    "text": "<b>생명력 흡수</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aaf5d2c4f5a2798a5c3c010e4f8df23a911f9748844c16a0da9eec3baaf95522.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_423t.jpg"
+  },
   "91248": {
     "id": 91248,
     "name": "나무정령",
@@ -14795,6 +15011,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09a93538596a5342ade77ca1f2c2fbc03eae0e98f9f1553af55c9b5bd35c3a35.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_320t.jpg"
   },
+  "94197": {
+    "id": 94197,
+    "name": "역병 멧돼지",
+    "manaCost": 9,
+    "cardType": "하수인",
+    "minionType": "언데드",
+    "attack": 9,
+    "health": 9,
+    "text": "<b>돌진</b> <b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c0324adfd4b7aba0bebe099f1298644b15e7d44375282badc91e2ed6ffd9de8.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_526t.jpg"
+  },
   "94211": {
     "id": 94211,
     "name": "어긋난 분위기",
@@ -14878,6 +15106,18 @@
     "text": "내 손, 덱, 전장에 있는 무작위 하수인에게 +6/+6을 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd6e2289228bea72352e8f13f65c0f41b6bea752efcb74af38f8f6b957e7046a.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_085t4.jpg"
+  },
+  "94744": {
+    "id": 94744,
+    "name": "탐욕의 악장",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "카드를 6장 뽑습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5150322a234a59cf8d2f6bff75f3c9594cb502693a14796b7cb8994e21dda17.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_085t7.jpg"
   },
   "94745": {
     "id": 94745,
@@ -14998,6 +15238,18 @@
     "text": "두 플레이어 모두 마나 수정 1개를 추가로 얻은 상태로 시작합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30baa6778e9b5bc69bc3b29d984a3999214405d06594611107c571932771b175.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_002t11.jpg"
+  },
+  "95106": {
+    "id": 95106,
+    "name": "탐욕의 선물",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "두 플레이어 모두 카드를 2장 더 가지고 시작합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c8d699b1f9615e084694de9255a1adf29b81f939f1f891b373a4f109df3d5ae.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_002t5.jpg"
   },
   "95108": {
     "id": 95108,
@@ -15466,6 +15718,18 @@
     "text": "+2/+2를 얻습니다. 무기를 뽑습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27e75ddd9832803b890d1116335b796568293f9afe52cede9af733a7d6599fc5.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_415t.jpg"
+  },
+  "96720": {
+    "id": 96720,
+    "name": "뜨임질",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "공격력을 +5 얻습니다. 이번 턴에 내 영웅에게 공격력을 +5 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34ea743026b82f829dc630e0a5f172918e3f938d41332a0d6dac8d94d676d08e.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_415t2.jpg"
   },
   "96722": {
     "id": 96722,
@@ -16415,6 +16679,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bc35badbc25707d043f6b60a220280ec36180532961c2d0fbaf67f47848e1ca.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_862t4.jpg"
   },
+  "98357": {
+    "id": 98357,
+    "name": "태고의 소용돌이",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 4,
+    "health": 5,
+    "text": "<b>천상의 보호막</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb3e7b0af45e9152fc639c17a49f7e88a84e595fb8ded7f17da65534549b3d7f.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_480t.jpg"
+  },
   "98395": {
     "id": 98395,
     "name": "살게라스의 사도",
@@ -16930,6 +17206,18 @@
     "text": "비용이 6인 카드를 <b>발견</b>합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c711da57073dd77f1c6fe65a8802c2872e19e60db62b37f8d820af23dcfc065c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/WW_400t6.jpg"
+  },
+  "100853": {
+    "id": 100853,
+    "name": "탈출한 촉수",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 1,
+    "health": 1,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/437fc0723f7c673d71ed1bf9f880474320db8ebc65063688697a06ff50afef0c.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_487t.jpg"
   },
   "100876": {
     "id": 100876,
@@ -17495,6 +17783,54 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f5baaca95db11b32c324cde01099a2694ef4fb262350ecc8cdff0e63b2fe8c6.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/WW_368t.jpg"
   },
+  "102137": {
+    "id": 102137,
+    "name": "태고의 소용돌이",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 4,
+    "health": 5,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fbfec41269d65bf28045796d893931f16f4cea6e341f9bc8718e55e2df9f8f2.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_480t1.jpg"
+  },
+  "102138": {
+    "id": 102138,
+    "name": "태고의 소용돌이",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 4,
+    "health": 5,
+    "text": "<b>속공</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9989fa8e355067cd585f660c4f71d3142fd399d14fb61917a593b93abc328d5.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_480t2.jpg"
+  },
+  "102139": {
+    "id": 102139,
+    "name": "태고의 소용돌이",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 4,
+    "health": 5,
+    "text": "<b>질풍</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4dbd42b9260e41df41958d3f2a92665c609a0d22ecd4814ffc933cb5fe2a8bd8.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_480t3.jpg"
+  },
+  "102140": {
+    "id": 102140,
+    "name": "태고의 소용돌이",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 4,
+    "health": 5,
+    "text": "<b>모면</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e9a21f8276d395784d920a0b04cbd7f71c475835fb1789aafd46c50956b0667.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_480t4.jpg"
+  },
   "102141": {
     "id": 102141,
     "name": "태고의 소용돌이",
@@ -18034,6 +18370,18 @@
     "text": "<b>뽑을 때 시전</b> 무작위 <b>전설</b> 하수인을 둘 얻습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3c04c87a71f0a0b032b68509deb5b242c3c940ed43fc4674701467e42643c75.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/WON_041t.jpg"
+  },
+  "103178": {
+    "id": 103178,
+    "name": "하이잘 산 전투",
+    "manaCost": 4,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>뽑을 때 시전</b> 내 하수인들에게 +2/+2를 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2db8d65d5ff847c7d2d615a039355aa7264cbaa22605e594d70f1616956bc291.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/WON_041t2.jpg"
   },
   "103180": {
     "id": 103180,
@@ -20711,6 +21059,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3fd70995786cfaa8a5c923b22f54e81301ce85bb0e986c6792a31f0b2c6da10.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_464t21.jpg"
   },
+  "111959": {
+    "id": 111959,
+    "name": "밀랍 광전사",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 5,
+    "health": 1,
+    "text": "<b>죽음의 메아리:</b> 이 하수인을 다시 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4a501bd6d1a9370ea883b05810f3e4b482d008804a82051be0dd317fb4e9d3b.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_464t22.jpg"
+  },
   "111960": {
     "id": 111960,
     "name": "라그나로스의 잿불",
@@ -22343,6 +22703,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd1e2fd01edcc7f0cdfea716a33420f170c2078fdf110b0aaac15b29b0a5ded8.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_257a.jpg"
   },
+  "116669": {
+    "id": 116669,
+    "name": "빛의 선물",
+    "manaCost": 4,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "생명력 +3, <b>생명력 흡수</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25ff5897398364b819528c03de90c0050e54026ea61ca8bbc311b61a64fa0c5f.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_257b.jpg"
+  },
   "116796": {
     "id": 116796,
     "name": "굳건한 보안요원",
@@ -23351,6 +23723,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/980dadbeb06b4f7f45118e6e54e3d7691a29ea3b977c5f303b1a6bf08418fdbf.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_005t2.jpg"
   },
+  "119441": {
+    "id": 119441,
+    "name": "탐험가 라팜",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 4,
+    "health": 4,
+    "text": "<b>전투의 함성:</b> 내 덱에서 라팜을 <b>발견</b>합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/857eb99601a9af4f663aa24ad825e2abd7b18da5476b636c2ad504d3ccf09ca8.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_005t3.jpg"
+  },
   "119443": {
     "id": 119443,
     "name": "대족장 라팜",
@@ -24010,6 +24394,18 @@
     "text": "영원의 샘으로 생성된 주문들이 2번 시전됩니다. 진아즈샤리를 파괴합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f77f2b8dba22e1a922c53dc043f7b26ec47fb52c7b4571f48aa02978e611ec6f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_211b.jpg"
+  },
+  "120225": {
+    "id": 120225,
+    "name": "하피의 발톱",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>천상의 보호막</b> <b>질풍</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05184671156b6ec6b1fa9c49088dbed23af5708d0826446831eb828eeabc9112.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_100t13.jpg"
   },
   "120483": {
     "id": 120483,
@@ -25211,6 +25607,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61d39c2e85ced718526242d4e5793f25e8acddd37f0bda4ee7dbaa1b5b58edba.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/MEND_505t.jpg"
   },
+  "123499": {
+    "id": 123499,
+    "name": "뚫기",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "이번 게임에서 내 지맥들의 비용이 (2) 감소합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a715f353942c28fbb07d175cb9d08680451929b3385aec0a569ab97fdc64f282.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/MEND_505t2.jpg"
+  },
   "123501": {
     "id": 123501,
     "name": "강화",
@@ -25679,6 +26087,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e7fcd067d6ab1fe1a746cdc31b3830c7c1a960697a49304fc3cc999c18b8d15.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_511t.jpg"
   },
+  "126480": {
+    "id": 126480,
+    "name": "탐정의 옷",
+    "manaCost": 4,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "하수인에게 +4/+4와 <b>속공</b>을 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2810eb33be3ad5120734307286f0c35c72edafb3bde88bb67b7bd94783cea3e8.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_447t.jpg"
+  },
   "126499": {
     "id": 126499,
     "name": "파멸자 주라마트",
@@ -25930,6 +26350,18 @@
     "text": "<b><b>지속 능력</b></b>, 내가 내는 다섯 번째 하수인마다 그 하수인의 <b>전투의 함성</b>이 두 번 발동합니다. <i>( 번 남음!)</i> <i>(준비 완료!)</i>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73982ac4f9d865eee9c8cea0d18b3a819f838c2c10b3e8c9b4a6ee165bf9e897.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_800hp2.jpg"
+  },
+  "127507": {
+    "id": 127507,
+    "name": "할머니 임프",
+    "manaCost": 8,
+    "cardType": "하수인",
+    "minionType": "악마",
+    "attack": 8,
+    "health": 8,
+    "text": "<b>도발</b> <b>생명력 흡수</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3388d0a634592cc996edb254db0756265f74c157ce8f5fd822196e9718e4e15e.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_399t1.jpg"
   },
   "127584": {
     "id": 127584,

@@ -143,6 +143,14 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/980dadbeb06b4f7f45118e6e54e3d7691a29ea3b977c5f303b1a6bf08418fdbf.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_005t2.jpg"
   },
+  "119441": {
+    "name": "탐험가 라팜",
+    "manaCost": 4,
+    "classId": 9,
+    "rarityId": 1,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/857eb99601a9af4f663aa24ad825e2abd7b18da5476b636c2ad504d3ccf09ca8.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_005t3.jpg"
+  },
   "119443": {
     "name": "대족장 라팜",
     "manaCost": 5,
