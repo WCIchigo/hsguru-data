@@ -5775,6 +5775,14 @@
     "health": 6,
     "text": "<b>사용 ( ):</b> 선술집 주문을 2개 발견합니다."
   },
+  "132924": {
+    "name": "조용한 배달부",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_343_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73db780376ca142e7e2ff3fcaf6c77956e7f0e186087025dd2745db730f84cd3.png",
+    "attack": 14,
+    "health": 14,
+    "text": "<b>전투의 함성:</b> 무작위 단계 황금 하수인을 둘 얻습니다. 그 하수인들은 황금 보상을 주지 않습니다."
+  },
   "132926": {
     "name": "약탈의 대가 후크터스크",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_344_G_triple.png",

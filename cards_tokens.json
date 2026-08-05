@@ -7103,6 +7103,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3a6caf87dedab5a191720b324b6370f85d7e55957c13d7c4dc3e700c6a58315.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/YOD_041t.jpg"
   },
+  "56349": {
+    "id": 56349,
+    "name": "상어밥",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 4,
+    "health": 2,
+    "text": "<b>속공</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c63beec2ce4632ae48d84ff16747a8e42292e9d7c47e63ff4080cf139cf7f993.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/YOD_038t.jpg"
+  },
   "56371": {
     "id": 56371,
     "name": "나무정령",
@@ -10534,6 +10546,18 @@
     "text": "내 턴이 끝날 때, 내 전장을 3/2 임프로 가득 채웁니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b841ae317ff71b57fab615cbd09d69ee13f13ea9915d6800edf23a3f10c05ae2.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_919t.jpg"
+  },
+  "65581": {
+    "id": 65581,
+    "name": "상어 변신",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 3,
+    "health": 1,
+    "text": "<b>속공</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34a8aa09afe5ffe3882d1ee13f15d2744e9a0e4b831358a138a7510335d5201c.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DED_001a.jpg"
   },
   "65582": {
     "id": 65582,

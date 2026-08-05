@@ -2139,6 +2139,10 @@
     "name": "영주 코스아즈",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/471d433b86142fb6c01c02b48f2db6ebe9fa9adeb41f52f047eeb30ea30d83ae.png"
   },
+  "1881": {
+    "name": "젤리에크 경",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0e58df82527f5e0fbcef43f696e0f84f4db91b2617fb0dc865630252a7ae342.png"
+  },
   "1882": {
     "name": "룬검",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2aca3886d15a6755c5ada788c832069d014a76c7f5e674017942dea8552d2b16.png"
@@ -12431,6 +12435,10 @@
     "name": "하늘장군 크라그",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7ff3e6d0de22f2926b0b242b9866e7d272a8d555a8a733960543e791e67ac33.png"
   },
+  "56349": {
+    "name": "상어밥",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c63beec2ce4632ae48d84ff16747a8e42292e9d7c47e63ff4080cf139cf7f993.png"
+  },
   "56358": {
     "name": "엘리스 스타시커",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6af21a8446f4c58ea792e58f7f6d577e360c22d2f4548bd106f7a7b77fbb1dd.png"
@@ -17255,6 +17263,14 @@
     "name": "파티의 정령",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/edc6c01f76b8ad3dbe12fb66e5d63ca4f572af01e2da6966af542df357b8da3e.png"
   },
+  "64062": {
+    "name": "온화한 신령",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17034e1aaccda6bdafa1a01a5a6e5720f2d2719bf33995ad0ad5eee43d29879f.png"
+  },
+  "64064": {
+    "name": "온화한 신령",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d6d9fdf64a818d0cab5ae975372742b49efa8a5567763076ca47fd6e8ef4402.png"
+  },
   "64076": {
     "name": "꼬마 라그",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88ebde6d21725d3142480b5e28052307437e2236689d935bd576fb23ea73e282.png"
@@ -18162,6 +18178,10 @@
   "65580": {
     "name": "산호의 드루이드",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d7a534f627c875e1937a39423ca0fb894651e0bba79535d3ba9551b43c3ef0d.png"
+  },
+  "65581": {
+    "name": "상어 변신",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34a8aa09afe5ffe3882d1ee13f15d2744e9a0e4b831358a138a7510335d5201c.png"
   },
   "65582": {
     "name": "바다거북 변신",
@@ -20022,6 +20042,10 @@
   "71282": {
     "name": "타레사 폭스톤",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0434c1af443ed36d161e86653639d5fb153ea6e9c1808e02722f69975debe380.png"
+  },
+  "71283": {
+    "name": "올라가는 승산",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a102291b4d4a8840bb745f714bb1bca9916acd96725fee0e05123274168a54f.png"
   },
   "71284": {
     "name": "잡담",
@@ -26031,6 +26055,14 @@
     "name": "빙의하는 밴시",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6ae76598b6ffa547baa1948e814ed823fea72d889a4e7e34c307605c9b46da5.png"
   },
+  "95255": {
+    "name": "젤리뱃살",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c83902d6602c424db2d4d5b91a4cdc8057e608b0a98af1a6af554ef7af7e5e41.png"
+  },
+  "95256": {
+    "name": "젤리뱃살",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2caa51c56eee8829681c62f58b99af520dfaf6343c13f7d872ace64490c6a5ea.png"
+  },
   "95259": {
     "name": "네루비안 왕 아눕아락",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb26c5337e5cee595b27b202212d8ed0b35b5985c863e85b0fcac273beb66c92.png"
@@ -31543,6 +31575,14 @@
     "name": "선술집 특선",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d69dd1aa7092b80f826aa5435282d5429e55bce2504349d6f9f61892439bbb35.png"
   },
+  "104496": {
+    "name": "신비한 포자박쥐",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2ae351debe084b3c9ab611f5b1bc7a21f48c0a6dbba0e0c6c4f274f7c499188.png"
+  },
+  "104497": {
+    "name": "신비한 포자박쥐",
+    "img": null
+  },
   "104502": {
     "name": "마력 깃든 올가미",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f452767d2e4fb5c1ed6cdc9f120ffb316dbe0592e1972d76c09a78747e30b943.png"
@@ -34757,6 +34797,10 @@
   },
   "110985": {
     "name": "용날개 활공기",
+    "img": null
+  },
+  "110991": {
+    "name": "옳옳어 구문집",
     "img": null
   },
   "110993": {
@@ -44443,6 +44487,10 @@
     "name": "리치 왕의 힘",
     "img": null
   },
+  "126273": {
+    "name": "제피르스의 힘",
+    "img": null
+  },
   "126276": {
     "name": "거프의 힘",
     "img": null
@@ -48259,6 +48307,14 @@
     "name": "인간사냥꾼 그리핀",
     "img": null
   },
+  "132802": {
+    "name": "물고기 미끼",
+    "img": null
+  },
+  "132803": {
+    "name": "물고기 미끼",
+    "img": null
+  },
   "132804": {
     "name": "물어뜯을 듯한 상어",
     "img": null
@@ -48301,6 +48357,14 @@
   },
   "132922": {
     "name": "영리한 조난자",
+    "img": null
+  },
+  "132923": {
+    "name": "조용한 배달부",
+    "img": null
+  },
+  "132924": {
+    "name": "조용한 배달부",
     "img": null
   },
   "132925": {
