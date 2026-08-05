@@ -419,6 +419,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d76d46135f98858afd64e9fee213dd09f900abdab1bbe0c374084d332d2dce0.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dae7e478bbcbf16716836670cc39ca751dd2e2d56bd7a30ba30fa2b7d0e57536.png"
   },
+  "458": {
+    "id": 458,
+    "name": "천벌의 토템",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "토템",
+    "attack": 0,
+    "health": 2,
+    "text": "<b>주문 공격력 +1</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fca413ca99f6fd07abe780d7c69862481a0ef0c37b2027b0e290fd3ffb34320.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a60b28b4a9bb70748ce68815582bbde7a0c2ebfdf70988adb51da88c5d655fc.jpg"
+  },
   "460": {
     "id": 460,
     "name": "놀",
@@ -4031,18 +4043,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/becec512b78aa91860012df4cae60a1287012a6a46f171744b764182e09626c6.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TRL_343ct1.jpg"
   },
-  "43314": {
-    "id": 43314,
-    "name": "라바사우루스",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 1,
-    "health": 2,
-    "text": "<b>독성</b> <b>은신</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb5146fb442c72dce914c068b5bcf89b18918071b12687e8e00746cef77edf2e.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TRL_343dt1.jpg"
-  },
   "43315": {
     "id": 43315,
     "name": "전쟁드루이드 로티",
@@ -5890,18 +5890,6 @@
     "text": "생명력을 5 회복시킵니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/710ba788426a7438f30f016a5b4bb9447dbd8f2242faa9d18412d5dd4df66fa8.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DAL_350b.jpg"
-  },
-  "51796": {
-    "id": 51796,
-    "name": "수정껍질의 영혼",
-    "manaCost": 11,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 0,
-    "health": 1,
-    "text": "<b>휴면</b> 상태입니다. 생명력을 5 회복시키면, 깨어납니다. <i>( 남음!)</i>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/646b7bbfd2e361ffa28bed94e1ac77e379f7ae8583c453bd975f51a1a0a2e1f2.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DAL_357t.jpg"
   },
   "51868": {
     "id": 51868,
@@ -9707,6 +9695,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26ecc6a23c2db92cc8b959b146ad0b7cba160843c4042c215a25da0fa3d89229.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_914t2.jpg"
   },
+  "63226": {
+    "id": 63226,
+    "name": "천막의 결투사",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 3,
+    "health": 2,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95d2ef8c156c5f4a62d3cfb1d2364f5b435cc785ba7d00f3f63fb63b33fb3e70.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_706t.jpg"
+  },
   "63256": {
     "id": 63256,
     "name": "감시하는 그런트",
@@ -11998,18 +11998,6 @@
     "text": "이 하수인에게 피해를 받은 캐릭터는 <b>빙결</b> 상태가 됩니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c17629fb3c3befa4e03d40ca365f64489f9de7915a3ebcbb5a6bdfc17cbebe0.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_257t.jpg"
-  },
-  "72839": {
-    "id": 72839,
-    "name": "수정꽃",
-    "manaCost": 2,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "빈 마나 수정을 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6b0fee4d4e1f6a106e874db41634fe43cc443de119858397201419bc8af2230.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_205a.jpg"
   },
   "72840": {
     "id": 72840,
@@ -21623,6 +21611,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53a0621477efb5a74b8e7446f312fa772cd5f752fe666600bbeed5813ad713f8.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/GDB_100t6.jpg"
   },
+  "113709": {
+    "id": 113709,
+    "name": "천공의 나침반호",
+    "manaCost": 0,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 0,
+    "health": 0,
+    "text": "<b>우주선</b> <i>(마나 (5)로 발사 가능)</i> <b>우주선</b> <i>(부품 개로 구성됨)</i>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f34f878d790190868a4790f87907cdef7fca39735f236cd5dfc31ecea7a0622.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/GDB_100t7.jpg"
+  },
   "113710": {
     "id": 113710,
     "name": "승냥이의 의지호",
@@ -26098,6 +26098,18 @@
     "text": "이번 턴에 내 영웅이 공격력을 +2 얻습니다. 방어도를 2 얻습니다. \"과부거미의 연회\"를 내 손으로 가져옵니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50b6587fbcebc743636fd081cbd1c7b9abc6ca77c994f12d5943f20b2796c518.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_436t.jpg"
+  },
+  "126869": {
+    "id": 126869,
+    "name": "과부거미의 연회",
+    "manaCost": 2,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "이번 턴에 내 영웅이 공격력을 +4 얻습니다. 방어도를 4 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94fb1507678a9975fc3e4b2978573f6b553fd70307bb8bdbe5dc63694cba4f8c.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_436t2.jpg"
   },
   "126886": {
     "id": 126886,
