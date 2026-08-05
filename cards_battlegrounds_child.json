@@ -2810,7 +2810,7 @@
   "115223": {
     "name": "용날개 활공기",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_MagicItem_900t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38a2a049346dd9a6c1204f7994b85eb7e8aec334d64dc49a16bf678c17674820.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db8a1ee7aa4cb408d460c661e0ac6dae8218140b942177a1e2b9bb6ce93ea37c.png",
     "attack": null,
     "health": null,
     "text": "내가 카드를 낼 때마다 아군 용족에게 + /+ |1(을,를) 부여합니다."
@@ -2818,7 +2818,7 @@
   "115225": {
     "name": "위대한 멧돼지 스티커",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_MagicItem_988t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc74f8d8f01f6dd7e0b953f61dee7f8c6a58ffbe61a3932984d87abbf7d601a4.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c77d635d44969bce5ad13dbcbfc9c3b12a905b82f357cb83f39f94c4e58ad183.png",
     "attack": null,
     "health": null,
     "text": "<b>혈석</b>을 5개 얻습니다. 내 <b>혈석</b>이 추가로 + /+ |1(을,를) 부여합니다."
@@ -2834,7 +2834,7 @@
   "115230": {
     "name": "메디브의 책",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_MagicItem_420t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/168c9154d5aae51342a130aa80f30d5a5395833f4ae09d40d578d7c8819acefa.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d37ee6ce164253709e56dc78d519b200938afd0e40dc44d9597c27902ff940cc.png",
     "attack": null,
     "health": null,
     "text": "선술집 주문을 둘 <b>발견</b>합니다. 매 턴이 시작될 때, 둘 더 <b>발견</b>합니다."
@@ -2842,7 +2842,7 @@
   "115235": {
     "name": "노미 스티커",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_MagicItem_544t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e74bd480af31237805749fbf641579195df916dcf27b39eee596986e1d02bcd8.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a274a3c1fd065b2f60dc323856419b2b3dae05bde853c25d8632c11bab752990.png",
     "attack": null,
     "health": null,
     "text": "내가 정령을 낸 후에 이번 게임 동안 선술집에 있는 정령들에게 + /+ |1(을,를) 부여합니다."
@@ -2850,7 +2850,7 @@
   "115237": {
     "name": "옳옳어 구문집",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_MagicItem_914t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d72c474f484dff7dd8afba746c603b2d8d27aa71c5424717b5d433a0814c427.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf36a466ad159409e187e618210b2c410ebaa6bd6139880498f189fb912cbf64.png",
     "attack": null,
     "health": null,
     "text": "내가 하수인을 낸 후에, 내 손에서 가장 왼쪽에 있는 하수인에게 +6/+6을 부여합니다."
@@ -2866,7 +2866,7 @@
   "115250": {
     "name": "알록달록 나침반",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_MagicItem_426t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5f464bf3667b76851694e2c74876b69e9ac8a59c0bede9ad990aadb2461fe22.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70a132004bf314eecb92e0129f62b50fb4279247b4fbc6349a655e46420aaf16.png",
     "attack": null,
     "health": null,
     "text": "무작위 |1(을,를) 둘 얻습니다. 매 턴이 시작될 때, 둘 더 얻습니다."
@@ -3242,7 +3242,7 @@
   "117942": {
     "name": "강화된 거울",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_MagicItem_010t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc3fb94b00de8bb79d1fba570fbf08245a48f6080873be491753d0a07e255c91.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6336e0a761cb287425d4e483e3f16d64b2b34324dc9b05ecf2c0983f7fab48a.png",
     "attack": null,
     "health": null,
     "text": "내 팀원의 상급 <b>장신구</b>로 변신합니다."
@@ -3970,7 +3970,7 @@
   "120925": {
     "name": "휴대용 공장",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_MagicItem_361t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/896f0219b8ad59a58b0135ece8b1f8ff36ec94156b7b64624486ea37687174d3.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb7416ac006f8f3eb5feb8f0463dc3576dfdbb2281491cc09101e52ac2ec59b2.png",
     "attack": null,
     "health": null,
     "text": "종족이 있는 5단계 하수인을 <b>발견</b>합니다. 매 턴이 시작될 때 하나 더 복사하여 얻습니다."
@@ -3978,7 +3978,7 @@
   "121038": {
     "name": "혈속박 귀걸이",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_MagicItem_808t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3a7bb3d769ccf5520da24df0d8283b30b47332bc01fd55b6103bc1b1d3eb9b1.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4e18197a64b867ac91b3a65131c4da1d469968b80c6cae0130608543c379d13.png",
     "attack": null,
     "health": null,
     "text": "내가 주문을 개 시전한 후, 이 장신구가 내 모든 하수인에게 <b>혈석</b>을 2개 냅니다. <i>( 개 남음!)</i>"
@@ -3986,7 +3986,7 @@
   "121182": {
     "name": "딱정벌레 고리",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_MagicItem_860t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a91bec7d9f05a0967822c60708e5c7839b764199471a9b19d64380bf200e0f29.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fe5023b0dbba4f7db282a609f4eb84c0da3b8f4ff8da82869f35e395d569b67.png",
     "attack": null,
     "health": null,
     "text": "<b>복수 (7):</b> / 딱정벌레를 둘 소환합니다. 그 딱정벌레들에게 <b>도발</b>을 부여합니다."
@@ -5442,7 +5442,7 @@
   "130098": {
     "name": "맥스웰 스티커",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_803t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faefe31d99a6cc1299835cd057f59762cab9c8d7486ca3323e68eed6ea9fe0f0.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc48136232268128d45bc9b1239c68c4baac8fe188a451488316f1cb2f02de9f.png",
     "attack": null,
     "health": null,
     "text": "내 영웅 능력의 황금 <b>전우</b>를 얻습니다."
@@ -5522,7 +5522,7 @@
   "130868": {
     "name": "예스러운 촛대",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_823t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f60acfc00b6057f5cb429bbbc47751a5ee1d7841dca6b6686006d3fcf94a644.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e91dbdca2566773dc43b0778b406717e15225be12bf17aa01b127480b1aae15e.png",
     "attack": null,
     "health": null,
     "text": "주요 <b>시간왜곡</b>에서 비용이 2인 하수인을 <b>발견</b>합니다."
@@ -5554,7 +5554,7 @@
   "130977": {
     "name": "오색 눈물",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_840t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65ced838099c37078726b05dcddb9e0e9f42f4a64be24b3ff28e25e245c1cdca.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e2ff1bbf5d31c6c9b5ad9601454282a0102a83da551dcfb10f0a49768c18e1a.png",
     "attack": null,
     "health": null,
     "text": "무작위 <b>오색비룡</b>을 2마리 얻습니다. 내가 <b>전투의 함성</b> 하수인을 마리 낸 후에 반복합니다. <i>( 마리 남음!)</i>"
@@ -5610,7 +5610,7 @@
   "131309": {
     "name": "만화경",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_821t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a672076b4b7553ead3b897aea7da38814d9ab221e47bb20985f3973e69edf939.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d4d80f81d5f57e918671e97b04466e3f6ac0cdd7d93b64e468b31c6d7b9fbaf.png",
     "attack": null,
     "health": null,
     "text": "7단계 황금 하수인을 <b>발견</b>하고 내 손으로 가져와 턴 동안 잠금 상태로 만듭니다."
@@ -5618,7 +5618,7 @@
   "131325": {
     "name": "전사 타자기",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_931t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3cb8eeda1c5b360f454940c7589a70dda8fe2ecd24993cde1f77f991988fd65.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcf0a34f85e8d9fb63a84db086a1fd0cbc9981764ec9765a92bafc16698a1d2e.png",
     "attack": null,
     "health": null,
     "text": "내가 사는 다음 하수인 마리를 복사하여 얻습니다. <i>( 마리 남음!)</i> 내가 사는 다음 하수인 마리를 복사하여 얻습니다. <i>(완료!)</i>"
@@ -5626,7 +5626,7 @@
   "131328": {
     "name": "미지의 보주",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_816t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a2618be12faa2acfa89e4616f28dd32f2f4bf9742ee7b8539497ed27889be0d.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/076b13ba810fda720b472c5534b68fe49ccf433c34d29f36f7bc9801620c6b4f.png",
     "attack": null,
     "health": null,
     "text": "무작위 상급 <b>장신구</b>와 골드를 얻습니다."
@@ -5634,7 +5634,7 @@
   "131329": {
     "name": "주머니 속 회오리",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_850t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5e63bc83d43437745b3201b1a3e48aef3994a94334d428455b7293167fcd6b7.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/955f6bc99c451b5f1a468b92dae0fdd649f532afa49e66bd177b8504fc84a9bc.png",
     "attack": null,
     "health": null,
     "text": "동풍을 네 번 시전합니다. 매 턴이 시작될 때 두 번 더 시전합니다."
