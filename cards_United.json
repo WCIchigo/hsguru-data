@@ -12403,10 +12403,6 @@
     "name": "용접하는 파괴공작원",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a28e016996fb0876827c0e80df7b6e6d78b0ff2888a9057a41b40857f6ba3c5e.png"
   },
-  "56228": {
-    "name": "황천의 비룡",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cec18a57148d1306f5a81cc39998d17c68ef771abf389169cab0aaa5f08f5f3a.png"
-  },
   "56239": {
     "name": "썩은둥지 비룡",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2d07de3f2e78626e7ec804af388db0b982fe958b83c789d2f6c68385e608097.png"
@@ -25547,10 +25543,6 @@
     "name": "함성과 갈채",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/461956ac4f2c6cb1ef4a25c40be7a20781f5cd684c3f9583c9e1f68c8e15c109.png"
   },
-  "92397": {
-    "name": "황천의 비룡",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21a87d33a92ee39a3256fed2458ec7e1fa062c3a2c15dd0f4235ec32d4ce3312.png"
-  },
   "92398": {
     "name": "죄악질주마 블랑쉬",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5981eff86e9c7fb3f39fd609a1df69c2d6370b6266a1e04f706d391518b15434.png"
@@ -25582,10 +25574,6 @@
   "92418": {
     "name": "머키",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/109442fee1b16f103367f769c2d00f4090673c74055c82a7826af88441a974eb.png"
-  },
-  "92421": {
-    "name": "황천의 비룡",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fe71f624d40aea09b9c26cd1cf23464bb42a22f7aad5138f648b75a65ef78ff.png"
   },
   "92422": {
     "name": "차원날개",
@@ -28891,10 +28879,6 @@
     "name": "뾰족작곡가",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cff90abfb965b6d9984917defab144d7ed65b58ce233b292669a467b786492a.png"
   },
-  "100999": {
-    "name": "뾰족작곡가",
-    "img": null
-  },
   "101003": {
     "name": "황혼의 격류",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee35a3284c6db77ae70ef08bca8070b7729f0fbdea295ec9aabf324caecfc2a9.png"
@@ -31690,10 +31674,6 @@
   "104549": {
     "name": "아빠미소 드랙티르",
     "img": null
-  },
-  "104550": {
-    "name": "거울 괴물",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2f79c3039d1f8672bb2299e41b85739f7160e9fc379a290ad71127e10774137.png"
   },
   "104551": {
     "name": "무해한 해골바가지",
@@ -46731,10 +46711,6 @@
     "name": "용암아귀의 몸뚱이",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8374b262fef6ec88e3c0ede9b4b081d14e40c68d2d3d313ac85b85e19d828881.png"
   },
-  "127990": {
-    "name": "용암아귀의 몸뚱이",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a5819addefb18b54eb53fa8c390227cb3d29e4c1682f4a4d4115d1153295065.png"
-  },
   "127991": {
     "name": "용암아귀의 몸뚱이",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05c691212140bb18ce8ecb3a41da4b24f4379457374dfc678ab67d177085beb7.png"
@@ -46765,10 +46741,6 @@
   },
   "128005": {
     "name": "시간왜곡의 어둠춤꾼",
-    "img": null
-  },
-  "128006": {
-    "name": "시간왜곡의 풍운아",
     "img": null
   },
   "128009": {
@@ -48122,5 +48094,13 @@
   "132017": {
     "name": "불타는 창공전사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a71ccc81730b1037e26b187c2123e7b7049ef9a1bdcc12cef28a69d4ca7c16af.png"
+  },
+  "132279": {
+    "name": "하피의 발톱",
+    "img": null
+  },
+  "133310": {
+    "name": "가라앉은 끈기",
+    "img": null
   }
 }
