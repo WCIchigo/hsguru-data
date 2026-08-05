@@ -2687,18 +2687,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/857ea4ad5e3896e59fca879b504c9f4f2e90e102cf3d089fe779054a94005f42.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_999t6.jpg"
   },
-  "41062": {
-    "id": 41062,
-    "name": "번개같은 속도",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "<b>질풍</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ee6707c0cad01a17f56696bffeed47ed8118ab5789f5b8c582b2daa68c50dba.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_999t7.jpg"
-  },
   "41063": {
     "id": 41063,
     "name": "요동치는 보호막",
@@ -3455,6 +3443,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a19c7bf00950063c182c8d113a6144b270c84da9f645fe687b4e76e42c3757d6.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_829t1.jpg"
   },
+  "41943": {
+    "id": 41943,
+    "name": "테러닥스",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9dc5ec2917b601328a201143a2b95ad21bca7acb98297837c4abf6c8a66a277.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_834t1.jpg"
+  },
   "41946": {
     "id": 41946,
     "name": "갈바돈",
@@ -3658,30 +3658,6 @@
     "text": "내 턴이 끝날 때, 3/2 임프를 둘 소환합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/276164180f897db8f2d2998e463c07deefefefb24d31d6ac8172981cba3c3e7e.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_829t2.jpg"
-  },
-  "42329": {
-    "id": 42329,
-    "name": "해골 타작꾼",
-    "manaCost": 8,
-    "cardType": "하수인",
-    "minionType": "언데드",
-    "attack": 8,
-    "health": 8,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2cf5209a280d314da2c6878ba4cbbfb1c6896bafd866615c43121cffe6e2378.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_019t.jpg"
-  },
-  "42423": {
-    "id": 42423,
-    "name": "해골 집행자",
-    "manaCost": 5,
-    "cardType": "하수인",
-    "minionType": "언데드",
-    "attack": 5,
-    "health": 5,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c33094cb0d20781016e5900d158283aeb58f479d3923a050797b00ac6c41fd0.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_025t.jpg"
   },
   "42586": {
     "id": 42586,
@@ -4018,6 +3994,18 @@
     "text": "<b>속공</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77b261593a4a6a2359c5cdb7dca71a39e1179a29edc965bc4c036a760937dea6.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TRL_343bt1.jpg"
+  },
+  "43311": {
+    "id": 43311,
+    "name": "테러닥스",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 1,
+    "health": 4,
+    "text": "<b>주문 공격력 +1</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/becec512b78aa91860012df4cae60a1287012a6a46f171744b764182e09626c6.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TRL_343ct1.jpg"
   },
   "43314": {
     "id": 43314,
@@ -4570,6 +4558,18 @@
     "text": "<b>전투의 함성:</b> 내 하수인들에게 공격력을 +1 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed7420763d24ff5bf42f7e38bfe50017af429821700e8ac85dac014eb3578de2.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/LOOT_286t3.jpg"
+  },
+  "45779": {
+    "id": 45779,
+    "name": "용사의 망치",
+    "manaCost": 3,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>전투의 함성:</b> 1/1 은빛 성기사단 신병을 2명 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/088c9a3cce0ecebbd664956f34300d849787a170f9669e8037d8bdcaad43b2ed.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/LOOT_286t1.jpg"
   },
   "45780": {
     "id": 45780,
@@ -5627,18 +5627,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5564808218d8a6ba6d7ae1aab52235058164b6db5c6af86f6dca91ca4ca5c99e.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_828t5.jpg"
   },
-  "50143": {
-    "id": 50143,
-    "name": "썩은무리 거미",
-    "manaCost": 5,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 1,
-    "health": 3,
-    "text": "<b>독성</b> <b>속공</b> <b>독성</b>, <b>속공</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2a82f7508f9881f637d045320a53c03857f7ba550af6a62608e00b80b1d318a.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_828t6.jpg"
-  },
   "50144": {
     "id": 50144,
     "name": "흉포한 비늘가죽",
@@ -6263,18 +6251,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1293a21a4f06445a6199dc37b9632c19644eabe6b66860f1a92d7e92a6acc2a6.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ULD_431p.jpg"
   },
-  "53921": {
-    "id": 53921,
-    "name": "메뚜기",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 1,
-    "health": 1,
-    "text": "<b>속공</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b565f2c42151c3e8f85e38ecd3ff867e016dfa2f33805a69d643d86707eafda.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ULD_430t.jpg"
-  },
   "53923": {
     "id": 53923,
     "name": "하이에나",
@@ -6706,6 +6682,18 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e85f54f302dc3460d8678e70342a8a94dbd43416e8b3c2d8b5defb916ba53318.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cb24578e51bb3524a1ea29f3dc489b642bfa47bbca2d84af534b93226ea471d.jpg"
+  },
+  "55329": {
+    "id": 55329,
+    "name": "벌",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f035d2e53697b575428bf3ffed2ffc189a09c65a7119fee19784f3f9bbeb3d79.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ULD_134t.jpg"
   },
   "55366": {
     "id": 55366,
@@ -7751,6 +7739,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39ce435b95cce183ff4cf896e37bfe7d9f2a428738a7c8de29f82686d3c31b3e.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e893cdd4cab767424abc074f251f60e38246e8330627a34a3b10274ea97eac64.jpg"
   },
+  "57936": {
+    "id": 57936,
+    "name": "용사의 진은검",
+    "manaCost": 4,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 4,
+    "health": 2,
+    "text": "내 영웅이 공격할 때마다 생명력을 3 회복합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ce5595d3427c46aafd82ffc109add6b0eecfbdc425f44f82b6839a4f9854554.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86b46adc4ad19703827a6662741524a15d8294336b9a95fc59b72e3b5ab0cdd0.jpg"
+  },
   "57960": {
     "id": 57960,
     "name": "여사냥꾼",
@@ -8086,18 +8086,6 @@
     "text": "<b>영웅 능력</b> 이번 턴에 공격력을 + a1 얻습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83266ebd86c766f074362a1959de8507a5cb8297ac1e9c0632e2e7e225ddaef1.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a60b28b4a9bb70748ce68815582bbde7a0c2ebfdf70988adb51da88c5d655fc.jpg"
-  },
-  "60256": {
-    "id": 60256,
-    "name": "뼈그물 거미",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 2,
-    "health": 1,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f661b994590c9ad818895f6f24748141f48a942aba73813d837cbe578455e31.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_147t.jpg"
   },
   "60279": {
     "id": 60279,
@@ -9190,6 +9178,18 @@
     "text": "다른 카드를 뽑습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/199e47d9bf894a08004e16bee6f0f611dfb33071d61d992f1b5eb8fa7ae6768e.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_259t.jpg"
+  },
+  "62240": {
+    "id": 62240,
+    "name": "턱파괴검",
+    "manaCost": 3,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 3,
+    "health": 2,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0bcb8a8977e2e0968b9e245e142395d8455a8cbe1a74de5ae727ec19d1ca7b8.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_521t.jpg"
   },
   "62320": {
     "id": 62320,
@@ -10546,6 +10546,18 @@
     "text": "<b>도발</b>, <b>전투의 함성:</b> 정화된 파편을 내 덱에 섞어 넣습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3812f9d1270d9a57c653505a688592f173c70f8bfed8af6fbba4aa4acf2881f1.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_433t3.jpg"
+  },
+  "66408": {
+    "id": 66408,
+    "name": "번쩍펑 방해 장치",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "적 하수인을 주인의 손으로 돌려보냅니다. 그 하수인은 다음 턴에 낼 수 없습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb6b1ff6da63281f77414e4d653d3a5e3e93f7bb69a9457d719557259d5f68ad.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_052t4.jpg"
   },
   "66411": {
     "id": 66411,
@@ -15611,18 +15623,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de1bf825955bf4cb4a523bae053647ab9dbad59b784b50adf91ed9c85b003d8a.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_903t2.jpg"
   },
-  "96709": {
-    "id": 96709,
-    "name": "번성",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "내 마나 수정을 모두 회복합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45b176d115bd4d72cae401959221e60f92cb07be876f3f4c423b54618003d787.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_903t3.jpg"
-  },
   "96715": {
     "id": 96715,
     "name": "티탄벼림",
@@ -16391,18 +16391,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bf754b1c6a527ad0e1ac81058a78270990294ce27ce5a2f105093c631d5863f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_199t32.jpg"
   },
-  "97919": {
-    "id": 97919,
-    "name": "연구소 건설로봇",
-    "manaCost": 4,
-    "cardType": "하수인",
-    "minionType": "기계",
-    "attack": 3,
-    "health": 2,
-    "text": "<b>제련됨, 합체</b> 내 턴이 끝날 때, 이 하수인을 복사하여 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/537412e7799822cc5aed3e7bd2bffa2a0f2be8b50071a03f8cedcbb42aea77b9.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_730t.jpg"
-  },
   "98062": {
     "id": 98062,
     "name": "증원",
@@ -16882,6 +16870,18 @@
     "text": "상대편의 덱 맨 아래에 |1(을,를) 놓습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/901a0c8007f4d5b1759410ebe8211992d56bdbc23f1a00e026c2b7dfd38d0428.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_717t1.jpg"
+  },
+  "100075": {
+    "id": 100075,
+    "name": "라덴의 전류",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 영웅이 공격할 때 <b>면역</b> 상태가 됩니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc3c3c6cc081178426cf0e06635fcd40381902b28000b794fca634098f9541fb.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_060t9.jpg"
   },
   "100079": {
     "id": 100079,
@@ -21251,6 +21251,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/522cc60708cb6af2ba481a527d40db129bc810eb19d7964f3816388ac836a519.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SC_006.jpg"
   },
+  "112861": {
+    "id": 112861,
+    "name": "해병",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ac53ce691ed02a3cbb24c58d317b9f0c6636b289b0f7ec0a4381c51d14d6d02.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SC_403t.jpg"
+  },
   "112867": {
     "id": 112867,
     "name": "저글링",
@@ -21322,6 +21334,18 @@
     "text": "<b>우주선 부품</b> 이 부품이 발사될 때, 방어도를 5 얻습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a36888185997d25c0b64b0335a4610c1280d1bc198803c168c6a97c6f1e72437.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SC_403a.jpg"
+  },
+  "113240": {
+    "id": 113240,
+    "name": "해방선",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "기계",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>우주선 부품</b> 이 부품이 발사될 때, 모든 적 하수인에게 피해를 2 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/996ca84b6d5d1eb9597fbd91b2ffa181acb4b8a0f65e94e108a9cce6d2d839b7.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SC_403b.jpg"
   },
   "113242": {
     "id": 113242,
@@ -22679,6 +22703,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f06d55d414dc197ab60a4b138b7319a1513436dd6622ba5d30479f4c692c97f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_525B.jpg"
   },
+  "117286": {
+    "id": 117286,
+    "name": "서리불꽃 새끼용",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "용족",
+    "attack": 4,
+    "health": 4,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1358671c1a225b142119b503734ec3478733583180f360be6e8c5a6d41cf83c0.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/FIR_901t.jpg"
+  },
   "117304": {
     "id": 117304,
     "name": "악몽 절단기",
@@ -22763,6 +22799,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c087ba71ea65298f3de023aafc2473f83c29dbd28f5b5b6fd5650a864e6b8ab.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_209b.jpg"
   },
+  "117525": {
+    "id": 117525,
+    "name": "벌레 물린 데",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>시체</b>를 2개 소모해 하수인에게 피해를 4 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b41fe055242e125ea5991cac7292bdfe99e5b7ac706e7a56f122b69d22e14b55.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_813b.jpg"
+  },
   "117526": {
     "id": 117526,
     "name": "개미 허물",
@@ -22786,18 +22834,6 @@
     "text": "<b>퀘스트:</b> 신성 주문을 4개 시전해야 합니다. <b>보상:</b> 생명의 숨결",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c91789156a2e877527f9abe84507d3a161a2f1acd14e99ebfc3cc6c4f51a19fd.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_817t.jpg"
-  },
-  "117614": {
-    "id": 117614,
-    "name": "뼈",
-    "manaCost": 2,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "하수인에게 + /+ |1(을,를) 부여합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81cbd20e637c5be8c8b75773262c25e1e0a5b35da976b25c8a490ee2f78c3ea6.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_829t.jpg"
   },
   "117662": {
     "id": 117662,
@@ -23183,6 +23219,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ce00e60be808b8ab6d3006c61cc795b5a066dddae7f48cd096208667970a161.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_100t36.jpg"
   },
+  "117842": {
+    "id": 117842,
+    "name": "찬란한 수정",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "아군 하수인을 복사하여 1/1 하수인으로 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97c579b2a669c92ba1228914a2cee6fe33b96bfe1ad533f93dee5b8ae2a39283.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_100t17.jpg"
+  },
   "117843": {
     "id": 117843,
     "name": "찬란한 수정",
@@ -23326,6 +23374,18 @@
     "text": "<b>독성</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/822b457686a263cae7df0afa320d6e793295a58ae644c5c6b539ae270b7e14cd.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_468t1.jpg"
+  },
+  "118281": {
+    "id": 118281,
+    "name": "탱탱한 덩어리",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 2,
+    "health": 2,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f427edfa5c932f5ad79790f469334bc013e154d260b5e4cd66b544bd47745b6d.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_468t2.jpg"
   },
   "118288": {
     "id": 118288,
