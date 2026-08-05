@@ -2587,23 +2587,6 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
-  "458": {
-    "type": "토템",
-    "type2": null,
-    "text": "<b>주문 공격력 +1</b>",
-    "flavorText": null,
-    "keywords": "주문 공격력",
-    "spellSchool": null,
-    "attack": 0,
-    "health": 2,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": null,
-    "cardSet": "고전",
-    "rarityName": "무료",
-    "dustCost": 0
-  },
   "459": {
     "type": null,
     "type2": null,
@@ -52882,6 +52865,23 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "56228": {
+    "type": "용족",
+    "type2": null,
+    "text": null,
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 6,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Slawomir Maniak",
+    "cardSet": "용의 강림",
+    "rarityName": null,
+    "dustCost": null
+  },
   "56239": {
     "type": "용족",
     "type2": null,
@@ -71431,23 +71431,6 @@
     "cardSet": "불모의 땅",
     "rarityName": "일반",
     "dustCost": 40
-  },
-  "63226": {
-    "type": null,
-    "type2": null,
-    "text": null,
-    "flavorText": null,
-    "keywords": null,
-    "spellSchool": null,
-    "attack": 3,
-    "health": 2,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": "J. Cheung & A. Bozonnet",
-    "cardSet": "광기의 다크문 축제",
-    "rarityName": null,
-    "dustCost": null
   },
   "63227": {
     "type": null,
@@ -108895,6 +108878,23 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "92397": {
+    "type": "용족",
+    "type2": null,
+    "text": "내 턴이 끝날 때, 내 용족들에게 공격력을 + 부여하고 이 하수인을 강화합니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 4,
+    "health": 8,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
+    "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
   "92398": {
     "type": "언데드",
     "type2": [
@@ -109025,6 +109025,23 @@
     "spellSchool": null,
     "attack": 4,
     "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
+    "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
+  "92421": {
+    "type": "용족",
+    "type2": null,
+    "text": "내 턴이 끝날 때, 내 용족들에게 공격력을 + 부여하고 이 하수인을 강화합니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 8,
+    "health": 16,
     "durability": null,
     "armor": null,
     "collectible": false,
@@ -119684,23 +119701,6 @@
     "rarityName": null,
     "dustCost": null
   },
-  "98824": {
-    "type": "야수",
-    "type2": null,
-    "text": "내가 전투 중에 야수를 소환한 후에, 그 야수의 공격력이 2배가 됩니다.",
-    "flavorText": null,
-    "keywords": null,
-    "spellSchool": null,
-    "attack": 3,
-    "health": 6,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": "BOSi Studio",
-    "cardSet": null,
-    "rarityName": null,
-    "dustCost": null
-  },
   "98827": {
     "type": "야수",
     "type2": null,
@@ -123179,6 +123179,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "100999": {
+    "type": "가시멧돼지",
+    "type2": null,
+    "text": "<b>복수 (2)</b>: 이 하수인이 내 모든 가시멧돼지에게 <b>혈석</b>을 4개 냅니다.",
+    "flavorText": null,
+    "keywords": "혈석, 복수 (X)",
+    "spellSchool": null,
+    "attack": 6,
+    "health": 20,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Matt Dixon",
+    "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
   "101003": {
     "type": null,
     "type2": null,
@@ -125019,23 +125036,6 @@
     "rarityName": "일반",
     "dustCost": 40
   },
-  "101562": {
-    "type": null,
-    "type2": null,
-    "text": "이미 보유 중인 하수인을 얻을 때마다 내 하수인들에게 +2/+2를 부여합니다.",
-    "flavorText": null,
-    "keywords": null,
-    "spellSchool": null,
-    "attack": 5,
-    "health": 5,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": null,
-    "cardSet": null,
-    "rarityName": null,
-    "dustCost": null
-  },
   "101563": {
     "type": null,
     "type2": null,
@@ -125052,23 +125052,6 @@
     "cardSet": "티탄",
     "rarityName": "희귀",
     "dustCost": 100
-  },
-  "101564": {
-    "type": null,
-    "type2": null,
-    "text": "이미 보유 중인 하수인을 얻을 때마다 내 하수인들에게 +4/+4를 부여합니다.",
-    "flavorText": null,
-    "keywords": null,
-    "spellSchool": null,
-    "attack": 10,
-    "health": 10,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": null,
-    "cardSet": null,
-    "rarityName": null,
-    "dustCost": null
   },
   "101566": {
     "type": null,
@@ -135130,6 +135113,23 @@
     "spellSchool": null,
     "attack": 8,
     "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
+    "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
+  "104550": {
+    "type": "모두",
+    "type2": null,
+    "text": "내가 이 하수인을 사거나 <b>발견</b>하면, 이 하수인을 복사하여 <b>전달</b>합니다.",
+    "flavorText": null,
+    "keywords": "발견, 전달",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 4,
     "durability": null,
     "armor": null,
     "collectible": false,
@@ -155621,23 +155621,6 @@
     "armor": null,
     "collectible": false,
     "artist": "Tanamaes Leejierasaes",
-    "cardSet": "끝없는 어둠",
-    "rarityName": null,
-    "dustCost": null
-  },
-  "113709": {
-    "type": null,
-    "type2": null,
-    "text": "<b>우주선</b> <i>(마나 (5)로 발사 가능)</i> <b>우주선</b> <i>(부품 개로 구성됨)</i>",
-    "flavorText": null,
-    "keywords": "우주선",
-    "spellSchool": null,
-    "attack": 0,
-    "health": 0,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": "BOSi Studio",
     "cardSet": "끝없는 어둠",
     "rarityName": null,
     "dustCost": null
@@ -181133,23 +181116,6 @@
     "rarityName": null,
     "dustCost": null
   },
-  "121508": {
-    "type": "언데드",
-    "type2": null,
-    "text": "<b>전투의 함성:</b> 아군 언데드를 처치하고 언데드를 <b>발견</b>합니다.",
-    "flavorText": null,
-    "keywords": "전투의 함성, 발견",
-    "spellSchool": null,
-    "attack": 4,
-    "health": 5,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": "Alex Horley Orlandelli",
-    "cardSet": null,
-    "rarityName": null,
-    "dustCost": null
-  },
   "121509": {
     "type": "언데드",
     "type2": null,
@@ -193092,23 +193058,6 @@
     "rarityName": null,
     "dustCost": null
   },
-  "126869": {
-    "type": null,
-    "type2": null,
-    "text": "이번 턴에 내 영웅이 공격력을 +4 얻습니다. 방어도를 4 얻습니다.",
-    "flavorText": null,
-    "keywords": null,
-    "spellSchool": null,
-    "attack": null,
-    "health": null,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": "Vladimir Kafanov",
-    "cardSet": "보랏빛 요새 탈출 작전",
-    "rarityName": null,
-    "dustCost": null
-  },
   "126874": {
     "type": null,
     "type2": null,
@@ -196854,23 +196803,6 @@
     "rarityName": null,
     "dustCost": null
   },
-  "127503": {
-    "type": null,
-    "type2": null,
-    "text": "<b>기선 제압:</b> 가장 왼쪽에 있는 내 하수인의 공격력을 2배 증가시킵니다.",
-    "flavorText": null,
-    "keywords": null,
-    "spellSchool": null,
-    "attack": null,
-    "health": null,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": "L. Lullabi & K. Turovec",
-    "cardSet": null,
-    "rarityName": null,
-    "dustCost": null
-  },
   "127506": {
     "type": null,
     "type2": null,
@@ -198186,23 +198118,6 @@
     "rarityName": null,
     "dustCost": null
   },
-  "127764": {
-    "type": "정령",
-    "type2": null,
-    "text": "<b>죽음의 메아리:</b> 무작위 아군 하수인 둘에게 <b>질풍</b>, <b>천상의 보호막</b>, <b>도발</b>을 부여합니다.",
-    "flavorText": null,
-    "keywords": "도발, 천상의 보호막, 질풍, 죽음의 메아리",
-    "spellSchool": null,
-    "attack": 10,
-    "health": 6,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": null,
-    "cardSet": null,
-    "rarityName": null,
-    "dustCost": null
-  },
   "127765": {
     "type": null,
     "type2": null,
@@ -199365,6 +199280,25 @@
     "rarityName": null,
     "dustCost": null
   },
+  "127990": {
+    "type": "야수",
+    "type2": [
+      "기계"
+    ],
+    "text": "<b>죽음의 메아리:</b> 무작위 아군 하수인에게 공격력을 +2 부여합니다.",
+    "flavorText": null,
+    "keywords": "죽음의 메아리",
+    "spellSchool": null,
+    "attack": 2,
+    "health": 1,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
+    "cardSet": "대격변",
+    "rarityName": null,
+    "dustCost": null
+  },
   "127991": {
     "type": "야수",
     "type2": [
@@ -199503,6 +199437,23 @@
     "armor": null,
     "collectible": false,
     "artist": "Valeria Styajkina",
+    "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
+  "128006": {
+    "type": "정령",
+    "type2": null,
+    "text": "<b>새로고침</b>을 한 후에, 그 가장 오른쪽에 있는 하수인의 생명력을 2배 증가시킵니다.",
+    "flavorText": null,
+    "keywords": "새로고침",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 7,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Lea Faske",
     "cardSet": null,
     "rarityName": null,
     "dustCost": null
@@ -205285,29 +205236,12 @@
     "rarityName": null,
     "dustCost": null
   },
-  "132279": {
+  "132443": {
     "type": null,
     "type2": null,
-    "text": "<b>천상의 보호막</b> <b>질풍</b>",
+    "text": "<b>기선 제압:</b> 이 하수인의 <b>죽음의 메아리</b>를 발동시킵니다.",
     "flavorText": null,
-    "keywords": "천상의 보호막, 질풍",
-    "spellSchool": null,
-    "attack": null,
-    "health": null,
-    "durability": null,
-    "armor": null,
-    "collectible": false,
-    "artist": null,
-    "cardSet": null,
-    "rarityName": null,
-    "dustCost": null
-  },
-  "133310": {
-    "type": null,
-    "type2": null,
-    "text": "이 하수인의 <b>주문제작</b>이 영구히 유지됩니다.",
-    "flavorText": null,
-    "keywords": "주문제작",
+    "keywords": "죽음의 메아리",
     "spellSchool": null,
     "attack": null,
     "health": null,

@@ -419,18 +419,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d76d46135f98858afd64e9fee213dd09f900abdab1bbe0c374084d332d2dce0.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dae7e478bbcbf16716836670cc39ca751dd2e2d56bd7a30ba30fa2b7d0e57536.png"
   },
-  "458": {
-    "id": 458,
-    "name": "천벌의 토템",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "토템",
-    "attack": 0,
-    "health": 2,
-    "text": "<b>주문 공격력 +1</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fca413ca99f6fd07abe780d7c69862481a0ef0c37b2027b0e290fd3ffb34320.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a60b28b4a9bb70748ce68815582bbde7a0c2ebfdf70988adb51da88c5d655fc.jpg"
-  },
   "460": {
     "id": 460,
     "name": "놀",
@@ -7067,6 +7055,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e320f5a73ff10a085b991d57107bafdbd1a4ac1859a830c4d2ddad1076a394d5.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae68c45426f1b15f49b67ac2e89f99018b2a9ce51cf52f0472d39c468e7c1cbd.jpg"
   },
+  "56228": {
+    "id": 56228,
+    "name": "황천의 비룡",
+    "manaCost": 6,
+    "cardType": "하수인",
+    "minionType": "용족",
+    "attack": 6,
+    "health": 6,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cec18a57148d1306f5a81cc39998d17c68ef771abf389169cab0aaa5f08f5f3a.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ae510273fe993e1b20920ed8967736f3768104bbe76d3f5eb0d4cec05228564.jpg"
+  },
   "56265": {
     "id": 56265,
     "name": "쓸모없는 임프",
@@ -9706,18 +9706,6 @@
     "text": "3/2 임프를 셋 소환합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26ecc6a23c2db92cc8b959b146ad0b7cba160843c4042c215a25da0fa3d89229.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_914t2.jpg"
-  },
-  "63226": {
-    "id": 63226,
-    "name": "천막의 결투사",
-    "manaCost": 2,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 3,
-    "health": 2,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95d2ef8c156c5f4a62d3cfb1d2364f5b435cc785ba7d00f3f63fb63b33fb3e70.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_706t.jpg"
   },
   "63256": {
     "id": 63256,
@@ -21635,18 +21623,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53a0621477efb5a74b8e7446f312fa772cd5f752fe666600bbeed5813ad713f8.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/GDB_100t6.jpg"
   },
-  "113709": {
-    "id": 113709,
-    "name": "천공의 나침반호",
-    "manaCost": 0,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 0,
-    "health": 0,
-    "text": "<b>우주선</b> <i>(마나 (5)로 발사 가능)</i> <b>우주선</b> <i>(부품 개로 구성됨)</i>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f34f878d790190868a4790f87907cdef7fca39735f236cd5dfc31ecea7a0622.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/GDB_100t7.jpg"
-  },
   "113710": {
     "id": 113710,
     "name": "승냥이의 의지호",
@@ -26123,18 +26099,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50b6587fbcebc743636fd081cbd1c7b9abc6ca77c994f12d5943f20b2796c518.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_436t.jpg"
   },
-  "126869": {
-    "id": 126869,
-    "name": "과부거미의 연회",
-    "manaCost": 2,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "이번 턴에 내 영웅이 공격력을 +4 얻습니다. 방어도를 4 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94fb1507678a9975fc3e4b2978573f6b553fd70307bb8bdbe5dc63694cba4f8c.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_436t2.jpg"
-  },
   "126886": {
     "id": 126886,
     "name": "나무정령",
@@ -26518,6 +26482,18 @@
     "text": "<b>죽음의 메아리:</b> 무작위 아군 하수인에게 공격력을 +2 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8374b262fef6ec88e3c0ede9b4b081d14e40c68d2d3d313ac85b85e19d828881.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_550t2.jpg"
+  },
+  "127990": {
+    "id": 127990,
+    "name": "용암아귀의 몸뚱이",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>죽음의 메아리:</b> 무작위 아군 하수인에게 공격력을 +2 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a5819addefb18b54eb53fa8c390227cb3d29e4c1682f4a4d4115d1153295065.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_550t3.jpg"
   },
   "127991": {
     "id": 127991,
