@@ -26854,5 +26854,17 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a71ccc81730b1037e26b187c2123e7b7049ef9a1bdcc12cef28a69d4ca7c16af.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_EVENT_110t6t.jpg"
+  },
+  "132887": {
+    "id": 132887,
+    "name": "붕괴하는 별",
+    "manaCost": 1,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "무작위 적에게 피해를 줍니다. 내가 악마를 소환할 때마다, 이 영웅 능력을 새로고침합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77e4d822ed2daa27f880af189456896181852d1d9aa4f745eb53ebbbd2e9c56e.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_EVENT_101hp.jpg"
   }
 }

@@ -47271,6 +47271,10 @@
     "name": "시간의 끝의 알",
     "img": null
   },
+  "129959": {
+    "name": "왓핀",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f404fff755d6b6ac5a19a06435659576660f10b22033792034f14a716c4d742b.png"
+  },
   "129983": {
     "name": "연꽃 골칫덩이",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b551d1bd326f99fe9dd3d5c8888b6063e7676dac0bfea88aed89c2434975649.png"
@@ -47370,6 +47374,14 @@
   "130085": {
     "name": "악마 먹이",
     "img": null
+  },
+  "130086": {
+    "name": "영혼 제물",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2eb956945702d38932483b01c19537a02d839606031a1630e3c63d469d112aab.png"
+  },
+  "130087": {
+    "name": "절박한 뇌물",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c20b18a4016c7caa3f1680bb73129e5f4c83322253a63b733376dac5b928c0d2.png"
   },
   "130097": {
     "name": "맥스웰 스티커",
@@ -48346,6 +48358,10 @@
   "132835": {
     "name": "골렘술",
     "img": null
+  },
+  "132887": {
+    "name": "붕괴하는 별",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77e4d822ed2daa27f880af189456896181852d1d9aa4f745eb53ebbbd2e9c56e.png"
   },
   "132903": {
     "name": "체계적 광기",
