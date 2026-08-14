@@ -5655,6 +5655,14 @@
     "health": null,
     "text": "내가 상급 <b>장신구</b>를 구매하면, 그 장신구로 변신합니다."
   },
+  "132307": {
+    "name": "영혼감시 간수",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_503_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e05fa881bca343b22123b17348888a273c2a8bae35d38d35cb6a8dccd47d384f.png",
+    "attack": 6,
+    "health": 10,
+    "text": "<b>사용 ( ):</b> 내 악마들이 각각 선술집에 있는 무작위 하수인을 잡아먹고 그 하수인의 능력치를 2배로 얻습니다."
+  },
   "132319": {
     "name": "사립 탐정",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_509_G_triple.png",
@@ -5767,6 +5775,30 @@
     "health": 22,
     "text": "아군 <b>집결</b> 하수인이 공격한 후에, 가장 왼쪽에 있는 내 <b>죽음의 메아리</b> 능력을 두 번 발동시킵니다."
   },
+  "132898": {
+    "name": "종에 갇힌 추",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_730_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/193a2f49ca039393a89a103db6f92b4b5d9f2239bc7bf52563c285ceb0303580.png",
+    "attack": 4,
+    "health": 4,
+    "text": "<b>죽음의 메아리:</b> 내 다음 번의 <b>새로고침</b>에 <b>먹이</b>를 둘 추가합니다."
+  },
+  "132900": {
+    "name": "임프 환영술사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_731_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c420e65ad70468d3909b4ecb5da00efbf780add0687b4960d8e83a8a0430f22.png",
+    "attack": 12,
+    "health": 6,
+    "text": "<b>죽음의 메아리:</b> 체계적 광기를 개 복사하여 얻습니다."
+  },
+  "132902": {
+    "name": "악마 같은 교란자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_762_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89b78eed9b8e2efc690a7dde523e57c47956137b535ee9c2413f58929e2a1d05.png",
+    "attack": 6,
+    "health": 12,
+    "text": "내가 이 하수인에게 주문을 시전할 때마다, 이번 게임 동안 선술집에 있는 하수인들에게 + /+ |1(을,를) 부여합니다."
+  },
   "132922": {
     "name": "영리한 조난자",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_342_G_triple.png",
@@ -5823,6 +5855,14 @@
     "health": 2,
     "text": null
   },
+  "133029": {
+    "name": "에레다르 도피자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_733_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43bc1f0f00fa3befa03ad4df220c808f9bd2be5f70a3b0f619e43a1b8f573645.png",
+    "attack": 10,
+    "health": 10,
+    "text": "내 영웅이 피해를 받은 후에, 능력치를 부여하는 무작위 선술집 주문을 둘 얻습니다. <i>( 남음!)</i>"
+  },
   "133040": {
     "name": "물욕 많은 하이에나",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_210_G_triple.png",
@@ -5878,6 +5918,14 @@
     "attack": null,
     "health": null,
     "text": "내 턴이 끝날 때, / <b>합체</b> 위성을 얻습니다. <i>(이번 턴에 내가 시전한 선술집 주문의 수만큼 강화됩니다!)</i>"
+  },
+  "133706": {
+    "name": "날렵한 탈영병",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_621_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cadcd432835b62f80f0a1a39253990ae998b0718a94a7366193e119746b151ba.png",
+    "attack": 16,
+    "health": 16,
+    "text": "<b>사용 ( ):</b> 선술집에 있는 모든 하수인에게 + /+ |1(과,와) <b>도발</b>, <b>천상의 보호막</b>, 또는 <b>질풍</b>을 부여합니다."
   },
   "134010": {
     "name": "파멸 느끼기",

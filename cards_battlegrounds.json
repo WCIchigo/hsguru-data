@@ -6154,6 +6154,30 @@
     ]
   },
   {
+    "id": 132897,
+    "name": "종에 갇힌 추",
+    "enname": "Trapped Clapper",
+    "cardType": "하수인",
+    "tier": 3,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 2,
+    "health": 2,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리, 새로고침",
+    "text": "<b>죽음의 메아리:</b> 내 다음 번의 <b>새로고침</b>에 <b>먹이</b>를 추가합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e6f6970e04c0d3ea8a26ca1eaa10aac92c469ff4341aadb532cc9cfb85add84.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/193a2f49ca039393a89a103db6f92b4b5d9f2239bc7bf52563c285ceb0303580.png",
+    "childIds": [
+      132898
+    ]
+  },
+  {
     "id": 108922,
     "name": "진흙탕 채집꾼",
     "enname": "Diremuck Forager",
@@ -7094,6 +7118,30 @@
     ]
   },
   {
+    "id": 132901,
+    "name": "악마 같은 교란자",
+    "enname": "Devilish Distractor",
+    "cardType": "하수인",
+    "tier": 4,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 3,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내가 이 하수인에게 주문을 시전할 때마다, 이번 게임 동안 선술집에 있는 하수인들에게 + /+ |1(을,를) 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71a20696311eb05a4155b484c025bc87a6004a12fbc0b1c8dae0685d3c640bd7.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89b78eed9b8e2efc690a7dde523e57c47956137b535ee9c2413f58929e2a1d05.png",
+    "childIds": [
+      132902
+    ]
+  },
+  {
     "id": 126451,
     "name": "역병질주자",
     "enname": "Plaguerunner",
@@ -7163,6 +7211,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61457463fe0f62b51f40d072fd6c7993688f590aec2e21cafb351882ae638d87.png",
     "childIds": [
       108464
+    ]
+  },
+  {
+    "id": 132306,
+    "name": "영혼감시 간수",
+    "enname": "Soulkeeping Jailer",
+    "cardType": "하수인",
+    "tier": 4,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 3,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>사용 ( ):</b> 내 악마들이 각각 선술집에 있는 무작위 하수인을 잡아먹고 그 하수인의 능력치를 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2282ea19c2c61b7cf60b9ae70c662c4a58148282b92a835f0609d182d805b1ad.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e05fa881bca343b22123b17348888a273c2a8bae35d38d35cb6a8dccd47d384f.png",
+    "childIds": [
+      132307
     ]
   },
   {
@@ -7615,6 +7687,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75eddb0787796a754da552d2e2e0806d33b6d2aa99d1a9c17502d379e00ea5c8.png",
     "childIds": [
       130082
+    ]
+  },
+  {
+    "id": 133705,
+    "name": "날렵한 탈영병",
+    "enname": "Deft Deserter",
+    "cardType": "하수인",
+    "tier": 5,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 8,
+    "health": 8,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "도발, 천상의 보호막, 질풍",
+    "text": "<b>사용 ( ):</b> 선술집에 있는 모든 하수인에게 + /+ |1(과,와) <b>도발</b>, <b>천상의 보호막</b>, 또는 <b>질풍</b>을 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/541d30cb63c127d013a4af09cc5ebcbdc34c20b8d9214a10b913a59833f0a58c.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cadcd432835b62f80f0a1a39253990ae998b0718a94a7366193e119746b151ba.png",
+    "childIds": [
+      133706
     ]
   },
   {
@@ -8165,6 +8261,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a5f32058234817a6f42f6f1abe9a992dc98bc07d042a9c34bb8cb5797acdc29.png",
     "childIds": [
       122521
+    ]
+  },
+  {
+    "id": 132899,
+    "name": "임프 환영술사",
+    "enname": "Imp-lusionist",
+    "cardType": "하수인",
+    "tier": 5,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 6,
+    "health": 3,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리",
+    "text": "<b>죽음의 메아리:</b> 체계적 광기를 개 복사하여 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6cf97ffa949dc1b48de47d1a4da44f2be600b30c671faa9c89cf0c2f4db7a39.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c420e65ad70468d3909b4ecb5da00efbf780add0687b4960d8e83a8a0430f22.png",
+    "childIds": [
+      132900
     ]
   },
   {
@@ -8978,6 +9098,30 @@
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05305bc75f51913303aec1ef188446fb63dcbf1dfc860895381acd82a1efe593.png",
     "childIds": null
+  },
+  {
+    "id": 133028,
+    "name": "에레다르 도피자",
+    "enname": "Eredar Escapist",
+    "cardType": "하수인",
+    "tier": 6,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 5,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내 영웅이 피해를 받은 후에, 능력치를 부여하는 무작위 선술집 주문을 얻습니다. <i>( 남음!)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/438a510c54f8acc5810ea6e67f8a93ba0ecd3230cb485a64a158a1f263e0057c.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43bc1f0f00fa3befa03ad4df220c808f9bd2be5f70a3b0f619e43a1b8f573645.png",
+    "childIds": [
+      133029
+    ]
   },
   {
     "id": 95263,
