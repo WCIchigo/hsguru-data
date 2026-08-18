@@ -24200,7 +24200,7 @@
     "attack": null,
     "health": null,
     "text": "상대편에게 1/1 악마를 소환해 줍니다. 그 악마가 죽으면 카드를 뽑고 다음 차원문을 내 덱에 섞어 넣습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bc83a1c522e1e1d8d5af753f097544736bf95d9f8a62147e7113617e4ae9de4.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd46910b5521114733b390e6d308e95ace338d8a9e19dd7046412715e05bd86e.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_020t2.jpg"
   },
   "120142": {
@@ -25662,9 +25662,9 @@
     "cardType": "하수인",
     "minionType": "정령",
     "attack": 1,
-    "health": 4,
+    "health": 5,
     "text": "이 하수인이 피해를 받을 때마다 무작위 화염 주문을 얻습니다. 그 주문의 비용이 (3) 감소합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa51af1cc63b72b0e5382ebf3297fc2614f65156432abfe09f72246b9f40264b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f4c780dc1c3bd2ce8e344d15b4c22b60a1fca789fb2ce36f64553dd6a870d40.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_488t.jpg"
   },
   "123743": {
@@ -26071,8 +26071,8 @@
     "minionType": null,
     "attack": null,
     "health": null,
-    "text": "<b>뽑을 때 시전</b> 모든 적에게 5의 피해를 무작위로 나누어 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da50c0722cf561bcb1358a43a6df6b96d484d74300b2311ec5bea3d6f9ebe85b.png",
+    "text": "<b>뽑을 때 시전</b> 모든 적에게 4의 피해를 무작위로 나누어 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/347251d15d606dc890a415e85a6ed0a0cae706e4c3f7d24630f795156f848d5f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_881t.jpg"
   },
   "126476": {
@@ -26335,8 +26335,8 @@
     "minionType": null,
     "attack": null,
     "health": null,
-    "text": "<b>지속 능력</b>, 매 턴마다 내가 처음 내는 하수인의 비용이 (2) 감소합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5c39dce5a3fe7277653cdf47659f60bd4a338b644992dbcb4bb8fca1385393d.png",
+    "text": "<b>지속 능력</b>, 매 턴마다 내가 처음 내는 하수인의 비용이 (2) 감소합니다. <i>(3턴에 잠금 해제됩니다.)</i> <b>지속 능력</b>, 매 턴마다 내가 처음 내는 하수인의 비용이 (2) 감소합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be969cb30cac781b1cb00710e50c9011c3120e903b81030ef583d1596b1fa80b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_800hp1.jpg"
   },
   "127476": {
@@ -26610,9 +26610,9 @@
     "cardType": "하수인",
     "minionType": "정령",
     "attack": 1,
-    "health": 4,
+    "health": 5,
     "text": "이 하수인이 피해를 받을 때마다 무작위 화염 주문을 얻습니다. 그 주문의 비용이 (3) 감소합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8192a31a5637120edbd39656f92c890c1071a4ba988b497f301f4c2a51764eaa.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97b9e1185732e97e3b508add8875e31eb829b9fbbd19370fb29021f8ef2c95f9.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_488t2.jpg"
   },
   "128060": {
