@@ -172,7 +172,12 @@
     "Exclude Cards": "제외 카드",
     "Search Streamer": "스트리머 검색",
     "Start Time": "개시 시간",
-    "Tags": "태그"
+    "Tags": "태그",
+    "Min Mull Count": "최소 멀리건 횟수",
+    "Min Drawn Count": "최소 드로우 횟수",
+    "Counts Alongside Impact": "영향력 옆 횟수 표시",
+    "Weighted Colors": "가중 평균 색상",
+    "Positive/Negative Colors": "양수/음수 색상"
   },
   "카드 세트": {
     "Escape from Violet Hold": "보랏빛 요새 탈출 작전",
@@ -344,7 +349,10 @@
     "Not Drawn Impact↓": "미드로우 영향력↓",
     "Not Drawn Impact↑": "미드로우 영향력↑",
     "Kept Impact↓": "유지 영향력↓",
-    "Kept Impact↑": "유지 영향력↑"
+    "Kept Impact↑": "유지 영향력↑",
+    "Not Drawn Count": "드로우 안 된 횟수",
+    "Sample Size:": "표본 크기:",
+    "Privacy Policy": "개인정보 처리방침"
   },
   "아키타입": {
     "Standard": "정규전",
@@ -571,14 +579,6 @@
     "Magmaw": "용암아귀",
     "Maiev": "마이에브",
     "Thal'ena": "탈레나",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
     "": "",
     "": "",
     "": "",
