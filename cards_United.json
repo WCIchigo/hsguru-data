@@ -12895,6 +12895,10 @@
     "name": "쌍날 베기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54373eb1a8614e0b6b1c137374c70b53250e4f9e0b6627bcac322b27e9076968.png"
   },
+  "56935": {
+    "name": "후속 베기",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2431036ed1064f6f3e86e7b355932b0f6416ebbd44bc32cb166ec372ef522191.png"
+  },
   "56973": {
     "name": "눈먼 감시자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3af4d111712f5b23cfb8514bb4defd2ce6ffbb9d51b1f93c27574c393fa084a9.png"
@@ -15790,6 +15794,10 @@
   "61915": {
     "name": "악마사냥꾼 훈련",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbb57e72208ed958b5784f23cdb319df30282237d5b31609fc01fb364cabb4ed.png"
+  },
+  "61917": {
+    "name": "신록의 구슬",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e18d6d05089f3ff930e287a2b77a1a41f6571683c5b14b89aeb278a282a6798d.png"
   },
   "61919": {
     "name": "감금",
@@ -33955,6 +33963,10 @@
     "name": "평안한 안식",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79ee4447926ee769d94ca52eab773f49c66ae192a132aded92167aa45af622d0.png"
   },
+  "109261": {
+    "name": "후렴 해적",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ee01631611c3ced1d0b236a851a677c294517e0ec0eeca70208614cef263ab8.png"
+  },
   "109262": {
     "name": "뱃노래",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fff617f062b0f100e3e39474b7803476aadab5412dc6fe79187f7651c9a3505d.png"
@@ -37475,6 +37487,10 @@
     "name": "허세 라이더",
     "img": null
   },
+  "115571": {
+    "name": "비전 포병",
+    "img": null
+  },
   "115572": {
     "name": "비전 포병",
     "img": null
@@ -38009,6 +38025,14 @@
   },
   "116024": {
     "name": "반향의 비룡",
+    "img": null
+  },
+  "116025": {
+    "name": "효율적인 기술자",
+    "img": null
+  },
+  "116026": {
+    "name": "효율적인 기술자",
     "img": null
   },
   "116035": {
@@ -39855,6 +39879,10 @@
     "name": "자원 합치기",
     "img": null
   },
+  "119144": {
+    "name": "자원 합치기",
+    "img": null
+  },
   "119157": {
     "name": "황금의 우정",
     "img": null
@@ -40747,6 +40775,10 @@
     "name": "하피의 발톱",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05184671156b6ec6b1fa9c49088dbed23af5708d0826446831eb828eeabc9112.png"
   },
+  "120259": {
+    "name": "초비행 회전날개",
+    "img": null
+  },
   "120260": {
     "name": "지능형 제어 장치",
     "img": null
@@ -40957,6 +40989,10 @@
   },
   "120333": {
     "name": "미사일 포",
+    "img": null
+  },
+  "120334": {
+    "name": "초고용량 축전기",
     "img": null
   },
   "120344": {
@@ -42995,6 +43031,10 @@
     "name": "핏빛 정제사",
     "img": null
   },
+  "122568": {
+    "name": "엄니 야영자",
+    "img": null
+  },
   "122569": {
     "name": "엄니 야영자",
     "img": null
@@ -43670,6 +43710,10 @@
   "123339": {
     "name": "붉은 위상 정수",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11d7dbd6e710fa7d8a6e95a4f336897378681620e7e79df14bb9ec499d7d492a.png"
+  },
+  "123340": {
+    "name": "푸른 위상 정수",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b58e0d3baa2863142299e060ec1925ea56864907329c82dea787324c67aff88.png"
   },
   "123341": {
     "name": "청동 위상 정수",
@@ -44995,6 +45039,10 @@
     "name": "붉은 오색비룡",
     "img": null
   },
+  "126724": {
+    "name": "푸른 오색비룡",
+    "img": null
+  },
   "126725": {
     "name": "검은 오색비룡",
     "img": null
@@ -45383,6 +45431,34 @@
     "name": "SI:7 학살자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d991ee62a8a28a36af00df9211e4a5714f7651ab4e654f0fe9f7c121068ca8d.png"
   },
+  "127012": {
+    "name": "포대장",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/659af9920a7dd985efb138225923f4c7d995930eb1e63a75c18fa9259f17e916.png"
+  },
+  "127013": {
+    "name": "퓨즈를 따라",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/916aaf4ab75ec0368d68d3331e0cf54b8508fe9d704eb2456405e499e87536aa.png"
+  },
+  "127014": {
+    "name": "육지다!",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0826c55c1da14978855a46226a6928f2d229dd3b97b58751045a7e1bbfff93d8.png"
+  },
+  "127015": {
+    "name": "손대포",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c7a0d44e2fa90c4011e7f4e4c28fc41bf82953d1037d538e85177ac0cf70652.png"
+  },
+  "127016": {
+    "name": "화약 공학자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26313b05bcb5cd5d7f55d253184841b2c6fbb08a7414c7bed708942da380ec3b.png"
+  },
+  "127017": {
+    "name": "걸고 던지기",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0251fe614d2a23029f8810cf2d8a797e7323e69eac497f3ee3d3c0ab521f798.png"
+  },
+  "127019": {
+    "name": "선장 크롤리",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e642a6f90de4b3987dbd089fdcecb1d6183f20a0f3376266a7ffc7841928af3.png"
+  },
   "127024": {
     "name": "임프 정보통",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/854df84c6bf2e08bec4c550652a32d86f82885242b72b22b2ce8c6cacf1511b0.png"
@@ -45435,9 +45511,37 @@
     "name": "가혹한 형",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49806ea76704c314958c1e036a40272d32310a26aaee5cd3ad07c37dd7f67b1a.png"
   },
+  "127060": {
+    "name": "죄악의 군마",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d42c2f2776e5a28c81b66bcfa85b6e0a4af7bc81c5eaf3a649a27c3b19d852e.png"
+  },
+  "127061": {
+    "name": "유령 출몰",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17afedcbfefa0fef451d1c370a8064331bda3d1c7d8ea2b9fd4f65610d8c2c8f.png"
+  },
+  "127062": {
+    "name": "유령들을 따라",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ace59edad03e67f2aa31e23c725a073331090e59e15c496323e730645c73247f.png"
+  },
+  "127063": {
+    "name": "으스스한 유령",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/374dfbbb40e0024f86f350614fac69f5e857fc674a55f8bafc145f8378dd4c37.png"
+  },
+  "127064": {
+    "name": "배회하는 혼령",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/977366e6faa864ef7c5401d6ebb3b49a32d898e3c9df04acc12895fa32443ceb.png"
+  },
+  "127065": {
+    "name": "망령 전문가",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8876b69637e5002c1ca32c6a1195b2b8a2997b4a022529e05da7dfd01c290da1.png"
+  },
   "127067": {
     "name": "대부 카자쿠스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f80f04d4c18cd06bf7dca4dd84d6e217c1a1838e1bf50a26eb36b51a8eb107b.png"
+  },
+  "127068": {
+    "name": "레이스 반 가이스트",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22ce9e9e32eed163f298a17b2636dfd10f4528494212c1b5619609c28d6a46e5.png"
   },
   "127071": {
     "name": "알아키르의 병사",
@@ -45463,6 +45567,10 @@
     "name": "비밀결사 배후조종자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7e0180bbc68925a18df10280cd2a1df057ca0800d4e832d3f2e5d1016e2cee0.png"
   },
+  "127092": {
+    "name": "다 녹여 버려!",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2db071b179cd714c3c85affb628a04652278f00de385d6e562254651719d26fe.png"
+  },
   "127096": {
     "name": "시간왜곡의 피리꾼",
     "img": null
@@ -45470,6 +45578,10 @@
   "127097": {
     "name": "시간왜곡의 멧돼지",
     "img": null
+  },
+  "127099": {
+    "name": "대포전문가",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b027ecd54d9b6ffc1d3b04aa5c992065d99143978152335837aa74a9a293983.png"
   },
   "127105": {
     "name": "사이쿠스",
@@ -45510,6 +45622,10 @@
   "127114": {
     "name": "굳건한 코도",
     "img": null
+  },
+  "127118": {
+    "name": "심령체",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b4cb8cf3e95b21c3069174508decaf4e2e820de442df59dbc7f717f47c6d5cf.png"
   },
   "127126": {
     "name": "시간왜곡의 사우로리스크",
@@ -47275,6 +47391,10 @@
     "name": "대마녀 윌로우",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d0e72d2d675fa057fa21e9a365ed2f268bd31f2b7cd49f6aa6ebddcd388051c.png"
   },
+  "129888": {
+    "name": "현상 수배 전단",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a4e0c92fcdc9152caa75c8a8a14ddbc6835919ddf7e43e084934c84fd39f2b3.png"
+  },
   "129894": {
     "name": "검은무쇠 전령",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de603e9548267ed4858a1f73be2833c416914e89c8cc6d13393d0e010e44c7c4.png"
@@ -48383,6 +48503,14 @@
     "name": "급한 재판",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f25d61050615c25820c49bf6f4cb13ee1a1ac60c312d13ff3c6d779e9634c0c7.png"
   },
+  "132830": {
+    "name": "지지부진한 재판",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/071b286d023f608b53f38e5d5e7a0983f0a60068befe2a1d8d5cef426920b6e8.png"
+  },
+  "132831": {
+    "name": "끝나지 않는 재판",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59917e7e22e7f233f167d558a85b47e8ccf7a3841db208e1e2501f606a7ae39e.png"
+  },
   "132833": {
     "name": "무적",
     "img": null
@@ -48418,6 +48546,14 @@
   "132850": {
     "name": "범죄 계약서",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3391f5ddc79fd05411f54320f23d549049374d90d38587df1f30dfd8916b8ab9.png"
+  },
+  "132851": {
+    "name": "위증의 물약",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33b0f03bb1a9d441a66f50f55955d516ead54f90ef45ba90d742ae68b9775884.png"
+  },
+  "132856": {
+    "name": "피암시성의 수액",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/653e1d285a6ec27b5f23f9869816b4007bb20280daba873f88e7d420d015b292.png"
   },
   "132874": {
     "name": "지지부진한 재판",

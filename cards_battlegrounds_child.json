@@ -319,6 +319,14 @@
     "health": null,
     "text": "아군 하수인 열넷이 공격한 후에, 매 턴마다 내가 처음 사는 하수인의 비용이 무료가 됩니다. <i>( 남음!)</i>"
   },
+  "61917": {
+    "name": "신록의 구슬",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e18d6d05089f3ff930e287a2b77a1a41f6571683c5b14b89aeb278a282a6798d.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46dd0ad6e939417ecd5eff17bab4a6be337855849ab45e979cb9a7af3d130e88.png",
+    "attack": null,
+    "health": null,
+    "text": "내가 하수인을 3번 산 후에, 선술집 동전을 얻습니다."
+  },
   "61919": {
     "name": "감금",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55f19329ea54cb92aa7e1b0bcf6ea5ec70ddd7b99fe2b46cb503e45b9b4ce932.png",
@@ -3271,6 +3279,14 @@
     "health": 4,
     "text": null
   },
+  "119144": {
+    "name": "자원 합치기",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_Anomaly_007t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab23784f9bb7e9ee7f03009ecbfed7e5a3c6f594b4c73517394ad6edda859d09.png",
+    "attack": null,
+    "health": null,
+    "text": "내 팀원이 1골드를 얻습니다. <i>(한 턴에 두 번)</i> 내 팀원이 1골드를 얻습니다. <i>( 남음!)</i>"
+  },
   "119196": {
     "name": "차원 관문",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_802p.png",
@@ -3422,6 +3438,14 @@
     "attack": 6,
     "health": 8,
     "text": "<b>선택 -</b> 내 선술집 주문들이 이번 게임 동안 추가로 공격력을 +2, 또는 생명력을 +2 부여합니다."
+  },
+  "120259": {
+    "name": "초비행 회전날개",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_801pta.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92386f22aeb94572ccb4ba58fbb3cfb22ac5a6e12572c842f41d77fcebc04d7b.png",
+    "attack": null,
+    "health": null,
+    "text": "내 전투순양함에 공격력을 + 부여합니다."
   },
   "120260": {
     "name": "지능형 제어 장치",
@@ -3790,6 +3814,14 @@
     "attack": null,
     "health": null,
     "text": "내 전투순양함의 야마토 포가 2번 발동합니다."
+  },
+  "120334": {
+    "name": "초고용량 축전기",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_801ptj2.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/601a5bebe60fa23cc0c11a1d9a50b41affed180c7124298e731c147dfeeef27f.png",
+    "attack": null,
+    "health": null,
+    "text": "내 전투순양함에 <b>환생</b>과 \"최대 생명력과 강화 효과를 모두 회복한 상태로 <b>환생</b>함\" 능력을 부여합니다."
   },
   "120359": {
     "name": "애벌레",

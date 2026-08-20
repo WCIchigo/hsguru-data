@@ -7295,6 +7295,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ca99aefe36834003da367dfa3d2dd39cc0728263e24f1910e0e661c12895fa4.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f83846c4de6e69bbf60ba7562c210c441c2f9b54fb234c1c40e7df82f8e2b3a.jpg"
   },
+  "56935": {
+    "id": 56935,
+    "name": "후속 베기",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "이번 턴에 내 영웅이 공격력을 +2 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2431036ed1064f6f3e86e7b355932b0f6416ebbd44bc32cb166ec372ef522191.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72bf4e0ccff484c830c3f1289bcc31633d4082397bd2fbcf1c030e37e36aecc8.jpg"
+  },
   "57055": {
     "id": 57055,
     "name": "초소형 비행체",
@@ -19979,6 +19991,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c84f4166f9078927018a2679d7081d52eec01c9e926251f45bd74376c2475c9a.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_829hp3.jpg"
   },
+  "109261": {
+    "id": 109261,
+    "name": "후렴 해적",
+    "manaCost": 5,
+    "cardType": "하수인",
+    "minionType": "해적",
+    "attack": 5,
+    "health": 5,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ee01631611c3ced1d0b236a851a677c294517e0ec0eeca70208614cef263ab8.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_558t.jpg"
+  },
   "109325": {
     "id": 109325,
     "name": "맛있는 지렁이",
@@ -25487,6 +25511,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11d7dbd6e710fa7d8a6e95a4f336897378681620e7e79df14bb9ec499d7d492a.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_EVENT_110t2.jpg"
   },
+  "123340": {
+    "id": 123340,
+    "name": "푸른 위상 정수",
+    "manaCost": 6,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "주문을 3개 뽑습니다. 붙어 있는 모든 위상 정수를 시전합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b58e0d3baa2863142299e060ec1925ea56864907329c82dea787324c67aff88.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_EVENT_110t3.jpg"
+  },
   "123341": {
     "id": 123341,
     "name": "청동 위상 정수",
@@ -26183,6 +26219,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/217be24eb111252a2b9a9e3230c3af5e9fd07353fc603625eb6e045b5a2a5472.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_158t.jpg"
   },
+  "127012": {
+    "id": 127012,
+    "name": "포대장",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "해적",
+    "attack": 1,
+    "health": 1,
+    "text": "내 턴이 끝날 때, 무작위 적에게 피해를 1 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/659af9920a7dd985efb138225923f4c7d995930eb1e63a75c18fa9259f17e916.png",
+    "cropImage": null
+  },
   "127024": {
     "id": 127024,
     "name": "임프 정보통",
@@ -26219,6 +26267,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90e87c62a72b067264e1c71ee097295f722a090713dad97d919ba2d96855a22d.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_153t1.jpg"
   },
+  "127063": {
+    "id": 127063,
+    "name": "으스스한 유령",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": "언데드",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>환생</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/374dfbbb40e0024f86f350614fac69f5e857fc674a55f8bafc145f8378dd4c37.png",
+    "cropImage": null
+  },
   "127071": {
     "id": 127071,
     "name": "알아키르의 병사",
@@ -26242,6 +26302,18 @@
     "text": "<b>죽음의 메아리:</b> 무작위 적에게 피해를 줍니다. <i>2회 <b>예고</b> 시 강화됩니다.</i> <b>죽음의 메아리:</b> 무작위 적에게 피해를 줍니다. <i>1회 <b>예고</b> 시 강화됩니다.</i> <b>죽음의 메아리:</b> 무작위 적에게 피해를 줍니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/415c7c08de80b9f8ec6120fd3b7c04b5252376a039b700f96d8c5f7d45584349.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_580t.jpg"
+  },
+  "127118": {
+    "id": 127118,
+    "name": "심령체",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "녹아 버린 내 하수인을 모두 다시 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b4cb8cf3e95b21c3069174508decaf4e2e820de442df59dbc7f717f47c6d5cf.png",
+    "cropImage": null
   },
   "127152": {
     "id": 127152,
@@ -26879,6 +26951,30 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f25d61050615c25820c49bf6f4cb13ee1a1ac60c312d13ff3c6d779e9634c0c7.png",
     "cropImage": null
   },
+  "132830": {
+    "id": 132830,
+    "name": "지지부진한 재판",
+    "manaCost": 4,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "1턴 후에,",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/071b286d023f608b53f38e5d5e7a0983f0a60068befe2a1d8d5cef426920b6e8.png",
+    "cropImage": null
+  },
+  "132831": {
+    "id": 132831,
+    "name": "끝나지 않는 재판",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "턴 후에,",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59917e7e22e7f233f167d558a85b47e8ccf7a3841db208e1e2501f606a7ae39e.png",
+    "cropImage": null
+  },
   "132837": {
     "id": 132837,
     "name": "파괴죄로 구금",
@@ -26961,6 +27057,30 @@
     "health": null,
     "text": "비용이 3인 무작위 하수인을 셋 소환합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3391f5ddc79fd05411f54320f23d549049374d90d38587df1f30dfd8916b8ab9.png",
+    "cropImage": null
+  },
+  "132851": {
+    "id": 132851,
+    "name": "위증의 물약",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 손에 있는 하수인들의 비용이 (2) 감소합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33b0f03bb1a9d441a66f50f55955d516ead54f90ef45ba90d742ae68b9775884.png",
+    "cropImage": null
+  },
+  "132856": {
+    "id": 132856,
+    "name": "피암시성의 수액",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 영웅이 생명력을 12 회복합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/653e1d285a6ec27b5f23f9869816b4007bb20280daba873f88e7d420d015b292.png",
     "cropImage": null
   },
   "132874": {
