@@ -1,4 +1,4 @@
-# 전부 무시 → 업로드 대상 JSON 9개만 허용
+# 전부 무시 → 업로드 대상 JSON만 허용
 # (.env / node_modules / update_cards.js / debug 스크립트 / logs / 소스 JSON 등 전부 차단)
 *
 
@@ -16,3 +16,6 @@
 
 !cards_battlegrounds.json
 !cards_battlegrounds_child.json
+
+!cards_entext.json
+!cards_bg_entext.json
