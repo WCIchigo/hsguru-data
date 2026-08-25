@@ -24764,7 +24764,7 @@
     "attack": 6,
     "health": 6,
     "text": "<b>전투의 함성:</b> 무작위 마법사 <b>비밀</b>을 1개 시전합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d5ba60ca7e0328e2b5c267175cd8ec0b90ac6c93b0394373f501e1ec9286c57.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/443311f71fc32d4c3d8940cbd7eeb745585a200891879bade5abb4c87e20af8a.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_452t14.jpg"
   },
   "121310": {
@@ -25640,8 +25640,8 @@
     "attack": null,
     "health": null,
     "text": "비용이 인 무작위 하수인을 소환합니다. 비용이 인 무작위 하수인을 번 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b63d35b8b8c99092d645c0e5ff2eaa5d37622d426b1d623aeb5ca368046b83e.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff5092ede3479476c38fd5371becb3e2f609deb32c39dc11bb48bfae18670e68.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5def42b9f8b6d24c6c22c3ca3640e07250642a27077bfb0c53d7864728b5df3.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e58d74bd269e20ac4c7bba696c228eec1be2982b24e1107b87666bd0fe396cf.png"
   },
   "123508": {
     "id": 123508,
@@ -25988,7 +25988,7 @@
     "attack": null,
     "health": null,
     "text": "아군 전장에 나왔습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/762c00893c63644d3e30136b071e8da49c21844ab61dc1b7dc8a4419c328f4d3.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1cd67d22a3ceb69437da0fbd5d25a65624e3b9af3809b73380bac3d0da189507.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_442a.jpg"
   },
   "126337": {
@@ -26000,7 +26000,7 @@
     "attack": null,
     "health": null,
     "text": "적 전장에 나왔습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e89b37053e6423489817465ba012bb75d29772b3bc986feda7048cc8677ee298.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d521b34b3dfe796dc57441fab114413a253ce7155fcbb905f810cffa1b5c795.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_442b.jpg"
   },
   "126366": {
@@ -26902,18 +26902,6 @@
     "text": "선택지를 새로고침합니다. <i>(20% 확률로 피해를 5 받습니다!)</i>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00f5826aeb6099b4dd2795fd8af8571685dfd787685267fd0f7286a8d631fcd4.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_319t.jpg"
-  },
-  "131326": {
-    "id": 131326,
-    "name": "뒤틀린 흉물",
-    "manaCost": 5,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 6,
-    "health": 5,
-    "text": "<b> , </b> 이 하수인은 내 손에 있으면 내 턴마다 <b>추가 효과</b>가 두 개의 무작위 효과 사이에서 바뀝니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58794e7ff0e15522e812dc7db86c7971185c6d3fcf76159a4f2d29735a87d92f.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_206t.jpg"
   },
   "131327": {
     "id": 131327,
