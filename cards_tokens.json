@@ -26229,7 +26229,7 @@
     "health": 1,
     "text": "내 턴이 끝날 때, 무작위 적에게 피해를 1 줍니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/659af9920a7dd985efb138225923f4c7d995930eb1e63a75c18fa9259f17e916.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_107t.jpg"
   },
   "127024": {
     "id": 127024,
@@ -26241,7 +26241,7 @@
     "health": 3,
     "text": "<b>생명력 흡수</b> <b>뽑을 때 소환</b> <i>(상대편에)</i>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/854df84c6bf2e08bec4c550652a32d86f82885242b72b22b2ce8c6cacf1511b0.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_400t2t.jpg"
   },
   "127045": {
     "id": 127045,
@@ -26277,7 +26277,7 @@
     "health": 1,
     "text": "<b>환생</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/374dfbbb40e0024f86f350614fac69f5e857fc674a55f8bafc145f8378dd4c37.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_802t.jpg"
   },
   "127071": {
     "id": 127071,
@@ -26313,7 +26313,7 @@
     "health": null,
     "text": "녹아 버린 내 하수인을 모두 다시 소환합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b4cb8cf3e95b21c3069174508decaf4e2e820de442df59dbc7f717f47c6d5cf.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_805t.jpg"
   },
   "127152": {
     "id": 127152,
@@ -26865,7 +26865,7 @@
     "health": null,
     "text": "아군 전장에 나왔습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/105abe7934f05712c76a576547b697f74192ed67730dab62b3355c3d7256e081.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_004a.jpg"
   },
   "130031": {
     "id": 130031,
@@ -26877,7 +26877,7 @@
     "health": null,
     "text": "적 전장에 나왔습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91e81edede749381c74d2e35d7d4a7894f19975d5eef97995631284aec02ad3e.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_004b.jpg"
   },
   "130722": {
     "id": 130722,
@@ -26937,7 +26937,7 @@
     "health": null,
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f25d61050615c25820c49bf6f4cb13ee1a1ac60c312d13ff3c6d779e9634c0c7.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405tb1.jpg"
   },
   "132830": {
     "id": 132830,
@@ -26949,7 +26949,7 @@
     "health": null,
     "text": "1턴 후에,",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/071b286d023f608b53f38e5d5e7a0983f0a60068befe2a1d8d5cef426920b6e8.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405tb2.jpg"
   },
   "132831": {
     "id": 132831,
@@ -26961,7 +26961,7 @@
     "health": null,
     "text": "턴 후에,",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59917e7e22e7f233f167d558a85b47e8ccf7a3841db208e1e2501f606a7ae39e.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405tb3.jpg"
   },
   "132837": {
     "id": 132837,
@@ -26973,7 +26973,7 @@
     "health": null,
     "text": "모든 하수인이 다른 하수인을 공격합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05bd012a190e9a98a4c6223ff71348fb4653d4fbee10a99910bd889bd8e041ce.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t1.jpg"
   },
   "132838": {
     "id": 132838,
@@ -26985,7 +26985,7 @@
     "health": null,
     "text": "카드를 3장 뽑습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a61fc86b3593988a8f0c4ae740b4528b902f3cbf5bc05a3f7a05f59363320287.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t4.jpg"
   },
   "132843": {
     "id": 132843,
@@ -26997,7 +26997,7 @@
     "health": null,
     "text": "상대편의 손에서 카드를 2장 가져옵니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/421d677a7bf819cdb3cf0b47672d9f2585fe76d38314bd439825e8b910de72d8.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t3.jpg"
   },
   "132844": {
     "id": 132844,
@@ -27009,7 +27009,7 @@
     "health": null,
     "text": "내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/caf57b1c32ae4d6c03378ea25a0b7b05d480b0f0798ef5ab38631467d34597c2.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t5.jpg"
   },
   "132848": {
     "id": 132848,
@@ -27021,7 +27021,7 @@
     "health": null,
     "text": "공허군주를 소환합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74b4bc0a6f197ff14500e9ec2be8e6afcc1925ea964febf1c800e2fab6822aff.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t9.jpg"
   },
   "132849": {
     "id": 132849,
@@ -27033,7 +27033,7 @@
     "health": null,
     "text": "무작위 적 하수인을 가져옵니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ff18420aac8aca791a63edf66b359d32d8e8ce501b3db4a0b7ccc9d4c76e793.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t2.jpg"
   },
   "132850": {
     "id": 132850,
@@ -27045,7 +27045,7 @@
     "health": null,
     "text": "비용이 3인 무작위 하수인을 셋 소환합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3391f5ddc79fd05411f54320f23d549049374d90d38587df1f30dfd8916b8ab9.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t6.jpg"
   },
   "132851": {
     "id": 132851,
@@ -27057,7 +27057,7 @@
     "health": null,
     "text": "내 손에 있는 하수인들의 비용이 (2) 감소합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33b0f03bb1a9d441a66f50f55955d516ead54f90ef45ba90d742ae68b9775884.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t7.jpg"
   },
   "132856": {
     "id": 132856,
@@ -27069,7 +27069,7 @@
     "health": null,
     "text": "내 영웅이 생명력을 12 회복합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/653e1d285a6ec27b5f23f9869816b4007bb20280daba873f88e7d420d015b292.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t8.jpg"
   },
   "132874": {
     "id": 132874,
@@ -27081,7 +27081,7 @@
     "health": null,
     "text": "내 다음 턴이 시작될 때 재판이 끝납니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e8289336904c7ba4abc2a3d7799d178912ab1c4b1dd65cc94418dd26a3ecd74.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405tb2b.jpg"
   },
   "132875": {
     "id": 132875,
@@ -27093,7 +27093,7 @@
     "health": null,
     "text": "4턴 후에 재판이 끝납니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d680df9618a69abc5b12e7018fcfa828f17ebc7ad5bfe84767dea7f11b3b0c66.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405tb3b.jpg"
   },
   "132887": {
     "id": 132887,
