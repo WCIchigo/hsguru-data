@@ -3419,6 +3419,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/209f2934375c2913aade60cf222ceac04916ae5d2612e4c12faeecad8554169c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_324t.jpg"
   },
+  "41889": {
+    "id": 41889,
+    "name": "어미 공포뿔",
+    "manaCost": 5,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 8,
+    "health": 12,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ea2980772e1fa04ed8397e568d8640b0e467c5d6cd08f7f62888e5c3bbcc2d6.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_957t1.jpg"
+  },
   "41940": {
     "id": 41940,
     "name": "죽어라, 벌레 같은 놈!",
@@ -12395,6 +12407,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9dad2fdba19123840d4ce0b09e85612687e03d33675d5d2b2cd29baafac006ee.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ONY_005ta5.jpg"
   },
+  "75797": {
+    "id": 75797,
+    "name": "성서",
+    "manaCost": 8,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "하수인을 <b>침묵</b>시키고 처치합니다. 그 하수인을 복사하여 10/10 하수인으로 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4f17178b89bd257b92acdde039e463f9267ae4f9fc61d7491ca69ca68a96fe8.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ONY_005ta6.jpg"
+  },
   "75798": {
     "id": 75798,
     "name": "갑각류 크러스티",
@@ -17879,6 +17903,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/941d09cdfade854b3f230afc086e46ad5488ea77c8725699093c2cf1122a321b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DEEP_002t3.jpg"
   },
+  "102269": {
+    "id": 102269,
+    "name": "편입생",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>전투의 함성:</b> <b>전설노래자랑</b> 카드를 <b>발견</b>합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3eb9fd1e0c194ed910e72701de0147b88ca5e163ce40c020bed18fed017a142.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_199t33.jpg"
+  },
   "102425": {
     "id": 102425,
     "name": "발광석 소용돌이벌레",
@@ -18910,6 +18946,18 @@
     "text": "비용을 낼 수 있는 드루이드 주문 또는 드루이드 하수인 또는 중립 하수인을 <b>발견</b>합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36d85b08b940706317c6cc3246cc7aebbfdfe730f219bbc42a5cf01970b6d1bd.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_700t.jpg"
+  },
+  "105230": {
+    "id": 105230,
+    "name": "편입생",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>전투의 함성:</b> <b>티탄</b> 카드를 <b>발견</b>합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81ce34ebc4d2b8f54d3f177b867d54c7ed46db3b1d7ad805b763c040e850c13f.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_199t34.jpg"
   },
   "105356": {
     "id": 105356,
@@ -20003,6 +20051,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ba5ac0c8ed4e79276354fe242d6893f32b2a9e91984f0b90a3be6f88df0536c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_955t.jpg"
   },
+  "109426": {
+    "id": 109426,
+    "name": "편입생",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>전투의 함성:</b> <b>황야의 땅 결투</b> 카드를 <b>발견</b>합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75fa5a82ef002d45a7eeb38870d5c340e2b7c7e628c5cb201b8d840f7f181ebe.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_199t35.jpg"
+  },
   "109439": {
     "id": 109439,
     "name": "조주사의 특제 물약",
@@ -20447,6 +20507,54 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08295cf64709b812a5a2bb8f5f7abcd57e5baf8577ef27edff322f425d40a503.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t6.jpg"
   },
+  "111630": {
+    "id": 111630,
+    "name": "카바레 스타 카레스",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "나가",
+    "attack": 3,
+    "health": 3,
+    "text": "<b>전투의 함성</b>: 적 영웅에게 피해를 6 줍니다. +2/+2와 <b>도발</b>을 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/934bc85cb4bea11e6be712f6b4037ee8e92689edb7db20f8eda74c5727fc3733.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t7.jpg"
+  },
+  "111631": {
+    "id": 111631,
+    "name": "카바레 스타 카레스",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "나가",
+    "attack": 3,
+    "health": 3,
+    "text": "<b>전투의 함성:</b> 적 영웅에게 피해를 6 줍니다. 내 영웅의 생명력을 6 회복시킵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9a4c7d12acd6770388c111b309dd181abbbddf3319a0a3c2abdd34a56904dd7.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t8.jpg"
+  },
+  "111632": {
+    "id": 111632,
+    "name": "카바레 스타 카레스",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "나가",
+    "attack": 3,
+    "health": 3,
+    "text": "<b>전투의 함성:</b> 적 영웅에게 피해를 6 줍니다. 무작위 적 하수인 둘을 처치합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b29d4f71b35dc3949a3eb87ca5bfb7a1dc01e63619961687f75536b259ecdff.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t9.jpg"
+  },
+  "111633": {
+    "id": 111633,
+    "name": "카바레 스타 카레스",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "나가",
+    "attack": 3,
+    "health": 3,
+    "text": "<b>전투의 함성:</b> 적 영웅에게 피해를 6 줍니다. 모든 적 하수인에게 피해를 2 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90536927f8dc7b1257b343813aa689ead163fef82ebeaa537dcb5e2c6c3017c1.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t10.jpg"
+  },
   "111634": {
     "id": 111634,
     "name": "카바레 스타 카레스",
@@ -20782,6 +20890,18 @@
     "text": "<b>전투의 함성</b>: 적 하수인을 즉시 공격하는 <b>속공</b> 능력이 있는 1/1 핏빛사냥개를 6마리 소환합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9eec588f2b1e7bae46ecb4b40347ae0a99e57a9c48540ff74f4be6ef1f45f67.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_464t6.jpg"
+  },
+  "111945": {
+    "id": 111945,
+    "name": "성서",
+    "manaCost": 8,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "하수인을 <b>침묵</b>시키고 처치합니다. 그 하수인을 복사하여 10/10 하수인으로 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/919dbee42f83e6a7c8c4810062aa54ae4ab43ab147a50ba1b6f8f5068a702acc.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_464t7.jpg"
   },
   "111946": {
     "id": 111946,
@@ -21286,6 +21406,18 @@
     "text": "내 턴이 끝날 때, 적 영웅에게 피해를 8 주고 적 하수인들에게 피해를 2 줍니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22dd14016f6d6837ea8e2164c0f6335e4bd3907d5823b7638212a9b1df660fae.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SC_671t1.jpg"
+  },
+  "113231": {
+    "id": 113231,
+    "name": "편입생",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>전투의 함성:</b> <b>위즈뱅의 장난감 공방</b> 카드를 <b>발견</b>합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f6bdc7de3157ebd242a0326be912d1901bdd0fdbb029321ac1db01b3ae32f46.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_199t36.jpg"
   },
   "113237": {
     "id": 113237,
@@ -22234,6 +22366,18 @@
     "text": "이번 턴에 하수인에게 <b>면역</b>과 +5/+5를 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8500890124130437844d0756d114b164bd85eabe3fb7fe3742b3ce72eb7795a.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_846t1.jpg"
+  },
+  "115184": {
+    "id": 115184,
+    "name": "환영",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "용족",
+    "attack": 4,
+    "health": 5,
+    "text": "<b>뽑을 때 소환</b> <b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e46df8523c6cf12d452302338cc7bcd0f8af7364becd2ef482c1ca0f80595f3.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_260t.jpg"
   },
   "115200": {
     "id": 115200,
@@ -23867,6 +24011,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/707c526993a3119719bac475f303d0e67419fffd27c396d1cdfec8caf967f84b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_873t.jpg"
   },
+  "119813": {
+    "id": 119813,
+    "name": "편입생",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>전투의 함성:</b> <b>랩터의 해</b> 카드를 <b>발견</b>합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9f1beada38a05e5510e663810433e0b69ca2da8bfe8237a6d9324ba9124b730.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_199t37.jpg"
+  },
   "119815": {
     "id": 119815,
     "name": "국왕 레인",
@@ -24010,6 +24166,18 @@
     "text": "내 전장에 메디브가 있으면 비용이 (0)이 됩니다. 내 주문의 피해량과 치유량을 2배 증가시킵니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb550fd69ef6f901ee2c01dc4c906957412779756d1a3f88555d2d5bc397b257.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_890t.jpg"
+  },
+  "120068": {
+    "id": 120068,
+    "name": "성소 카라잔",
+    "manaCost": 10,
+    "cardType": "장소",
+    "minionType": null,
+    "attack": null,
+    "health": 2,
+    "text": "내가 아티쉬를 장착했으면 비용이 (0)이 됩니다. 비용이 8인 무작위 하수인을 둘 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72874234734db231e3b7e157d82959414cd97125d7073656a0948638b810c6f4.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_890t2.jpg"
   },
   "120082": {
     "id": 120082,

@@ -71,6 +71,14 @@
     "health": null,
     "text": "아군 하수인의 <b>전투의 함성</b> 능력을 발동시킵니다. <i>(3턴에 잠금 해제됩니다.)</i>"
   },
+  "58040": {
+    "name": "환생 의식",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65710f34948974a7658839d4d16836a8aa926dfac0f83f3844e90b24413ace2f.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6d3d3d1134809547a631c9a1f4d145a3f48db80aefc8496997b926bddd47fac.png",
+    "attack": null,
+    "health": null,
+    "text": "다음 턴까지 하수인에게 <b>환생</b>을 부여합니다."
+  },
   "58537": {
     "name": "시간의 선술집",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7906ef82bc0b8ff1d2487b2c99adc658446532802e19d316b0ae846ad1145c1f.png",
@@ -1222,6 +1230,14 @@
     "attack": 6,
     "health": 4,
     "text": "내 턴이 시작될 때, 요그사론의 수레바퀴를 돌립니다."
+  },
+  "77855": {
+    "name": "발리스리아 드림워커",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8a8202a8248a2a03d65d23908d7aa6cd30a7c6c9ce0dc5e91acfc5a5a591f9f.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/008af80a014d7012f389a12dcf00b9cfe457838f999734f707e385b182a67cf4.png",
+    "attack": 6,
+    "health": 4,
+    "text": "내 전장 또는 선술집에 용족이 추가될 때마다 +1/+1을 얻습니다."
   },
   "77857": {
     "name": "아기 이샤라즈",
@@ -2655,6 +2671,14 @@
     "health": 6,
     "text": "<b>죽음의 메아리:</b> 1/1 해골을 여섯 소환합니다."
   },
+  "113311": {
+    "name": "환상적인 보물",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_HERO_304p.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/112694f91443f3de13849d422bb618cc19ede825bdf7439dfe16c297870a23eb.png",
+    "attack": null,
+    "health": null,
+    "text": "5턴에 하급 <b>장신구</b>를 선택해서 구매합니다. <i>( 턴 남음!)</i> 5턴에 하급 <b>장신구</b>를 선택해서 구매합니다. <i>(완료!)</i>"
+  },
   "113347": {
     "name": "등불 수호자",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_888_G_triple.png",
@@ -3350,6 +3374,14 @@
     "attack": 7,
     "health": 1,
     "text": "<b>천상의 보호막</b>. 아군 하수인이 공격할 때마다 그 하수인과 이 하수인에게 공격력 +5를 영구히 부여합니다."
+  },
+  "119943": {
+    "name": "평온한 명상가",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_835_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa8316877f08198767736da6375e280ec2740e6d5922019f39a4767ce13c623b.png",
+    "attack": 6,
+    "health": 16,
+    "text": "<b>주문제작:</b> 내 선술집 주문들이 이번 게임 동안 추가로 + /+ |1(을,를) 부여합니다."
   },
   "119950": {
     "name": "모래 빙빙이",
@@ -4927,6 +4959,14 @@
     "health": 16,
     "text": "<b>죽음의 메아리:</b> 무작위 해적을 명 소환하고 얻습니다."
   },
+  "127577": {
+    "name": "시간왜곡의 쉬바라",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_311_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3a4d9dc0209f98527a5396fd95062ab640c807883243254157b1be3e985fe9a.png",
+    "attack": 8,
+    "health": 4,
+    "text": "하수인이 잡아먹힐 때마다, 이 하수인이 그 하수인의 능력치를 2배로 얻습니다."
+  },
   "127697": {
     "name": "평행 시간대",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_HERO_000p.png",
@@ -6031,6 +6071,14 @@
     "health": 14,
     "text": "아군 하수인이 공격한 후, 내 딱정벌레들이 이번 게임 동안 + /+ |1(을,를) 얻습니다. <b>죽음의 메아리:</b> / 딱정벌레를 둘 소환합니다."
   },
+  "132952": {
+    "name": "고용된 탈것",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_240_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6354bf931f8e1ddabb620a7531963bd2516ed0423c4c8ae22bf6674bf9eb9e3f.png",
+    "attack": 6,
+    "health": 10,
+    "text": "<b>사용 ( ):</b> 무작위 <b>오색비룡</b>을 2마리 얻습니다."
+  },
   "132954": {
     "name": "진홍빛 구원자",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_241_G_triple.png",
@@ -6046,6 +6094,14 @@
     "attack": 4,
     "health": 18,
     "text": "<b>집결:</b> 무작위 <b>오색비룡</b>을 2마리 얻습니다."
+  },
+  "132958": {
+    "name": "하늘부화 도망자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_243_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4dc1ffb23a152ef96db34133d223671a316247e42dcd7404201c3ddd178f0c73.png",
+    "attack": 10,
+    "health": 14,
+    "text": "<b>사용 ( ):</b> 아군 하수인의 <b>집결</b> 능력을 두 번 발동시킵니다."
   },
   "132982": {
     "name": "해자 관리자",
