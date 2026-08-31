@@ -10355,6 +10355,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57c39200069e96b028f43ebe2eeb5112c818d0eb86ad434e666e2837c70a8007.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_052t2.jpg"
   },
+  "64772": {
+    "id": 64772,
+    "name": "천 개의 진실의 검",
+    "manaCost": 10,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 15,
+    "health": 3,
+    "text": "내 영웅이 공격한 후에, 상대편의 마나 수정들을 파괴합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c4e06d26ca0fb089436aba5950f60d5f40aaa9cf27678740c6dd8febb88da02.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_075t.jpg"
+  },
   "64851": {
     "id": 64851,
     "name": "도토리",
@@ -16679,18 +16691,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb3e7b0af45e9152fc639c17a49f7e88a84e595fb8ded7f17da65534549b3d7f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_480t.jpg"
   },
-  "98395": {
-    "id": 98395,
-    "name": "살게라스의 사도",
-    "manaCost": 4,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 3,
-    "health": 3,
-    "text": "<b>제련됨</b> <b>전투의 함성:</b> 주문을 버려 3/2 임프를 둘 소환하고, 생명력 +2와 <b>도발</b>을 부여합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ce7fad38a431ea9965c27db6c6af4c2fec24a81b61b0439179e55042024b6e2.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_490t.jpg"
-  },
   "98419": {
     "id": 98419,
     "name": "록의 용암 픽",
@@ -17326,6 +17326,18 @@
     "text": "<b>제련됨</b> <b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3716dbb3d88ae52de4c934c838893695dc326ed55fd3e2c2f0c5fa99ecd0fa2.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/YOG_525t.jpg"
+  },
+  "101135": {
+    "id": 101135,
+    "name": "책략가 벨라로크",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": "용족",
+    "attack": 3,
+    "health": 3,
+    "text": "<b>돌진</b>, 이 하수인이 공격한 후에, 다른 직업의 카드를 <b>발견</b>합니다. 그 카드의 비용이 (3) 감소합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da159c9caa93bf40b6a408501851853c958c329f3623c6839d6e07a17450c293.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/WW_364t.jpg"
   },
   "101422": {
     "id": 101422,
@@ -20494,90 +20506,6 @@
     "text": "<b>전투의 함성</b>: 적 영웅에게 피해를 6 줍니다. +2/+2와 <b>도발</b>을 얻습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/934bc85cb4bea11e6be712f6b4037ee8e92689edb7db20f8eda74c5727fc3733.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t7.jpg"
-  },
-  "111631": {
-    "id": 111631,
-    "name": "카바레 스타 카레스",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": "나가",
-    "attack": 3,
-    "health": 3,
-    "text": "<b>전투의 함성:</b> 적 영웅에게 피해를 6 줍니다. 내 영웅의 생명력을 6 회복시킵니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9a4c7d12acd6770388c111b309dd181abbbddf3319a0a3c2abdd34a56904dd7.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t8.jpg"
-  },
-  "111632": {
-    "id": 111632,
-    "name": "카바레 스타 카레스",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": "나가",
-    "attack": 3,
-    "health": 3,
-    "text": "<b>전투의 함성:</b> 적 영웅에게 피해를 6 줍니다. 무작위 적 하수인 둘을 처치합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b29d4f71b35dc3949a3eb87ca5bfb7a1dc01e63619961687f75536b259ecdff.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t9.jpg"
-  },
-  "111633": {
-    "id": 111633,
-    "name": "카바레 스타 카레스",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": "나가",
-    "attack": 3,
-    "health": 3,
-    "text": "<b>전투의 함성:</b> 적 영웅에게 피해를 6 줍니다. 모든 적 하수인에게 피해를 2 줍니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90536927f8dc7b1257b343813aa689ead163fef82ebeaa537dcb5e2c6c3017c1.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t10.jpg"
-  },
-  "111634": {
-    "id": 111634,
-    "name": "카바레 스타 카레스",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": "나가",
-    "attack": 3,
-    "health": 3,
-    "text": "<b>전투의 함성:</b> +2/+2와 <b>도발</b>을 얻습니다. 무작위 적 하수인 셋을 <b>빙결</b> 상태로 만듭니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae50d650144a725da25c011c64f2e3434ac5948700d49ca97b9baf6082d9b84e.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t11.jpg"
-  },
-  "111635": {
-    "id": 111635,
-    "name": "카바레 스타 카레스",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": "나가",
-    "attack": 3,
-    "health": 3,
-    "text": "<b>전투의 함성:</b> 내 영웅의 생명력을 6 회복시킵니다. 무작위 적 하수인 셋을 <b>빙결</b> 상태로 만듭니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da2c5e4401ec33f6f13cae9d09fda729b83d54df3ea9f0a0965905039560fccc.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t12.jpg"
-  },
-  "111636": {
-    "id": 111636,
-    "name": "카바레 스타 카레스",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": "나가",
-    "attack": 3,
-    "health": 3,
-    "text": "<b>전투의 함성:</b> 무작위 적 하수인 둘을 처치합니다. 무작위 적 하수인 셋을 <b>빙결</b> 상태로 만듭니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2086b34e43aca2fd14d6c561e741771941e7a14e258c6757988744c8e2df003.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t13.jpg"
-  },
-  "111637": {
-    "id": 111637,
-    "name": "카바레 스타 카레스",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": "나가",
-    "attack": 3,
-    "health": 3,
-    "text": "<b>전투의 함성:</b> 모든 적 하수인에게 피해를 2 줍니다. 무작위 적 하수인 셋을 <b>빙결</b> 상태로 만듭니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ba299b8bafac217f9dd37364d97a4666936142a228ab2911f2b921c1f736389.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_449t14.jpg"
   },
   "111638": {
     "id": 111638,
@@ -23830,6 +23758,18 @@
     "text": "내 전장에 다른 용족이 있으면, 내 비전 주문들이 두 번 시전됩니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ee7905ca331bd8bcd3fef78fc8934a6ec052f4206ba1f5a132ed8d362d82d13.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_852t1.jpg"
+  },
+  "119562": {
+    "id": 119562,
+    "name": "매애애팜",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d6ede0e133d91358b064bd430225c750593ed315e1af85ccd4646142e0ef589.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_005t9t.jpg"
   },
   "119563": {
     "id": 119563,

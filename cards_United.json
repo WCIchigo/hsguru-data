@@ -2043,6 +2043,10 @@
     "name": "해골",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ba4e244bcdeac6960eecbad168d81d005526ed1b858fc4ecde34bd83f22809a.png"
   },
+  "1849": {
+    "name": "시체 되살리기",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20b5b412497e71fd2bb102fdde4692562521bb42061ea13cb2846f1d539affcc.png"
+  },
   "1850": {
     "name": "역병",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2983163f131a9e07742c1baa2bfee3a18d6db51a12aa7ba07d7e69f2db4bc28b.png"
@@ -2166,6 +2170,10 @@
   "1889": {
     "name": "죽음의 독액괴물",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3374a6c36bdcec6bbfb7fd0dcf8d9bdab191f26a4f4aaa6301a422f4afdf7952.png"
+  },
+  "1891": {
+    "name": "척살",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59e90f4b72136d0b61499374576b18159cc8bc5e8d742db0f7333a6bc94eca80.png"
   },
   "1892": {
     "name": "아귀",
@@ -2755,6 +2763,10 @@
     "name": "해골",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f942353cb0027758f11122e31fc51db06a966f4f9edad786a301de8fc1305d4f.png"
   },
+  "2115": {
+    "name": "시체 되살리기",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/828525b707b6ae98d1d3d964ece9727de101f15d8883616499c317ba19364368.png"
+  },
   "2116": {
     "name": "부정의 헤이건",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a0cc3309ca9bd4ed8ce0a56f6fd374668f792862fb1e3f6f624214c301ab97a.png"
@@ -2834,6 +2846,10 @@
   "2140": {
     "name": "글루스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/367559aad5f1357ead9317ef15ebd003a1e43b2cc4b9108829eb051d5b128e47.png"
+  },
+  "2141": {
+    "name": "척살",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8107e6461dc7b8713590a740ff7e2d3697b0af0ac62fa62b0b9e5bf12c4863fb.png"
   },
   "2142": {
     "name": "아귀",
@@ -17975,6 +17991,10 @@
     "name": "스톰윈드 국왕 바리안",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fbb709fea4503b96caaeb457f9a2b56f6e37028b79c0a88f958c75491f8dd8c.png"
   },
+  "64772": {
+    "name": "천 개의 진실의 검",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c4e06d26ca0fb089436aba5950f60d5f40aaa9cf27678740c6dd8febb88da02.png"
+  },
   "64773": {
     "name": "초과 인출",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fef903bd1d83a112cda472c11fc1209a35d4b16eed1671e0b81e30a0379ff8c.png"
@@ -20379,6 +20399,10 @@
     "name": "눈부신 빛의 정령",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b8bb770c756fdca21ed17488cc06bd7a48b3395a07d58db311373e09b9fb2b7.png"
   },
+  "72069": {
+    "name": "매연정령",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6227e400c5d290b0335c154a74cc70ec7a41227f8bfbe9758677dda51318b12.png"
+  },
   "72071": {
     "name": "짠내 나는 밀수꾼",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0125c5d1fd16a59922555c3187292ce346976f9404e87735062d7fdbf64808b.png"
@@ -21094,6 +21118,10 @@
   "74895": {
     "name": "넬리의 해적선",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c40d68fbab1856292e5a6c2b8a6260b4bcbcff0af7fd809df924a67b0e1b6fda.png"
+  },
+  "74898": {
+    "name": "매연정령",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95a74d5372c144f99b276b116db1c9a3efe5b7fec21a1c39136229ad2d24e85d.png"
   },
   "74899": {
     "name": "저항하는 조선공",
@@ -22078,6 +22106,10 @@
   "77800": {
     "name": "그림자 감시자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f002038ac5c7857494503004d5f0c205798fafaa2667cd60f8aaff7c71bba86.png"
+  },
+  "77803": {
+    "name": "매그너스 마나스톰",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43910ad5fc0e6173d81f5a4139054032ddacb2f1a6a79e1395a73845ec2b3d94.png"
   },
   "77805": {
     "name": "엘레멘티움 다람쥐 폭탄",
@@ -27791,10 +27823,6 @@
     "name": "살게라스의 사도",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/844b47fe52b96d3502878832a83c342b377af32d6c0092e625fb8adef91e02de.png"
   },
-  "98395": {
-    "name": "살게라스의 사도",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ce7fad38a431ea9965c27db6c6af4c2fec24a81b61b0439179e55042024b6e2.png"
-  },
   "98403": {
     "name": "천신의 영사술사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47e384a41f6584e03fe214d8d0535c1336b54d16f772011c8faaea743d232064.png"
@@ -28655,10 +28683,6 @@
     "name": "소도둑",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a3baf7729f55a627500ba9c34dad00a2d3e966a5e79476bd26f58370fe19636.png"
   },
-  "100580": {
-    "name": "봉고 난타꾼",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02d79d79ba5bbb12a598aa04985895a0a14f144ed403865157393e3390221abc.png"
-  },
   "100591": {
     "name": "봉고 난타꾼",
     "img": null
@@ -29046,6 +29070,10 @@
   "101134": {
     "name": "벨라로크 윈드블레이드",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f072ffcdae7bf01aaefae30b92f5d16c909dc9083a2e78c7e6120fb5e14ce8e.png"
+  },
+  "101135": {
+    "name": "책략가 벨라로크",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da159c9caa93bf40b6a408501851853c958c329f3623c6839d6e07a17450c293.png"
   },
   "101142": {
     "name": "엄벌",
@@ -32563,6 +32591,14 @@
     "name": "발스탄 스태그헬름",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c12b45071da75410089d41b29f6b9098c6aabbf975162d7f7219de7a5f0b836.png"
   },
+  "105697": {
+    "name": "시장 상인",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f1abace1f70e9a6dedd84b37128eb64ac24e0215dae5081e70703c710b68473.png"
+  },
+  "105702": {
+    "name": "시장 상인",
+    "img": null
+  },
   "105714": {
     "name": "약탈 동료",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4ceaf60efc829c1fea4745ef599bb62af32d7e0c604b706662f1724aa8dfcbb.png"
@@ -33439,6 +33475,10 @@
     "name": "해변의 거인",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfc2ecc7ce5674522806ccfb76b71a029b293bf5b1eca53c8147bdf7203572e6.png"
   },
+  "107930": {
+    "name": "채찍꼬리 트리고어",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a7824efe3ab09535278c00c1965d771bd2271fb45d29adf20e7e8c918157082.png"
+  },
   "107931": {
     "name": "관세 징수관",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51044f0c3a9417b8e5a657b386046edb9ded0d8b571e0b1543d1024153e8474c.png"
@@ -33446,6 +33486,10 @@
   "107933": {
     "name": "소포 담당자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/161138abf310c0ce772efee914dea9cdeead2c454eae321cf3a9c1423045eae0.png"
+  },
+  "107934": {
+    "name": "채찍꼬리 트리고어",
+    "img": null
   },
   "107937": {
     "name": "무지갯빛 하늘광휘",
@@ -33495,8 +33539,16 @@
     "name": "착한 아이 행세꾼",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d298204ab6c40561702ff8e78226127301ad8018c9f22f362646561c79535958.png"
   },
+  "108116": {
+    "name": "천 번째 종이비룡",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17c011ef46a15c46e2ce3a0249b012adf86cfc90be6d7b9b3766765affb59628.png"
+  },
   "108143": {
     "name": "착한 아이 행세꾼",
+    "img": null
+  },
+  "108279": {
+    "name": "천 번째 종이비룡",
     "img": null
   },
   "108328": {
@@ -35202,34 +35254,6 @@
   "111630": {
     "name": "카바레 스타 카레스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/934bc85cb4bea11e6be712f6b4037ee8e92689edb7db20f8eda74c5727fc3733.png"
-  },
-  "111631": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9a4c7d12acd6770388c111b309dd181abbbddf3319a0a3c2abdd34a56904dd7.png"
-  },
-  "111632": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b29d4f71b35dc3949a3eb87ca5bfb7a1dc01e63619961687f75536b259ecdff.png"
-  },
-  "111633": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90536927f8dc7b1257b343813aa689ead163fef82ebeaa537dcb5e2c6c3017c1.png"
-  },
-  "111634": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae50d650144a725da25c011c64f2e3434ac5948700d49ca97b9baf6082d9b84e.png"
-  },
-  "111635": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da2c5e4401ec33f6f13cae9d09fda729b83d54df3ea9f0a0965905039560fccc.png"
-  },
-  "111636": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2086b34e43aca2fd14d6c561e741771941e7a14e258c6757988744c8e2df003.png"
-  },
-  "111637": {
-    "name": "카바레 스타 카레스",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ba299b8bafac217f9dd37364d97a4666936142a228ab2911f2b921c1f736389.png"
   },
   "111638": {
     "name": "카바레 스타 카레스",
@@ -39891,6 +39915,10 @@
     "name": "합일점 파괴자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca30ab8e61070ba2d4bb4db1fa90e32cce4af53a93c2a279175cd7f8c1611573.png"
   },
+  "119426": {
+    "name": "시체 재활용사",
+    "img": null
+  },
   "119427": {
     "name": "시체 재활용사",
     "img": null
@@ -39982,6 +40010,10 @@
   "119545": {
     "name": "지나간 파멸예언자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e40309de4fbdc28be9881cc6d18e6abf1152669907a91d8c171708206e0ed57.png"
+  },
+  "119562": {
+    "name": "매애애팜",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d6ede0e133d91358b064bd430225c750593ed315e1af85ccd4646142e0ef589.png"
   },
   "119563": {
     "name": "토르톨란 닌자",
@@ -41886,6 +41918,10 @@
   "121029": {
     "name": "분화구의 니리",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0be53b4c3a33ccd165aef804271f64eb65620561feaed4cda44b5f7a0804d4f1.png"
+  },
+  "121033": {
+    "name": "시장 스티커",
+    "img": null
   },
   "121034": {
     "name": "밀랍 각인사",
@@ -48737,6 +48773,14 @@
   },
   "132950": {
     "name": "날뛰는 전갈",
+    "img": null
+  },
+  "132955": {
+    "name": "청동 시간여행자",
+    "img": null
+  },
+  "132956": {
+    "name": "청동 시간여행자",
     "img": null
   },
   "132981": {
