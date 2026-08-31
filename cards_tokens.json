@@ -707,6 +707,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88bc33e01c51c6be639f984619ea1d2d5d56283bb6f3ed5f38cf45c6e0c541b4.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DREAM_04.jpg"
   },
+  "812": {
+    "id": 812,
+    "name": "표범",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 3,
+    "health": 2,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/689b0fd888e80b8774796188d9be9c83b9cbce115dbd92e71c4cdd87677e3a71.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/EX1_160t.jpg"
+  },
   "823": {
     "id": 823,
     "name": "별빛섬광",
