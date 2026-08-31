@@ -1023,14 +1023,6 @@
     "health": 5,
     "text": "<b>전투의 함성:</b> 내 다음 영웅 능력이 대상을 황금 하수인으로 만듭니다."
   },
-  "77803": {
-    "name": "매그너스 마나스톰",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43910ad5fc0e6173d81f5a4139054032ddacb2f1a6a79e1395a73845ec2b3d94.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9dd08ed3286feb1de367a3e87f2d2becdfd84f6f532067127c7cccf98fe2a2cd.png",
-    "attack": 4,
-    "health": 4,
-    "text": "매 턴마다 2번의 <b>새로고침</b>이 무료가 됩니다. <i>( 번 남음!)</i>"
-  },
   "77805": {
     "name": "엘레멘티움 다람쥐 폭탄",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31016dc19c4cedb25b293247e9f215d530784c213cfea2e871ac62d604795721.png",
@@ -1439,6 +1431,14 @@
     "health": 8,
     "text": "<b>주문제작:</b> 다음 턴까지 하수인에게 공격력을 +4 부여합니다."
   },
+  "80760": {
+    "name": "심해 낚시꾼",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_004_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/116c6161ee80df63b3593632c8228b1597e98329e559d618193c715a5ffdc591.png",
+    "attack": 4,
+    "health": 6,
+    "text": "<b>주문제작:</b> 다음 턴까지 하수인에게 + /+ |1(과,와) <b>도발</b>을 부여합니다."
+  },
   "80763": {
     "name": "파란기수",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG23_007_G_triple.png",
@@ -1534,6 +1534,22 @@
     "attack": null,
     "health": null,
     "text": "다음 턴까지 하수인에게 공격력을 +2 부여합니다."
+  },
+  "83988": {
+    "name": "낚시꾼의 돌기",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb31ac693a53f0369bf3f273b3c28c78a18137b6ff2dcd17ae3c493cd6616255.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9ce99c616bea7e63b97c4232fe4f8e85a611e01723630209cedd7b7d3943351.png",
+    "attack": null,
+    "health": null,
+    "text": "다음 턴까지 하수인에게 + /+ |1(과,와) <b>도발</b>을 부여합니다."
+  },
+  "83991": {
+    "name": "낚시꾼의 돌기",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95e8579a98a0f19c877aa541054abafc77ae925e4539626b3f548c1ab172c486.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9ce99c616bea7e63b97c4232fe4f8e85a611e01723630209cedd7b7d3943351.png",
+    "attack": null,
+    "health": null,
+    "text": "다음 턴까지 하수인에게 + /+ |1(과,와) <b>도발</b>을 부여합니다."
   },
   "84362": {
     "name": "빛나는 왕관",
@@ -1751,6 +1767,14 @@
     "health": 8,
     "text": "<b>전투의 함성:</b> 이번 게임 동안 내 언데드들에게 공격력을 +2 부여합니다. <i>(어디에 있든)</i>"
   },
+  "95272": {
+    "name": "썩은가죽 놀",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_013_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21d829eb0a900505a0b6c1b1def9cf44b99a82aaf36cf27d41ecb486369d9244.png",
+    "attack": 2,
+    "health": 8,
+    "text": "이번 전투에서 죽은 아군 하수인 하나당 공격력을 +2 얻습니다."
+  },
   "95281": {
     "name": "진홍빛 해골",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG25_022_G_triple.png",
@@ -1806,6 +1830,14 @@
     "attack": 2,
     "health": 2,
     "text": "이 하수인을 팔면, 단계 하수인을 둘 <b>발견</b>합니다. <i>(매 턴마다 강화됩니다!)</i>"
+  },
+  "97754": {
+    "name": "황금 망치",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab96972013a72ea0132ed83ec65dd57a4c837c2c2cb9a8078126d0099e38e7bf.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef1f6b6137afaf8f41113839359f65e584b8380d965e5fb4a43410b9e2d5da98.png",
+    "attack": null,
+    "health": null,
+    "text": "다음 턴까지 아군 하수인을 황금 하수인으로 만듭니다."
   },
   "97814": {
     "name": "언데드 제작",
@@ -1975,6 +2007,14 @@
     "health": 4,
     "text": "<b>전투의 함성:</b> 해적에게 생명력 + |1(을,를) 두 번 부여합니다. <i>(내가 이번 턴에 사용한 골드만큼 강화됩니다!)</i> <b>전투의 함성:</b> 해적에게 + /+ |1(을,를) 두 번 부여합니다. <i>(내가 이번 턴에 사용한 골드만큼 강화됩니다!)</i>"
   },
+  "99034": {
+    "name": "활기찬 화음",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/516573509ed9a67b1b6d5ee42e1bc9d3ca5de5098cbb214b609986f9c983e146.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/291532fb047abb486d289d08a395625064c65078883c81974c9ac65d121623d7.png",
+    "attack": null,
+    "health": null,
+    "text": "세 턴이 끝날 때마다, 내 손에서 가장 왼쪽에 있는 카드를 일반 카드로 복사하여 얻습니다. <i>( 턴 남음!)</i> 세 턴이 끝날 때마다, 내 손에서 가장 왼쪽에 있는 카드를 일반 카드로 복사하여 얻습니다. <i>(이번 턴이 끝날 때!)</i>"
+  },
   "99036": {
     "name": "칼날 수집가",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_817_G_triple.png",
@@ -2142,6 +2182,14 @@
     "attack": 3,
     "health": 3,
     "text": "내가 하수인을 산 후에, 그 하수인이 가진 <b>보너스 키워드</b> 하나당 +3/+3을 얻습니다."
+  },
+  "102094": {
+    "name": "황금 보상",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5aab9b0c14ab522aeed03f3247f7e06feb5ee4fcd7641b9cacb43cc528dc1993.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31d90348360ad8cd582ca0599093dd32bc8c0514c2a3c1e65b473c006221f607.png",
+    "attack": null,
+    "health": null,
+    "text": "단계 다크문 경품을 <b>발견</b>합니다."
   },
   "103071": {
     "name": "세이렌의 노래",
@@ -2479,14 +2527,6 @@
     "health": 2,
     "text": "<b>기선 제압:</b> 내 팀원의 생명력이 가장 높은 하수인으로 변신합니다. (황금 하수인으로)"
   },
-  "108279": {
-    "name": "천 번째 종이비룡",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_810_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a288f26e45ee3d2cc75eeeaa76040bfb0d22caca4ed87787af0ef535463a3cc7.png",
-    "attack": 4,
-    "health": 6,
-    "text": "<b>기선 제압:</b> 가장 왼쪽에 있는 내 용족 둘에게 +1/+2와 <b>질풍</b>을 부여합니다."
-  },
   "108435": {
     "name": "고대의 전투로봇",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG_TTN_401_G_triple.png",
@@ -2558,14 +2598,6 @@
     "attack": 8,
     "health": 2,
     "text": "<b>천상의 보호막</b> 내가 선술집 주문을 시전할 때마다 내 <b>천상의 보호막</b> 하수인들에게 공격력을 + 부여합니다."
-  },
-  "110402": {
-    "name": "딱정벌레",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dbf715c33c286c846ec4eac7678604b5d6097d896de45bb78e374f1093d41c6d.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ef1fa77a5e00652239ffd0d4225a78e3e6a825e490c7bdc1d4ae4e56bbeb03e.png",
-    "attack": 2,
-    "health": 2,
-    "text": null
   },
   "110472": {
     "name": "아홉 개구리의 축복",
@@ -2862,6 +2894,14 @@
     "attack": 6,
     "health": 2,
     "text": "내가 기계를 내거나 <b>합체</b>할 때마다 그 기계에 + /+ |1(을,를) 부여합니다."
+  },
+  "115709": {
+    "name": "쌍수 무기 해적",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_824_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ffc0d591c147670883dd95da27d9a0729ead0562dced6dbb24b0ac47f4b06c2.png",
+    "attack": 8,
+    "health": 10,
+    "text": "내가 5골드를 소모할 때마다, 아군 해적 둘에게 + /+ |1(을,를) 두 번 부여합니다. <i>( 골드 남음!)</i>"
   },
   "115911": {
     "name": "마법사의 길",
@@ -3278,6 +3318,14 @@
     "attack": 6,
     "health": 12,
     "text": "<b>집결:</b> 대상의 양옆에 피해를 줍니다. <i>(내가 골드를 소모하면 강화됩니다!)</i>"
+  },
+  "119760": {
+    "name": "우주모함",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_802pt1.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df487f74705d4a4ec7639c603a717e799b304b205423fe2448233bb6b49b3c7c.png",
+    "attack": 4,
+    "health": 12,
+    "text": "<b>복수 (4):</b> / 요격기를 소환합니다. 그 후 이 하수인을 영구히 강화합니다."
   },
   "119762": {
     "name": "요격기",
@@ -4271,6 +4319,14 @@
     "health": 6,
     "text": "내 턴이 끝날 때 혈석 압수를 2개 얻습니다."
   },
+  "126734": {
+    "name": "포세이큰 방직공",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_692_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f762cdc0ae506bd9914e454eb6833cb63c0e2fa6d076d96d142190b21c44c849.png",
+    "attack": 6,
+    "health": 20,
+    "text": "내가 선술집 주문을 시전한 후에, 이번 게임 동안 내 언데드들에게 공격력을 + 부여합니다. <i>(어디에 있든)</i>"
+  },
   "126861": {
     "name": "용 감시관",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_633_G_triple.png",
@@ -4887,6 +4943,14 @@
     "health": 4,
     "text": "하수인이 잡아먹힐 때마다, 이 하수인이 그 하수인의 능력치를 2배로 얻습니다."
   },
+  "127697": {
+    "name": "평행 시간대",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_HERO_000p.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95723237c2f90e758294af61592d776fbd00715de9df28498c37a4aa78087590.png",
+    "attack": null,
+    "health": null,
+    "text": "8턴에, 주요 <b>시간왜곡</b>을 방문합니다.<i>( 턴 남음!)</i> 8턴에, 주요 <b>시간왜곡</b>을 방문합니다. <i>(완료!)</i>"
+  },
   "127712": {
     "name": "시간왜곡의 중간체",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_032_G_triple.png",
@@ -5431,6 +5495,22 @@
     "health": 4,
     "text": "<b>천상의 보호막</b>. 이번 게임에서 내가 <b>죽음의 메아리</b>를 발동시킬 때마다 + /+ |1(을,를) 얻습니다. <i>(어디에 있든)</i>"
   },
+  "130853": {
+    "name": "중복의 렌즈",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_817t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4edcfc4ad945426f3b6c463122f4e1c58aef588d5d4dd30f14905d89e8ccc99b.png",
+    "attack": null,
+    "health": null,
+    "text": "3단계 이하의 하수인을 선택합니다. 그 하수인을 복사하여 얻습니다. (강화 효과가 없는 일반 하수인으로)"
+  },
+  "130856": {
+    "name": "황금 경품",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_812t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31d90348360ad8cd582ca0599093dd32bc8c0514c2a3c1e65b473c006221f607.png",
+    "attack": null,
+    "health": null,
+    "text": "3단계 다크문 경품을 <b>발견</b>합니다."
+  },
   "130868": {
     "name": "예스러운 촛대",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_823t.png",
@@ -5582,6 +5662,14 @@
     "attack": 10,
     "health": 4,
     "text": "<b>천상의 보호막</b>, <b>사용 ( ):</b> 이번 턴에 이 하수인에게 적용되는 다음 <b>합체</b>가 3배가 됩니다."
+  },
+  "132315": {
+    "name": "탈옥의 주모자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_507_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e032cf5de51d4a77c8c0ce1f55fc5da546b0183c8237c06e7750f6e04090b9a5.png",
+    "attack": 10,
+    "health": 10,
+    "text": "<b>사용 ( ):</b> 무작위 멀록을 2마리 얻습니다."
   },
   "132317": {
     "name": "비밀스러운 창조술사",
@@ -5823,6 +5911,30 @@
     "health": 22,
     "text": "아군 <b>집결</b> 하수인이 공격한 후에, 가장 왼쪽에 있는 내 <b>죽음의 메아리</b> 능력을 두 번 발동시킵니다."
   },
+  "132884": {
+    "name": "해초 수호자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_701_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5db4cfd125063842aa1de0590d74a8ad803865dff02078d34aaba9216afb9723.png",
+    "attack": 10,
+    "health": 10,
+    "text": "<b>사용 ( ):</b> 아군 하수인의 <b>전투의 함성</b> 능력을 두 번 발동시킵니다."
+  },
+  "132894": {
+    "name": "호화로봇",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_853_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a9ff2c0ddb997af9d52570f51c91b93b1539b06d5a186bcb29151e85221acb7.png",
+    "attack": 8,
+    "health": 8,
+    "text": "내가 기계에 주문을 시전할 때마다, 그 기계에 / 위성을 두 번 <b>합체</b>합니다."
+  },
+  "132896": {
+    "name": "구조로봇",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_854_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/254ab744cbefe14ce660d39e7e485dd043cf24d2f379d20ae7904fa41a8c4f42.png",
+    "attack": 4,
+    "health": 2,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b> 수리 작업을 2개 얻습니다."
+  },
   "132898": {
     "name": "종에 갇힌 추",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_730_G_triple.png",
@@ -5959,6 +6071,14 @@
     "health": 10,
     "text": "이 하수인이 피해를 주면, 황금 손길을 둘 얻습니다. <i>( 남음!)</i> 이 하수인이 피해를 주면, 황금 손길을 둘 얻습니다. <i>(완료!)</i>"
   },
+  "132990": {
+    "name": "황혼의 바다사냥꾼",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_703_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61b52e730aef996cd569c18e27b7ac42e0c0e161280adee35d6c2805dd41b691.png",
+    "attack": 8,
+    "health": 12,
+    "text": "내가 이 하수인에게 주문을 시전할 때마다, 내 손에서 가장 왼쪽에 있는 하수인에게 + /+ |1(을,를) 부여합니다."
+  },
   "133024": {
     "name": "먹이를 찾는 박쥐",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_200t.png",
@@ -5974,6 +6094,14 @@
     "attack": 2,
     "health": 2,
     "text": null
+  },
+  "133027": {
+    "name": "주술적 파도술사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_704_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad29831552305ce6712fc17d0a5a7036a0f976914562d274df5206b20cecbd46.png",
+    "attack": 10,
+    "health": 14,
+    "text": "내가 멀록에게 주문을 시전할 때마다, 내 손과 전장에 있는 멀록들에게 + /+ |1(을,를) 부여합니다."
   },
   "133029": {
     "name": "에레다르 도피자",
@@ -6022,6 +6150,14 @@
     "attack": 12,
     "health": 16,
     "text": "아군 하수인이 <b>환생</b>한 후에, 가장 오른쪽에 있는 내 언데드에게 그 하수인의 공격력의 2배만큼 능력치를 부여합니다."
+  },
+  "133284": {
+    "name": "태엽지느러미",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_764_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38cfa5f57b134bc15137021f1d7df99820361b730bcfd0e774b42a74207dff22.png",
+    "attack": 12,
+    "health": 10,
+    "text": "내 턴이 끝날 때 비용이 1인 선술집 주문을 넷 얻습니다."
   },
   "133330": {
     "name": "문지기 융합체",

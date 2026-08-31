@@ -3395,6 +3395,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b4f826e69f7a5f63a933c109d7acbb9c11c2b64ab620464845d71dddd70d733.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_999t14.jpg"
   },
+  "41839": {
+    "id": 41839,
+    "name": "쥐",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf11739d0cc2d95584134c719a726b6f6f3cb2ffba7ec0a66a7f3b957c24080f.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_316t.jpg"
+  },
   "41842": {
     "id": 41842,
     "name": "폭풍수호자",
@@ -3707,6 +3719,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1dc483c6f0522a7841150fb53b0dabc1883f955a30395af442b0d7f0b91c5e06.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_314t3.jpg"
   },
+  "42590": {
+    "id": 42590,
+    "name": "죽음의 손아귀",
+    "manaCost": 2,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "상대편의 덱에서 하수인을 내 손으로 가져옵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fca8114a7cbd0965349f451b04eb3834001e344f459c87540af9ff408d03ea29.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_314t4.jpg"
+  },
   "42650": {
     "id": 42650,
     "name": "무리의 드루이드",
@@ -3886,6 +3910,18 @@
     "text": "원하는 누더기야수를 직접 만듭니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a27a5c357fe295a5b86b75089ab057d01464265d125efc6ad7e63f19f21dbb1.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_828p.jpg"
+  },
+  "43188": {
+    "id": 43188,
+    "name": "죽음의 환영",
+    "manaCost": 0,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>지속 능력</b> 내 턴 동안 '그림자 환영'을 내 손으로 가져옵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/517cafe628bee7b08f4a3ad5cb70e7f5721aa587e3b5e3e750dbdd65762ab5f9.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_827p.jpg"
   },
   "43275": {
     "id": 43275,
@@ -4174,6 +4210,18 @@
     "text": "<b>죽음의 메아리:</b> <b>모든</b> 하수인에게 피해를 3 줍니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4153d6084886436667de002cb530e1a5f45170e75f818b8a5dfd80d293f9b7f9.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_047b.jpg"
+  },
+  "43437": {
+    "id": 43437,
+    "name": "성장",
+    "manaCost": 5,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>죽음의 메아리:</b> <b>모든</b> 하수인에게 +2/+2를 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d9d6574722ec7bed02bdcc92f967c0a2136136a71b2468b5a630d6c2c7c6f3a.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ICC_047a.jpg"
   },
   "43484": {
     "id": 43484,
@@ -8135,6 +8183,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4a36cc6a98e433abf76f4eec84d13b1575efc8db914086de5df3722f8c2c739.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09caa6de7212fb4208231ba980b10f141a86dfc14d1277bb87266d3c9eb844d9.jpg"
   },
+  "60409": {
+    "id": 60409,
+    "name": "포세이큰 릴리안",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "언데드",
+    "attack": 4,
+    "health": 2,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10d01fdbdeb1d95cec9932943e6056094417c1954cd4ec2e6904dd881538c6ab.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SCH_426t.jpg"
+  },
   "60483": {
     "id": 60483,
     "name": "악마의 이빨",
@@ -9287,6 +9347,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e396821a038deb7cd721c487c1bd36a735fd7915d0d9e2ab018a2fdedd6672f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_305t2.jpg"
   },
+  "62850": {
+    "id": 62850,
+    "name": "성스러운 일격",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "피해를 2 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9b600633686750a478216f8c9aa922f92db7f1a82a62b93e0cae3e8d51606fe.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CS1_130_Puzzle.jpg"
+  },
   "62883": {
     "id": 62883,
     "name": "규탄 (2 레벨)",
@@ -9430,6 +9502,18 @@
     "text": "야수를 뽑습니다. 그 야수의 비용이 (3) 감소합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b591b0c10d533afb53e621d17cb882c75b3a168750f44d2edee2376f3eec3381.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_536t2.jpg"
+  },
+  "63039": {
+    "id": 63039,
+    "name": "평원의 드루이드",
+    "manaCost": 7,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 6,
+    "health": 7,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce6232f0a2766d6974a00d41455360cd2005a89b03a1464c65675e8e009ae253.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_538t.jpg"
   },
   "63066": {
     "id": 63066,
@@ -10271,18 +10355,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57c39200069e96b028f43ebe2eeb5112c818d0eb86ad434e666e2837c70a8007.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_052t2.jpg"
   },
-  "64772": {
-    "id": 64772,
-    "name": "천 개의 진실의 검",
-    "manaCost": 10,
-    "cardType": "무기",
-    "minionType": null,
-    "attack": 15,
-    "health": 3,
-    "text": "내 영웅이 공격한 후에, 상대편의 마나 수정들을 파괴합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c4e06d26ca0fb089436aba5950f60d5f40aaa9cf27678740c6dd8febb88da02.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_075t.jpg"
-  },
   "64851": {
     "id": 64851,
     "name": "도토리",
@@ -10342,6 +10414,18 @@
     "text": "5턴 후에, 적들에게 12의 피해를 무작위로 나누어 입힙니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/562a9ef141362c939d7b591a25dce8d31c77004ab68e87be2dc4d649e538a078.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_079t3.jpg"
+  },
+  "64961": {
+    "id": 64961,
+    "name": "쥐",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/feadc7d7260054eb780150ab385bb4a4fb53e3e7e8c3ffee4f49c9b6952e6e83.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_455t.jpg"
   },
   "64966": {
     "id": 64966,
@@ -10678,6 +10762,18 @@
     "text": "피해를 줍니다. <b>명예로운 일격:</b> 피해량이 +2 증가합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b7d05d99de950f6f444a67462eae4da61ba9a30f539680a8235b24456c65f03.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_200p2.jpg"
+  },
+  "67049": {
+    "id": 67049,
+    "name": "성스러운 손길",
+    "manaCost": 2,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "생명력을 5 회복시킵니다. 매 턴마다 능력을 뒤집습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef5790d65eb4a1d173a0abe4919f8836213c38a325104bf3abc41e243c1459d5.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_207p.jpg"
   },
   "67050": {
     "id": 67050,
@@ -14567,6 +14663,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba5f1d8a996615b8cff9fc5173a5514ffdf96c42d9d2defaffbf9977ea2554d1.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_522t.jpg"
   },
+  "90542": {
+    "id": 90542,
+    "name": "우주의 창조물",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae242089996543e84cb4aafc9d7bf999211b9a86cf9430d37baf6fecc9445c89.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_521t.jpg"
+  },
   "90593": {
     "id": 90593,
     "name": "브레이커",
@@ -15719,6 +15827,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/660042e5c62ee49f3e2f14ed19f1df29445f08c78d7c9347e81e227eb7dd86a8.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_076t.jpg"
   },
+  "96957": {
+    "id": 96957,
+    "name": "황금 마이크",
+    "manaCost": 1,
+    "cardType": "무기",
+    "minionType": null,
+    "attack": 1,
+    "health": 2,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/987e4010d4460d803c911f0a4d1db6573b60c19a12a41f21ef1da2d5a6068e8d.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_078t2.jpg"
+  },
   "97054": {
     "id": 97054,
     "name": "승리의 발키르",
@@ -15766,6 +15886,18 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b720fee3341e8e9113040c1f0cbcf75b4b82321d15634822d7133f0b9dfe769.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_081t.jpg"
+  },
+  "97100": {
+    "id": 97100,
+    "name": "포그스나우트 팬",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "가시멧돼지",
+    "attack": 1,
+    "health": 1,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81057cf5d79a38c13b5267e57f2183bd7909937c05e7293dc809ba42cb6893db.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ETC_386t.jpg"
   },
   "97105": {
     "id": 97105,
@@ -16366,6 +16498,18 @@
     "text": "내 다른 하수인들에게 +2/+2를 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/949ccbb52047e2a4bfb8cf5a0bde98edeff004d65983c6deb6be753221625c68.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_858t2.jpg"
+  },
+  "98064": {
+    "id": 98064,
+    "name": "평정",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "모든 적 하수인의 공격력과 생명력을 2로 바꿉니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/869e4151d83ff58402c76de866b27be8158e33b555eeb55d39af64d551177bfc.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_858t3.jpg"
   },
   "98122": {
     "id": 98122,
@@ -17182,18 +17326,6 @@
     "text": "<b>제련됨</b> <b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3716dbb3d88ae52de4c934c838893695dc326ed55fd3e2c2f0c5fa99ecd0fa2.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/YOG_525t.jpg"
-  },
-  "101135": {
-    "id": 101135,
-    "name": "책략가 벨라로크",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": "용족",
-    "attack": 3,
-    "health": 3,
-    "text": "<b>돌진</b>, 이 하수인이 공격한 후에, 다른 직업의 카드를 <b>발견</b>합니다. 그 카드의 비용이 (3) 감소합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da159c9caa93bf40b6a408501851853c958c329f3623c6839d6e07a17450c293.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/WW_364t.jpg"
   },
   "101422": {
     "id": 101422,
@@ -19763,6 +19895,30 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/207e201c8e9c5d08ad67ad56abc274d66d51a376b3b28efa6bf98643f2174c6f.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_959t09t.jpg"
   },
+  "109044": {
+    "id": 109044,
+    "name": "활보의 부적",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 손에 있는 카드들의 비용이 (1) 감소합니다. <i>(주문 제외!)</i>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8860dc36c7e8d09bd13f83cb68d4bf64d48e0204e6175e3c811e19881d4e8408.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_959t10.jpg"
+  },
+  "109045": {
+    "id": 109045,
+    "name": "활보의 부적",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 손에 있는 카드들의 비용이 (1) 감소합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48e78d480edbc087eb582f5cf620c644d301440ce236a8a57c249fb202bf2815.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_959t10t.jpg"
+  },
   "109192": {
     "id": 109192,
     "name": "치즈 정령",
@@ -20542,6 +20698,18 @@
     "text": "<b>도발</b>, <b>전투의 함성:</b> 서로 붙어 있는 모든 선원을 소환합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f00830458821dc50f23681a6ad306b64d36a4158c9dc7c2143c3b438ea9896d8.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/GDB_471t2.jpg"
+  },
+  "111908": {
+    "id": 111908,
+    "name": "포격 담당 선원",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "드레나이",
+    "attack": 4,
+    "health": 4,
+    "text": "<b>속공</b>, <b>전투의 함성:</b> 서로 붙어 있는 모든 선원을 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/768bae056e6f867b5786c93662f68c2f01a2feb4e5c38e38ef1f26597584bd0a.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/GDB_471t3.jpg"
   },
   "111909": {
     "id": 111909,
@@ -22451,6 +22619,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b36ae3cb9f2119545e2a507bbdb8f1d4a064cf33e67f817af8e5577790c1c6d7.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_851t.jpg"
   },
+  "116500": {
+    "id": 116500,
+    "name": "평온한 산들바람",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "주문을 가져옵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afe53d289cda3009800cd8b7a8052e7b225a5084080ff022ec12903e4c5e3eed.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_517A.jpg"
+  },
   "116501": {
     "id": 116501,
     "name": "변화의 바람",
@@ -23650,18 +23830,6 @@
     "text": "내 전장에 다른 용족이 있으면, 내 비전 주문들이 두 번 시전됩니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ee7905ca331bd8bcd3fef78fc8934a6ec052f4206ba1f5a132ed8d362d82d13.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_852t1.jpg"
-  },
-  "119562": {
-    "id": 119562,
-    "name": "매애애팜",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 1,
-    "health": 1,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d6ede0e133d91358b064bd430225c750593ed315e1af85ccd4646142e0ef589.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_005t9t.jpg"
   },
   "119563": {
     "id": 119563,
@@ -26014,6 +26182,18 @@
     "text": "소환 시 다른 직업의 무작위 주문을 얻습니다. 그 주문의 비용이 ( ) 감소합니다. <i>2회 <b>예고</b> 시 강화됩니다.</i> 소환 시 다른 직업의 무작위 주문을 얻습니다. 그 주문의 비용이 ( ) 감소합니다. <i>1회 <b>예고</b> 시 강화됩니다.</i> 소환 시 다른 직업의 무작위 주문을 얻습니다. 그 주문의 비용이 ( ) 감소합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/217be24eb111252a2b9a9e3230c3af5e9fd07353fc603625eb6e045b5a2a5472.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_158t.jpg"
+  },
+  "127012": {
+    "id": 127012,
+    "name": "포대장",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "해적",
+    "attack": 1,
+    "health": 1,
+    "text": "내 턴이 끝날 때, 무작위 적에게 피해를 1 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/659af9920a7dd985efb138225923f4c7d995930eb1e63a75c18fa9259f17e916.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_107t.jpg"
   },
   "127024": {
     "id": 127024,
