@@ -770,6 +770,138 @@
     "childIds": null
   },
   {
+    "id": 133482,
+    "name": "초월",
+    "enname": "Transcendence",
+    "cardType": null,
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>기선 제압:</b> 이 하수인의 능력치가 3배가 됩니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b2add6a32ed4f8581ca4e77038878431f9c2deb1e1b743f75c68e10de5f1711.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
+    "childIds": null
+  },
+  {
+    "id": 133860,
+    "name": "친화력",
+    "enname": "Affinity",
+    "cardType": null,
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "2턴이 끝날 때마다, 이 하수인과 종족이 같은 무작위 하수인을 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf861d759da6dea8a02da2f844f422d921989800c4cb3938cb287008a30548c4.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
+    "childIds": null
+  },
+  {
+    "id": 132201,
+    "name": "카리스마",
+    "enname": "Charisma",
+    "cardType": null,
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "집결",
+    "text": "<b>집결:</b> 내가 가장 많이 보유한 종족의 무작위 하수인을 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f200b37eee4ff85a10bc4f029086d83637ae2e64bfbcabc5db9f1bcb97237f51.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
+    "childIds": null
+  },
+  {
+    "id": 132732,
+    "name": "타렉고사의 축복",
+    "enname": "Tarecgosa's Blessing",
+    "cardType": null,
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "전투 중에 얻은 <b><b>보너스 키워드</b></b>와 2배가 된 능력치를 영구히 유지합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12f61989412044b3dac1d01fd6890a55e6a630444491a164c4415ae411e5a7c5.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
+    "childIds": null
+  },
+  {
+    "id": 132442,
+    "name": "토레스의 축복",
+    "enname": "Toreth's Blessing",
+    "cardType": null,
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "천상의 보호막",
+    "text": "이 하수인의 <b>천상의 보호막</b>이 3번 피해를 받아야 부서집니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71a3b66696950e8228ee6abdf6b2333a0ae095cf49267731680d13c2a610d17a.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
+    "childIds": null
+  },
+  {
+    "id": 133363,
+    "name": "티탄급 힘",
+    "enname": "Titanic Strength",
+    "cardType": null,
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "공격력 +1000",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71ba23eeab79846d3b07c8f039f17be6bab7b49162b65cf196c87f06ba2ef2e6.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
+    "childIds": null
+  },
+  {
     "id": 133474,
     "name": "피를 나눈 사이",
     "enname": "Consanguinity",
@@ -4031,7 +4163,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8533b1a4de86b69d2a4d79692dd1141d0d23ea28505c007572b0cca2432f4e02.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/057752f4e16d137390015379446e72d5b3c4371c8f40c37c951fb87a8428526b.png",
-    "childIds": null
+    "childIds": [
+      133452
+    ]
   },
   {
     "id": 95246,
@@ -5677,7 +5811,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d7075d928f1bb7708ad29eba30cf5f4fed9288f9867e69322efdcccda2369b5.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3fb98ea357013b141f706bfcde755e5f4afccc3985876bc4d1986035b2cbdf2.png",
-    "childIds": null
+    "childIds": [
+      132317
+    ]
   },
   {
     "id": 126669,
@@ -5923,6 +6059,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94e07f23ab9e02f16d07ae2b53c41b0a329a6a78f152fc90f532b86a75705cb8.png",
     "childIds": [
       104549
+    ]
+  },
+  {
+    "id": 123325,
+    "name": "아즈샤라 커틀라스 검사",
+    "enname": "Azsharan Cutlassier",
+    "cardType": "하수인",
+    "tier": 3,
+    "minionType": "해적",
+    "minionType2": null,
+    "attack": 6,
+    "health": 4,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성",
+    "text": "<b>전투의 함성:</b> 내 선술집 주문들이 이번 게임 동안 추가로 공격력을 +1 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72f5af253690575f42801a82f542d3025e0521e4edd7647a1d6c44cbb8972856.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2f3e346c01c284e7145f415e836f02dde8f4d2302a2b3189b300029975f6dfc.png",
+    "childIds": [
+      123326
     ]
   },
   {
@@ -6592,7 +6752,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa64d69ae222e0bf78b2e02449738653a1f99e86d53277cf694b7983ce6dae96.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/018a652535cbfb35914af32cce2986443c21c82e9a834045ce96b08b5e07f293.png",
-    "childIds": null
+    "childIds": [
+      133456
+    ]
   },
   {
     "id": 131216,
@@ -6977,7 +7139,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87f3d64c92b039a2d6d98a63b63225c306735876ed3602601fba2efc77a93ff9.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34a08121d9964f29e9a578e088d825d6e969204b53fd99c34ca02a833ff8bd2e.png",
-    "childIds": null
+    "childIds": [
+      133454
+    ]
   },
   {
     "id": 122221,
@@ -7978,7 +8142,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48e722c76e06fa0c7a82d257566447f4d234cb54608e830eed0d3895d3d77f54.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8747f204f7f4e0ccc78f9047b0079e0a740abc214f7eced57f24cc2fdb816a0e.png",
-    "childIds": null
+    "childIds": [
+      133082
+    ]
   },
   {
     "id": 126641,
@@ -8168,6 +8334,32 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60fee965d5067df2cf96dc581699de158fddf7ba1b8c7aefbde09bd777216041.png",
     "childIds": [
       120758
+    ]
+  },
+  {
+    "id": 115555,
+    "name": "암흑갈기 전략가",
+    "enname": "Darkcrest Strategist",
+    "cardType": "하수인",
+    "tier": 5,
+    "minionType": "나가",
+    "minionType2": null,
+    "attack": 4,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "주문제작",
+    "text": "<b>주문제작:</b> 무작위 단계 나가를 얻습니다. <i>(매 턴마다 강화됩니다!)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33d5d090670be4500afb344d6ae97e546e73e0e8ae76561d0fa993d411e15475.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d866f5d6abf2ad8614757f061e425d009b31ebd441f6525ba352bce9494842d5.png",
+    "childIds": [
+      115556,
+      116478,
+      116480
     ]
   },
   {
@@ -8765,7 +8957,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e12f1e33c47046d8323a637131edf6961d887fd400a9a77e3a19626e8073821.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/370df905a3daf4f0b99415d5da3144f9f5b48d5bd9452cf83000c4ecb05a9bf5.png",
-    "childIds": null
+    "childIds": [
+      133708
+    ]
   },
   {
     "id": 101280,
@@ -9075,7 +9269,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/daca189373f581527008425086c7386e5224c8639282ef3936d571c7cf84710b.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b622c59d933f69129fd32212a03fc072e4eccaa3acdc23c3735a0600d308c435.png",
-    "childIds": null
+    "childIds": [
+      133084
+    ]
   },
   {
     "id": 132983,
@@ -9097,7 +9293,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cb5a58c350b919fd32c47898e2538bf6015232084db56967e9cd69cc5ad43e5.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11fa1f084632e4e436ddb785a89405a341596691f916c40ad30744afac3c6fc9.png",
-    "childIds": null
+    "childIds": [
+      132984
+    ]
   },
   {
     "id": 117359,
@@ -14963,50 +15161,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51fb936258916aece9aabe421d655e7f31bb485a11b5234eca859c56bfa3091a.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a093977d622d5bc047961fa38fdb4f8f5c6b5dd405c2be40e4f84c45a40d0dd.png",
-    "childIds": null
-  },
-  {
-    "id": 112075,
-    "name": "낡은 보물 지도",
-    "enname": "Worn Treasure Map",
-    "cardType": "장신구",
-    "tier": null,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": "하급",
-    "keywords": null,
-    "text": "두 턴 후에 10골드를 얻습니다. <i>(게임당 1회만 가능)</i> 두 턴 후에 10골드를 얻습니다. <i>( 턴 남음!)</i>",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51fb936258916aece9aabe421d655e7f31bb485a11b5234eca859c56bfa3091a.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a093977d622d5bc047961fa38fdb4f8f5c6b5dd405c2be40e4f84c45a40d0dd.png",
-    "childIds": null
-  },
-  {
-    "id": 112397,
-    "name": "냉장고 자석",
-    "enname": "Fridge Magnet",
-    "cardType": "장신구",
-    "tier": null,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": "상급",
-    "keywords": "합체, 복수 (X)",
-    "text": "<b>복수 ( ):</b> 무작위 <b>합체</b> 하수인을 얻습니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a72b137b5f8c476e76ec9d51c665523e81332c105fafb599aa0b8ff9a1cb7ddf.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/722054788c1cd21e81a7a06057b946b21ad04fc0d3ee0714a3cb5396da417adc.png",
     "childIds": null
   },
   {
