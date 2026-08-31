@@ -149825,6 +149825,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "111417": {
+    "type": null,
+    "type2": null,
+    "text": "<b>기선 제압:</b> 공격력이 가장 낮은 내 하수인 둘의 능력치가 2배가 됩니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": "하급",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": null,
+    "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
   "111420": {
     "type": null,
     "type2": null,

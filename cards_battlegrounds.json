@@ -176,6 +176,28 @@
     "childIds": null
   },
   {
+    "id": 132554,
+    "name": "다가오는 죽음",
+    "enname": "Death's Embrace",
+    "cardType": null,
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리",
+    "text": "이번 게임에서 내가 <b>죽음의 메아리</b>를 발동시킬 때마다 +2/+2를 얻습니다. ( )",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b19547e5aca8753609ff2a7648a0b2c974fb3d4a570cabe9e91a6a5ec9b0d605.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
+    "childIds": null
+  },
+  {
     "id": 133478,
     "name": "다가오는 죽음",
     "enname": "Death's Embrace",
