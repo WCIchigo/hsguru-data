@@ -1139,10 +1139,6 @@
     "name": "이교도 지도자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24c4fd0e167a8076ba7096f2dac7a1cbeb8bb660096ab74b69fe1a34f8abce0c.png"
   },
-  "812": {
-    "name": "표범",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/689b0fd888e80b8774796188d9be9c83b9cbce115dbd92e71c4cdd87677e3a71.png"
-  },
   "814": {
     "name": "저격",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5abe68614cc4aaac918dd4343a5a39f1c8c46d7a63e7bf8cfa890f6bed4734c9.png"
@@ -42791,10 +42787,6 @@
     "name": "표류물 투척꾼",
     "img": null
   },
-  "122280": {
-    "name": "표류물 투척꾼",
-    "img": null
-  },
   "122281": {
     "name": "원시적인 화가",
     "img": null
@@ -48329,6 +48321,14 @@
   },
   "132319": {
     "name": "사립 탐정",
+    "img": null
+  },
+  "132322": {
+    "name": "죽은 종지기",
+    "img": null
+  },
+  "132323": {
+    "name": "죽은 종지기",
     "img": null
   },
   "132441": {
