@@ -71,14 +71,6 @@
     "health": null,
     "text": "아군 하수인의 <b>전투의 함성</b> 능력을 발동시킵니다. <i>(3턴에 잠금 해제됩니다.)</i>"
   },
-  "58040": {
-    "name": "환생 의식",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65710f34948974a7658839d4d16836a8aa926dfac0f83f3844e90b24413ace2f.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6d3d3d1134809547a631c9a1f4d145a3f48db80aefc8496997b926bddd47fac.png",
-    "attack": null,
-    "health": null,
-    "text": "다음 턴까지 하수인에게 <b>환생</b>을 부여합니다."
-  },
   "58537": {
     "name": "시간의 선술집",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7906ef82bc0b8ff1d2487b2c99adc658446532802e19d316b0ae846ad1145c1f.png",
@@ -1230,14 +1222,6 @@
     "attack": 6,
     "health": 4,
     "text": "내 턴이 시작될 때, 요그사론의 수레바퀴를 돌립니다."
-  },
-  "77855": {
-    "name": "발리스리아 드림워커",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8a8202a8248a2a03d65d23908d7aa6cd30a7c6c9ce0dc5e91acfc5a5a591f9f.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/008af80a014d7012f389a12dcf00b9cfe457838f999734f707e385b182a67cf4.png",
-    "attack": 6,
-    "health": 4,
-    "text": "내 전장 또는 선술집에 용족이 추가될 때마다 +1/+1을 얻습니다."
   },
   "77857": {
     "name": "아기 이샤라즈",
@@ -2671,14 +2655,6 @@
     "health": 6,
     "text": "<b>죽음의 메아리:</b> 1/1 해골을 여섯 소환합니다."
   },
-  "113311": {
-    "name": "환상적인 보물",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_HERO_304p.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/112694f91443f3de13849d422bb618cc19ede825bdf7439dfe16c297870a23eb.png",
-    "attack": null,
-    "health": null,
-    "text": "5턴에 하급 <b>장신구</b>를 선택해서 구매합니다. <i>( 턴 남음!)</i> 5턴에 하급 <b>장신구</b>를 선택해서 구매합니다. <i>(완료!)</i>"
-  },
   "113347": {
     "name": "등불 수호자",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG29_888_G_triple.png",
@@ -3374,14 +3350,6 @@
     "attack": 7,
     "health": 1,
     "text": "<b>천상의 보호막</b>. 아군 하수인이 공격할 때마다 그 하수인과 이 하수인에게 공격력 +5를 영구히 부여합니다."
-  },
-  "119943": {
-    "name": "평온한 명상가",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_835_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa8316877f08198767736da6375e280ec2740e6d5922019f39a4767ce13c623b.png",
-    "attack": 6,
-    "health": 16,
-    "text": "<b>주문제작:</b> 내 선술집 주문들이 이번 게임 동안 추가로 + /+ |1(을,를) 부여합니다."
   },
   "119950": {
     "name": "모래 빙빙이",
@@ -4959,14 +4927,6 @@
     "health": 16,
     "text": "<b>죽음의 메아리:</b> 무작위 해적을 명 소환하고 얻습니다."
   },
-  "127577": {
-    "name": "시간왜곡의 쉬바라",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_311_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3a4d9dc0209f98527a5396fd95062ab640c807883243254157b1be3e985fe9a.png",
-    "attack": 8,
-    "health": 4,
-    "text": "하수인이 잡아먹힐 때마다, 이 하수인이 그 하수인의 능력치를 2배로 얻습니다."
-  },
   "127697": {
     "name": "평행 시간대",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_HERO_000p.png",
@@ -5527,6 +5487,14 @@
     "health": null,
     "text": "3단계 이하의 하수인을 선택합니다. 그 하수인을 복사하여 얻습니다. (강화 효과가 없는 일반 하수인으로)"
   },
+  "130856": {
+    "name": "황금 경품",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_812t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31d90348360ad8cd582ca0599093dd32bc8c0514c2a3c1e65b473c006221f607.png",
+    "attack": null,
+    "health": null,
+    "text": "3단계 다크문 경품을 <b>발견</b>합니다."
+  },
   "130868": {
     "name": "예스러운 촛대",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_823t.png",
@@ -6063,6 +6031,22 @@
     "health": 14,
     "text": "아군 하수인이 공격한 후, 내 딱정벌레들이 이번 게임 동안 + /+ |1(을,를) 얻습니다. <b>죽음의 메아리:</b> / 딱정벌레를 둘 소환합니다."
   },
+  "132954": {
+    "name": "진홍빛 구원자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_241_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/000b14fffd2134c1071465f565f131c30e3dc33f84c9798af7a5e281ea144b16.png",
+    "attack": 16,
+    "health": 18,
+    "text": "<b>천상의 보호막</b>, <b>집결:</b> 강력한 용숨결을 두 번 시전합니다."
+  },
+  "132956": {
+    "name": "청동 시간여행자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_242_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/998b1debe7777f11d482cd4e75eff278d89e77eea2ff4f4001930b63d9b5a956.png",
+    "attack": 4,
+    "health": 18,
+    "text": "<b>집결:</b> 무작위 <b>오색비룡</b>을 2마리 얻습니다."
+  },
   "132982": {
     "name": "해자 관리자",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_351_G_triple.png",
@@ -6078,6 +6062,14 @@
     "attack": 6,
     "health": 24,
     "text": "내가 정령을 마리 낸 후에, 선술집에서 생명력이 가장 높은 하수인의 능력치를 2배로 얻습니다. <i>( 마리 남음!)</i>"
+  },
+  "132986": {
+    "name": "룬 비전술사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_245_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ba4ad762fe28f83db29093222b9d7fcc49b6b1b2d415b91f5244ddb7001464b.png",
+    "attack": 4,
+    "health": 8,
+    "text": "<b>기선 제압:</b> 반짝이는 반지를 4번 시전합니다."
   },
   "132988": {
     "name": "보물 앵무새",

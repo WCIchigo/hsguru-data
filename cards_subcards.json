@@ -319,14 +319,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb550fd69ef6f901ee2c01dc4c906957412779756d1a3f88555d2d5bc397b257.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_890t.jpg"
   },
-  "120068": {
-    "name": "성소 카라잔",
-    "manaCost": 10,
-    "classId": 6,
-    "rarityId": 1,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72874234734db231e3b7e157d82959414cd97125d7073656a0948638b810c6f4.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TIME_890t2.jpg"
-  },
   "120082": {
     "name": "세나리우스의 도끼",
     "manaCost": 3,
