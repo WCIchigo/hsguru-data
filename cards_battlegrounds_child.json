@@ -191,14 +191,6 @@
     "health": null,
     "text": "첫 두 턴을 넘긴 후에, 3단계와 4단계 하수인을 <b>발견</b>합니다."
   },
-  "60216": {
-    "name": "부자가 될 거야!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e9baa2c0e524edd2bf47d3f0e32a00199724f568369c101be6bb7e1e317e1e6.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae0aa8a8e56c87c981046ec4b7f328c3a572b129814895fe0f188b59f6678cb7.png",
-    "attack": null,
-    "health": null,
-    "text": "게임당 한 번, 아군 하수인을 황금 하수인으로 만듭니다. 게임당 한 번, 아군 하수인을 황금 하수인으로 만듭니다. <i>(<b>시간왜곡의</b> 하수인 제외)</i>"
-  },
   "60217": {
     "name": "선임 탐험가",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed1cd089849582ee538807c642a44e4d17c66930c6a2f71ca248962f7a8ea27a.png",
@@ -1119,6 +1111,14 @@
     "health": 1,
     "text": "<b>도발</b>, <b>죽음의 메아리:</b> 가장 오른쪽에 있는 내 하수인을 황금 하수인으로 만듭니다."
   },
+  "77827": {
+    "name": "오물투척꾼",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c06d540af755a86612add370a127b983a852f3886227913e607e2ead30d9893.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/117096bb792d9c797d56f24239e1fa8f1f2679f1cac1d0846092139bb4c06ab1.png",
+    "attack": 5,
+    "health": 5,
+    "text": "<b>전투의 함성:</b> 무작위 <b>전투의 함성</b> 하수인을 얻습니다."
+  },
   "77829": {
     "name": "부르스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4b6779707dc62ce09bab6eaa53ef1ff1607fb8d525fac2bde26742815259a29.png",
@@ -1318,14 +1318,6 @@
     "attack": 4,
     "health": 2,
     "text": "내가 새끼용을 소환할 때마다 영구히 +2/+2를 얻습니다."
-  },
-  "77894": {
-    "name": "황실 수호병",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ee9b86c6e703fc02452fa1e3b5826892d321d9719bec1103065daa3afb22316.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3519a7534b5e7d7935da59b7deea61672a68abc0487fa33457da4e0269e43d2d.png",
-    "attack": 3,
-    "health": 4,
-    "text": "다른 아군 하수인에게 주문을 시전한 후에, 이 하수인에게도 시전합니다. <i>(한 턴에 한 번)</i>"
   },
   "77911": {
     "name": "향기로운 향수",
@@ -2191,14 +2183,6 @@
     "health": null,
     "text": "단계 다크문 경품을 <b>발견</b>합니다."
   },
-  "103071": {
-    "name": "세이렌의 노래",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba0f3bae0768035d8394d410bae9454611aee6e0182c811b3cd5fb35bed5215d.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5981a5c5f947ab3da5232df47e034ae91f01a15f3e9df9b23eeb55a0d042473b.png",
-    "attack": null,
-    "health": null,
-    "text": "선술집에서 다른 하수인을 선택하여 복사해옵니다. <i>(바다 마녀 자르지라 제외)</i>"
-  },
   "103075": {
     "name": "바다 마녀 자르지라",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG27_514_G_triple.png",
@@ -2431,14 +2415,6 @@
     "health": 8,
     "text": "이 하수인을 처음 판 후에, <b>전달</b>합니다. 이 하수인을 처음 판 후에, <b>전달</b>합니다. <i>(팔았음)</i>"
   },
-  "105649": {
-    "name": "웅덩이 첨벙이",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_117_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d236fbe0fcc595bfa356d74e55a6c1f079e3fc6ed1e61b8eb4d92882133b10e3.png",
-    "attack": 8,
-    "health": 8,
-    "text": "이 하수인이 <b>전달</b>된 후에, +8/+8을 얻습니다."
-  },
   "105715": {
     "name": "약탈 동료",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_118_G_triple.png",
@@ -2615,14 +2591,6 @@
     "health": 2,
     "text": null
   },
-  "110472": {
-    "name": "아홉 개구리의 축복",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbb0674b9173fd44977fdafda766306309ff15b71c2b727837b0d7661c0df715.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6acae312a497ad4f4781771319b8ae85cc9db1f2d8d1c2ce0f7000b1bbbe3ebb.png",
-    "attack": null,
-    "health": null,
-    "text": "무작위 선술집 주문을 얻습니다."
-  },
   "110665": {
     "name": "지옥멧돼지",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_633_G_triple.png",
@@ -2710,14 +2678,6 @@
     "attack": 6,
     "health": 6,
     "text": "두 턴이 끝날 때마다, 내 손에서 가장 왼쪽에 있는 카드를 일반 카드로 복사하여 얻습니다. <i>( 턴 남음!)</i> 두 턴이 끝날 때마다, 내 손에서 가장 왼쪽에 있는 카드를 일반 카드로 복사하여 얻습니다. <i>(이번 턴이 끝날 때!)</i>"
-  },
-  "113631": {
-    "name": "아홉 개구리",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG28_HERO_801_Buddy.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7a7401278cdbadabae4a2515b721af32d4685a406cf6fe695f5f1020b8a5994.png",
-    "attack": 9,
-    "health": 9,
-    "text": "내가 하수인을 산 후에, 같은 단계의 무작위 선술집 주문을 얻습니다. <i>( 남음!)</i>"
   },
   "113633": {
     "name": "얼굴 없는 자",
@@ -2918,22 +2878,6 @@
     "attack": 8,
     "health": 10,
     "text": "내가 5골드를 소모할 때마다, 아군 해적 둘에게 + /+ |1(을,를) 두 번 부여합니다. <i>( 골드 남음!)</i>"
-  },
-  "115911": {
-    "name": "마법사의 길",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_890t.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c595abdf1aecc1f579943a0c1d2d865dcfb2bd31df819795d45de680c1c2750.png",
-    "attack": null,
-    "health": null,
-    "text": "내 단계의 선술집 주문을 <b>발견</b>합니다."
-  },
-  "115912": {
-    "name": "전사의 길",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_890t2.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ba40f527f26152ca6e4c9a5d9c567f434f9da0b897d4be0840861789ba6a055.png",
-    "attack": null,
-    "health": null,
-    "text": "내 단계의 하수인을 <b>발견</b>합니다."
   },
   "116111": {
     "name": "묘기",
@@ -3863,14 +3807,6 @@
     "health": null,
     "text": "3단계 저그를 잠금 해제합니다. 매 턴 비용이 (1) 감소합니다. <b>지속 능력:</b> 내 저그들이 2단계 저그로 변태할 수 있습니다."
   },
-  "120364": {
-    "name": "울트라리스크 동굴",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_811p3.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd6597ddc9659ad81d880cc524944b4944d0b346eb88a4c308dc20d9a059cae4.png",
-    "attack": null,
-    "health": null,
-    "text": "내 저그들이 3단계 저그로 변태할 수 있습니다."
-  },
   "120365": {
     "name": "저글링",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_811t2.png",
@@ -3903,14 +3839,6 @@
     "health": 2,
     "text": "<b>죽음의 메아리:</b> 무작위 적 하수인에게 이 하수인의 공격력만큼 피해를 줍니다. <i>(매 턴 변태합니다!)</i> <b>죽음의 메아리:</b> 무작위 적 하수인에게 이 하수인의 공격력만큼 피해를 줍니다."
   },
-  "120375": {
-    "name": "뮤탈리스크",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_811t6.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43313919fa73e53df09ebd7c5c49ba1afc33c56f4433f1ab233aae69eebd6116.png",
-    "attack": 2,
-    "health": 2,
-    "text": "아군 하수인이 적을 처치한 후에 영구히 공격력을 +3 얻습니다. <i>(매 턴 변태합니다!)</i> 아군 하수인이 적을 처치한 후에 영구히 공격력을 +3 얻습니다."
-  },
   "120378": {
     "name": "가시지옥",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_811t7.png",
@@ -3934,14 +3862,6 @@
     "attack": 2,
     "health": 2,
     "text": "내가 카드를 낼 때마다, 내 하수인들에게 +1/+1을 부여합니다. <i>(매 턴 변태합니다!)</i> 내가 카드를 낼 때마다, 내 하수인들에게 +1/+1을 부여합니다."
-  },
-  "120386": {
-    "name": "울트라리스크",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_811t10.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a85f20133d3c34fd6c12d0ef21424de9933a002f272632020577710f80af291.png",
-    "attack": 2,
-    "health": 2,
-    "text": "양옆의 하수인들에게도 피해를 줍니다. <b>기선 제압:</b> 이 하수인의 능력치가 2배가 됩니다. <i>(매 턴 변태합니다!)</i> 양옆의 하수인들에게도 피해를 줍니다. <b>기선 제압:</b> 이 하수인의 능력치가 2배가 됩니다."
   },
   "120650": {
     "name": "늘어나는 수집품",
@@ -5559,6 +5479,14 @@
     "health": null,
     "text": "야수에게 +2/+2와 <b>환생</b>을 부여합니다."
   },
+  "130977": {
+    "name": "오색 눈물",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_MagicItem_840t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e2ff1bbf5d31c6c9b5ad9601454282a0102a83da551dcfb10f0a49768c18e1a.png",
+    "attack": null,
+    "health": null,
+    "text": "무작위 <b>오색비룡</b>을 2마리 얻습니다. 내가 <b>전투의 함성</b> 하수인을 마리 낸 후에 반복합니다. <i>( 마리 남음!)</i>"
+  },
   "130997": {
     "name": "하수도 군주",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_604_G_triple.png",
@@ -5927,14 +5855,6 @@
     "health": 14,
     "text": "아군 하수인이 <b>환생</b>한 후에, <b>천상의 보호막</b>과 + /+ |1(을,를) 얻습니다."
   },
-  "133084": {
-    "name": "세련된 망령",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_515_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b622c59d933f69129fd32212a03fc072e4eccaa3acdc23c3735a0600d308c435.png",
-    "attack": 12,
-    "health": 16,
-    "text": "아군 하수인이 <b>환생</b>한 후에, 가장 오른쪽에 있는 내 언데드에게 그 하수인의 공격력의 2배만큼 능력치를 부여합니다."
-  },
   "133343": {
     "name": "금 타구봉",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_MagicItem_302t.png",
@@ -5958,6 +5878,14 @@
     "attack": null,
     "health": null,
     "text": "아군 하수인의 <b>죽음의 메아리</b> 능력을 발동시킵니다."
+  },
+  "133439": {
+    "name": "티리엘",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_356_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47ee006336e8dacfbdcb10a2647d0f2252abb686085fd715fd90774476b3ef35.png",
+    "attack": 20,
+    "health": 20,
+    "text": "<b>사용 ( ):</b> 다른 하수인의 능력치를 / |1(으로,로) 만듭니다."
   },
   "133452": {
     "name": "달아나는 도망자",

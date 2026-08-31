@@ -2573,6 +2573,61 @@
     ]
   },
   {
+    "id": 61910,
+    "name": "아라나 스타시커",
+    "enname": "Aranna Starseeker",
+    "cardType": "영웅",
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": 30,
+    "armor": 12,
+    "trinketTier": null,
+    "keywords": null,
+    "text": null,
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": true,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b889570ece5b4ca3d08e414b5f3ffcf5b3994bf2ce5142d4c6f3580d953b0a79.png",
+    "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1959a3bac88eccb38fbc26a254c2b82a0274fea8b8790d9a10e590858da1ea94.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4f502896e20b048ad61ecbc67f7e8eae0d72ecf11d8815fa0a682be70336350.png",
+    "childIds": [
+      61915,
+      77468
+    ]
+  },
+  {
+    "id": 118510,
+    "name": "아르타니스",
+    "enname": "Artanis",
+    "cardType": "영웅",
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": 30,
+    "armor": 18,
+    "trinketTier": null,
+    "keywords": null,
+    "text": null,
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/217d91010837bdb214e465e64a0df922f93971c8002f95084b5b4a8cf84045d2.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a182cc95751a9d3fc331604a576d4fdf6641b03159cdded1f79d02cb2c553616.png",
+    "childIds": [
+      119196,
+      119758,
+      119760,
+      119762,
+      119768,
+      119770,
+      119960
+    ]
+  },
+  {
     "id": 118510,
     "name": "아르타니스",
     "enname": "Artanis",
@@ -4337,6 +4392,28 @@
     ]
   },
   {
+    "id": 132915,
+    "name": "수상한 감옥 경비병",
+    "enname": "Suspicious Prisonguard",
+    "cardType": "하수인",
+    "tier": 1,
+    "minionType": null,
+    "minionType2": null,
+    "attack": 3,
+    "health": 3,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>사용 ( ):</b> 다른 하수인에게 + /+ |1(을,를) 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bac709885f2a5ed406d54e1a36b1aa998afdeeda16854174798f872e80cdcf93.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bd722a22a14bcc4a167b14c71e3f3e449c541f28fe8742cf12931b7370f1e50.png",
+    "childIds": null
+  },
+  {
     "id": 95271,
     "name": "썩은가죽 놀",
     "enname": "Rot Hide Gnoll",
@@ -4794,6 +4871,28 @@
       116111,
       116113
     ]
+  },
+  {
+    "id": 133434,
+    "name": "미끼 창조술사",
+    "enname": "Decoy Conjurer",
+    "cardType": "하수인",
+    "tier": 2,
+    "minionType": null,
+    "minionType2": null,
+    "attack": 3,
+    "health": 4,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>사용 ( ):</b> 선술집에서 공격력이 가장 높은 하수인을 내 손으로 가져옵니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1beb1fbb732b414194299b3a2c71113c38f430b1cbd5f748cb869e1edead7a2a.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31d3bae641b61fe68459224f97416601d0935c5ccd06566766b2e4a3903cb0ea.png",
+    "childIds": null
   },
   {
     "id": 116182,
@@ -5504,6 +5603,28 @@
     ]
   },
   {
+    "id": 132917,
+    "name": "과일 상인",
+    "enname": "Fruit Vendor",
+    "cardType": "하수인",
+    "tier": 3,
+    "minionType": null,
+    "minionType2": null,
+    "attack": 3,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>사용 ( ):</b> 선술집 바나나 요리를 개 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b4be846698eda855c81c5298c5ed3ff400d3772667f6c8e481e8e9973035a6c.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c2c5726617c89461d59e551990f8bb7d6ddbcb77c82d4d79491158b4baee9f5.png",
+    "childIds": null
+  },
+  {
     "id": 101584,
     "name": "교활한 랩터",
     "enname": "Sly Raptor",
@@ -6035,6 +6156,54 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cafa7af1636c20804486d27478aaa2ff9b5aeeab7242e6d1a185ab23608ee45d.png",
     "childIds": [
       131148
+    ]
+  },
+  {
+    "id": 131147,
+    "name": "아빠 므르글턴",
+    "enname": "Papa Mrrglton",
+    "cardType": "하수인",
+    "tier": 3,
+    "minionType": "멀록",
+    "minionType2": null,
+    "attack": 2,
+    "health": 4,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성",
+    "text": "<b>전투의 함성:</b> 내 다른 멀록들에게 생명력을 + 부여합니다. <i>(이번 게임에 내가 낸 므르글턴의 수만큼 강화됩니다!)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1320c379b68ff2d573c7bec6a79bbe89c64b89b53d586f510e8ddfe32537f578.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cafa7af1636c20804486d27478aaa2ff9b5aeeab7242e6d1a185ab23608ee45d.png",
+    "childIds": [
+      131148
+    ]
+  },
+  {
+    "id": 104545,
+    "name": "아빠미소 드랙티르",
+    "enname": "Doting Dracthyr",
+    "cardType": "하수인",
+    "tier": 3,
+    "minionType": "용족",
+    "minionType2": null,
+    "attack": 4,
+    "health": 3,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내 턴이 끝날 때, 내 팀원의 하수인들에게 공격력을 +1 부여합니다.",
+    "flavorText": null,
+    "duosOnly": true,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fbae4308c322be0a22a90ea4beca3dab34be983a79f2105ca72801655e4061a.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94e07f23ab9e02f16d07ae2b53c41b0a329a6a78f152fc90f532b86a75705cb8.png",
+    "childIds": [
+      104549
     ]
   },
   {
@@ -7286,6 +7455,30 @@
     ]
   },
   {
+    "id": 121508,
+    "name": "아귀 주문술사",
+    "enname": "Maw Caster",
+    "cardType": "하수인",
+    "tier": 4,
+    "minionType": "언데드",
+    "minionType2": null,
+    "attack": 4,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성, 발견",
+    "text": "<b>전투의 함성:</b> 아군 언데드를 처치하고 언데드를 <b>발견</b>합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0c84ac26da8ff0839bc6e56a18825d37f76c8298cb4174f8022e819d8c81db1.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a877d29b9885e88af52fe891a670171f8a6893267f942a95b796a9d8092a875.png",
+    "childIds": [
+      121509
+    ]
+  },
+  {
     "id": 126451,
     "name": "역병질주자",
     "enname": "Plaguerunner",
@@ -7380,6 +7573,28 @@
     "childIds": [
       132307
     ]
+  },
+  {
+    "id": 132634,
+    "name": "올가미 사냥꾼",
+    "enname": null,
+    "cardType": "하수인",
+    "tier": 4,
+    "minionType": "가시멧돼지",
+    "minionType2": null,
+    "attack": 4,
+    "health": 4,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>선택 -</b> 무작위 가시멧돼지를 얻습니다. 또는 내 최대 골드가 증가합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/330711c0c8688bb10b9ec995c3f1d0061e5958aa712cb83e88c133eac133c0a9.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47a896d4efdf4c37ef95996629896ed81c399b0cde6a47e6413543da781b8025.png",
+    "childIds": null
   },
   {
     "id": 64042,
@@ -7639,6 +7854,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73acae4401afc8b9bcfb37e7803d97b0510eaefc3fa68539b8bad5b373a019c9.png",
     "childIds": [
       99036
+    ]
+  },
+  {
+    "id": 133703,
+    "name": "쾅짝 상자",
+    "enname": "Boom-in-a-Box",
+    "cardType": "하수인",
+    "tier": 4,
+    "minionType": null,
+    "minionType2": null,
+    "attack": 5,
+    "health": 10,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "도발",
+    "text": "<b>도발</b>, <b>기선 제압:</b> 다른 모든 하수인에게 피해를 줍니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2aee5b81a863cfc502924128357797fb61c6113e4102f9a6955deb8cd2750ec1.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b60acc51a94c28f8a2bff827ee6bdc22072446eed34d5374e6dba971f3eff80e.png",
+    "childIds": [
+      133704
     ]
   },
   {
@@ -9346,6 +9585,30 @@
     ]
   },
   {
+    "id": 98948,
+    "name": "아옳옳 중창단",
+    "enname": "Choral Mrrrglr",
+    "cardType": "하수인",
+    "tier": 6,
+    "minionType": "멀록",
+    "minionType2": null,
+    "attack": 6,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>기선 제압:</b> 내 손에 있는 모든 하수인의 능력치를 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73f8b7e7787e3fcf9849b95d06b99c777fde772d1b4ae6da8178771517c1967b.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8249125531286a9c3e7bf4cee4e5351c90aa257c35fb98aba22be3db57282987.png",
+    "childIds": [
+      98950
+    ]
+  },
+  {
     "id": 132925,
     "name": "약탈의 대가 후크터스크",
     "enname": "Hooktusk, Master Marauder",
@@ -9651,6 +9914,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c81325d5c4b2fa5c965f0361e04bbe38cb4bdf9cdcbed07da363cff0b3a3d646.png",
     "childIds": [
       117493
+    ]
+  },
+  {
+    "id": 133438,
+    "name": "티리엘",
+    "enname": "Tyrael",
+    "cardType": "하수인",
+    "tier": 6,
+    "minionType": null,
+    "minionType2": null,
+    "attack": 10,
+    "health": 10,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>사용 ( ):</b> 다른 하수인의 능력치를 / |1(으로,로) 만듭니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f003f79b587c1b979d2beee32da61f2829028cd15dd9a0f39423e88b4f20ba67.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47ee006336e8dacfbdcb10a2647d0f2252abb686085fd715fd90774476b3ef35.png",
+    "childIds": [
+      133439
     ]
   },
   {
@@ -11147,28 +11434,6 @@
     "childIds": null
   },
   {
-    "id": 104502,
-    "name": "마력 깃든 올가미",
-    "enname": "Enchanted Lasso",
-    "cardType": "주문",
-    "tier": 1,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": null,
-    "text": "선술집에서 무작위 하수인을 내 손으로 가져옵니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b28fa27b8c82063456a12da06db56b74b5cef08185970953a5031f7a3dc3aa0.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7c6bebdb2da10d360ab5d9564309ebd9977998de74b74f955a2d0a03275538e.png",
-    "childIds": null
-  },
-  {
     "id": 103791,
     "name": "보강",
     "enname": "Fortify",
@@ -11521,28 +11786,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46ca3d52441aeb23e5c416459a89bfa57559dbaa07ba62c56610ec1e45591780.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbb0868a52f5259287793110e8b3015a8743361aeec20ab374ba7ae07c4483d7.png",
-    "childIds": null
-  },
-  {
-    "id": 109230,
-    "name": "반짝이는 반지",
-    "enname": "Shiny Ring",
-    "cardType": "주문",
-    "tier": 3,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": null,
-    "text": "내 하수인들에게 + /+ |1(을,를) 부여합니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e00105e46a058f1f916c98f6345e3b6f5c66f12d93537b0a95612f7dd14c3a23.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8a52e16f79f097379e2c4250db11aacba5c6670fe5a0f624ab5259b119d442f.png",
     "childIds": null
   },
   {
@@ -11925,75 +12168,6 @@
     ]
   },
   {
-    "id": 133371,
-    "name": "무기 가열로",
-    "enname": "Weapons Forge",
-    "cardType": "주문",
-    "tier": 4,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": null,
-    "text": "뾰족한 화살을 3개 얻습니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/440017d30359d9f923200034d28fe7dc9341fd8bd6744b7d2feab2aa74243d4b.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e36c168ea5daa10eacef263e94c50edf7830d2bd69fe9e2dfcb094783877e31.png",
-    "childIds": null
-  },
-  {
-    "id": 126957,
-    "name": "무덤 돌리기",
-    "enname": "Tomb Turning",
-    "cardType": "주문",
-    "tier": 4,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": "발견",
-    "text": "언데드를 <b>발견</b>합니다. 이번 턴에 그 언데드를 내면 그 언데드가 죽습니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e22af732e875d04921dc421384893927bbc9ff5ff9956b76b228f7b611a2f5c0.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c102af986a07e74490d205b67ed487327c1e9ec7043b7e588bb76e8595d433e3.png",
-    "childIds": null
-  },
-  {
-    "id": 115910,
-    "name": "무한한 잠재력",
-    "enname": "Boundless Potential",
-    "cardType": "주문",
-    "tier": 4,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": "발견",
-    "text": "<b>선택 - </b>내 단계의 하수인, 또는 내 단계의 선술집 주문을 <b>발견</b>합니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/332f3a4895ba3ab19b2102cf99ee06835ad9b288ec669b3dcd8017588f7ccae3.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7d0bd554d2f8609e0d970b1d9b0f2b9acc4947497a68372a4af18959c7e4de4.png",
-    "childIds": [
-      115911,
-      115912
-    ]
-  },
-  {
     "id": 120900,
     "name": "변화하는 물결",
     "enname": "Shifting Tide",
@@ -12365,28 +12539,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/506123b27a3d6bd9abb9a611650fb5bdb5dc4bed3f8594fab1eb122c9a16f68c.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9601cc38a994847537e6dd0c951e1751aa332be92a5cc52608131fdb9c6965a.png",
-    "childIds": null
-  },
-  {
-    "id": 103785,
-    "name": "방어구 더미",
-    "enname": "Armor Stash",
-    "cardType": "주문",
-    "tier": 5,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": null,
-    "text": "내 방어도가 5가 됩니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc7552e0799f99a853a887dd6517db622f1c4d4b10d7bf0aa20747d710e902ea.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/760b8625522d83fcf163a38be97d20ee6d66b50542114a56fb37921b8f225a4d.png",
     "childIds": null
   },
   {
@@ -19457,28 +19609,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89ff0552a729409b4f9a9001f1127228c1caaa9e5e9b3139afb32e23d526019d.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b147f3298202284c3135f63bf04b6775f2f324915f5fc56708e4e23186ef832.png",
-    "childIds": null
-  },
-  {
-    "id": 120619,
-    "name": "현혹적인 팬파이프",
-    "enname": "Charming Panpipes",
-    "cardType": "장신구",
-    "tier": null,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": "상급",
-    "keywords": null,
-    "text": "매 턴이 끝날 때 가장 왼쪽에 있는 내 하수인에게 + /+ |1(을,를) 부여합니다. 내가 주문을 시전한 후 이 장신구를 강화합니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c28a44390b5dbfcdceb5908d7511d130f334403693f6a79b77959ce9e504926f.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c6c85044d13f0e6dd061d700783191477e392f348f6b6745f03a70c7bfcadc7.png",
     "childIds": null
   },
   {
