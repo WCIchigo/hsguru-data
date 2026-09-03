@@ -22409,11 +22409,11 @@
     "manaCost": 10,
     "cardType": "하수인",
     "minionType": "야수",
-    "attack": 8,
+    "attack": 9,
     "health": 9,
     "text": "<b>전투의 함성:</b> 내가 다음에 내는 카드가 마나 대신 상대편의 생명력을 비용으로 사용합니다. <i>(최대 10)</i>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d73f4cc8463c98368d0a51074b249db4fabf1fa5bd14b2f1554121157d1bc82a.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a42cccdd1e698bbe185ac47b3abfcccbf03ba31adef58e6d80d0323a32257d5.png"
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abacba4845f1cc0c43ac89f3c3c9380d3f7d32b35d78f65a95b7dc7de3325109.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8df58466c0011bfe60104b895dfed66e037e4e74cfca85949f6c9be9efc5f270.png"
   },
   "115216": {
     "id": 115216,

@@ -4340,7 +4340,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "발견 퀘스트",
-    "text": "<b>퀘스트:</b> 카드를 7장 <b>발견</b>해야 합니다. <b>보상:</b> 기원의 돌",
+    "text": "<b>퀘스트</b>: 카드를 8장 <b>발견</b>해야 합니다. <b>보상</b>: 기원의 돌",
     "flavorText": "9일째. 우리를 맞이한 것은 벌린 팔이 아니라 창끝이었다! 다행히 수석 에쇼가 우리를 가엾게 여겨 경비병들을 물렸다. 한 티탄연구자가 엘리스의 전문성을 알고 그녀를 도서관으로 데려가 버렸다. 움브라는 구불구불한 거리에서 사라졌다...",
     "attack": null,
     "health": null,
@@ -4350,8 +4350,8 @@
       118191
     ],
     "cardId": "TLC_460",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c395ace874009a5fb50fe82120739b8891f95b4e26d9bfa3b60ddb2f691a323f.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96f940a4f3160610b15fc7e114b42cc44bbee0a6952c7e71344794c4863663bc.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96fc6a7554fa4df019a1f683106758b64a4fed3aacd08f08a8c4434b0f8bfc4c.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dffdd2abaa1e45db06b1015839b1304cdf363900642c365a58d6247ce77d00ca.png",
     "isStandard": true
   },
   {
@@ -12361,13 +12361,13 @@
     "text": "내 턴에 내 영웅의 공격력이 +1 증가합니다.",
     "flavorText": "예, 주방장님!",
     "attack": 1,
-    "health": 3,
+    "health": 2,
     "runeCost": null,
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_202",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d1d2d5a7ec755732882ddefe8b5bbef70eb927d8684f77cb0f34e16fad5e2cd.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46aec00c168fe4506c5160cc35e6b18b4c55e5dadb260364264b00f5607784f2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd6d04ef0d47847e8471d0126e0b278ad7bf08832751bcfeb397837a97e6c9d5.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcf78e4435d3babd3477af2aa9c8fe810fea9cae1f7e16d24acee4323a52c3e2.png",
     "isStandard": true
   },
   {
@@ -173333,14 +173333,14 @@
     "keywords": "도발 전투의 함성",
     "text": "<b>도발</b>, <b>전투의 함성:</b> 적 하수인을 선택하여 생명력을 3 가져옵니다. 세 번 발동합니다.",
     "flavorText": "하지만 거대괴수는 전통적으로 전혀 무섭지 않은데요!",
-    "attack": 9,
-    "health": 6,
+    "attack": 8,
+    "health": 8,
     "runeCost": null,
     "collectible": true,
     "childIds": null,
     "cardId": "CATA_699",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/926d0123edac0bd9152ddd561a2b5d6aea21675a4b7e330e4912efa488473c7a.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b954f674453457a12fd719fbbc9c82ab61806e7be5a55a62217a3c1f13992cdd.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/847feccaaf0cfd33e3520929c586c13fa7c44f31825f94f7dd4be2b73607cf30.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f015fd102dc342ca22766e2adc8a1345a0b0ff817a2e74733d2ea900de94de0.png",
     "isStandard": true
   },
   {
@@ -176912,14 +176912,14 @@
     "keywords": "전투의 함성",
     "text": "<b>전투의 함성:</b> 내가 다음에 내는 카드가 마나 대신 상대편의 생명력을 비용으로 사용합니다. <i>(최대 10)</i>",
     "flavorText": "고대의 전쟁 시기에 전사했지만, 그가 아제로스에 남긴 유산은 아직 그를 숭배하며 번성하는 가시멧돼지 부족들에 남아 있습니다.",
-    "attack": 8,
+    "attack": 9,
     "health": 9,
     "runeCost": null,
     "collectible": true,
     "childIds": null,
     "cardId": "EDR_489",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d73f4cc8463c98368d0a51074b249db4fabf1fa5bd14b2f1554121157d1bc82a.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a42cccdd1e698bbe185ac47b3abfcccbf03ba31adef58e6d80d0323a32257d5.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abacba4845f1cc0c43ac89f3c3c9380d3f7d32b35d78f65a95b7dc7de3325109.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8df58466c0011bfe60104b895dfed66e037e4e74cfca85949f6c9be9efc5f270.png",
     "isStandard": true
   },
   {
