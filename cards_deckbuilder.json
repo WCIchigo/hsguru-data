@@ -4340,7 +4340,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "발견 퀘스트",
-    "text": "<b>퀘스트</b>: 카드를 8장 <b>발견</b>해야 합니다. <b>보상</b>: 기원의 돌",
+    "text": "<b>퀘스트:</b> 카드를 7장 <b>발견</b>해야 합니다. <b>보상:</b> 기원의 돌",
     "flavorText": "9일째. 우리를 맞이한 것은 벌린 팔이 아니라 창끝이었다! 다행히 수석 에쇼가 우리를 가엾게 여겨 경비병들을 물렸다. 한 티탄연구자가 엘리스의 전문성을 알고 그녀를 도서관으로 데려가 버렸다. 움브라는 구불구불한 거리에서 사라졌다...",
     "attack": null,
     "health": null,
@@ -4350,7 +4350,7 @@
       118191
     ],
     "cardId": "TLC_460",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96fc6a7554fa4df019a1f683106758b64a4fed3aacd08f08a8c4434b0f8bfc4c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85b1495f8f5c40738087a94902de36f2053a6c0ca98cb9fb121f9ce804693fd1.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dffdd2abaa1e45db06b1015839b1304cdf363900642c365a58d6247ce77d00ca.png",
     "isStandard": true
   },
@@ -12361,13 +12361,13 @@
     "text": "내 턴에 내 영웅의 공격력이 +1 증가합니다.",
     "flavorText": "예, 주방장님!",
     "attack": 1,
-    "health": 2,
+    "health": 3,
     "runeCost": null,
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_202",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd6d04ef0d47847e8471d0126e0b278ad7bf08832751bcfeb397837a97e6c9d5.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcf78e4435d3babd3477af2aa9c8fe810fea9cae1f7e16d24acee4323a52c3e2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d1d2d5a7ec755732882ddefe8b5bbef70eb927d8684f77cb0f34e16fad5e2cd.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46aec00c168fe4506c5160cc35e6b18b4c55e5dadb260364264b00f5607784f2.png",
     "isStandard": true
   },
   {
@@ -20124,7 +20124,7 @@
       127024
     ],
     "cardId": "CAP_402",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e65dce1a7ad150be89605b6ff717964966de20a347179178393254b7c836cfae.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd2772700c0848d0c99c6e9803368b6dc18eeafad2e72a8916f6cf6bdfefea91.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df3891a985975c1d5e53fff44edb1bc8b0f067b95b8da4b22b56ed046aaef01f.png",
     "isStandard": true
   },
@@ -22351,7 +22351,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "주입",
-    "text": "기본 토템을 선택하여 소환합니다. <b>주입 ( 토템):</b> 대신 기본 토템 넷을 모두 소환합니다.",
+    "text": "기본 토템을 선택하여 소환합니다.<b>주입 ( 토템):</b> 대신 기본 토템 넷을 모두 소환합니다.",
     "flavorText": "모든 토템은 나무를 죽였다는 증거입니다.",
     "attack": null,
     "health": null,
@@ -22365,8 +22365,8 @@
       458
     ],
     "cardId": "MAW_003",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a73a90f1c49a3e792d0c4d20aabe653c4c14c298fbe697596d8a3fb6884f72e.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a68d83b2a3c80b59840f2b569de0726fa472016c05882a1108b81ca2cd19a52b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cca31e4b22f0c888540ade2c642d80d3b0937215539e4999a543f71a36606e58.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2173d0ca3d553149807e659f2006d80db6bb8ad7e87d239115efc401412bb616.png",
     "isStandard": false
   },
   {
@@ -25393,7 +25393,7 @@
       127024
     ],
     "cardId": "CAP_404",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49806ea76704c314958c1e036a40272d32310a26aaee5cd3ad07c37dd7f67b1a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4242f61658ebe8002fc78038fefd6839cb29e6288be1b2ae4a742be79364e2e1.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f6b773a0f068d3fcf6f5594777d85eda31b90819466a904984cc40a52542f0a.png",
     "isStandard": true
   },
@@ -37688,7 +37688,7 @@
       127024
     ],
     "cardId": "CAP_400",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/784c6f6683f726fdcbf4886cffdc6a7a884447415f4920a6c2f5bd983a7fa141.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9651aa59452068afab724df1ac18a42dafb60956fa1ef95e10202479124df91.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdded5fcb3c272fc826407d520cc2040042f3cf0c04a3cfa32d4a058432c63c0.png",
     "isStandard": true
   },
@@ -86122,7 +86122,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_EVENT_102",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5e6cce2e34c2c23aae863131103a79ee5e566b99ff2f8bb6a435f6056f2ff78.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d13da5d6198a91435103271d5a09ca687cb1592a19a0137060cc71d467a45bf.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5deb519a28ff0fdcb9c40344b485244b95e9109a826601646a4a0e58e055660.png",
     "isStandard": true
   },
@@ -105158,7 +105158,7 @@
       127024
     ],
     "cardId": "CAP_401",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ef9381e742a76aa405fc31934a1bb16b396711c6a485dd50d98225d4ddc6db6.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffa8b114f0a3eb1530da5809216acfea792d18b47205d7f0a56e790f22c3400b.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18707f30643bd94a1e6033f83d2c82a4be109746708b9b4af009af0dc4d90832.png",
     "isStandard": true
   },
@@ -118380,8 +118380,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "SCH_143",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54dc2cb306844909571e1d3d1dd38f3f6c581bb92d708c74666d419415dd2120.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d272f30bbbec1e7f0259d7622567e1c6662e6327a0d17a3e974b67cab54500f0.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5ef189dfa4cc815f382c1565a72f9394a7972ea282af92a2fc55f44f8603d0b.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3755193074c0fb10d81a0933d25567156b2455a5eb6ce93f642f7d25adb8ada8.png",
     "isStandard": false
   },
   {
@@ -127128,8 +127128,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "DAL_085",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d57586c14d6f61aba8a4842bddc1d191bd817a577086fd55d04122ea3ef27f8.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eed71ef1b67b5f2b33ef90e055f85b5672b4b32dc507fc2d2926019a3c4d5315.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4262452557759d26624dc43727ba275b4aacbe455053bb0bc27decabc81cf359.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de7ba7f532b644c9c912e26b041d8beea9091a7074513e00c72030693595b939.png",
     "isStandard": false
   },
   {
@@ -170758,7 +170758,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "DINO_421",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96d4360062df8d513fd6036691098850152d25c6fae57983d8cdf4b1c47e61fe.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f973c7655ad36866e47e576eb4ea5fd918ab3534fd3dd19c1595a3d379547526.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c220f46f70c8f227dcef80ce79e965e566a3f44298d521b2e118a1093810749.png",
     "isStandard": true
   },
@@ -173366,7 +173366,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CATA_699",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/847feccaaf0cfd33e3520929c586c13fa7c44f31825f94f7dd4be2b73607cf30.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f68c515795e16ba7f30e1e84cc7379193e62e6df1c710d02cd67ba4261b11ddb.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f015fd102dc342ca22766e2adc8a1345a0b0ff817a2e74733d2ea900de94de0.png",
     "isStandard": true
   },
@@ -173564,8 +173564,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "BOT_534",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/edf433252c1835c64393894e21133c446ebb9fb3a1971a9884c2ffef1ab29e94.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cff8d918d5d4633fba8fb6bbbf4e1f510a7adc22bf996b9dd40a4d04ebcc924.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ffc8ff5558a7266854e7b568ea535d074f90aad67478e6df0374767a910ea15.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e03acaf7ca1e09f86d4de5b2286baaa558c9b7fc8519d349fecb55522dddd4a4.png",
     "isStandard": false
   },
   {
@@ -174544,8 +174544,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "GDB_448",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9342ceed0a8b3dccfbcf9590c2a6b12dd2bf18c5efd7f80214a97c43c923d89.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b11971b81d507f5f295215e359114fbcb94b104046b36f3c4d9596fa938fb25b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39dca7c250f650c66b5d6df8a350a6622cdc2a7bc5de63d647a4ecec96a5afab.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/592e161dd7072053d5663df9222b9d1733d035125593cfb37fac4b65008b7632.png",
     "isStandard": false
   },
   {
@@ -176918,7 +176918,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "EDR_489",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abacba4845f1cc0c43ac89f3c3c9380d3f7d32b35d78f65a95b7dc7de3325109.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c59e22f95d4eb31e06e405028054d9de451da8b305fee8083874fd6506561bbc.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8df58466c0011bfe60104b895dfed66e037e4e74cfca85949f6c9be9efc5f270.png",
     "isStandard": true
   },
