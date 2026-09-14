@@ -202605,6 +202605,23 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "129945": {
+    "type": null,
+    "type2": null,
+    "text": "<b>죽음의 메아리:</b> <b>고대 신</b>을 뽑습니다. 뽑을 수 없다면 무작위 <b>고대 신</b>을 얻습니다.",
+    "flavorText": "눈싸움, 시작!",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 6,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Tee Fuyuan",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "129953": {
     "type": null,
     "type2": null,
