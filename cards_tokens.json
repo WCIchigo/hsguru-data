@@ -26711,6 +26711,54 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/435914b56f762cacbd1b516e6c219e8c92808797a786404aaa99a85154745ec6.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_139t4.jpg"
   },
+  "128398": {
+    "id": 128398,
+    "name": "느조스의 부름",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "비용이 (5) 이상인 <b>죽음의 메아리</b> 하수인을 <b>발견</b>하여 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb1439cf62ea00a33d23219aa9c3b3daf5f7d3c1e79e4d6862fa1325a02f2969.png",
+    "cropImage": null
+  },
+  "129205": {
+    "id": 129205,
+    "name": "느조스의 군대",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "서로 다른 <b>죽음의 메아리</b> 하수인 4마리를 부활시킵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/326bc94a4779e9ee342c19441c683bbefd593d5990cf9f93259da4126e57afac.png",
+    "cropImage": null
+  },
+  "129210": {
+    "id": 129210,
+    "name": "느조스의 영역",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "다른 아군 하수인에게 \" <b>죽음의 메아리:</b> 모든 적 하수인에게 피해를 2 줌\" 능력을 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/821e9d167710827a378df1b670bfffa6daf38154fe162b7dc431fbb424fece1b.png",
+    "cropImage": null
+  },
+  "129215": {
+    "id": 129215,
+    "name": "느조스의 지배력",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "다른 아군 하수인의 <b>죽음의 메아리</b> 능력을 두 번 발동시킵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc73a4c6cb2fa8dd341097221de5d59d36ffa8a24c69457cc428fed0b0ef19d5.png",
+    "cropImage": null
+  },
   "129675": {
     "id": 129675,
     "name": "파멸의 역병",
@@ -26879,6 +26927,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91e81edede749381c74d2e35d7d4a7894f19975d5eef97995631284aec02ad3e.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_004b.jpg"
   },
+  "130665": {
+    "id": 130665,
+    "name": "심연수호병",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 0,
+    "health": 3,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ab0716e2cbdd1868aafa6bb6dab229c305b52d38b97d31629fd8bd273be621c.png",
+    "cropImage": null
+  },
   "130722": {
     "id": 130722,
     "name": "나무정령",
@@ -26915,6 +26975,54 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9440975eae50baf53e20f5f3c05e5bca295ab503d1c554f2aa9805fbdf54a11.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_504t3p.jpg"
   },
+  "131852": {
+    "id": 131852,
+    "name": "이샤라즈의 눈길",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "모든 적 하수인이 이 카드를 공격하게 만듭니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/110148a7cb24888535a34fd3e03edc3d835523371c2c127cd17e89b6f2e2bb2f.png",
+    "cropImage": null
+  },
+  "131853": {
+    "id": 131853,
+    "name": "이샤라즈의 힘",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "양옆의 하수인들의 능력치를 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8576f4799093f63f5746b210ae98b58b304e01401583427b1de73b7a16365fb7.png",
+    "cropImage": null
+  },
+  "131854": {
+    "id": 131854,
+    "name": "이샤라즈의 피조물",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "비용이 (8) 이상인 무작위 하수인을 소환합니다. 그 하수인을 복사하여 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5bb550943c94ceea88025a922c07ac1edab707b380672493bd74165b7b63560e.png",
+    "cropImage": null
+  },
+  "131855": {
+    "id": 131855,
+    "name": "이샤라즈의 영역",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "다음에 내가 내는 카드의 비용이 (5) 감소합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e910c894185670efa84f55613b52c3c48e2b4deaac5b7723793c64cb19ae768.png",
+    "cropImage": null
+  },
   "132017": {
     "id": 132017,
     "name": "불타는 창공전사",
@@ -26926,6 +27034,114 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a71ccc81730b1037e26b187c2123e7b7049ef9a1bdcc12cef28a69d4ca7c16af.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_EVENT_110t6t.jpg"
+  },
+  "132342": {
+    "id": 132342,
+    "name": "크툰의 종복",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>도발</b> 능력이 있는 2/3 광신자를 둘 소환합니다. <b>도발</b> 능력이 있는 6/9 광신자를 둘 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18aaa56acb09f8a048c23e28a52507c9913f00ad71bdd70071602634843aa827.png",
+    "cropImage": null
+  },
+  "132343": {
+    "id": 132343,
+    "name": "크툰의 주시",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>생명력 흡수</b> 적 하수인에게 5의 피해를 줍니다. <b>생명력 흡수</b> 적 하수인에게 15의 피해를 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62638d5de4b6537a666e7020347387ab0a26072d179f13df23ecb23d9d36d1bc.png",
+    "cropImage": null
+  },
+  "132344": {
+    "id": 132344,
+    "name": "크툰의 영역",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "다른 무작위 아군 하수인 둘에게 +2/+3을 부여합니다. 다른 무작위 아군 하수인 둘에게 +6/+9를 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b405d4ec65713b03ca5565183073e6ca24b5800dca7a66d92e6c27749fff610.png",
+    "cropImage": null
+  },
+  "132345": {
+    "id": 132345,
+    "name": "크툰의 진노",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "적들에게 7의 피해를 무작위로 나누어 입힙니다. 적들에게 21의 피해를 무작위로 나누어 입힙니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8076d5b50bfef396edf8f67f6b3d54a761d5106529e739e0de178d03d553ebd0.png",
+    "cropImage": null
+  },
+  "132349": {
+    "id": 132349,
+    "name": "얼굴 없는 광신자",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 2,
+    "health": 3,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e12e253bcc9321de89b4c34bfbbae49e66bdf73a2323ff6b84ee0124728800b.png",
+    "cropImage": null
+  },
+  "132548": {
+    "id": 132548,
+    "name": "요그사론의 두뇌",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "이번 턴의 내 다음 주문이 2번 시전됩니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88e05b53140e73e1c01593c99e7ec823c91cc1e68c7dd118bcf9a254dacff7fb.png",
+    "cropImage": null
+  },
+  "132549": {
+    "id": 132549,
+    "name": "요그사론의 광기",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "피해를 10 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd74552375a794ca6af01374b535ea47f412973be9d7c21e90e1f601a7370b22.png",
+    "cropImage": null
+  },
+  "132550": {
+    "id": 132550,
+    "name": "요그사론의 승천",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 손에 있는 모든 주문을 비용이 (3) 높은 주문들로 변신시킵니다. <i>(실제 비용은 변하지 않습니다.)</i>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c10a21a8ac4837afc52493933f39c4912af4db884495e95de56190d5461031d.png",
+    "cropImage": null
+  },
+  "132551": {
+    "id": 132551,
+    "name": "요그사론의 영역",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "주문을 5개 뽑습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c50ccca9267aadf7a407156014539d4cc932561a754968fbbdf63e6ecffb456.png",
+    "cropImage": null
   },
   "132829": {
     "id": 132829,
