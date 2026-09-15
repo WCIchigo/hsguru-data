@@ -27045,7 +27045,7 @@
     "health": null,
     "text": "<b>도발</b> 능력이 있는 2/3 광신자를 둘 소환합니다. <b>도발</b> 능력이 있는 6/9 광신자를 둘 소환합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18aaa56acb09f8a048c23e28a52507c9913f00ad71bdd70071602634843aa827.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_013t4.jpg"
   },
   "132343": {
     "id": 132343,
@@ -27057,7 +27057,7 @@
     "health": null,
     "text": "<b>생명력 흡수</b> 적 하수인에게 5의 피해를 줍니다. <b>생명력 흡수</b> 적 하수인에게 15의 피해를 줍니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62638d5de4b6537a666e7020347387ab0a26072d179f13df23ecb23d9d36d1bc.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_013t3.jpg"
   },
   "132344": {
     "id": 132344,
@@ -27069,7 +27069,7 @@
     "health": null,
     "text": "다른 무작위 아군 하수인 둘에게 +2/+3을 부여합니다. 다른 무작위 아군 하수인 둘에게 +6/+9를 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b405d4ec65713b03ca5565183073e6ca24b5800dca7a66d92e6c27749fff610.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_013t2.jpg"
   },
   "132345": {
     "id": 132345,
@@ -27081,7 +27081,7 @@
     "health": null,
     "text": "적들에게 7의 피해를 무작위로 나누어 입힙니다. 적들에게 21의 피해를 무작위로 나누어 입힙니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8076d5b50bfef396edf8f67f6b3d54a761d5106529e739e0de178d03d553ebd0.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_013t1.jpg"
   },
   "132349": {
     "id": 132349,
@@ -27093,7 +27093,7 @@
     "health": 3,
     "text": "<b>도발</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e12e253bcc9321de89b4c34bfbbae49e66bdf73a2323ff6b84ee0124728800b.png",
-    "cropImage": null
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_013t5.jpg"
   },
   "132548": {
     "id": 132548,
