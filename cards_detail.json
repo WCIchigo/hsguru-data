@@ -202605,6 +202605,23 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "129889": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 카드를 2장 뽑습니다. 하수인이 아닌 카드의 수만큼 3/6 물의 정령을 소환합니다.",
+    "flavorText": "Fun fact! Saturn's rings are 95% Water Elemental.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 2,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Timur Shevtsov",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
   "129894": {
     "type": null,
     "type2": null,
@@ -205428,6 +205445,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": "일반",
     "dustCost": 40
+  },
+  "131126": {
+    "type": null,
+    "type2": null,
+    "text": "내가 각 룬의 카드를 한 장씩 내기 전까지 잠겨 있습니다. 비용이 5인 무작위 하수인을 소환합니다.",
+    "flavorText": "Based on my video game experience, we're going to have to unlock these doors, defeat the guys inside, then get awesome loot that unlocks a secret ending.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "BOSi Studio",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "특급",
+    "dustCost": 400
   },
   "131131": {
     "type": null,
