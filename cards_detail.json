@@ -200995,6 +200995,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "128215": {
+    "type": null,
+    "type2": null,
+    "text": "<b>도발</b>, <b>전투의 함성:</b> 크툰 능력을 선택해 발동시킵니다.",
+    "flavorText": "Leaves behind a gargantuan slimy trail.",
+    "keywords": "도발, 전투의 함성",
+    "spellSchool": null,
+    "attack": 6,
+    "health": 7,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ian Ameling",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "128334": {
     "type": "언데드",
     "type2": null,
@@ -203352,6 +203369,23 @@
     "cardSet": null,
     "rarityName": null,
     "dustCost": null
+  },
+  "130281": {
+    "type": null,
+    "type2": null,
+    "text": "턴 후에, 크툰 능력을 선택해 발동시킵니다. <i>(어디에 있든)</i>",
+    "flavorText": "This is a day in the life of a follower of C'Thun.",
+    "keywords": null,
+    "spellSchool": "암흑",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "130286": {
     "type": "야수",
@@ -205786,6 +205820,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "131262": {
+    "type": null,
+    "type2": null,
+    "text": "내 영웅이 공격한 후에, 크툰의 비용이 (1) 감소합니다. 크툰 능력을 선택해 발동시킵니다.",
+    "flavorText": "By the power of C'Thun. I HAVE THE POWER!",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 1,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": null,
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
   "131275": {
     "type": null,
     "type2": null,
@@ -206193,6 +206244,23 @@
     "cardSet": "핵심",
     "rarityName": "특급",
     "dustCost": 400
+  },
+  "131357": {
+    "type": null,
+    "type2": null,
+    "text": "서로 다른 크툰 능력을 둘 선택해 발동시킵니다.",
+    "flavorText": "C'Thun always insta locks Trac'er.",
+    "keywords": null,
+    "spellSchool": "암흑",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": " Mooncolony",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
   },
   "131411": {
     "type": null,
@@ -207043,6 +207111,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": "희귀",
     "dustCost": 100
+  },
+  "132348": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 내 손에 있을 때 암흑 주문을 2개 시전했으면, 크툰 능력을 선택해 발동시킵니다. <i>( 개 남음!)</i> <b>전투의 함성:</b> 내 손에 있을 때 암흑 주문을 2개 시전했으면, 크툰 능력을 선택해 발동시킵니다. <i>(준비 완료)</i> <b>전투의 함성:</b> 내 손에 있을 때 암흑 주문을 2개 시전했으면, 크툰 능력을 선택해 발동시킵니다.",
+    "flavorText": "The Old Gods are coming. The Old Gods are coming!",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ivo Campelo da Silva",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "특급",
+    "dustCost": 400
   },
   "132349": {
     "type": null,
