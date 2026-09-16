@@ -47327,6 +47327,10 @@
     "name": "칼날주먹",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb013001cdaafbf36560759f064677cb4b6b651672e65c8eb69de292d8f0d474.png"
   },
+  "129224": {
+    "name": "악에 물든 존재",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e9903f29cac959695facc53d31313cc55ad6d38032fd9107eae0fa919b7f44a.png"
+  },
   "129263": {
     "name": "영원한 거물",
     "img": null
@@ -47350,6 +47354,10 @@
   "129270": {
     "name": "끈질긴 방어병",
     "img": null
+  },
+  "129340": {
+    "name": "어둠의 춤",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5b5327320d096b2dbdf2865e02b0db42e31079c4c2a163d6bfe2f66d0565c7a.png"
   },
   "129343": {
     "name": "사케트 공병",
@@ -47470,6 +47478,10 @@
   "129894": {
     "name": "검은무쇠 전령",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de603e9548267ed4858a1f73be2833c416914e89c8cc6d13393d0e010e44c7c4.png"
+  },
+  "129944": {
+    "name": "어둠추적자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac10c398df6fd4aea96f3ad97184c4fd8d893ebeaa48da4e15e432ec52557e97.png"
   },
   "129945": {
     "name": "드레스타가스",
@@ -47607,6 +47619,74 @@
     "name": "맥스웰 스티커",
     "img": null
   },
+  "130100": {
+    "name": "붉은 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc475b5a309bcf95957f73d885e123562019aece2ff8543c1d960919ee873f2a.png"
+  },
+  "130101": {
+    "name": "푸른 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bf0ca84d150fc33491fbb63048dd180ee14a82c324942f5fe784c0edb8398b2.png"
+  },
+  "130102": {
+    "name": "검은 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21b6b0394aec97ff8b506f2bc968c3b1c12b8a0bfed1c0af025236f1f3f537c5.png"
+  },
+  "130103": {
+    "name": "노란 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8885a4f49ddc183acb2b27fabe953570615a38ae5d5e902bec0f9baca14506a7.png"
+  },
+  "130104": {
+    "name": "녹색 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a72d8af2cff8bdf5a34f0740fb0e497485b6323b71ed7679699937b63bcd010.png"
+  },
+  "130105": {
+    "name": "갈색 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bad0f2f897205de6a6a90bf578627809eee498599a76de441fdf35acc6edcfb.png"
+  },
+  "130106": {
+    "name": "보라색 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d8ee8422fb24957458701ed549b294f8c70f77bb394945d4248f3c545633e67.png"
+  },
+  "130107": {
+    "name": "하늘빛 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d8457bed7df29ee7aa4b43efbae3b0dbd6be7d01d7dd34c863c218506a757c3.png"
+  },
+  "130108": {
+    "name": "하얀 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11895b7c2d1acbacf9115f2c2094891f1ebdc61e82b83f6e355212938cd0399d.png"
+  },
+  "130109": {
+    "name": "네온 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc6bfad03202d858bfce4e1b4b96a53b2acba34ca29104397a41cd79c128b062.png"
+  },
+  "130110": {
+    "name": "어두운 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d50904f832cb4ce2444c02fcef5f9feec04c5b2869b9a28a8252156b86ee43a4.png"
+  },
+  "130112": {
+    "name": "유충실 땅꾼",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b784782532dec3956b82c172cff1d4ce8e502fd1300a15b67b84ffa12a5e9a05.png"
+  },
+  "130113": {
+    "name": "떠도는 추적자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43617f892ab2e9282bba327b025f8c028521d8b5e14ae98b89aa26b5e3d836c3.png"
+  },
+  "130115": {
+    "name": "아퀴르 거수",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6075a058fa562c458c06e6cd405d588bd5f90a4481cce882cff105899569c036.png"
+  },
+  "130118": {
+    "name": "아퀴르 무리벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41ec76ba70eeb4de10efb99da35bb637ea8df897d72e3ef111fc7c89677079f1.png"
+  },
+  "130119": {
+    "name": "부화",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a926e8a0e672455033e1dcb4659647ef88067442495b1166db43b7062648215f.png"
+  },
+  "130122": {
+    "name": "불가지의 존재",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccb07056e18580dc3b74d90170f1e968f54a98f1898e931a53d1bd912fe7a969.png"
+  },
   "130145": {
     "name": "뾰족털 학대자",
     "img": null
@@ -47699,9 +47779,21 @@
     "name": "이오나의 은총",
     "img": null
   },
+  "130314": {
+    "name": "차갑고 어두운 공허",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c17fed5eb45142eabc58b5002be5913ba8d970daa2537456e913e784e2d89d9b.png"
+  },
   "130320": {
     "name": "시장 노겐포저",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44907bb1907440d0488298f7bcdd9d9f7acaa0664c3caf009501de9918ef03e5.png"
+  },
+  "130341": {
+    "name": "그훈",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75b32bdb35c040e6d9ab0fd845e95f3b1a31b989ddc616d7c82a3a3fec72d29d.png"
+  },
+  "130395": {
+    "name": "피마귀",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fd6adf6ac2dd93dd4304a458479bd7617ecd4e31462e3a53a8ebdac99372812.png"
   },
   "130525": {
     "name": "미쳐버린 화학자",
@@ -47718,6 +47810,10 @@
   "130553": {
     "name": "해골 사격수",
     "img": null
+  },
+  "130555": {
+    "name": "통찰의 후예",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d77323acb40da31823c08f0f87bd00abd6177b56a0bffd7f2f42f4956c99695e.png"
   },
   "130565": {
     "name": "살점구체화",
@@ -48134,6 +48230,10 @@
   "131126": {
     "name": "울디르 검역소",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70083909237d3fd19a2ffe4f6d9be27427abfb6d57f2ae5a02edae56e45b2c20.png"
+  },
+  "131127": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc7f7d8f1cc8d614b9032560637645aba367cc7982b7553553a05837c262b6cd.png"
   },
   "131131": {
     "name": "죽음손길 사과",
@@ -49334,6 +49434,10 @@
   "133405": {
     "name": "장례 화환",
     "img": null
+  },
+  "133414": {
+    "name": "청록 애벌레",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40e4c6510759834bee612f554f6d88c850d026dfaea7f7cae1178ad0d7d99c90.png"
   },
   "133421": {
     "name": "인내",

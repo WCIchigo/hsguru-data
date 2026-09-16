@@ -26927,6 +26927,138 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91e81edede749381c74d2e35d7d4a7894f19975d5eef97995631284aec02ad3e.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_004b.jpg"
   },
+  "130100": {
+    "id": 130100,
+    "name": "붉은 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>연계:</b> 방어도를 2 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc475b5a309bcf95957f73d885e123562019aece2ff8543c1d960919ee873f2a.png",
+    "cropImage": null
+  },
+  "130101": {
+    "id": 130101,
+    "name": "푸른 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>연계:</b> 무작위 기본 토템을 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bf0ca84d150fc33491fbb63048dd180ee14a82c324942f5fe784c0edb8398b2.png",
+    "cropImage": null
+  },
+  "130102": {
+    "id": 130102,
+    "name": "검은 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b><b>연계</b></b>: 1/2 단검을 장착합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21b6b0394aec97ff8b506f2bc968c3b1c12b8a0bfed1c0af025236f1f3f537c5.png",
+    "cropImage": null
+  },
+  "130103": {
+    "id": 130103,
+    "name": "노란 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>연계:</b> 1/1 은빛 성기사단 신병을 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8885a4f49ddc183acb2b27fabe953570615a38ae5d5e902bec0f9baca14506a7.png",
+    "cropImage": null
+  },
+  "130104": {
+    "id": 130104,
+    "name": "녹색 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>연계:</b> 적 영웅에게 피해를 2 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a72d8af2cff8bdf5a34f0740fb0e497485b6323b71ed7679699937b63bcd010.png",
+    "cropImage": null
+  },
+  "130105": {
+    "id": 130105,
+    "name": "갈색 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>연계:</b> 이번 턴에 내 영웅이 공격력을 +1 얻습니다. 방어도를 1 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bad0f2f897205de6a6a90bf578627809eee498599a76de441fdf35acc6edcfb.png",
+    "cropImage": null
+  },
+  "130106": {
+    "id": 130106,
+    "name": "보라색 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b><b>연계</b></b>: 카드를 뽑고 내 영웅에게 피해를 2 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d8ee8422fb24957458701ed549b294f8c70f77bb394945d4248f3c545633e67.png",
+    "cropImage": null
+  },
+  "130107": {
+    "id": 130107,
+    "name": "하늘빛 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>연계:</b> 피해를 1 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d8457bed7df29ee7aa4b43efbae3b0dbd6be7d01d7dd34c863c218506a757c3.png",
+    "cropImage": null
+  },
+  "130108": {
+    "id": 130108,
+    "name": "하얀 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>연계:</b> 생명력을 2 회복시킵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11895b7c2d1acbacf9115f2c2094891f1ebdc61e82b83f6e355212938cd0399d.png",
+    "cropImage": null
+  },
+  "130109": {
+    "id": 130109,
+    "name": "네온 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b><b>연계</b>:</b> 이번 턴에 내 영웅이 공격력을 +1 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc6bfad03202d858bfce4e1b4b96a53b2acba34ca29104397a41cd79c128b062.png",
+    "cropImage": null
+  },
+  "130110": {
+    "id": 130110,
+    "name": "어두운 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b>연계:</b> <b>돌진</b> 능력이 있는 1/1 구울을 소환합니다. 턴이 끝날 때 죽습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d50904f832cb4ce2444c02fcef5f9feec04c5b2869b9a28a8252156b86ee43a4.png",
+    "cropImage": null
+  },
   "130665": {
     "id": 130665,
     "name": "심연수호병",
@@ -27322,5 +27454,17 @@
     "text": "무작위 적에게 피해를 줍니다. 내가 악마를 소환할 때마다, 이 영웅 능력을 새로고침합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b73e967312a6f8daf1c37990219dc4bebe6ec3eaad60dcee9a34fed109603cb2.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_EVENT_101hp.jpg"
+  },
+  "133414": {
+    "id": 133414,
+    "name": "청록 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b><b>연계</b>:</b> 효과는 비밀!",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40e4c6510759834bee612f554f6d88c850d026dfaea7f7cae1178ad0d7d99c90.png",
+    "cropImage": null
   }
 }
