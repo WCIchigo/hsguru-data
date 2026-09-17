@@ -47511,6 +47511,10 @@
     "name": "비취 골렘",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4c1e3ac83b75e1624c5763ae39562d1f146618118bbe456745b2a296d593919.png"
   },
+  "130000": {
+    "name": "제르온투",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ccdaba5f88b8f1d2a4dc017210a9bb453e0134d2d285614bf3321eff4939034.png"
+  },
   "130005": {
     "name": "보급상 크룩",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71986d2494dbcd72066f9664642a43dd554cd49ac1f50014416a755c69a146a2.png"
@@ -47610,6 +47614,10 @@
   "130087": {
     "name": "절박한 뇌물",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d13da5d6198a91435103271d5a09ca687cb1592a19a0137060cc71d467a45bf.png"
+  },
+  "130092": {
+    "name": "혼미한 소환사",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1adfb5a64755ee719b626540a452a4ffee1f3d3d53ace4d73bc9db03996a03d.png"
   },
   "130097": {
     "name": "맥스웰 스티커",
@@ -47795,6 +47803,10 @@
     "name": "피마귀",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fd6adf6ac2dd93dd4304a458479bd7617ecd4e31462e3a53a8ebdac99372812.png"
   },
+  "130524": {
+    "name": "주라마트의 하수인",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d19374b8f485f4a5e25e5c7586997d5259e34369b4c8ff7f67a5a7e4ebedcbdb.png"
+  },
   "130525": {
     "name": "미쳐버린 화학자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d51b8edcc25c43c7894dd8505f1b2516f0d416e2bcae00af94bd2a7cf4286842.png"
@@ -47846,6 +47858,10 @@
   "130593": {
     "name": "죽음의 인도자 사울팽",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1aefd7a125be5015c613774524d4b6d49681c4e7b621ea569e6ad5b4a704431.png"
+  },
+  "130651": {
+    "name": "라비츠",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3e66b94f50384a86a010cf8c1d56bde5349bd1b83a4a64c75b75440874a5bf5.png"
   },
   "130658": {
     "name": "심연의 투사",
@@ -47930,6 +47946,10 @@
   "130722": {
     "name": "나무정령",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eaad55201a3691525c4e712f94f2bc48206c44b288fc5d63995f455dd198c821.png"
+  },
+  "130785": {
+    "name": "눈먼 박해자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d529f1111930f9a11e7f3f4228c3dc1f649cd2a7d5ccbe73bbe87f51800cf5f.png"
   },
   "130790": {
     "name": "마녀의 수습생",

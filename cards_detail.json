@@ -202809,6 +202809,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "130000": {
+    "type": null,
+    "type2": null,
+    "text": "<b>도발</b>, <b>전투의 함성</b>:& 내 덱에서 공격력이 0, 1, 2인 하수인을 소환합니다. 그 하수인들의 능력치를 얻습니다.",
+    "flavorText": "한국 이름은 영일이입니다.",
+    "keywords": "도발, 전투의 함성",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Timur Shevtsov",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "130005": {
     "type": "언데드",
     "type2": null,
@@ -203233,6 +203250,23 @@
     "cardSet": "이벤트",
     "rarityName": "특급",
     "dustCost": 400
+  },
+  "130092": {
+    "type": null,
+    "type2": null,
+    "text": "내 턴이 끝날 때, 무작위 적 하수인을 복사하여 소환합니다. 그 하수인이 원본 하수인을 공격합니다.",
+    "flavorText": "검은 제국 셔츠 찢기 챔피언십의 우승자입니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 0,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ivo Campelo da Silva",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "130097": {
     "type": null,
@@ -204018,6 +204052,23 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "130524": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 하수인을 <b>침묵</b>시킵니다.",
+    "flavorText": "내 주인님은 절대로 가둘 수 없다!",
+    "keywords": "전투의 함성, 침묵",
+    "spellSchool": null,
+    "attack": 1,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Rafael Zanchetin",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "130525": {
     "type": null,
     "type2": null,
@@ -204236,6 +204287,23 @@
     "collectible": true,
     "artist": "James Ryman",
     "cardSet": "고전",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "130651": {
+    "type": "야수",
+    "type2": null,
+    "text": "가장 왼쪽에 있는 내 하수인이 <b>속공</b>을 얻습니다. 가장 오른쪽에 있는 내 하수인이 공격할 때 <b>면역</b> 상태가 됩니다.",
+    "flavorText": "왼쪽으로 미끄러지고! 오른쪽으로 미끄러지고! 교차하고! 교차하고!",
+    "keywords": "면역, 속공",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Juan Calle",
+    "cardSet": "검은 제국의 지배",
     "rarityName": "전설",
     "dustCost": 1600
   },
@@ -204595,6 +204663,23 @@
     "cardSet": "대격변",
     "rarityName": null,
     "dustCost": null
+  },
+  "130785": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>추방자와 죽음의 메아리</b>:& 무작위 <b>추방자</b> 카드를 얻습니다.",
+    "flavorText": "당신도 나처럼 <b>추방자</b>로군요.",
+    "keywords": "죽음의 메아리, 추방자",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Slawomir Maniak",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "130790": {
     "type": "야수",
