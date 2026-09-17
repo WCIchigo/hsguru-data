@@ -47331,6 +47331,10 @@
     "name": "악에 물든 존재",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e9903f29cac959695facc53d31313cc55ad6d38032fd9107eae0fa919b7f44a.png"
   },
+  "129256": {
+    "name": "엔트로피 균열",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18fa6fc21a427acd288d26210b97822ec9472a32afcf4401a6be0c921e2ca5a0.png"
+  },
   "129263": {
     "name": "영원한 거물",
     "img": null
@@ -47679,9 +47683,17 @@
     "name": "떠도는 추적자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43617f892ab2e9282bba327b025f8c028521d8b5e14ae98b89aa26b5e3d836c3.png"
   },
+  "130114": {
+    "name": "황원의 공포",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ff6cf7ed1c164b81243f727d048749159aa6ed73db909119b72636fa19f646d.png"
+  },
   "130115": {
     "name": "아퀴르 거수",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6075a058fa562c458c06e6cd405d588bd5f90a4481cce882cff105899569c036.png"
+  },
+  "130117": {
+    "name": "무리여왕 샤카르",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d64180fceeb030d7f739beccf2a962f5082ac2816645cae52d5d4c5b890c7e7c.png"
   },
   "130118": {
     "name": "아퀴르 무리벌레",
@@ -47799,9 +47811,33 @@
     "name": "그훈",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75b32bdb35c040e6d9ab0fd845e95f3b1a31b989ddc616d7c82a3a3fec72d29d.png"
   },
+  "130346": {
+    "name": "벌레투성이 꿈틀이",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60cf78651c81e110f6aeaecf072ead312aa3e12097332197fc5c275086113119.png"
+  },
   "130395": {
     "name": "피마귀",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fd6adf6ac2dd93dd4304a458479bd7617ecd4e31462e3a53a8ebdac99372812.png"
+  },
+  "130401": {
+    "name": "장로의 권능: 선견",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1b7633dd6f3c1db35efb0b63ccf84e442a8ba5d0cbffdd3287afd023913f0c2.png"
+  },
+  "130402": {
+    "name": "검은 제국의 비수",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57ab3c25ef5bb51d3b3d8ee3b8db130f061d94516a3d0e3a46bbcea4bfb97b58.png"
+  },
+  "130403": {
+    "name": "장로의 권능: 현신",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da3e37c7ae617d4f399ef5e2e30c407e25dedc60fa1d275eab1405e340bd449d.png"
+  },
+  "130404": {
+    "name": "장로의 권능: 매질",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27143a1afcac3c90125a6e065ccbd8fd023845f1b9d436b1e03d3b6bcfcc195f.png"
+  },
+  "130520": {
+    "name": "에워싸기",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cd862a94fdc68745820ed8adc6a6250e7e8ae1abec854ccac8e9884af96f63a.png"
   },
   "130524": {
     "name": "주라마트의 하수인",
@@ -47883,6 +47919,10 @@
     "name": "심연수호병",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ab0716e2cbdd1868aafa6bb6dab229c305b52d38b97d31629fd8bd273be621c.png"
   },
+  "130680": {
+    "name": "부화의 인장",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee0139a82679826e5bf4aa7af784729cf88d46967a3b65a67dc2b81d8203fd33.png"
+  },
   "130698": {
     "name": "혈석",
     "img": null
@@ -47946,6 +47986,14 @@
   "130722": {
     "name": "나무정령",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eaad55201a3691525c4e712f94f2bc48206c44b288fc5d63995f455dd198c821.png"
+  },
+  "130729": {
+    "name": "굶주린 동굴",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b08bd8b26ab994b66d26de4c0f021bb8a5852fe59869458388e387f462f73a17.png"
+  },
+  "130769": {
+    "name": "티탄 난동꾼",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff178ffc15455d3de31ba82b3bbe1ebe593f5b25417b04d07763166cec462e41.png"
   },
   "130785": {
     "name": "눈먼 박해자",
@@ -48327,6 +48375,18 @@
     "name": "연잇기",
     "img": null
   },
+  "131169": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd6060daa755743c33e3af2f966cec77f0f655d0c6be7dbd8bb15c88e11bd238.png"
+  },
+  "131170": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3321b30cc3c181014fd9a66547b64e5fec1f0250089135c9ff4a06c6a856d87a.png"
+  },
+  "131171": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a0f4c6fdbb6d513531d9c3f11b59342ab82af6b164bad4631debad46827e742.png"
+  },
   "131199": {
     "name": "열쇠 변화!",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00f5826aeb6099b4dd2795fd8af8571685dfd787685267fd0f7286a8d631fcd4.png"
@@ -48470,6 +48530,10 @@
   "131454": {
     "name": "바위 트로그",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a68481a2a705bd18a85e6e56c7304286f705ceef2cf8ab1aba7564035edea16f.png"
+  },
+  "131456": {
+    "name": "어스름날개",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa649e88b2b186badd6060e1621ec6f8650fffe959201785281f79758a89c318.png"
   },
   "131606": {
     "name": "독창적인 발명가",
@@ -48715,6 +48779,34 @@
     "name": "주문 흡수",
     "img": null
   },
+  "132565": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29c442cbd0f0309a62d0c3fe667563b02032fe31b419623729e1d0fc011dc4ef.png"
+  },
+  "132566": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aadeab695944e68a81fdb6140a583094f237fc52fa80da7f9664e4997c585c95.png"
+  },
+  "132567": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0adee1b20cd8972bd655ac71b346656b3980cd9e7425c824c2e94b79b31b86e1.png"
+  },
+  "132568": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc5a994f5b0b0b59c33344f3b3611f2021bbaaa78f51b0163560df668e57552e.png"
+  },
+  "132571": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/251190b6924296bc6e740d9e5d32ee70b8f878a44a936e71b7ff272a0dfbcf39.png"
+  },
+  "132573": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c87824d2f568c0389eeb52e9ae14099900741d66cc534e01f0ebb73c04ff59ea.png"
+  },
+  "132574": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e64a1ccf60d484ffe80da06e57d767836a45b6a454f965ec2ebfd83d9d77e4c.png"
+  },
   "132578": {
     "name": "영혼 기생체 트라스타스",
     "img": null
@@ -48810,6 +48902,42 @@
   "132677": {
     "name": "불꽃 덥썩이",
     "img": null
+  },
+  "132700": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c462cfb59204f30ea8f32ef4c1db687c06848d52c3dd46a13377225fb61d01d.png"
+  },
+  "132701": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b073ba91022ecc083629ce55b46b9706f0921f89943d9a0077c6c073fe7023e.png"
+  },
+  "132702": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccd53ba503ac840797c3af7e77a9667f8f9b13ae585ce070acfc1d376957b7d4.png"
+  },
+  "132703": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c681aa76f795e8e6b4e60ad8cef23fd9eda44989f824416c4c0ca941979b3262.png"
+  },
+  "132704": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c81fd8bfc6d13cce2a9348d6148c4a8a2e2e0d8d9ef853f2ae5ff3608dcd87d0.png"
+  },
+  "132705": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1a1471556f0e274ee5cb7907f0eddcfeb8a4916661636a9499a6e87c627f98d.png"
+  },
+  "132706": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/499d04deeed95c5a9601c13c83ec0eaadbae528ed945b2d3329ff9d7ab3fbd49.png"
+  },
+  "132707": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b3fe7ce57d9ee17ffd0989c54d93dc98bf728dad79721458e02e6b0b4c99f45.png"
+  },
+  "132708": {
+    "name": "악취 나는 포식자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aec27501570d69470dc41d432a33b98aa6fe475388332e018a675aad5da80ffb.png"
   },
   "132732": {
     "name": "타렉고사의 축복",

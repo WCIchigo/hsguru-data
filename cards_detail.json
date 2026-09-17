@@ -202040,6 +202040,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "129256": {
+    "type": null,
+    "type2": null,
+    "text": "무작위 암흑 주문을 둘 얻습니다.",
+    "flavorText": "심연을 오래 들여다보면, 심연이 언젠가는 눈을 깜박입니다.",
+    "keywords": null,
+    "spellSchool": "암흑",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Luke Mancini",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "129263": {
     "type": "언데드",
     "type2": null,
@@ -203523,6 +203540,23 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "130114": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 이번 턴에 아군 하수인이 죽었으면, 무작위 적을 공격합니다.",
+    "flavorText": "제 마음을 잡아챘네요.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 7,
+    "health": 5,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Gabor Szikszai",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "130115": {
     "type": "야수",
     "type2": null,
@@ -203539,6 +203573,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": "희귀",
     "dustCost": 100
+  },
+  "130117": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>전투의 함성</b>: 이번 턴에 아군 하수인이 5마리 죽었으면, 내 <b>속공</b> 하수인들이 이번 게임 동안 <b>돌진</b>을 얻습니다. <i>( 마리 남음!)</i> <b>전투의 함성</b>: 이번 턴에 아군 하수인이 5마리 죽었으면, 내 <b>속공</b> 하수인들이 이번 게임 동안 <b>돌진</b>을 얻습니다. <i>(준비 완료)</i> <b>전투의 함성</b>: 이번 턴에 아군 하수인이 5마리 죽었으면, 내 <b>속공</b> 하수인들이 이번 게임 동안 <b>돌진</b>을 얻습니다.",
+    "flavorText": "치카 치카치카, 샤카 샤카샤카!",
+    "keywords": "돌진, 전투의 함성, 속공",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 5,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Dmitry Bolotov",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
   },
   "130118": {
     "type": "야수",
@@ -204035,6 +204086,23 @@
     "rarityName": "전설",
     "dustCost": 1600
   },
+  "130346": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 내 손에 있는 카드를 선택하여 내 덱에 섞어 넣습니다. 그 카드의 비용이 (1) 감소합니다.",
+    "flavorText": "일찍 일어나는 어스름날개가 꿈틀이를 잡습니다.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Vika Yarova",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "130395": {
     "type": null,
     "type2": null,
@@ -204048,6 +204116,91 @@
     "armor": null,
     "collectible": true,
     "artist": "Nicola Saviori",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
+  "130401": {
+    "type": null,
+    "type2": null,
+    "text": "카드를 뽑고 그 카드의 비용을 (2) 감소시킵니다. <i>(다음에 내가 내는 암흑 주문이 이 능력을 반복합니다!)</i>",
+    "flavorText": "역사 기록에 최초로 남은 말입니다. \"안녕, 자기.\"",
+    "keywords": null,
+    "spellSchool": "암흑",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Alex Stone",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
+  "130402": {
+    "type": null,
+    "type2": null,
+    "text": "내 턴이 끝날 때, 내가 암흑 주문을 시전했으면 적이 탈진합니다. 시전하지 않았으면 내가 탈진합니다.",
+    "flavorText": "잘아타스는 오랜 세월 동안 전설적인 주인을 찾아다녔습니다. 이 저주받은 검의 영향력이 없었다면, 그들의 공적이 역사에 이토록 길이 남지는 못했을 것입니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Tanamaes Leejierasaes",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "130403": {
+    "type": null,
+    "type2": null,
+    "text": "<b>생명력 흡수</b> 능력이 있는 5/5 공허날개를 소환합니다. <i>(다음에 내가 내는 암흑 주문이 이 능력을 반복합니다!)</i>",
+    "flavorText": "전 공허 알과 햄이 싫어요.",
+    "keywords": "생명력 흡수",
+    "spellSchool": "암흑",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Zoltan Boros",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
+  "130404": {
+    "type": null,
+    "type2": null,
+    "text": "무작위 적에게 피해를 3 줍니다. <i>(다음에 내가 내는 암흑 주문이 이 능력을 반복합니다!)</i>",
+    "flavorText": "고대 경전에는 모든 필멸의 생물에 대한 계명이 적혀 있습니다. \"가죽이 벗겨지도록 후려쳐라, 여왕이여.\"",
+    "keywords": null,
+    "spellSchool": "암흑",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ivo Campelo da Silva",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
+  "130520": {
+    "type": null,
+    "type2": null,
+    "text": "<b>속공</b> 능력이 있는 3/1 서슬발톱을 다섯 소환합니다. 상대편에게 비용이 1인 무작위 하수인을 소환해 줍니다.",
+    "flavorText": "오일 팬을 갈아야 할 것 같군요.",
+    "keywords": "속공",
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Kevin Sidharta",
     "cardSet": "검은 제국의 지배",
     "rarityName": "특급",
     "dustCost": 400
@@ -204392,6 +204545,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "130680": {
+    "type": null,
+    "type2": null,
+    "text": "내 다음 턴이 시작될 때,& <b>속공</b> 능력이 있는 3/1 서슬발톱을 셋 소환합니다.",
+    "flavorText": "알 하나로 빠르고 쉽게 완성하는 요리로, 만드는 데 한 턴밖에 안 걸리는 데다 잔반까지 남을지도 모릅니다!",
+    "keywords": "속공",
+    "spellSchool": "암흑",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "BOSi Studio",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "130698": {
     "type": null,
     "type2": null,
@@ -204663,6 +204833,40 @@
     "cardSet": "대격변",
     "rarityName": null,
     "dustCost": null
+  },
+  "130729": {
+    "type": null,
+    "type2": null,
+    "text": "<b>생명력 흡수</b>. 피해를 2 줍니다. 이번 턴에 아군 하수인이 죽었으면, 비용이 (0)이 됩니다.",
+    "flavorText": "물이 뚝뚝 떨어지는 종유석이 꼭 이빨 같네요...",
+    "keywords": "생명력 흡수",
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "BOSi Studio",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
+  "130769": {
+    "type": null,
+    "type2": null,
+    "text": "<b>속공</b>, <b>질풍</b>. 적 하수인 하나당 비용이 (1)씩 감소합니다.",
+    "flavorText": "나는 래더의 왕이다!",
+    "keywords": "질풍, 속공",
+    "spellSchool": null,
+    "attack": 6,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Jakub Kasper",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
   },
   "130785": {
     "type": "야수",
@@ -206281,6 +206485,63 @@
     "rarityName": null,
     "dustCost": null
   },
+  "131169": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 적 하수인을 처치합니다. 카드를 뽑습니다. 그 카드의 비용이 (3) 감소합니다. 비용이 3인 무작위 하수인을 둘 소환합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "131170": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 적 하수인을 처치합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "131171": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 적 하수인을 2마리 처치합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "131199": {
     "type": null,
     "type2": null,
@@ -206892,6 +207153,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": "특급",
     "dustCost": 400
+  },
+  "131456": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>죽음의 메아리:</b> 내 손에 있는 무작위 암흑 주문의 비용이 (2) 감소합니다.",
+    "flavorText": "아제로스의 덥고 쨍쨍한 하루에 쓸모 있습니다.",
+    "keywords": "죽음의 메아리",
+    "spellSchool": null,
+    "attack": 2,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Matt Dixon",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "131606": {
     "type": "기계",
@@ -207930,6 +208208,139 @@
     "rarityName": null,
     "dustCost": null
   },
+  "132565": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 적 하수인을 3마리 처치합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132566": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 카드를 뽑습니다. 그 카드의 비용이 (3) 감소합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132567": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 카드를 2장 뽑습니다. 그 카드들의 비용이 (3) 감소합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132568": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 카드를 3장 뽑습니다. 그 카드들의 비용이 (3) 감소합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132571": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성:</b> 비용이 3인 무작위 하수인을 둘 소환합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132573": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성:</b> 비용이 6인 무작위 하수인을 둘 소환합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132574": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성:</b> 비용이 9인 무작위 하수인을 둘 소환합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "132578": {
     "type": null,
     "type2": null,
@@ -208337,6 +208748,177 @@
     "cardSet": null,
     "rarityName": null,
     "dustCost": null
+  },
+  "132700": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성:</b> 적 하수인을 처치합니다. 카드를 뽑습니다. 그 카드의 비용이 (3) 감소합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132701": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성:</b> 적 하수인을 처치합니다. 비용이 3인 무작위 하수인을 둘 소환합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132702": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 적 하수인을 2마리 처치합니다. 카드를 뽑습니다. 그 카드의 비용이 (3) 감소합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132703": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 적 하수인을 2마리 처치합니다. 비용이 3인 무작위 하수인을 둘 소환합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132704": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성:</b> 적 하수인을 처치합니다. 카드를 2장 뽑습니다. 그 카드들의 비용이 (3) 감소합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132705": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성:</b> 적 하수인을 처치합니다. 비용이 6인 무작위 하수인을 둘 소환합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132706": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 카드를 뽑습니다. 그 카드의 비용이 (3) 감소합니다. 비용이 3인 무작위 하수인을 둘 소환합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132707": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 카드를 2장 뽑습니다. 그 카드들의 비용이 (3) 감소합니다. 비용이 3인 무작위 하수인을 둘 소환합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132708": {
+    "type": "언데드",
+    "type2": [
+      "야수"
+    ],
+    "text": "<b>전투의 함성</b>: 카드를 뽑습니다. 그 카드의 비용이 (3) 감소합니다. 비용이 6인 무작위 하수인을 둘 소환합니다.",
+    "flavorText": null,
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 9,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
   },
   "132732": {
     "type": null,
