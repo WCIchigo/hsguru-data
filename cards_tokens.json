@@ -26771,6 +26771,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/398fd7497dd8c11d25a00d33716bb1733c2a62d3dc2d59ad7a31ad1394d35d86.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_443t.jpg"
   },
+  "129795": {
+    "id": 129795,
+    "name": "크트락시 투사",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 3,
+    "health": 5,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a8ac871fa9de4d0fc352485e8c7b88026a9cb7510e992ec917c7cbacff293b5.png",
+    "cropImage": null
+  },
   "129987": {
     "id": 129987,
     "name": "비취 골렘",
@@ -27071,6 +27083,42 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ab0716e2cbdd1868aafa6bb6dab229c305b52d38b97d31629fd8bd273be621c.png",
     "cropImage": null
   },
+  "130669": {
+    "id": 130669,
+    "name": "기근의 의식",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "턴 후에, 상대편의 덱에서 카드를 5장 뽑습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c41345ead54d5b25655019649e4d521f03f37d8c16e30b7419b3595769419e75.png",
+    "cropImage": null
+  },
+  "130670": {
+    "id": 130670,
+    "name": "속박의 의식",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "턴 후에, 무작위 <b>전설</b> 하수인을 셋 소환합니다. 각각 비용이 1인 하수인으로 복사하여 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39ac1983df07c20932471b8f892e9b9b84e880e17c1ec2fb4ab107e29c2fd5f6.png",
+    "cropImage": null
+  },
+  "130671": {
+    "id": 130671,
+    "name": "정복의 의식",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "턴 후에, 내 하수인들에게 +6/+6을 부여합니다. <i>(어디에 있든)</i>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b5bcb08eed20fb411ef64c332e4abc94e297a741d12aaf400da7470a01cded9.png",
+    "cropImage": null
+  },
   "130722": {
     "id": 130722,
     "name": "나무정령",
@@ -27119,6 +27167,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a0f4c6fdbb6d513531d9c3f11b59342ab82af6b164bad4631debad46827e742.png",
     "cropImage": null
   },
+  "131181": {
+    "id": 131181,
+    "name": "육식 식물",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 2,
+    "health": 1,
+    "text": "<b>죽음의 메아리:</b> <b>도발</b> 능력이 있는 5/5 벌레를 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e403bc3a761b11e9a37c5e496da56807b4dea25a4b14570c221d4eabbb88f0b.png",
+    "cropImage": null
+  },
   "131199": {
     "id": 131199,
     "name": "열쇠 변화!",
@@ -27130,6 +27190,18 @@
     "text": "선택지를 새로고침합니다. <i>(20% 확률로 피해를 5 받습니다!)</i>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00f5826aeb6099b4dd2795fd8af8571685dfd787685267fd0f7286a8d631fcd4.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_319t.jpg"
+  },
+  "131302": {
+    "id": 131302,
+    "name": "전율하는 정령",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 2,
+    "health": 2,
+    "text": "<b>속공</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6daca5cab8dec3806acf3305a3d842b0d2421cf5553cf706b15a513fd1c50191.png",
+    "cropImage": null
   },
   "131327": {
     "id": 131327,
@@ -27262,6 +27334,18 @@
     "text": "<b>도발</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e12e253bcc9321de89b4c34bfbbae49e66bdf73a2323ff6b84ee0124728800b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_013t5.jpg"
+  },
+  "132534": {
+    "id": 132534,
+    "name": "소금쟁이",
+    "manaCost": 5,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 5,
+    "health": 5,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2d97b33bc5261e973b17b11865598413294a6fead85e1ae249b6121a19ab1ed.png",
+    "cropImage": null
   },
   "132548": {
     "id": 132548,
