@@ -202040,6 +202040,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "129245": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 주문을 <b>발견</b>합니다. 그 주문을 비용이 같은 3/3 무기로 변신시킵니다. 해당 무기로 공격할 때마다 발견한 주문을 시전합니다.",
+    "flavorText": "아카에다스는 아제로스 최초의 마법부여사 겸 대장장이였습니다. 티탄들이 길드 은행을 만들 재료를 파밍하고는 확장팩 몇 개가 나오는 동안 휴가를 떠났기 때문이죠.",
+    "keywords": "전투의 함성, 발견",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "  Grafit",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "129256": {
     "type": null,
     "type2": null,
@@ -204646,6 +204663,23 @@
     "cardSet": "고전",
     "rarityName": "전설",
     "dustCost": 1600
+  },
+  "130634": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 내 영웅이 무기를 장착하고 있으면, +1/+1과 <b>속공</b>을 얻습니다.",
+    "flavorText": "어서 빨리 여왕이 되고파!",
+    "keywords": "전투의 함성, 속공",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Zoltan Boros",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
   },
   "130651": {
     "type": "야수",
@@ -208341,6 +208375,23 @@
     "collectible": false,
     "artist": null,
     "cardSet": null,
+    "rarityName": null,
+    "dustCost": null
+  },
+  "132338": {
+    "type": null,
+    "type2": null,
+    "text": "내 영웅이 공격한 후에, ' '|1(을,를) 무작위로 시전합니다.",
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "  Grafit",
+    "cardSet": "검은 제국의 지배",
     "rarityName": null,
     "dustCost": null
   },

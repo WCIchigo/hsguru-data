@@ -47331,6 +47331,10 @@
     "name": "악에 물든 존재",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e9903f29cac959695facc53d31313cc55ad6d38032fd9107eae0fa919b7f44a.png"
   },
+  "129245": {
+    "name": "아카에다스",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8712682ad981fbe59196dea5e1d8c5d2e4ca4ad05cb5cdd4068c928ac194102.png"
+  },
   "129256": {
     "name": "엔트로피 균열",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18fa6fc21a427acd288d26210b97822ec9472a32afcf4401a6be0c921e2ca5a0.png"
@@ -47942,6 +47946,10 @@
   "130593": {
     "name": "죽음의 인도자 사울팽",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1aefd7a125be5015c613774524d4b6d49681c4e7b621ea569e6ad5b4a704431.png"
+  },
+  "130634": {
+    "name": "사마귀 선도자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ab0538d7c123b6ab8d7a825822673a81b3ee3dbe8797ee2f76f0ed18516b3e0.png"
   },
   "130651": {
     "name": "라비츠",
@@ -48810,6 +48818,10 @@
   "132323": {
     "name": "죽은 종지기",
     "img": null
+  },
+  "132338": {
+    "name": "아카에다스의 망치",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9be6fc1084148def29547a25dd1d44fde10335d21bc38dc32f39961e10b3696d.png"
   },
   "132339": {
     "name": "제국의 눈, 크툰",
