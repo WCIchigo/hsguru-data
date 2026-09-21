@@ -47455,9 +47455,25 @@
     "name": "크트락시 투사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a8ac871fa9de4d0fc352485e8c7b88026a9cb7510e992ec917c7cbacff293b5.png"
   },
+  "129797": {
+    "name": "태고의 고룡",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/021ad0b1c4889c1f3016df72e5ffc16b52f23b4a99898b6a3c375408f8cfdd62.png"
+  },
+  "129802": {
+    "name": "신성 모독",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd37f32a97d8e042d6165bffb51e523201c259ccb7ed4dfe1bb9257bcd0eb6e5.png"
+  },
   "129804": {
     "name": "깊숙한 어둠",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/808f7e0f134a3cfd6fc90d737ffc3073802f981b59cff966ffca5fd1dcbd8b18.png"
+  },
+  "129805": {
+    "name": "부유 교습",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93ceba3399df16d7b01af373199290e9b39902c418eeb10fcbfa43afa3f4d2d2.png"
+  },
+  "129808": {
+    "name": "정신부패 정복자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/047c7596f7709e5b5e2466ff43803caebf704abd02b69b6f2a7d1dcfae6301fd.png"
   },
   "129824": {
     "name": "키식스",
@@ -47635,6 +47651,10 @@
     "name": "절박한 뇌물",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d13da5d6198a91435103271d5a09ca687cb1592a19a0137060cc71d467a45bf.png"
   },
+  "130089": {
+    "name": "빵빵가오리",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3558401b6fd75a07b983faac24e1e77ea8a96f83d9eb441a3587a9a3284ba4b9.png"
+  },
   "130092": {
     "name": "혼미한 소환사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1adfb5a64755ee719b626540a452a4ffee1f3d3d53ace4d73bc9db03996a03d.png"
@@ -47766,6 +47786,14 @@
   "130281": {
     "name": "크툰의 의식",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/809dde1d0ad76f7b1a70415230ecefb63219c5f65db21d4d0f95130ca54c9e96.png"
+  },
+  "130283": {
+    "name": "입인간 이교도",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59cc47d439fd6d2e778667fdb5b38bb024baca432b62701b7b0af141da35ac79.png"
+  },
+  "130285": {
+    "name": "타락자 자카이즈",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51ba048e073b186d564dd9c97eeca6e4ed1c58ac18c08d64632a77d875a68fc8.png"
   },
   "130286": {
     "name": "향상된 고슴도치",
