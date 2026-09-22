@@ -22355,18 +22355,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f28f70d3dab3118fef90f52914d9e7ba623d4023010ed5fd7b92412511d470c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_846t2.jpg"
   },
-  "115096": {
-    "id": 115096,
-    "name": "타락한 악몽",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "이번 턴에 하수인에게 <b>면역</b>과 +5/+5를 부여합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8500890124130437844d0756d114b164bd85eabe3fb7fe3742b3ce72eb7795a.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_846t1.jpg"
-  },
   "115184": {
     "id": 115184,
     "name": "환영",
@@ -26759,6 +26747,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc73a4c6cb2fa8dd341097221de5d59d36ffa8a24c69457cc428fed0b0ef19d5.png",
     "cropImage": null
   },
+  "129237": {
+    "id": 129237,
+    "name": "고서 번역가",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 5,
+    "health": 4,
+    "text": "<b>전투의 함성:</b> 다른 모든 하수인에게 6의 피해를 무작위로 나누어 입힙니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/327ac493a6d4778748dda0b70555ad8824757351ea857fefc32cbfb06110dccf.png",
+    "cropImage": null
+  },
   "129675": {
     "id": 129675,
     "name": "파멸의 역병",
@@ -27177,6 +27177,30 @@
     "health": 6,
     "text": "<b>전투의 함성</b>: 적 하수인을 2마리 처치합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a0f4c6fdbb6d513531d9c3f11b59342ab82af6b164bad4631debad46827e742.png",
+    "cropImage": null
+  },
+  "131172": {
+    "id": 131172,
+    "name": "원반 그대로 두기",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "덱의 맨 위에서 카드를 뽑습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1820599e0fddd5a69e5f2a93c449b5806536ff3e9242cfb3c06e6fe34cc1e489.png",
+    "cropImage": null
+  },
+  "131173": {
+    "id": 131173,
+    "name": "원반 움직이기",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "덱의 맨 아래에서 카드를 뽑습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/002c20ad2b95015bfaf37a08a1cc8bf512992be509a33b2fa8a6dd665acff521.png",
     "cropImage": null
   },
   "131181": {
