@@ -27119,6 +27119,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b5bcb08eed20fb411ef64c332e4abc94e297a741d12aaf400da7470a01cded9.png",
     "cropImage": null
   },
+  "130689": {
+    "id": 130689,
+    "name": "강철 골렘",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 3,
+    "health": 3,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae9099b7f67dcaefcb75902f41a088a5e47453e52ad247a16485e4d971780fb9.png",
+    "cropImage": null
+  },
   "130722": {
     "id": 130722,
     "name": "나무정령",

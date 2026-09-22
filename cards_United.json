@@ -47119,6 +47119,10 @@
     "name": "느조스의 부름",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb1439cf62ea00a33d23219aa9c3b3daf5f7d3c1e79e4d6862fa1325a02f2969.png"
   },
+  "128696": {
+    "name": "재창조의 모루",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03e81dd2a46771e3e07c18392119cefa787d0f00d033eec3df3d36b1114db668.png"
+  },
   "128739": {
     "name": "시간주화의 축복",
     "img": null
@@ -47507,6 +47511,10 @@
     "name": "대마녀 윌로우",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d0e72d2d675fa057fa21e9a365ed2f268bd31f2b7cd49f6aa6ebddcd388051c.png"
   },
+  "129851": {
+    "name": "마법의 지배신 이시세트",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cce894179270602dc96c28b463e69285adf7b14262f546abc2438c46a6e9932.png"
+  },
   "129888": {
     "name": "현상 수배 전단",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a4e0c92fcdc9152caa75c8a8a14ddbc6835919ddf7e43e084934c84fd39f2b3.png"
@@ -47519,6 +47527,18 @@
     "name": "검은무쇠 전령",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de603e9548267ed4858a1f73be2833c416914e89c8cc6d13393d0e010e44c7c4.png"
   },
+  "129935": {
+    "name": "세테쉬",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d176a0e8c164fe15bb77a26efc63f4f97b5b51c2092f14a16525922b2a42979e.png"
+  },
+  "129938": {
+    "name": "돌 건틀릿",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eccb0c8ccd88092c3b62d334560b64d3867e364ef5a4bf77af9e99f93f9066b6.png"
+  },
+  "129942": {
+    "name": "힘 과시",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f35f30ab1eb037c512d4b5e6efa54c687621846c576640194bdeaeda792cb0d.png"
+  },
   "129944": {
     "name": "어둠추적자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac10c398df6fd4aea96f3ad97184c4fd8d893ebeaa48da4e15e432ec52557e97.png"
@@ -47526,6 +47546,14 @@
   "129945": {
     "name": "드레스타가스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0e95dd54590c95870ccd509b1428818121d8182e968c23718ccac4852298788.png"
+  },
+  "129946": {
+    "name": "놋쇠너클 싸움꾼",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdbd5b72d6681ac66b241c2f54f6f179afe43c106ee3735579f3bf647ac19c6c.png"
+  },
+  "129947": {
+    "name": "시초의 용광로",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad9de359e8545851663a4e9774cc3d39da791794bdbf37d4869c4216ecd68d13.png"
   },
   "129953": {
     "name": "시간의 끝의 알",
@@ -47787,6 +47815,10 @@
     "name": "덩굴대변자",
     "img": null
   },
+  "130279": {
+    "name": "철의 생환술사",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49d557968442efdfc92599bc918845ee567ebc8e6ad75b29dbcccd7ebfcd78b8.png"
+  },
   "130281": {
     "name": "크툰의 의식",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/809dde1d0ad76f7b1a70415230ecefb63219c5f65db21d4d0f95130ca54c9e96.png"
@@ -47919,6 +47951,10 @@
     "name": "살점구체화",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea0938eeabb4782ff1d4f511dcf761a9b23ad216449941427ac811e4622852e2.png"
   },
+  "130567": {
+    "name": "톨비르 선봉대원",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ab692fd26e389816e551d086c0595270642cf49910601b23657fdb6d243943d.png"
+  },
   "130580": {
     "name": "노련한 전쟁의무관",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48a295d246b82e60914c4f6c0fe151087004c123bcce12e571ddd50175b16f6e.png"
@@ -47990,6 +48026,10 @@
   "130680": {
     "name": "부화의 인장",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee0139a82679826e5bf4aa7af784729cf88d46967a3b65a67dc2b81d8203fd33.png"
+  },
+  "130689": {
+    "name": "강철 골렘",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae9099b7f67dcaefcb75902f41a088a5e47453e52ad247a16485e4d971780fb9.png"
   },
   "130698": {
     "name": "혈석",
