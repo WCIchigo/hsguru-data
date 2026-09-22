@@ -23539,6 +23539,10 @@
     "name": "미니 삼지창",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a264b4e51db6cd849a01d96cacfc8048cb26dcc73c4787bad07803e7e834b60b.png"
   },
+  "83929": {
+    "name": "쉬엔",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc98bbf436e5b8352aefcd3dc5a2eee56bb5a0f93f016588886890122f63ff8a.png"
+  },
   "83942": {
     "name": "맹독 침투요원",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/808437988900d73d35b233785a7043877659ce7d23014a6908494deb90bbfcb3.png"
@@ -28191,6 +28195,10 @@
     "name": "날카로운 피리꾼",
     "img": null
   },
+  "98948": {
+    "name": "아옳옳 중창단",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f66cc07bc2ab2f611c73afbad7530d531c5cc357735aa52ec079c08c714f16b3.png"
+  },
   "98950": {
     "name": "아옳옳 중창단",
     "img": null
@@ -28482,6 +28490,10 @@
   "100138": {
     "name": "고요한 잠영선수",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d8c58d172d268dafcedd74a7b5f1b421c1891709514f81985f871ea8146e561.png"
+  },
+  "100139": {
+    "name": "무호흡 헤엄",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4dacf9d0eb43b059537e53d9b8c1562a4fb05c712a8959a82aaf6d4b3da4e030.png"
   },
   "100141": {
     "name": "고요한 잠영선수",
@@ -37302,6 +37314,10 @@
   "115095": {
     "name": "타락한 꿈",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f28f70d3dab3118fef90f52914d9e7ba623d4023010ed5fd7b92412511d470c.png"
+  },
+  "115096": {
+    "name": "타락한 악몽",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8500890124130437844d0756d114b164bd85eabe3fb7fe3742b3ce72eb7795a.png"
   },
   "115139": {
     "name": "악몽의 군주 자비우스",
@@ -47327,6 +47343,10 @@
     "name": "고서 번역가",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40c9c6cd1903245e86599ad3579db7abc8e4d10de88deadd3326c37601f05e62.png"
   },
+  "129236": {
+    "name": "고서 번역가",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f429c7b173d2cbb7bad75e29c96e838aad4b43ede3f4ea04f6352f102524b343.png"
+  },
   "129237": {
     "name": "고서 번역가",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/327ac493a6d4778748dda0b70555ad8824757351ea857fefc32cbfb06110dccf.png"
@@ -48462,6 +48482,14 @@
   "131061": {
     "name": "그림자 조각",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecc1e6090a3150320955ddd799c9bd819300508c5c6b8946707a518392958d6d.png"
+  },
+  "131120": {
+    "name": "고서 번역가",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4487b96008aa6680e09f77453c577ad1fa562752838358e7fc2f432afd8a4a4.png"
+  },
+  "131121": {
+    "name": "고서 번역가",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec6104da3fed303dd1eff11c524920067e51c3ab3fa74fa7009fa29418962382.png"
   },
   "131126": {
     "name": "울디르 검역소",
