@@ -47271,6 +47271,14 @@
     "name": "시간왜곡의 미스락스",
     "img": null
   },
+  "129131": {
+    "name": "태양춤꾼",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75e1f75445efc05cf800a7fc690408b8886cc87d35b3ca514b81cf4d2392b5ee.png"
+  },
+  "129137": {
+    "name": "태양의 징벌",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2009a5a0ed98a49f388f1923e3463870d766bfed37e5b889f11aff8ac6193a07.png"
+  },
   "129164": {
     "name": "영웅의 감화",
     "img": null
@@ -47358,6 +47366,10 @@
   "129245": {
     "name": "아카에다스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8712682ad981fbe59196dea5e1d8c5d2e4ca4ad05cb5cdd4068c928ac194102.png"
+  },
+  "129250": {
+    "name": "최후의 징벌",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18d4d9855cee33ca7679b27a4cffc04a81819876dea3626b80fa60a5a576eeee.png"
   },
   "129256": {
     "name": "엔트로피 균열",
@@ -47526,6 +47538,10 @@
   "129824": {
     "name": "키식스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22030aeb4aa1b171136d1cf7a23bcaa7d33b385f787454e94b866dea9b53757c.png"
+  },
+  "129839": {
+    "name": "시초의 전당",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5f33b044478b43b7de61ef8100a6d39b87f1979c8f5dd38f915745f7be813b6.png"
   },
   "129842": {
     "name": "아뮤내",
@@ -47931,6 +47947,14 @@
     "name": "시장 노겐포저",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44907bb1907440d0488298f7bcdd9d9f7acaa0664c3caf009501de9918ef03e5.png"
   },
+  "130326": {
+    "name": "행군",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/871c222cee389588e62740dc0ec476c156011bcc3ca90c34ac2fa74df0f7911c.png"
+  },
+  "130327": {
+    "name": "아미투스의 수호자 아미투트",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/252f67679ecca7bd52593bb3531a62baa452db0608b8b5d8a2aa1b23ebf51cc5.png"
+  },
   "130341": {
     "name": "그훈",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75b32bdb35c040e6d9ab0fd845e95f3b1a31b989ddc616d7c82a3a3fec72d29d.png"
@@ -48031,6 +48055,14 @@
     "name": "사마귀 선도자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ab0538d7c123b6ab8d7a825822673a81b3ee3dbe8797ee2f76f0ed18516b3e0.png"
   },
+  "130638": {
+    "name": "태양의 축복",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b72b9e63c5a4bf3e25a97f3270fc13cd3a5e2c596c70f734f19a704de4c35a5.png"
+  },
+  "130644": {
+    "name": "바니르 병사",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8a428320edd9a9800fe72897253737b29162470248c1b9501d545ba8c83c9d6.png"
+  },
   "130651": {
     "name": "라비츠",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3e66b94f50384a86a010cf8c1d56bde5349bd1b83a4a64c75b75440874a5bf5.png"
@@ -48066,6 +48098,10 @@
   "130671": {
     "name": "정복의 의식",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b5bcb08eed20fb411ef64c332e4abc94e297a741d12aaf400da7470a01cded9.png"
+  },
+  "130673": {
+    "name": "서약체결자의 오라",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcd5a27ae3283b3e6e432cc67a3ba7c99be00ee1add0ca109bbc2393c53bafae.png"
   },
   "130680": {
     "name": "부화의 인장",
@@ -48494,6 +48530,10 @@
   "131121": {
     "name": "고서 번역가",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec6104da3fed303dd1eff11c524920067e51c3ab3fa74fa7009fa29418962382.png"
+  },
+  "131122": {
+    "name": "겸허한 심판",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d9d4baffd257ed0783fb5585230fcacc6fd11525e5cb71d5d0a096a4e19c83d.png"
   },
   "131126": {
     "name": "울디르 검역소",

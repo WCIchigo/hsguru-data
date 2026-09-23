@@ -26783,6 +26783,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/327ac493a6d4778748dda0b70555ad8824757351ea857fefc32cbfb06110dccf.png",
     "cropImage": null
   },
+  "129250": {
+    "id": 129250,
+    "name": "최후의 징벌",
+    "manaCost": 2,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>생명력 흡수</b> 모든 적 하수인에게 피해를 3 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18d4d9855cee33ca7679b27a4cffc04a81819876dea3626b80fa60a5a576eeee.png",
+    "cropImage": null
+  },
   "129675": {
     "id": 129675,
     "name": "파멸의 역병",
@@ -27093,6 +27105,30 @@
     "health": 1,
     "text": "<b>연계:</b> <b>돌진</b> 능력이 있는 1/1 구울을 소환합니다. 턴이 끝날 때 죽습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d50904f832cb4ce2444c02fcef5f9feec04c5b2869b9a28a8252156b86ee43a4.png",
+    "cropImage": null
+  },
+  "130638": {
+    "id": 130638,
+    "name": "태양의 축복",
+    "manaCost": 2,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "하수인에게 +2/+3을 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b72b9e63c5a4bf3e25a97f3270fc13cd3a5e2c596c70f734f19a704de4c35a5.png",
+    "cropImage": null
+  },
+  "130644": {
+    "id": 130644,
+    "name": "바니르 병사",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 1,
+    "health": 1,
+    "text": "<b>천상의 보호막</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8a428320edd9a9800fe72897253737b29162470248c1b9501d545ba8c83c9d6.png",
     "cropImage": null
   },
   "130665": {
