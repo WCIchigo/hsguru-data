@@ -27431,6 +27431,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e12e253bcc9321de89b4c34bfbbae49e66bdf73a2323ff6b84ee0124728800b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_013t5.jpg"
   },
+  "132368": {
+    "id": 132368,
+    "name": "태양의 광휘",
+    "manaCost": 0,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a191ca60bcc1ff9d53d63c04bb588a6ea918cc6f5953769553df6fe37ba140e.png",
+    "cropImage": null
+  },
   "132534": {
     "id": 132534,
     "name": "소금쟁이",

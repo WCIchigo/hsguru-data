@@ -47007,6 +47007,10 @@
     "name": "판자보행자",
     "img": null
   },
+  "128090": {
+    "name": "빛의 소환사",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf36b5a3ac70a61575db1243be29e6871e56615ccd69fe7c2b4a67edfcab35c5.png"
+  },
   "128111": {
     "name": "시간왜곡의 골드린",
     "img": null
@@ -48827,6 +48831,10 @@
     "name": "불타는 창공전사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a71ccc81730b1037e26b187c2123e7b7049ef9a1bdcc12cef28a69d4ca7c16af.png"
   },
+  "132135": {
+    "name": "원시 판다렌",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eed77f74e023585969668c5804b86e95a1ea884e42417f66aa7b84716f42f0ad.png"
+  },
   "132192": {
     "name": "공격적인 희생",
     "img": null
@@ -48963,6 +48971,14 @@
     "name": "얼굴 없는 광신자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e12e253bcc9321de89b4c34bfbbae49e66bdf73a2323ff6b84ee0124728800b.png"
   },
+  "132353": {
+    "name": "라지",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5698fd196a6256917bd5875624bc6a169526daeb7cd8ae2db03ff6f048982eba.png"
+  },
+  "132368": {
+    "name": "태양의 광휘",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a191ca60bcc1ff9d53d63c04bb588a6ea918cc6f5953769553df6fe37ba140e.png"
+  },
   "132441": {
     "name": "금박 작업",
     "img": null
@@ -48990,6 +49006,10 @@
   "132534": {
     "name": "소금쟁이",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2d97b33bc5261e973b17b11865598413294a6fead85e1ae249b6121a19ab1ed.png"
+  },
+  "132535": {
+    "name": "모구 전투대장",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3645b0a8bcbb721684f040533c275cc169e0c9090167f414d35788abb0c8ea2c.png"
   },
   "132547": {
     "name": "흑막 요그사론",

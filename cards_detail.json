@@ -200649,6 +200649,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "128090": {
+    "type": null,
+    "type2": null,
+    "text": "두 플레이어 모두 <b><b>생명력 흡수</b></b> 효과를 적용받습니다.",
+    "flavorText": "\"따르릉, 따르릉!\" \"여보세요?\" \"아, 당신을 찾는데요!\"",
+    "keywords": "생명력 흡수",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Melvin Chan",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "128111": {
     "type": "야수",
     "type2": null,
@@ -208412,6 +208429,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "132135": {
+    "type": null,
+    "type2": null,
+    "text": "<i>이 하수인</i>이 아닌 원인으로 내 손에 카드가 들어온 후에& 두 플레이어 모두 무작위 주문을 손으로 가져옵니다.",
+    "flavorText": "원숭이-왕,-그리고-기를-활용한-주문을-연마하고-모험을-즐기던-수도사에게-전해졌다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 3,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Jakub Kasper",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
   "132192": {
     "type": null,
     "type2": null,
@@ -208990,6 +209024,40 @@
     "rarityName": null,
     "dustCost": null
   },
+  "132353": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성:</b> 아무 직업의 하수인이나 <b>조합</b>합니다. 그 하수인을 <b>지속</b> 영웅 능력으로 변신시킵니다.",
+    "flavorText": "태양이 없으면 생명은 시들어 버립니다. 하지만 태양은 생명에 아랑곳하지 않습니다. 태양은 마법보다 밝게 빛납니다. 우리 발아래의 돌을 녹일 수도 있지요. 그래서 가장 큰 책임을 지게 된 것은, 라지였습니다.",
+    "keywords": "전투의 함성, 조립",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Sergey Tsvelykh",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "132368": {
+    "type": null,
+    "type2": null,
+    "text": null,
+    "flavorText": null,
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Ursula Dorada",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": null,
+    "dustCost": null
+  },
   "132441": {
     "type": null,
     "type2": null,
@@ -209108,6 +209176,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": null,
     "dustCost": null
+  },
+  "132535": {
+    "type": null,
+    "type2": null,
+    "text": "내가 중립 카드를 낸 후& 이번 턴에 내가 시전하는 다음 주문의 비용이 (1) 감소합니다.",
+    "flavorText": "단 한 번이라도 좋으니 평화대장을 만나고 싶군요.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 2,
+    "health": 5,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": null,
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "특급",
+    "dustCost": 400
   },
   "132547": {
     "type": null,
