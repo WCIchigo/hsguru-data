@@ -26819,6 +26819,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a8ac871fa9de4d0fc352485e8c7b88026a9cb7510e992ec917c7cbacff293b5.png",
     "cropImage": null
   },
+  "129810": {
+    "id": 129810,
+    "name": "뒤틀린 암영스라소니",
+    "manaCost": 5,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 5,
+    "health": 2,
+    "text": "<b>속공</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb65980929afebba4fa2025988df70d103d03194effc6f17f83e198bdc977b3f.png",
+    "cropImage": null
+  },
   "129987": {
     "id": 129987,
     "name": "비취 골렘",

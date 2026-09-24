@@ -47531,13 +47531,25 @@
     "name": "정신부패 정복자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/047c7596f7709e5b5e2466ff43803caebf704abd02b69b6f2a7d1dcfae6301fd.png"
   },
+  "129810": {
+    "name": "뒤틀린 암영스라소니",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb65980929afebba4fa2025988df70d103d03194effc6f17f83e198bdc977b3f.png"
+  },
   "129811": {
     "name": "천공의 비",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79597d8452fe2687d9307c7d4fdcaacf6248f31c09bdad4a97330255bfa1108e.png"
   },
+  "129814": {
+    "name": "호기심 많은 암영스라소니",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a96a4f2802b97c5f159a66ec4b20171ec03d4f798b15b159960dcb5109e301eb.png"
+  },
   "129824": {
     "name": "키식스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22030aeb4aa1b171136d1cf7a23bcaa7d33b385f787454e94b866dea9b53757c.png"
+  },
+  "129837": {
+    "name": "골짜기의 급사",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8af15d90bd60f8e16f56c48843c3f40adc30abe52c2d17dace7779687a1a0e7b.png"
   },
   "129839": {
     "name": "시초의 전당",
@@ -47579,6 +47591,14 @@
     "name": "얼음띠 마법사",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07eb0bab91e421e4450fc9cc0e735401c29b0b02c0c9bd90cae496dd95368282.png"
   },
+  "129892": {
+    "name": "실체 없는 덧불",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8c5d9a769d5d32569b87268068be6065643596d30297c4bae1405aa035d9415.png"
+  },
+  "129893": {
+    "name": "태고의 곰",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a130564bc93acc948ecd8d358235a9173a37db9c33d476fe54b5d42a13d7e24.png"
+  },
   "129894": {
     "name": "검은무쇠 전령",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de603e9548267ed4858a1f73be2833c416914e89c8cc6d13393d0e010e44c7c4.png"
@@ -47586,6 +47606,10 @@
   "129935": {
     "name": "세테쉬",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d176a0e8c164fe15bb77a26efc63f4f97b5b51c2092f14a16525922b2a42979e.png"
+  },
+  "129937": {
+    "name": "에메랄드의 건축가 프레이야",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9668d38f1c20723cd404647c2a83ae4d0cba9bb776fad6ee5553824c3ac9c26.png"
   },
   "129938": {
     "name": "돌 건틀릿",
@@ -48639,6 +48663,10 @@
     "name": "원반 움직이기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/002c20ad2b95015bfaf37a08a1cc8bf512992be509a33b2fa8a6dd665acff521.png"
   },
+  "131177": {
+    "name": "꽃피우기",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73e1002908b4fc4aaf4085a45ac564c43be6b0d10c6d6fc749dc9d5e9e090da0.png"
+  },
   "131180": {
     "name": "죽음꽃",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a0b337b250debdc3cbeb697ed974adb495e8549512c4156026fa90ed0ec9b3c.png"
@@ -48666,6 +48694,10 @@
   "131218": {
     "name": "깊은물 부족",
     "img": null
+  },
+  "131232": {
+    "name": "티탄 크기",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/037f213d531d046854fafbd31771b09cf53dcf1edf8ce5cb88cfc4193e869259.png"
   },
   "131240": {
     "name": "해일의 군주 넵튤론",
@@ -48799,9 +48831,17 @@
     "name": "깃발을 휘날려라",
     "img": null
   },
+  "131418": {
+    "name": "동력 호랑이",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a525c461481ba04bc560d185bb2830a0ff95e6cb493844c72e590ba0e227ee93.png"
+  },
   "131432": {
     "name": "최전방 철의 후예",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9467f14a66a9a02d75798584782064a485eefa033bf77b08a582e49833aa90b0.png"
+  },
+  "131433": {
+    "name": "먹잇감을 찾는 자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2ee37fd73b7d2aac1397c5dfff9188bd1d0f486c2cf466f097626bea9c394ea.png"
   },
   "131454": {
     "name": "바위 트로그",
@@ -50054,5 +50094,9 @@
   "134199": {
     "name": "투수 초상화",
     "img": null
+  },
+  "134936": {
+    "name": "먹이를 찾는 슬라이번",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c717fd3520d56f6eaaddf3f2913f922b9e96226550a5b78dbc685cb8c205ff9.png"
   }
 }

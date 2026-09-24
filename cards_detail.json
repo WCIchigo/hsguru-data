@@ -202894,6 +202894,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "129810": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>속공</b>",
+    "flavorText": "이름은 암모시입니다.",
+    "keywords": "속공",
+    "spellSchool": null,
+    "attack": 5,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Grafit",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": null,
+    "dustCost": null
+  },
   "129811": {
     "type": null,
     "type2": null,
@@ -202911,6 +202928,23 @@
     "rarityName": "일반",
     "dustCost": 40
   },
+  "129814": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>도발</b>, <b>전투의 함성</b>: <b>속공</b> 능력이 있는 / 야수를 소환합니다. <i>(그 야수의 능력치는 이 하수인의 반대입니다!)</i>",
+    "flavorText": "이름은 암모시입니다.",
+    "keywords": "도발, 전투의 함성, 속공",
+    "spellSchool": null,
+    "attack": 2,
+    "health": 5,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "  Grafit",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
   "129824": {
     "type": null,
     "type2": null,
@@ -202927,6 +202961,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": "전설",
     "dustCost": 1600
+  },
+  "129837": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성</b>: 야수를 <b>조합</b>합니다.",
+    "flavorText": "식초보다는 꿀로 파리를 더 많이 제작할 수 있습니다.",
+    "keywords": "전투의 함성, 조립",
+    "spellSchool": null,
+    "attack": 2,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Sergey Tsvelykh",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
   },
   "129839": {
     "type": null,
@@ -203098,6 +203149,40 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "129892": {
+    "type": null,
+    "type2": null,
+    "text": "피해를 3 줍니다. 비용이 3인 무작위 하수인을 소환합니다.",
+    "flavorText": "teumbpgfnzc42+25WKi)(1y,v/\"-qJx",
+    "keywords": null,
+    "spellSchool": "비전",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Ursula Dorada",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
+  "129893": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>전투의 함성</b>:& 이번 턴에 내 영웅에게 이 하수인의 공격력을 부여합니다.",
+    "flavorText": "저는 분홍색 뿔과 은색 날개가 달리고 키가 120미터인 태고의 곰이에요.",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 2,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Jason Kang",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "129894": {
     "type": null,
     "type2": null,
@@ -203128,6 +203213,23 @@
     "armor": null,
     "collectible": true,
     "artist": "Ivan Fomin",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
+  "129937": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성</b>: 내 손과 덱에 있는 모든 야수의 능력치를 2배 증가시킵니다.",
+    "flavorText": "프레이야가 아제로스를 생명으로 가득 채우고자 결심하고, 첫 번째 나무 푸 잔을 심었다. 프레야야는 푸 잔의 가지 하나를 꺾어 지팡이를 만들고",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Caroline Gariba",
     "cardSet": "검은 제국의 지배",
     "rarityName": "전설",
     "dustCost": 1600
@@ -207613,6 +207715,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "131177": {
+    "type": null,
+    "type2": null,
+    "text": "다른 주문을 뽑습니다. 그 주문이 자연 주문이면 2번 시전됩니다.",
+    "flavorText": "세계를 여행하며 느조스가 더럽힌 숲을 몰아냈다. 그 지팡이는 위론,",
+    "keywords": null,
+    "spellSchool": "자연",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Vika Yarova",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "131180": {
     "type": null,
     "type2": null,
@@ -207731,6 +207850,23 @@
     "cardSet": null,
     "rarityName": null,
     "dustCost": null
+  },
+  "131232": {
+    "type": null,
+    "type2": null,
+    "text": "하수인을 뽑습니다. 내 손에 있는 야수들에게 +2/+2를 부여합니다.",
+    "flavorText": "작은 여우는 몸을 쭉 펴고 섰습니다. 그 순간만큼은 세계의 챔피언이었죠.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Eva Widermann",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "131240": {
     "type": "정령",
@@ -208293,6 +208429,25 @@
     "rarityName": null,
     "dustCost": null
   },
+  "131418": {
+    "type": "기계",
+    "type2": [
+      "야수"
+    ],
+    "text": "모든 플레이어의 턴이 시작될 때,& 무작위 적을 공격합니다.",
+    "flavorText": "인터넷이 왜 또 끊어졌는지 알고 싶어? 이 녀석이 고양이 케이블을 물고 도망쳤거든!",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 6,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Gabor Szikszai",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "131432": {
     "type": null,
     "type2": null,
@@ -208309,6 +208464,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": "특급",
     "dustCost": 400
+  },
+  "131433": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>모면</b>, 이 하수인이 피해를 받은 후에& 무작위 적 하수인을 처치합니다.",
+    "flavorText": "지글거리는 아퀴르가 나올 때.",
+    "keywords": "모면",
+    "spellSchool": null,
+    "attack": 4,
+    "health": 8,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Luke Mancini",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
   },
   "131454": {
     "type": null,
@@ -213674,5 +213846,22 @@
     "cardSet": null,
     "rarityName": null,
     "dustCost": null
+  },
+  "134936": {
+    "type": "야수",
+    "type2": null,
+    "text": "<b>도발</b>, <b>죽음의 메아리</b>:& 이 하수인의 공격력만큼 카드를 뽑습니다.",
+    "flavorText": "남들이 나가서 고대 신들과 싸울 때, 기지에 있으면서 먹을 것을 비축하기를 선호하는 이들도 있습니다.",
+    "keywords": "도발, 죽음의 메아리",
+    "spellSchool": null,
+    "attack": 2,
+    "health": 4,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Eva Widermann",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
   }
 }
