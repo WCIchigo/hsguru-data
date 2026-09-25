@@ -201422,6 +201422,23 @@
     "rarityName": "특급",
     "dustCost": 400
   },
+  "129093": {
+    "type": "기계",
+    "type2": null,
+    "text": "<b>전투의 함성과 죽음의 메아리</b>:& 양옆의 하수인들에게 +2/+2를 부여합니다.",
+    "flavorText": "티탄의 차를 쏟고 싶어 하지만, 아쉽게도 그럴 수 없습니다.",
+    "keywords": "전투의 함성, 죽음의 메아리",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Luca Zontini",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "129098": {
     "type": "용족",
     "type2": [
@@ -202741,6 +202758,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "129792": {
+    "type": "기계",
+    "type2": null,
+    "text": "<b>전투의 함성</b>: 이 하수인을 둘 복사하여 소환합니다. <b>죽음의 메아리</b>:& 무작위 적에게 피해를 3 줍니다.",
+    "flavorText": "여기서 우리 집도 보이네! 어, 이게 아닌데...",
+    "keywords": "전투의 함성, 죽음의 메아리",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Daniil Kudriavtsev",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "129793": {
     "type": null,
     "type2": null,
@@ -202757,6 +202791,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": "일반",
     "dustCost": 40
+  },
+  "129794": {
+    "type": null,
+    "type2": null,
+    "text": "아군 기계에게 공격력 +2와 <b>속공</b>을 부여합니다. 턴이 끝나면 그 기계는 죽습니다.",
+    "flavorText": null,
+    "keywords": "속공",
+    "spellSchool": "화염",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Matt Dixon",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": null,
+    "dustCost": null
   },
   "129795": {
     "type": null,
@@ -202941,6 +202992,74 @@
     "armor": null,
     "collectible": true,
     "artist": "  Grafit",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "특급",
+    "dustCost": 400
+  },
+  "129820": {
+    "type": null,
+    "type2": null,
+    "text": "내 영웅이 공격한 후에,& '증속 구동'을 얻습니다.",
+    "flavorText": "상처를 만드는 즉시 지져서 지혈합니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 2,
+    "health": 2,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Mauricio Herrera",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
+  "129821": {
+    "type": null,
+    "type2": null,
+    "text": "기계를 <b>조합</b>합니다. '증속 구동'을 얻습니다.",
+    "flavorText": "미미 은획계 의론사그요 만지하 .다냈 해출연 을음죽 의론미미 로으적공성 은론사그요 ,만지리걸 이년 천수 후 그 는지까기맺 을실결",
+    "keywords": "조립",
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Matt Dixon",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
+  "129822": {
+    "type": null,
+    "type2": null,
+    "text": "무작위 적 하수인을 처치하고 적 영웅에게 피해를 3 줍니다. 내 전장에 기계가 있으면 반복합니다.",
+    "flavorText": "포기하지 않는 사람에게는 격이 다른 성공이 찾아옵니다.",
+    "keywords": null,
+    "spellSchool": "화염",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Kevin Sidharta",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
+  "129823": {
+    "type": null,
+    "type2": null,
+    "text": "주문을 <b>발견</b>하고 그 주문의 비용을 (8) 감소시킵니다. 초과한 비용 감소가 있으면 반복합니다.",
+    "flavorText": "재장전하고 퍼부으세요.",
+    "keywords": "발견",
+    "spellSchool": "비전",
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Timur Shevtsov",
     "cardSet": "검은 제국의 지배",
     "rarityName": "특급",
     "dustCost": 400
@@ -203267,6 +203386,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": "희귀",
     "dustCost": 100
+  },
+  "129943": {
+    "type": "기계",
+    "type2": null,
+    "text": "내가 하수인을 낸 후에& 카드를 뽑습니다.",
+    "flavorText": "당신의 OC91이 기다리고 있습니다.",
+    "keywords": null,
+    "spellSchool": null,
+    "attack": 5,
+    "health": 5,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Vlad Botos",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
   },
   "129944": {
     "type": "야수",
@@ -205769,6 +205905,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "130763": {
+    "type": null,
+    "type2": null,
+    "text": "<b>돌진</b> 능력이 있는 1/1 기계 야수를 둘 소환합니다.",
+    "flavorText": "뒤뜰에서 이교도들을 몰아내세요. 태엽을 감고 내려놓기만 하면 됩니다!",
+    "keywords": "돌진",
+    "spellSchool": null,
+    "attack": null,
+    "health": null,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Patrik Bjorkstrom",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
+  },
   "130764": {
     "type": "야수",
     "type2": null,
@@ -205785,6 +205938,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": "특급",
     "dustCost": 400
+  },
+  "130765": {
+    "type": "정령",
+    "type2": null,
+    "text": "<b>전투의 함성</b>: 내 모든 하수인이 무작위 적에게 자신의 공격력만큼 피해를 줍니다.",
+    "flavorText": "살아남았다. 크론이 상처를 돌보는 동안, 이샤라즈는 복수를 계획했다. 테라제인과 넵튤론은",
+    "keywords": "전투의 함성",
+    "spellSchool": null,
+    "attack": 6,
+    "health": 6,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Nicola Saviori",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
   },
   "130769": {
     "type": null,
@@ -206227,6 +206397,25 @@
     "cardSet": null,
     "rarityName": null,
     "dustCost": null
+  },
+  "130864": {
+    "type": "야수",
+    "type2": [
+      "기계"
+    ],
+    "text": "<b>돌진</b>",
+    "flavorText": null,
+    "keywords": "돌진",
+    "spellSchool": null,
+    "attack": 1,
+    "health": 1,
+    "durability": null,
+    "armor": null,
+    "collectible": false,
+    "artist": "Patrik Bjorkstrom",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "무료",
+    "dustCost": 0
   },
   "130865": {
     "type": null,
@@ -207868,6 +208057,23 @@
     "rarityName": "희귀",
     "dustCost": 100
   },
+  "131236": {
+    "type": "기계",
+    "type2": null,
+    "text": "<b><b>환생</b>, </b><b>죽음의 메아리</b>:& 내 손에 있는 모든 하수인에게 +1/+1을 부여합니다.",
+    "flavorText": "복통은 제가 보면 압니다.",
+    "keywords": "죽음의 메아리, 환생",
+    "spellSchool": null,
+    "attack": 0,
+    "health": 1,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Matt Dixon",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "희귀",
+    "dustCost": 100
+  },
   "131240": {
     "type": "정령",
     "type2": null,
@@ -208754,6 +208960,23 @@
     "rarityName": null,
     "dustCost": null
   },
+  "132009": {
+    "type": null,
+    "type2": null,
+    "text": "<b>전투의 함성</b>: 내 전장에 기계가 있으면, 완벽한 테크 카드를 <b>발견</b>합니다.",
+    "flavorText": ".다했칭 고라\"뇌두 한상비\" 로스스 고리그 .다갔 겨옮 게에움노 엽태 는있 어들잠 은혼영 의그 지되괴파 이신육 의론미미 .다았않 지하려고 을함발기 의론",
+    "keywords": "전투의 함성, 발견",
+    "spellSchool": null,
+    "attack": 2,
+    "health": 1,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": null,
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "전설",
+    "dustCost": 1600
+  },
   "132017": {
     "type": "용족",
     "type2": null,
@@ -208787,6 +209010,23 @@
     "cardSet": "검은 제국의 지배",
     "rarityName": "특급",
     "dustCost": 400
+  },
+  "132177": {
+    "type": "기계",
+    "type2": null,
+    "text": "<b><b>도발</b>, </b><b>죽음의 메아리</b>:& 마나의 합이 4인 무작위 기계를 소환합니다.",
+    "flavorText": "햄스터로 구동되는 무공해 모델도 있습니다.",
+    "keywords": "도발, 죽음의 메아리",
+    "spellSchool": null,
+    "attack": 3,
+    "health": 3,
+    "durability": null,
+    "armor": null,
+    "collectible": true,
+    "artist": "Melvin Chan",
+    "cardSet": "검은 제국의 지배",
+    "rarityName": "일반",
+    "dustCost": 40
   },
   "132192": {
     "type": null,

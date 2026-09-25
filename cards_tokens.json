@@ -26807,6 +26807,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/398fd7497dd8c11d25a00d33716bb1733c2a62d3dc2d59ad7a31ad1394d35d86.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_443t.jpg"
   },
+  "129794": {
+    "id": 129794,
+    "name": "증속 구동",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "아군 기계에게 공격력 +2와 <b>속공</b>을 부여합니다. 턴이 끝나면 그 기계는 죽습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b07222d358f51f774440e708db20f2857b85c2a5c304bd6b494034df59ac6801.png",
+    "cropImage": null
+  },
   "129795": {
     "id": 129795,
     "name": "크트락시 투사",
@@ -27214,6 +27226,18 @@
     "text": "<b>전투의 함성:</b> |1(을,를) 시전합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eaad55201a3691525c4e712f94f2bc48206c44b288fc5d63995f455dd198c821.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/MEND_046t.jpg"
+  },
+  "130864": {
+    "id": 130864,
+    "name": "태엽돌이 멧돼지",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 1,
+    "health": 1,
+    "text": "<b>돌진</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27990d4d2f447a61c4388b100e0aeeb3682a9beba74164b1d89ba1a0638e4e1c.png",
+    "cropImage": null
   },
   "131120": {
     "id": 131120,
