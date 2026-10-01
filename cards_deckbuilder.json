@@ -1269,7 +1269,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5b5327320d096b2dbdf2865e02b0db42e31079c4c2a163d6bfe2f66d0565c7a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aec029cfb412236f9b9e1aea2d2787fa48391ede90ed8027d50d9eb9f6ddcc7c.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86c90dcd0f97be042c12b3bced76215b31d73b27e81d40514ef52e2cb2ac13a4.png",
     "isStandard": true
   },
@@ -4367,7 +4367,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "발견 퀘스트",
-    "text": "<b>퀘스트:</b> 카드를 7장 <b>발견</b>해야 합니다. <b>보상:</b> 기원의 돌",
+    "text": "<b>퀘스트</b>: 카드를 8장 <b>발견</b>해야 합니다. <b>보상</b>: 기원의 돌",
     "flavorText": "9일째. 우리를 맞이한 것은 벌린 팔이 아니라 창끝이었다! 다행히 수석 에쇼가 우리를 가엾게 여겨 경비병들을 물렸다. 한 티탄연구자가 엘리스의 전문성을 알고 그녀를 도서관으로 데려가 버렸다. 움브라는 구불구불한 거리에서 사라졌다...",
     "attack": null,
     "health": null,
@@ -6377,7 +6377,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eccb0c8ccd88092c3b62d334560b64d3867e364ef5a4bf77af9e99f93f9066b6.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0b38e4da191b894d2ae13bc012fa8e2ca5ee7421f08f73d72e1a1e3c56c19cb.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57a7f6132852539a4e6e71058c6722865261dd55c57a831078dbe056f8ce2263.png",
     "isStandard": true
   },
@@ -7324,7 +7324,7 @@
     "spellSchool": "비전",
     "keywords": "발견",
     "text": "마법사 하수인을 <b>발견</b>합니다. 내 덱에 하수인이 없으면, 카드 3장을 모두 가집니다.",
-    "flavorText": "오늘의 하수인은 뭘까아아아~요?",
+    "flavorText": "오늘의 하수인은 뭘까아아아",
     "attack": null,
     "health": null,
     "runeCost": null,
@@ -8635,7 +8635,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a594c285f563ae5dbd219af1d9514b6e4bbdf17aa5a480d4327e942245b4d437.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f87b06345eb0dd28e0068daa42632046490c2d21490864d3c5d5061f5f55b40b.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7696291bc0d44c48c5ba6d38fa501c450276f67e11f352780aee8a87760cd538.png",
     "isStandard": true
   },
@@ -9587,8 +9587,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60cf78651c81e110f6aeaecf072ead312aa3e12097332197fc5c275086113119.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ccbe34d7a1a8690f6dc65d5ac1e44f1e41e65046cf083b809e06b206fe0dcd4.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ccca59ea1185f25281c71e6839b71f152839e2d6a867b1574aca21b16920c9d.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc305fd3d27a278939b5b824d6d5c3d13973eb72a31b2375596235f2d92e08ee.png",
     "isStandard": true
   },
   {
@@ -10313,7 +10313,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93ceba3399df16d7b01af373199290e9b39902c418eeb10fcbfa43afa3f4d2d2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/253e54967ec9ae7611b259b3f14ec653a70ae445219fdec7fc5cf9b9ea233128.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f300bb68b9c25030ca2f3cd40a4e54b637a772328e91135d9b0a4a68ada1775.png",
     "isStandard": true
   },
@@ -10704,7 +10704,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/876e6fedd58eacc7a688b6c0388dcea060a071a92acd210864ffdb6efaf694a6.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/250e55d5f92af0f5b1c8995a662dbcbf7bb939ce56bdb1d92997f1d454f3472a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc6b498ad47c2811e69be95a82141d837c8ac8ae909fc90178222027a0e965bc.png",
     "isStandard": true
   },
@@ -11098,8 +11098,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TRL_245",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cc47b0c7a8a03362086efa647ad908026a4dd96d3ac6c8107c637625601f2a5.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78949d9ac13fefcf3ddc1c5097b77388fa88212905f16dea93f82ddf9e75cb61.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9b2f235baf82076040262e3d8f9e71addab7304e5630dc73bba18a76aadb980.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a102176a42d716f716e1eab1d0b126b5a1f8b5ea8751b571e4abfca19d6b6e31.png",
     "isStandard": false
   },
   {
@@ -11721,7 +11721,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3558401b6fd75a07b983faac24e1e77ea8a96f83d9eb441a3587a9a3284ba4b9.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/960b37297a6b400a80f32f49da26652baefd6a8b712409ad10faa858c3725f83.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ff90dfe29fc92cf1772db401ae19c8d12c1e19a92df56a3d120ff6d09e00022.png",
     "isStandard": true
   },
@@ -12181,8 +12181,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "DMF_119",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f580bd233d665686c687c068d2c914fb1248566502743c35a14f7c9f03d7a8bc.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10d15236989611ca9ba2a2ec1c53981e9642b493a7c24be8c9e4856731d23e23.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3f077228b549cf0611dc0f0e5a4f4a06710c1257a63c01c8e5ba1cd02735d1e2.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad18700eb0fdc32d119ed8db7a1fe484894b74c412d75f6efdf790119de1fc44.png",
     "isStandard": false
   },
   {
@@ -12550,13 +12550,13 @@
     "text": "내 턴에 내 영웅의 공격력이 +1 증가합니다.",
     "flavorText": "예, 주방장님!",
     "attack": 1,
-    "health": 3,
+    "health": 2,
     "runeCost": null,
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_202",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd6d04ef0d47847e8471d0126e0b278ad7bf08832751bcfeb397837a97e6c9d5.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46aec00c168fe4506c5160cc35e6b18b4c55e5dadb260364264b00f5607784f2.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcf78e4435d3babd3477af2aa9c8fe810fea9cae1f7e16d24acee4323a52c3e2.png",
     "isStandard": true
   },
   {
@@ -16438,7 +16438,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18fa6fc21a427acd288d26210b97822ec9472a32afcf4401a6be0c921e2ca5a0.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ac5fb6f304aa7c10fbfd363c654f0545fa7e9eade772cda24a5f9477c9be85c.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc240f98fd2a10011dcb0856111695da633903e5b09f7ccc4144e6ec08950f74.png",
     "isStandard": true
   },
@@ -17046,7 +17046,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "EX1_308",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d5b9a54607456e0f6f0d947b836e18b48af05c63b6b6347e438cbc47a087bf7.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9103cf3a57280e25fee628a4e0b6ba363334c72d9a19bd19ee3edc1d658f3b20.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9ddc42316712fa01b5bc526064bbd144107c3739a69bde01e62e79f422bb3f5.png",
     "isStandard": false
   },
@@ -18093,8 +18093,8 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "전투의 함성 연계",
-    "text": "<b>전투의 함성</b>: 다른 직업의 영웅 능력을 발동시키는 <b>연계</b>를 가진 비용이 1인 애벌레를 얻습니다.",
-    "flavorText": "데이터마인 터널을 재사용하길 좋아합니다.",
+    "text": "<b>전투의 함성</b>: 다른 직업의 영웅 능력을 발동시키는 <b>연계</b>를 가진, 비용이 1인 애벌레를 얻습니다.",
+    "flavorText": "데이터마인 속에 숨어드는 걸 좋아합니다.",
     "attack": 1,
     "health": 3,
     "runeCost": null,
@@ -18114,7 +18114,7 @@
       133414
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b784782532dec3956b82c172cff1d4ce8e502fd1300a15b67b84ffa12a5e9a05.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e6fe83af771bab958875dcf32b1eab26347da42c4a9d92d735edb3de1899abd.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76d18aafeb9023e463546e2f7bb8f6310473b7e1de75f127f3ad2eba7d68a63b.png",
     "isStandard": true
   },
@@ -19237,7 +19237,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27143a1afcac3c90125a6e065ccbd8fd023845f1b9d436b1e03d3b6bcfcc195f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ea522831ad151955d6475ef22847fe2e7a4754b415cb439af21bef0329efa52.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/078c357bc7b4d7885642f9b7c3f972a66edf7366f06801dd1722115d4e96d971.png",
     "isStandard": true
   },
@@ -20237,7 +20237,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d19374b8f485f4a5e25e5c7586997d5259e34369b4c8ff7f67a5a7e4ebedcbdb.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46aa8766354f370ab26f1cb369d7bb8e75277cff499111108e90511b7de436b2.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ef082b1778bf993545db0d6b949e133ef48a36045d80c2c423000a3dc609980.png",
     "isStandard": true
   },
@@ -21700,7 +21700,7 @@
     "spellSchool": null,
     "keywords": "퀘스트 전개",
     "text": "<b>퀘스트 전개:</b> 한 턴에 카드를 4장 뽑아야 합니다. <b>보상:</b> 뽑은 카드들의 비용이 (1) 감소합니다.",
-    "flavorText": "최후의 결전을 시이자아아악~~~~~~~ 하겠습니다!",
+    "flavorText": "최후의 결전을 시이자아아악",
     "attack": null,
     "health": null,
     "runeCost": null,
@@ -22244,7 +22244,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/809dde1d0ad76f7b1a70415230ecefb63219c5f65db21d4d0f95130ca54c9e96.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59d62a52ffe3ae1c9fd0f6430586a445a0043fbc930b7bf1a07af9584bc1689d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43a635e97081ce4f8d71e48b130d829e6baa17fa821cba3c27a46799ed6b1825.png",
     "isStandard": true
   },
@@ -22516,7 +22516,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/690b548953a8004c7f5c4ad0881be6c07f79bad44e4d0399b24ad8a1d14b0467.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c17c4832a0ff44a65a145d6659abd82c2d8fbce6e5cb7f619f0860b97e6109ea.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f87bb7e0ab0c714ac4d241df0695cac8bfe235a04842f40ea19e40516f7869c.png",
     "isStandard": true
   },
@@ -23640,8 +23640,8 @@
       104579
     ],
     "cardId": "WW_412",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75bda81830350e1875e8ef3c30bfb6dbdc5c418d9a437c83d98d150d61b29db6.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e5d6165574204c29155ba9e4ee83546fbc08f46809acfac5ee71e4147bdd171.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47744bb63cc5e45453e16dce7dcb3304dda29e7a216af98a53fe226e882adbed.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29df67605d40f2a535f395d38fca1b3b91db15d8f5950e05d3daa99882f222aa.png",
     "isStandard": false
   },
   {
@@ -24120,7 +24120,7 @@
       130644
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/871c222cee389588e62740dc0ec476c156011bcc3ca90c34ac2fa74df0f7911c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bab67c6a5baf5f238d4d10b02e55cf9bc553107c7579711bc9e461d8b7b52667.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a330d56c7e4af9b7aea1769ced8e81a6f1b451b25d36b456fb6d645e6d2682fc.png",
     "isStandard": true
   },
@@ -24474,7 +24474,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04777377214a383ec34a173161f07a6d9cc66bd3b10992195f96faa2ebed480c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5831831facf2a7f1e936753342b2084aabd5250253cf007f90d35527a136935e.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db42442a6742629e17d1a0e3816484c2d1ffaf2a475f127c6beea97ae5cb89a7.png",
     "isStandard": true
   },
@@ -27647,7 +27647,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8af15d90bd60f8e16f56c48843c3f40adc30abe52c2d17dace7779687a1a0e7b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5dcf9e5e6f7037acfacab5d0623316b54c8c804045231ac31f80ba7361cdd852.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38f1136c459ca3cc3a6087fc705d77aefd4b8c20ef9e3d11f86a7cd2c66e2c86.png",
     "isStandard": true
   },
@@ -28955,7 +28955,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b08bd8b26ab994b66d26de4c0f021bb8a5852fe59869458388e387f462f73a17.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48b335647b535d9129a505d682c7a84ac4256c44f0a7ff0f0c3f0eaf0f4e2209.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14f95acd36c6491028249abfe5626f7be7b25392706f58c25f9a6233bb2fffc6.png",
     "isStandard": true
   },
@@ -29431,7 +29431,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cac77f82d0eaf8240ce93cc9abf95d4d2445b98b9982d7cac052d4ef62561438.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd192ffd87fa0ec5daefebbf9457a5aa8a03cb01a4e234d3577e0426ea47fd45.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4ded8213d8c5b425d4448bc47395e64824a4522c1796fe508aa03962e3a99f6.png",
     "isStandard": true
   },
@@ -29572,7 +29572,7 @@
       130665
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/808f7e0f134a3cfd6fc90d737ffc3073802f981b59cff966ffca5fd1dcbd8b18.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3afbf1ef167127a3cbf14493baccdb72f8c080962d04e64d48b21e683517468c.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b677490c7dcfbee036068c950f5c8f95707f8bc80fa6bf73182a1830256aa2d.png",
     "isStandard": true
   },
@@ -29856,7 +29856,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73e1002908b4fc4aaf4085a45ac564c43be6b0d10c6d6fc749dc9d5e9e090da0.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c3b9eb67a436d5e54449c07fd05359f33b7e5803929bd4be646e5b6a23b7f38.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97989aadbfa2b3e94e25e9ed44d6ab61eef3f76fdb27a701fbaebcdca9138d41.png",
     "isStandard": true
   },
@@ -30049,7 +30049,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57b99e03801e743ba9e2c87e3dd98bdc071948e9d5635b9e02522c462cb46af6.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dd0c6936032b9fd74219013cf759a87cd73a8f26d43eed3aafccc83bc1a9d35.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/705356d1a759e5b23c02c28640af9a6e04b6bf63dfb6f770cdb07720f7cd95c8.png",
     "isStandard": true
   },
@@ -30604,7 +30604,7 @@
       131173
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b99f44e32aa525a45b1621c9cc39d86dfa9425914a81527eebaeea40a7f0b52a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db99cacebe4cc1e0e11645ba98f127b25b0ef70557722ae79e39ba0102b701f8.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb34ded4952022201f90944ce403b6b0c55213225af882658e825b1bb614c994.png",
     "isStandard": true
   },
@@ -30768,7 +30768,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16d87acde7820dc7ab5e3e4c50124c48eba226fa8bece5b2c61c81131e683a06.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3d73e09ed20dad73c3ae174d60b18e6cbc7afed5f7f4dfe9debc2b58e594a59.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24b6b63db452a4513f661550dc82afc5d29c3e58a67b3a127448f4b1df899439.png",
     "isStandard": true
   },
@@ -32438,7 +32438,7 @@
       129794
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84626de644205a0e6f4df61c1a65c94a17b2216a5c69fb32bf9aa362af5337af.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a94c5ae4330682ae329fe8b2baa5c4a010294b459e0da85c2cf9661dbdc5919.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f2fe097b16a31c049aef5011b871a731eced44bd13508322d331a5d1d52a8a9.png",
     "isStandard": true
   },
@@ -33999,7 +33999,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3318ef68dd8910e1bddfae2ccdb4c3cfea449fdf14a0287d3c5957c39e71da15.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e69faf544e0fd19633909e7cbe11db28a82388df5aeee66d7e2f7fde98b0e4d0.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04a65412c56693315bb6ffad8bfbed7e2298739baa183cecef45a08200d609c4.png",
     "isStandard": true
   },
@@ -36539,7 +36539,7 @@
     "spellSchool": null,
     "keywords": "주문 공격력 전투의 함성",
     "text": "<b>전투의 함성:</b> 이번 턴의 내 다음 주문이 <b>주문 공격력 +2</b>를 얻습니다.",
-    "flavorText": "샤라랄라랄랄라~",
+    "flavorText": "샤라랄라랄랄라",
     "attack": 2,
     "health": 1,
     "runeCost": null,
@@ -36573,7 +36573,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a8d2d9902d28eb27117409621dad7ce559688cd6405abee07314ab88762c0a3.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a23868cd6de48d23fead50e7781b57528af091d4c3b8bd986d58776ce41dfa52.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3f292382c093c29b8d1ed317aaea45bfc501de1b95663247d96fa0b0499e26a4.png",
     "isStandard": true
   },
@@ -37127,7 +37127,7 @@
     "minionType2": null,
     "spellSchool": "암흑",
     "keywords": "연계",
-    "text": "다른 직업의 영웅 능력을 발동시키는 <b><b>연계</b></b>를 가진 비용이 1인 애벌레를 셋 얻습니다.",
+    "text": "다른 직업의 영웅 능력을 발동시키는 <b><b>연계</b></b>를 가진, 비용이 1인 애벌레를 셋 얻습니다.",
     "flavorText": "크 툰크은툰 은검 은오 직제 국한이 가살지아 남목으적려을면 가자진신 이생 물먼을저 만쓰들러었져다야. 함바을로 알아았미다투.크 툰크은툰 은검 은오 직제 국한이 가살지아 남목으적려을면 가자진신 이생 물먼을저 만쓰들러었져다야. 함바을로 알아았미다투.",
     "attack": null,
     "health": null,
@@ -37147,7 +37147,7 @@
       130102
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a926e8a0e672455033e1dcb4659647ef88067442495b1166db43b7062648215f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/278762c29821eff63103611cbcccb773498a4d032150d51d162fbe3c56fef9bb.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7aff0e88f85b788ccb46f9a9b92f1d934d1a6d5a282eedf9d3e216bfddc13d1f.png",
     "isStandard": true
   },
@@ -41174,7 +41174,7 @@
       129795
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8da5ed12607486f2bcb2980ab00801a677d12e9e3c8b1a8d164c045d3963f56.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b560134f61e4961a8c2ea50b5cbda738fde7ada0e404aea04840091e87d298b8.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/661b0a5cae902df0ea431a2188c8d243cf5a640faa7ee15280321c4fa657b063.png",
     "isStandard": true
   },
@@ -41669,8 +41669,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "ULD_163",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5bed6c1a16a06081565489faf912a355aa154328812792e0fccb687d52ad3dc.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b37443f923b6de503373ddcd208ac18dc34a0f5208bde595e0e8308a3b28796.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20cee23168007057b5bf5611982ec369e520a58bbad734ec8e7bb5cf88c456e2.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a61cc53bf1989688cbb127c43d8850025bf8c527c0069eb844ad00e2ddc5b648.png",
     "isStandard": false
   },
   {
@@ -43761,7 +43761,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e9903f29cac959695facc53d31313cc55ad6d38032fd9107eae0fa919b7f44a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34fae559e17cca28aceb69012af204683306bcf149934913653a877cf438bc4b.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81706f8c9034deddcd0dd9944745874910bc8954c2d6a57f880bb28271b11b00.png",
     "isStandard": true
   },
@@ -45451,7 +45451,7 @@
     "cardSetId": 1994,
     "setName": "검은 제국의 지배",
     "cardType": "하수인",
-    "minionType": "야수",
+    "minionType": null,
     "minionType2": null,
     "spellSchool": null,
     "keywords": "연계 조립",
@@ -45463,7 +45463,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac10c398df6fd4aea96f3ad97184c4fd8d893ebeaa48da4e15e432ec52557e97.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ac7452e1917f437d5411ebb0603e9ee5db64f4fbcbd7855370b5f9dd617f0f9.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe4f15e95882952d34851ece350366a780e97fe436a45b21402cc6bba9110324.png",
     "isStandard": true
   },
@@ -45561,7 +45561,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa649e88b2b186badd6060e1621ec6f8650fffe959201785281f79758a89c318.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19e2bb6fd889e67da8529581aba365f29f12c14309d8e926e588d5551a082ae2.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46761da03d1343356b22c7a4626f7310ecc17fd03d6894b0d9bd45fd112ea215.png",
     "isStandard": true
   },
@@ -45862,7 +45862,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffef68782b041dd419761647f23f576bfadec0cd9a7df4c41e0c76d2b641ec09.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fc907d6231b304e3eeab522a03292e97adf34b90f4469ebeb22bde813d9dc88.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa81a5c67864eecc788491d90230733731020f6866722108835a4ac89ff7e099.png",
     "isStandard": true
   },
@@ -48407,7 +48407,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dec3bceafb9a2aff74edd60282df37215ab6faa9658c499825a30e1f00d4d6eb.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4a52d6e8b246de20e30ccbd5843004ba40042f39237166da1279ee42492dfe3.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ed8e66a526417708a9df8a783784b0759db55f9b1640a48734123facf9c5139.png",
     "isStandard": true
   },
@@ -49566,7 +49566,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a11d36597f80a66a1884fe2ae2a2e5938e0020cfcbce6e9f4f3440e38ab388f3.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/720516b8f36ca32c1d3e83349fdbb4ce9148f28a30ffc2fd5f9ba0cca900c304.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ca30fa7cbc81435e1e10c9036414d6443edeab1815eaad428ebdf524b7c3e2d.png",
     "isStandard": true
   },
@@ -49725,7 +49725,7 @@
     "spellSchool": null,
     "keywords": "죽음의 메아리 주문폭주 우주선",
     "text": "<b><b>주문폭주</b>:</b> 무작위 아군 하수인의 <b>죽음의 메아리</b> 능력을 발동시킵니다. <b>우주선 부품</b>",
-    "flavorText": "가까이, 멀리, 그대가 어디 있든~",
+    "flavorText": "가까이, 멀리, 그대가 어디 있든",
     "attack": 3,
     "health": 2,
     "runeCost": null,
@@ -50194,7 +50194,7 @@
     "spellSchool": null,
     "keywords": "전투의 함성 잔상",
     "text": "<b>잔상</b>, <b>전투의 함성:</b> 생명력을 2 회복시킵니다.",
-    "flavorText": "몸에 좋고 맛도 좋은 호박이 왔어요~",
+    "flavorText": "몸에 좋고 맛도 좋은 호박이 왔어요",
     "attack": 2,
     "health": 1,
     "runeCost": null,
@@ -50507,7 +50507,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03e81dd2a46771e3e07c18392119cefa787d0f00d033eec3df3d36b1114db668.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dca118ed1819d39468435019c9e3aef39d9a1ffaff8b05ff41301d30a6a8f7d2.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ead5d1225109433e167c39f261a38cd1742b5a656d4c768f40d4e34a5fb3f66.png",
     "isStandard": true
   },
@@ -52466,7 +52466,7 @@
       132534
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a0b337b250debdc3cbeb697ed974adb495e8549512c4156026fa90ed0ec9b3c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6dbe3d2e21a4483643494b52d40d40ebd208a897ad82ed203f7f1e39b370c46.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2860f3ca17410c4bbdd8a505f62adf24832dd58ab1ab35a54db3a779f7e325a2.png",
     "isStandard": true
   },
@@ -53019,7 +53019,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "EX1_306",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/980690e5c87bc9f08c0b8c873131e57fa378a24392b2a649c0b1ffb51f9e09e1.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/789e083475c9e602b09233f939e89730179a89d87710322e20f2520280603646.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fe8988e91b7191650781501a4b2a44bec7048d7bfcc5a690dcacc317144f8fb.png",
     "isStandard": false
   },
@@ -53982,7 +53982,7 @@
     "spellSchool": null,
     "keywords": "도발",
     "text": "내 손에 있는 무작위 <b>도발</b> 하수인에게 +1/+1을 부여하고, 그 하수인을 복사합니다.",
-    "flavorText": "식전 빵 위에 코도 스테이크 두 덩이, 초원타조알 다섯 알, 신선하고 차가운 우유까~지!",
+    "flavorText": "식전 빵 위에 코도 스테이크 두 덩이, 초원타조알 다섯 알, 신선하고 차가운 우유까",
     "attack": null,
     "health": null,
     "runeCost": null,
@@ -55149,7 +55149,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/458a85c49fadb3ae840d0bebb7670313fca7426ab1cef9a147b2782018d25f28.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4520a72fc1c46ec151dbb6afa76369b526e8029ca0ccd2cc5a5305bc3e501ae6.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f31692698410719e6e79d9c896767037ef9ece34569ac62710aab32ef96009e.png",
     "isStandard": true
   },
@@ -55726,7 +55726,7 @@
       129250
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2009a5a0ed98a49f388f1923e3463870d766bfed37e5b889f11aff8ac6193a07.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04be02fd314308514e85500fc8b54e424cb53730f0aab3b92035596c78b4f6aa.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb01ccfad8e7e41f2cfc4ef6726d75a3b11e976b52bcd92be7bfb4263b2b45b0.png",
     "isStandard": true
   },
@@ -55755,7 +55755,7 @@
       130638
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff3056dd43d73cc2d11e0b86f4f96d8812659bf8859f25226d4604eb90e493a8.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83a85632c74160ac84246dd0e4f08dc80fb40684ce19baf9400c840cace5c285.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dac64a237b242365ce7d6b8c472a78327eb430bfab4c0b8778755c07615b98c.png",
     "isStandard": true
   },
@@ -55811,7 +55811,7 @@
       130864
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa706f2f2caeb5c01495047895b5b5396df429e20f02d97af536a6ccf24b838d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58a3d78262f0e35f21715e530aef30fe956e243cb2d6ee4612dd590ecf126674.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61d7ab479b8a7ef1c8a1414c00e09663e41f43af8d325701b087d468d9e608ae.png",
     "isStandard": true
   },
@@ -55946,7 +55946,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f58f91dc364b03748d5f8e5255641d5d2b78d87d600b1fd310e1b8d9b3fedbe0.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2244455928d327680b3c9995fc357dbaccc7343ba82f42faff48ae55432e5ac.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/090ad8f2aea6ee6057a85e4c1a712bff5740d8350a5ae3c858120e7690fb1ffb.png",
     "isStandard": true
   },
@@ -56060,7 +56060,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d77323acb40da31823c08f0f87bd00abd6177b56a0bffd7f2f42f4956c99695e.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0fb25b7b36a8d1caab843d1939354521a26f9a4b30a7084e1905fba073cc1ce.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b131f684041aaf85fd73a2a28c80d0f066709e28e2c1fa16a1ac4b630e0ccdf6.png",
     "isStandard": true
   },
@@ -56313,7 +56313,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/037f213d531d046854fafbd31771b09cf53dcf1edf8ce5cb88cfc4193e869259.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3090bd2e2784510d0bf9d42864cf9ea726e9f17d759eecf0c3ea7a9c8b0ad513.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/170758ec6daa3d42265c7cd3d3772de4b8396d0ffa3a04440af25ba31f5f506f.png",
     "isStandard": true
   },
@@ -60309,7 +60309,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f35f30ab1eb037c512d4b5e6efa54c687621846c576640194bdeaeda792cb0d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0c4cacc44a3827990250ab8433393fe2c2d8b76f3fb7ab114066f1a3a326ef2.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/834ddff6e7156db05e91674a98afcc1422f9f0105c9cbdbd3e40edc91511719e.png",
     "isStandard": true
   },
@@ -61871,7 +61871,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57ab3c25ef5bb51d3b3d8ee3b8db130f061d94516a3d0e3a46bbcea4bfb97b58.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c59f8aca3bf4c29c6aa68541107fc385cb498d087139e65837a483fff26f0a6.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28a7ba4dae43d899ca24bbff627fdcf465a0b39068c5c19069bcb36627f2762e.png",
     "isStandard": true
   },
@@ -62033,7 +62033,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d9d4baffd257ed0783fb5585230fcacc6fd11525e5cb71d5d0a096a4e19c83d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3a1b1aa27dde57999d3a5c32b788f1560aa0bc67475257e0b2ad11019967e93.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8f41a515b61529680e196b29041f1e1444d692e9a5d5c9af276cb86b4982909.png",
     "isStandard": true
   },
@@ -63432,14 +63432,14 @@
     "spellSchool": "암흑",
     "keywords": null,
     "text": "턴 후에 카드를 2장 뽑습니다. 그 카드들의 비용을 (2) 감소시킵니다.",
-    "flavorText": "\"Ritual of everybody has just enough\" wasn't cool.",
+    "flavorText": "모두의 의식이라고 꼭 필요한 것만 준비하고 싶지는 않았습니다.",
     "attack": null,
     "health": null,
     "runeCost": null,
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1b9053e91ca3c809df7c077c1269ddde79b9bce25428983c7e740b5b64079f3.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/490fd5223bb0d5cd94c0d7e91a63625dcd2f8267e509453d7838a46a5d2becde.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc97b369ff45752631bc8984c77414736de3ffd884c8d3b762500387f06d04ba.png",
     "isStandard": true
   },
@@ -63596,7 +63596,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "전투의 함성 발견",
-    "text": "<b>전투의 함성</b>: 이 하수인의 공격력과 비용이 같은 주문을 아무거나 <b>발견</b>합니다. 이번 턴에 그 주문의 비용이 (0)|1(이,가) 됩니다.",
+    "text": "<b>전투의 함성</b>: 이 하수인의 공격력과 비용이 같은 무작위 주문을 <b>발견</b>합니다. 이번 턴에 그 주문의 비용이 (0)|1(이,가) 됩니다.",
     "flavorText": "머리 하나보다는 셋이 낫죠.",
     "attack": 2,
     "health": 2,
@@ -63604,7 +63604,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e92644f2a3af906b645fc2d1c9f29a01e7637b159f0353123d1e73cc0b69fc83.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73f26fd2d81485b35d843b381951b050c4aae98458256a348909238583e150e9.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68623979246de26ebe1f979ebde1d6eafda0da28efc767a0b51b51de6d8ce20f.png",
     "isStandard": true
   },
@@ -64282,7 +64282,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecc1e6090a3150320955ddd799c9bd819300508c5c6b8946707a518392958d6d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e08388546252d18734dcadeba2761410d3452db00855d65b6f08233613642f28.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2543dd5ae626f2fb551c0ec806b6fdce3b6c36106f1c052808f91e73273bac7c.png",
     "isStandard": true
   },
@@ -66404,7 +66404,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a8266b2a53b128cc6d2b075ab0126c3a440af3753c7de37bdc414d8bbc746c1.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb988c8cb695f384e0531b873e4c1115a9ab15e82430ed79679ded9780a32230.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60179f63cbcb4f8cae699f1934d6fa58cf8eabd3b7b261ef394e0375905ef2fd.png",
     "isStandard": true
   },
@@ -67040,7 +67040,7 @@
     "spellSchool": "신성",
     "keywords": "발견 초과 치유",
     "text": "생명력을 8 회복시킵니다. <b>초과 치유</b>한 생명력과 같은 비용의 카드를 <b>발견</b>합니다.",
-    "flavorText": "이~~~만한 월척을 낚았습니다. 믿겨지십니까?",
+    "flavorText": "이",
     "attack": null,
     "health": null,
     "runeCost": null,
@@ -67234,7 +67234,7 @@
     "spellSchool": null,
     "keywords": null,
     "text": "내 턴이 시작될 때, 이 하수인의 공격력을 4로 만듭니다.",
-    "flavorText": "똑 똑똑 똑똑~ 같이 모험가 먹을래?",
+    "flavorText": "똑 똑똑 똑똑",
     "attack": 0,
     "health": 4,
     "runeCost": null,
@@ -70153,7 +70153,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd75bf08aa55bb3a8a877d354829d0ce065d0b7ae3256af2d0b36ddf7fd4187d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce3f0cd79fe1858a3a47d077f7d56dbb7058f889411ed5d8e8ba085ccb3004eb.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/def3a2fd992f6106bca19b990a81e00c3ff0491684e183121e351d901b23f082.png",
     "isStandard": true
   },
@@ -70597,8 +70597,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TRL_551",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abd769ce44a66884a8aa5c085a98fb0c0d9da4f49c2314fe2a0b729504ac247a.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cac94b2e555b74d5f86fe78aa4e4bff074df9822677be5b0e85cb6e01fee9960.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2a5937734db85f10c7f1cb9316ab8bc01e890e39882a82918b23df642d326b6.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2aa750f15b3411b26fb1276bd39fb7ef707a9c2417960399090f814022649cd1.png",
     "isStandard": false
   },
   {
@@ -70956,15 +70956,15 @@
     ],
     "spellSchool": null,
     "keywords": "전투의 함성 조립",
-    "text": "<b>전투의 함성:</b> 비용이 4인 하수인을 <b>조합</b>합니다.",
-    "flavorText": "Hand's best friend.",
+    "text": "<b>전투의 함성</b>: 비용이 4인 하수인을 <b>조합</b>합니다.",
+    "flavorText": "손의 가장 좋은 친구입니다.",
     "attack": 3,
     "health": 3,
     "runeCost": null,
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f3df8e2f56511b5ee5887f741ad71b1524e9c6639f0a5e795bdb2a87f8296ef.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de8d8a62a22b7651cd68b503202eb93182b0cc80291285227f908e036b4f6046.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b245f36761816bd780dda8f1fe377cd5b03339d988441696b04635772e0733ea.png",
     "isStandard": true
   },
@@ -73324,7 +73324,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/204bdd2b400048b2f03a173334088fba84207f81e741a7723443864b6e830559.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd9ad3528360d5a00f78d520199626446b9eff63c56d4ae76b0c935d97c8c0fc.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69c6066f8662df62f8380fb63c3cea7326105180d54f50378900e8b9cb1eef8d.png",
     "isStandard": true
   },
@@ -74883,7 +74883,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf36b5a3ac70a61575db1243be29e6871e56615ccd69fe7c2b4a67edfcab35c5.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c7e31982deb1553f5ea1d368a1084bb42e8c2f2d8acb21b4bbfadcb0d5d41ac.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10c3319bef6c0db2eaf614e687f8b20510f751f2a15d5be5935fad1b02bebd52.png",
     "isStandard": true
   },
@@ -75406,7 +75406,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ab0538d7c123b6ab8d7a825822673a81b3ee3dbe8797ee2f76f0ed18516b3e0.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7eb149eaeba6c4543faa8020bfc3d31fdf87919c30bac937cd552d0fc8ee5036.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e382e80c9405fa78a0ca89ae2d2fbe108622c914151542c1e6d218adc7c0e98.png",
     "isStandard": true
   },
@@ -76225,7 +76225,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea0938eeabb4782ff1d4f511dcf761a9b23ad216449941427ac811e4622852e2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/393f18e1ea41d40c816bb683ff41aab1bbde83fdb2d7786dff2e1409428ca35d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16c6a7a35947bf4ae695c4a073d7a01bacc605ee8a6762cee5b000ac25969fdd.png",
     "isStandard": true
   },
@@ -76827,7 +76827,7 @@
       130644
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcd5a27ae3283b3e6e432cc67a3ba7c99be00ee1add0ca109bbc2393c53bafae.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c1fcdbfa0e364c798949b610bbee8ad4371c268b75b10a3ebc509c242a736ce.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e60f4be8e715dbb0d23e3929fd5f00f7154c08d1d3207667f880fe890874f4c9.png",
     "isStandard": true
   },
@@ -78303,8 +78303,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "RLK_533",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0713584992aaf1a7db332f74f97d6e27f6fd0626696ca1924261ce95e5d7f198.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0577e4c6af63f5ecbaec208fdf7a556e197f4f2cc827319acf5892977cfbe74a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8438eae3bbb950cedee18b7d3dcacc63d9604c05ffcc35f28a66e3b59c0cf153.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2aedf545dd9e21844f7c0f1c49496262b74db56c3cb77343667a7c7fc22fd3b.png",
     "isStandard": false
   },
   {
@@ -79208,7 +79208,7 @@
       130689
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad9de359e8545851663a4e9774cc3d39da791794bdbf37d4869c4216ecd68d13.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c75c0c534be6b21a890fb8c5b53233a90b84eac2fc60f7596522924a1a9d82a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc67e3efc12c57fa77ffae0cc2519cd8e1848135272fae3320b1dce9fdcd93ba.png",
     "isStandard": true
   },
@@ -79858,7 +79858,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8c5d9a769d5d32569b87268068be6065643596d30297c4bae1405aa035d9415.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1521e3c055b941982f833735458db1be59250044e9a5af8b11b7518c2f99fd4c.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98eb3e4a6a1e5941f24d685aa43173b69a35ba5117c625086220f70d3acbd7f9.png",
     "isStandard": true
   },
@@ -80487,7 +80487,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "죽음의 메아리 연계",
-    "text": "<b>죽음의 메아리</b>: 다른 직업의 영웅 능력을 발동시키는 <b><b>연계</b></b>를 가진 비용이 1인 애벌레를 둘 얻습니다.",
+    "text": "<b>죽음의 메아리</b>: 다른 직업의 영웅 능력을 발동시키는 <b><b>연계</b></b>를 가진, 비용이 1인 애벌레를 둘 얻습니다.",
     "flavorText": "다들 내가 무리 지은 것을 보고 도망치지.",
     "attack": 4,
     "health": 2,
@@ -80507,7 +80507,7 @@
       130102
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41ec76ba70eeb4de10efb99da35bb637ea8df897d72e3ef111fc7c89677079f1.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b684917681dfd569d6919a2a966875c1de2f8eb213a27873bc06a50d8ead482.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bf258017591dc7c7075f589f56694f96e957bb25e42eb33b1600dae959646dd.png",
     "isStandard": true
   },
@@ -82079,7 +82079,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "전투의 함성",
-    "text": "<b>전투의 함성:</b> 내 손에 있을 때 암흑 주문을 2개 시전했으면, 크툰 능력을 선택해 발동시킵니다. <i>( 개 남음!)</i> <b>전투의 함성:</b> 내 손에 있을 때 암흑 주문을 2개 시전했으면, 크툰 능력을 선택해 발동시킵니다. <i>(준비 완료)</i> <b>전투의 함성:</b> 내 손에 있을 때 암흑 주문을 2개 시전했으면, 크툰 능력을 선택해 발동시킵니다.",
+    "text": "<b>전투의 함성:</b> 내 손에 있을 때 암흑 주문을 2개 시전했으면, 크툰 능력을 선택해 발동시킵니다. <i>(2개 남음!)</i>",
     "flavorText": "고대 신들이 온다! 고대 신들이 온다!",
     "attack": 3,
     "health": 2,
@@ -82087,7 +82087,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da14adc04b9fdfaf6be2595aaa9791c1187e67516907e4523a841014aa6eb83d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/538ea5548c9f0faffbaedf28ae5e2b99d288d228a57d3da3ae920c6f20ab6394.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a89ba8e7d14d52887b0009a1d32c7a5b1431109c3a404113874cee90bf52d31a.png",
     "isStandard": true
   },
@@ -83043,8 +83043,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "NX2_017",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3e0e3ec565cb89c203c42651e6957f2006ae5eadf3092652e8e8aa0ca0dc64b.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57c70d6786c0ef11430aba176d0a9d5c4d5db2d9794ae8510556c60cbf3520a5.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96153312c43b5f6c9157ec9db56fed9c066fc6236269a1110c840c38bff8481d.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9492648e3a5f467828a566afe4fce6429397c75656f5cedac4144904c2c15a3.png",
     "isStandard": false
   },
   {
@@ -84821,7 +84821,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6099147beb479a14620576217f6874a66f902be46bcc73a9eb7500187421b92.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/916576b949e19b9f6744f8f2532ab152aa4d3ee5cee357edc6a1d9b4ca152c88.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e68f24f067919baa3f88f743997c9dca78dbf83d38ebb967176dbc627422a83.png",
     "isStandard": true
   },
@@ -85029,7 +85029,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70083909237d3fd19a2ffe4f6d9be27427abfb6d57f2ae5a02edae56e45b2c20.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb8ce7108839bbf0fad24565ed92fbb5d483a3c51cf6370417db1967092ab9ee.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f69b1f9a85464d4b0e13c569a74459fe0b3e9b05195b9c7ece545ef9099d7648.png",
     "isStandard": true
   },
@@ -85308,7 +85308,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eff3a5b79704edda8dcd35ea89dd1ada15f1bb614a60fb83f56bae652b4276e4.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/904f65a7ffeb9ad8196745d4ba17ee3b80e389a75b4c4bfc466a2ca7273773d8.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6435bfaa15a5c68a4133e2e9918de7748dde742b7cd49c3cb4289c765c06b7f6.png",
     "isStandard": true
   },
@@ -86526,7 +86526,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59cc47d439fd6d2e778667fdb5b38bb024baca432b62701b7b0af141da35ac79.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30855ad277f04c0625e719342648b4a094e609abddf9179e40ea634161d411e3.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e73cbee780ebb6859265da9e9da9debcc3157c4dfdefafbcdb0bca43ae06d214.png",
     "isStandard": true
   },
@@ -87214,7 +87214,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1b7633dd6f3c1db35efb0b63ccf84e442a8ba5d0cbffdd3287afd023913f0c2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37be5a5f4df3c001605b60285ce9a7c59b30a5a27697430642eb31df0eeb2847.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d080ac214945be5ca14725dfc5c7c8ee8c548400cafefbec051d943bec4b9965.png",
     "isStandard": true
   },
@@ -88894,7 +88894,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5389573321180453a976d8cf5ee997ade806c13dc804e68910fce3ddfe912ea7.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0c540b36a37db77ee3e6688b0f972238916694095a9e662cd1aafb4387ec8b9.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc6d1ca3851287dc651c33272891a75d808a826a4dd5c7d0ed1caf3834ac7ef6.png",
     "isStandard": true
   },
@@ -90221,7 +90221,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c17fed5eb45142eabc58b5002be5913ba8d970daa2537456e913e784e2d89d9b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e211098d3ad9aed72b3c20b24f8a12b09dbd6e942eff57fffc209bba24731a34.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9caf6362cf2dfa0e786ea42da0f18a4194211fbd14d4c803462900c93a03f61.png",
     "isStandard": true
   },
@@ -90804,7 +90804,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49d557968442efdfc92599bc918845ee567ebc8e6ad75b29dbcccd7ebfcd78b8.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12336f231c19d1b3d54b4717ba1850a79d1e9aa52a4486cd45d14dc64ef007b3.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0aac7a0043f89172bd75b8d7e48b8e3e6c4fdc68a509748610d75a4b63c1accd.png",
     "isStandard": true
   },
@@ -92822,7 +92822,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de279485c5325d62999bdffb91d5470f0c4d3a4e8ee6ec6f41b92f2cf96db664.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ab8978ad1b54e50dea4fb7240d745f236ff498d39765caafca7cdd4c7162487.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c5effd2df9ef22acd3dff6a364e9f9f0cfdbdd1c0d937bf3e3bf37df59e4ce1.png",
     "isStandard": true
   },
@@ -96226,7 +96226,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/356abe6ed6700bafec76035405c5b882e26d9230aef09356cdc2ab6747a6db6d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/550302ff9252c8046148ad8881e427ee858f250b5e82e57b6cbe25dec6736f0d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfeeb610c5131190dce6016fe8d22aca8dc95ddca2b152a4f59ba9f115d5eaea.png",
     "isStandard": true
   },
@@ -96682,8 +96682,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "DRG_019",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b20256635871b59d18af5b55a8406855aa03031d91b8b97ec3a8b13d1a8558c5.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f159530be473f05242e8353209c167ef86d178c352fea7b61e4977dd6d69946f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e8d47eaae7c0817a39028becad2c0d5935f4d17b39b709a9d059aa35211b629.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec6a48eb5ab694be730193fd75f56fcaacbe54d403b5e0c3e51186703718c2c0.png",
     "isStandard": false
   },
   {
@@ -98811,7 +98811,7 @@
       129237
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40c9c6cd1903245e86599ad3579db7abc8e4d10de88deadd3326c37601f05e62.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d650af9216fd772a72a42160d111379a9d0e82e0e04c309c45625f4ddb6966b.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12916f7739816c9da91441f202e1149e7093a6c3f148f6204dce1cfa0d3a834d.png",
     "isStandard": true
   },
@@ -101491,8 +101491,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TTN_463",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/058f88dd20938bb9b1361b60237f1f92b6d33cf5c504a10ca0d73054a407866f.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7560293ce4530bc54628c62fe0d4fa81416e0eaf720540618a1754a27ef3dc4d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82ce97b586b6187f285695d57260015a1556db7f6837bdc8e23264c9da22245d.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b69e243d1f194ea06420d0d9c4f5cbeb1c0b04e6e7f05fb62272cfc4cae87200.png",
     "isStandard": false
   },
   {
@@ -102124,7 +102124,7 @@
       131302
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd98c2f7dc6c44da04943e8ef1363f6f87109aef06ddca3f7a320dfdb902cd34.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93333674073ab7f26d9c3872e0d108cb2d22227e0a0b6d65f1ca40dba8d21a2d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac94c7dcab3f17fc7aaa131762a1bc5ba9c4325470f4280661b859aafc1a94a3.png",
     "isStandard": true
   },
@@ -102234,7 +102234,7 @@
       127118
     ],
     "cardId": "CAP_805",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2db071b179cd714c3c85affb628a04652278f00de385d6e562254651719d26fe.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1eb2ba06e4f721233857a041c599bf2fbef950fe67f6e80b4d729086cd8343c6.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/821aa5ae533777d00767f14fe5785cb9a660f487534cdff68226ce22512a8f9c.png",
     "isStandard": true
   },
@@ -103282,7 +103282,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/add612717d1fa5f89782c3ba940a6720c3c06f4d9b452ddfde67c2dacaf88961.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44b77d74438110e8a12d96dd07248887fd4625887e6d49f3b5ddf73a5e04d3ea.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6cf1f8800b69df140e0f66ce38a723ab7af949c31654a17983864a3e834a987.png",
     "isStandard": true
   },
@@ -103610,7 +103610,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/125ad6f640438c05a1e0c76fbed4cf0e7dbe5930571167994de13888f43929bb.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d1342d2e5c996bcbcb131a8ff367847d6357678c20c9a2666dc878f7da9776d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0c33e41aacad048f97f43829adb8aed0e14ee078e6ec93b0bb65ba47892103b.png",
     "isStandard": true
   },
@@ -103718,7 +103718,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3e66b94f50384a86a010cf8c1d56bde5349bd1b83a4a64c75b75440874a5bf5.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53e32a76c0fdda4e0d58bd9f80e1c3bcddcec33850390a4d5e0167ab7d3fa4e2.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0264418a76e8c3bed5e55015df67525bc6b3bedb6ee921ae69e2231ec11f11a.png",
     "isStandard": true
   },
@@ -103747,8 +103747,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TLC_463",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eec3d5de69cfea994001c9b7f0bf5a4c71fbdc51f70aef123934cd8b3dee3e71.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2875d3cab392f934d0375c4bf3bebaf46f1d9ba8fe2ae7878be1612d66acdab.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c849be0f08429d91f254949d50fb9e577698920db0e1e77559eca47a07fb98cc.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1aa63d40b7bb075b0419de6f1b88c684e0b07f90a2ebc149281d29dabe42fd2b.png",
     "isStandard": true
   },
   {
@@ -104516,7 +104516,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac5814da6727453e207030fe2898ec90b86e7cb9889ff4218b2f5ee367bfe5ad.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ad378e62f5df9f4f3ef564f652b20310460cb6e08b2a112ce6721995b5edfec.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb1f1c15f4a6459a62127c1f3f5159e7256db41fb91dc96674af5abd104f0ca2.png",
     "isStandard": true
   },
@@ -104727,7 +104727,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6819fd1b5326e57c176ca3f27b301a85e2240d52295504c86e3fc7c6ca684a8e.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0cfe21045be3f36de23f6bbef0e6fef1466077fefb172cb1cc06b18ede2a3f0e.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5aef788152daba4994f7538f8f68a8db9004592daaa642e04430f0684bc5a6a3.png",
     "isStandard": true
   },
@@ -106347,8 +106347,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "BT_301",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22759e2adc2f3c809d59f82755d25bf6e83a0eb62a7d78c82837c8ec152426d1.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eaa642c8696c175a9c9dc2d69addcdc46241268228f79b10009c445e70911caa.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ea77d5b9a51b8dbb9132789e1395f828e2afd3891c5bdae23c07c0fe17702a4.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc636d5cbe563059e44fbbe30590c321002d6040ee4ea96dae1e624f61f971e0.png",
     "isStandard": false
   },
   {
@@ -107435,7 +107435,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa955af1a1a6a5de1da8298efdc7f81c0fadfe9a1c880a6e52c37de286c1ebb8.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba0fc7482501237c202d9bc529ccc232b6fc9626564cf6fc0d2f9c993455348a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae1653c8d4481ab337a9907f18013dde020643c444e6cecd7c2a8daf2124a962.png",
     "isStandard": true
   },
@@ -109129,8 +109129,8 @@
       101511
     ],
     "cardId": "TTN_490",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/844b47fe52b96d3502878832a83c342b377af32d6c0092e625fb8adef91e02de.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7cf6559e51e159e9671bf291c59f6736e3cb76f2542159e1194041a4ea1d34bc.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea7802d42bf0ad55f8839d75b630c1816b527b48bc4ea5dc56eb9e45645ac73f.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e69764bf012583adf71ae5a7c2a963099d9adc500c1dcfd53549c7753e4e500.png",
     "isStandard": false
   },
   {
@@ -110727,7 +110727,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/372c9ae06ac9bb1a794fd588e2c683c99970ce6cd3d5d0fd2310cebec9207eb7.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecaa51c8baff2003ed61bfefad2d6cd1af2f23d4a65fa623642f4c50e0837f3e.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08539394843945de554af114ef1615b149c7a096ec7b44a626a2a9975779372a.png",
     "isStandard": true
   },
@@ -111470,8 +111470,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "END_016",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2adc9223c252333967a9df84aea44026a5258c80134706f495a5ec11443339f1.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb6d14766647326cc00a98a93958cbdc48efc453561305a4698bb253316e3779.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb920ab72e97364ce56cffc843f8cbc10a3e9819f20283f7e013b69bae3bc50f.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfc6894a9e9dab40deb3652fa230c6f1959fdbe41a0830bf29434ae8bf99cb86.png",
     "isStandard": true
   },
   {
@@ -111896,7 +111896,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd37f32a97d8e042d6165bffb51e523201c259ccb7ed4dfe1bb9257bcd0eb6e5.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac7285e2b2dfbbc1a757012478f142f238127aef302c27febe41ad999ba9f915.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/233956ecf91e13c3c7621d936ecc54359457d01ef336bb4dce5d2fb0ac4be483.png",
     "isStandard": true
   },
@@ -112899,7 +112899,7 @@
       132338
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8712682ad981fbe59196dea5e1d8c5d2e4ca4ad05cb5cdd4068c928ac194102.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65d7e2e8ca914b3c75409bdce5ad0bfbab30ba8be83d4e1a5758153cfc24809d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5807771ce3faf1081b4b375294da2ad1f2cea99cb60301350e64809ae2a07abc.png",
     "isStandard": true
   },
@@ -114095,8 +114095,8 @@
       102431
     ],
     "cardId": "DEEP_027",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbd568507654b53d2fd3433d4179aff6e81aaa8ab2d217067523162ff87db88c.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b95ed7565893531a29681a2e5ba408cf96bbda5be6ce1551990ed24ed97410a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ab0324edffb9fd17c56ae1fd58b1aad72e9a96b91079efb46bb3f446977c186.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/feaa8338bef9d5e113978f536aa2c1c5ad8fa11acdda846234578c22c72f52a8.png",
     "isStandard": false
   },
   {
@@ -119982,8 +119982,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CATA_493",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f20dec62af6e2b03ac03b5ba8b6055cbef06b2a2b23f01b091160a7b1f93d0cb.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50decae8c2f395f508a8ee2057dbd827e35b1a3985436bf48c126ad139c75b1a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/684d005f82ab2a5b4dcf6efc9ba44eb01cfabe12a6450fd00f88bd9c889e851b.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca083df3b3f78abb5057c8da29ba67f70c2432088526a5f28242b965360ae24a.png",
     "isStandard": true
   },
   {
@@ -120659,7 +120659,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79597d8452fe2687d9307c7d4fdcaacf6248f31c09bdad4a97330255bfa1108e.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1192e2ba03f267746f1d8c1d45a3a391a6ae40465e0d2755bc03a05d8388d039.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d9091fdf40f7f068c86884ebd34efcc8dcdb1073dc14056f0596f340fd3266d.png",
     "isStandard": true
   },
@@ -121802,7 +121802,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90a1b85623100cab170a0aab7adc6b304efcb8cee1428a495151d908f2abb3fb.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2bd30a200984b92cf78a5a371ffcec961cf70a051b9546a6cc6717a767c2a6b.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d97340062f8feaa9a49ee96f779313fefbc14e49fd100def42360897d7bf53ac.png",
     "isStandard": true
   },
@@ -121937,7 +121937,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51ba048e073b186d564dd9c97eeca6e4ed1c58ac18c08d64632a77d875a68fc8.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d87d5549e580de19c04da7aed402a877892543588e4f945587eaaa97779b16a5.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2c7afa6b4244fa8fa88f0597a2dc926032aef03eb54e696ecb413a60c57c853.png",
     "isStandard": true
   },
@@ -122166,8 +122166,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "REV_510",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d53aa761bc645ea482349ff2263d3c4edc299ebb2238217cb3a5dcc7c1214161.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76c44dff0eff439f9c20b946e9ea219e2e7a6468c19a928cdd0b9ee3547717ee.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e370e14d892466dfcf816b9d154b4cf30cae571fdd4c312773557d111dd9bc3.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7082a58a4bc24013481cec179e1cb9f6adae155bdc16f64c96d6c3348c5e70ae.png",
     "isStandard": false
   },
   {
@@ -123910,7 +123910,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fd6adf6ac2dd93dd4304a458479bd7617ecd4e31462e3a53a8ebdac99372812.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cee4431c7dd89f95036eeaad0957b69bcd8ceeed7d5d49ca3b1d1b02126faa45.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3be14831e831836c19b8745972aa47c326fc50cf224539b7d5e98328ed82323.png",
     "isStandard": true
   },
@@ -125215,7 +125215,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1adfb5a64755ee719b626540a452a4ffee1f3d3d53ace4d73bc9db03996a03d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03c70a4cb3a56f784fc16e04c6c207ae9564ac4a145ca626de8339612fb44e4f.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ecaa1895b7cde28ac3ff33daf9b2382116a5f9d306c175c46e4ae9a22105073.png",
     "isStandard": true
   },
@@ -126357,7 +126357,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2440a05380af2455869f8ea1b922d83ce52c30985fb1e9154e996848fccd9751.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4a2fb8cc360ac913fd5069051ae31697c4e3f3cc4dcc756911569d5c6423424.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bce610d2e95a301778d9cb6f9429b73710785372ccb0daf9113c0da75ceaec8.png",
     "isStandard": true
   },
@@ -126468,7 +126468,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acc7868bce94d042f9ae015f31b4bea978186f1285a92e5cc91f567eaecf05ba.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d63bf91385399ee18fb0dc8aa162b210e0175bec7084b25c0d67f42273ac3b2a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8168742be54cb60cc80c011fc1944218a122ef8c615b658c72a66f78452e634.png",
     "isStandard": true
   },
@@ -126693,8 +126693,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "JAIL_453",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f93bd560f5841e8fc755da65d69d46f482140a592896af408f0ffb2412a76582.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93b2470a09cf1c04a0470dc6da0b3417346752a4bc51979fc90cff3710872a1a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c30c7ffc9a4fc2a71941ba3132aa31abef36467042395992ff54326ed3e4d01.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/941a09a6d4e9203e301df941ea3629d081bbb38b6a4de6604e9daa4f5cbe97ab.png",
     "isStandard": true
   },
   {
@@ -128110,7 +128110,7 @@
     "spellSchool": null,
     "keywords": "전투의 함성 주입",
     "text": "<b>전투의 함성:</b> 카드를 뽑습니다. <b>주입 ( ):</b> 대신 카드를 3장 뽑습니다.",
-    "flavorText": "아사하면 그만이야~",
+    "flavorText": "아사하면 그만이야",
     "attack": 3,
     "health": 5,
     "runeCost": null,
@@ -128343,7 +128343,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5d231922a35681d9fff69971d6042a4877641d4102a05254c7c56abd136eebb.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fb258f7895e8a358a7df7a6c499ae4d53fadf094702821ac06de5db4f54c322.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08ab8243b5e3ca290f9f2a1807d1d785e17f163e8fab72929ebc3812d7042585.png",
     "isStandard": true
   },
@@ -130063,8 +130063,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "ONY_035",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/556a663a3b5973086589512c4579f6206475189baa7ace05e62c5e732f6546cb.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3267957e37f3800c358b8f28e7d68fb93a2684a1280c0878dc01cefbd85a4f24.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89a035f8d3402fba3c22b706f479472838f433232f335e848a4dfb5c8f55771f.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a248b375b580097b3a19a5d47a750f9d6af0f641d00915d7827c9e651e3d129.png",
     "isStandard": false
   },
   {
@@ -130710,7 +130710,7 @@
       132368
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5698fd196a6256917bd5875624bc6a169526daeb7cd8ae2db03ff6f048982eba.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/529cc1700ac48bdba411ee50730867df6c1ab8ee6b4be2eda66ad305ae7caae2.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e28d7d100409bb17ca66d586a81d21f1c879b4589a6059c30e21b5094cc952f2.png",
     "isStandard": true
   },
@@ -131507,7 +131507,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "돌진 전투의 함성 속공",
-    "text": "<b>전투의 함성</b>: 이번 턴에 아군 하수인이 5마리 죽었으면, 내 <b>속공</b> 하수인들이 이번 게임 동안 <b>돌진</b>을 얻습니다. <i>( 마리 남음!)</i> <b>전투의 함성</b>: 이번 턴에 아군 하수인이 5마리 죽었으면, 내 <b>속공</b> 하수인들이 이번 게임 동안 <b>돌진</b>을 얻습니다. <i>(준비 완료)</i> <b>전투의 함성</b>: 이번 턴에 아군 하수인이 5마리 죽었으면, 내 <b>속공</b> 하수인들이 이번 게임 동안 <b>돌진</b>을 얻습니다.",
+    "text": "<b>전투의 함성</b>: 이번 턴에 아군 하수인이 5마리 죽었으면, 내 <b>속공</b> 하수인들이 이번 게임 동안 <b>돌진</b>을 얻습니다. <i>(5마리 남음!)</i>",
     "flavorText": "치카 치카치카, 샤카 샤카샤카!",
     "attack": 3,
     "health": 5,
@@ -131515,7 +131515,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d64180fceeb030d7f739beccf2a962f5082ac2816645cae52d5d4c5b890c7e7c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10c445bd5aaad6d5e5807cd98090aaf08b22023ace601b5ccad2403e6fdce547.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9bd2741a9bbbf70c07a51d019b6d17c68e3876bdbf91835fa8c272fa81d58253.png",
     "isStandard": true
   },
@@ -131596,8 +131596,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "RLK_540",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fff70f005f3c224327dc8a317201f7530e24b7c12a292b4cd1ef3ec3ec33baf8.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/464912affaa416f11d199cff11570cb59061f80e33ff61c652d765802823c878.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2de57ebd11b84f4880a3aff3401a151fba2ae5bbd9e736357ea61997934daaf6.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70b65880f4ef670dda5e89ca6504475dc6215a03b6ef131954db76ba2b8128c5.png",
     "isStandard": false
   },
   {
@@ -133205,7 +133205,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0948725eb446ebcab183a6cbf6a3de02d82beabff0ec9b3825528a3c7cbb736.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2edac38a512ad01b23bb9af5dc837b8e2ff277b3954934cc458a6a33e6bacb89.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0cdb99a2e08bf2a975d307afe6a1d461f8f0b096094bf40b374e7f3cf317c1b.png",
     "isStandard": true
   },
@@ -133397,7 +133397,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccb07056e18580dc3b74d90170f1e968f54a98f1898e931a53d1bd912fe7a969.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3f5ee5deeb2b3d14e826d8871490068153e7e6e1fa2fd7194692dee023b8ee6.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0932f832957070331ce92d4970a7a8c23522e71e6fe8a38465b39cef1a894833.png",
     "isStandard": true
   },
@@ -133643,7 +133643,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70c5d71e5916175a46eed7a5ae2e6a71f896049ca492973a5783af7e9124031b.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fdde9ebcb71d04e84f1e9e04b3003c721f453be47c69eecc480d0a1942b22c8.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74101183d495dcc5d975935352111e3002b02196f7dbbacd154e4f989c4f2faf.png",
     "isStandard": true
   },
@@ -138387,7 +138387,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d97b0fe8f2db74930fd07c44649a3dfc17fbcbf3f830e4c3ab1262250ba3c68.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48d2ab0cb302eae91fc0fc56fef2f785bbcda8e0ffe0671a5621346b3e44bb9d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfeea2c898bd661fe1181bcd8567486f8fc87271974f10f324c49e247d84abe9.png",
     "isStandard": true
   },
@@ -141004,7 +141004,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da3e37c7ae617d4f399ef5e2e30c407e25dedc60fa1d275eab1405e340bd449d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/370555b24dac1aa6b5e4905e8f8d57914fe99e6286f6c5130bfdf385f373f555.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b4a692a242b0863080d55941cafab312b2f768e59bcbca9a66cef0e425375eb.png",
     "isStandard": true
   },
@@ -141554,7 +141554,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/047c7596f7709e5b5e2466ff43803caebf704abd02b69b6f2a7d1dcfae6301fd.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85b4aa18fe765c4910a7192789dc5a89302397900e0619287d561e562d1487a0.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/516272e7acc159faba9f2eb007c409054ac8f9df1fa9e217c6a7dab2665938d7.png",
     "isStandard": true
   },
@@ -141821,7 +141821,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b83a1bfa8921b394f348b4de32d57488b59a9182646e650d9127a00cc8dd6cf8.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd9b2cc76f0f1e57088f84d5303a5184af727cab311b85c9342c02b9e8a606fc.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56780375263d6fc2e901149db1105d499089307b2517654fa6bc665d17a06c7a.png",
     "isStandard": true
   },
@@ -142750,7 +142750,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5903febb97b41f670f8c54dc3fd9a21c45228e693895a9b0e1b92591d267307f.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5245cc779da2b399b2a15eb93d65892faee90f0357b21437ab05277145c9159d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56001d4f5447e616f8badbec20285e5bd1f027940e3b589284949bd931d0e7d0.png",
     "isStandard": true
   },
@@ -142943,7 +142943,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91f55a3eacd4e4630928c037ca2e736c10f2b3211553e65b2f0b2bbc84fbfcc2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e2fd9b7f3c4b0abd8c5d79ac012b9a8cd04714c6faab0ea524c68e9e1ce216c.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a703755a952ac21fbf28e1ec75a5c7164eedeefa7ca35759ce212012cd5bfd59.png",
     "isStandard": true
   },
@@ -143080,7 +143080,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9467f14a66a9a02d75798584782064a485eefa033bf77b08a582e49833aa90b0.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49273cb01eac543c699397a63196eacdae5be8900a5fd2a3b0c779bccec28ced.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77c8b2734f006adc081e99bb7a028807968803d24c17ddff460ef897c12b2b0f.png",
     "isStandard": true
   },
@@ -144383,7 +144383,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "CORE_EX1_310",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82803b6150b6d29e5acf4f398c639e82c4f144de2464cb836059233c00cae293.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ef7a0740fb5159f626b35f1beaa9b1296e5f9b746bcb07a1991b419074acc00.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/867ca4597421a790e71c038783d642998d781406ffac67c9ec91151a475daf74.png",
     "isStandard": true
   },
@@ -144520,7 +144520,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd79a532eae71af9e1ac104a0ddf0b32def62ab61a7606a648a0287c721bb6f5.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34c9ff3ede326d19e60f8c8e0e19eac6c1d4b4e68243ec43f6720b9f247d6524.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8a4b760b400468023a9be51ff3b9e3041f252996c40ce9adfc85a0204868cc4.png",
     "isStandard": true
   },
@@ -145793,7 +145793,7 @@
       129810
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a96a4f2802b97c5f159a66ec4b20171ec03d4f798b15b159960dcb5109e301eb.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57ca799a909641846b354c7293913fe0631c4aca0d0325294a37e7f1e7059bcc.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e061f3f053b2d887a318fc1d9df79a0c650c910d4df97fa7182609f849d25368.png",
     "isStandard": true
   },
@@ -146282,7 +146282,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ff6cf7ed1c164b81243f727d048749159aa6ed73db909119b72636fa19f646d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3acbf8c6dede70e6593f844bca3b50c83bdab13e966e691331ea28fa448ae28b.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e200a901dc83a7cc732271d0257c2f35cc0ee33b5aeca1281ec6577ffbe97745.png",
     "isStandard": true
   },
@@ -146502,8 +146502,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "RLK_535",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20f9e8d21c78c2884267d82155a95fb508475ba5695df5fd41a533dd608985d5.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04bde9335b5f4795b89793eb49b9482bf82d4ff444bf0a5e77b7fd0cd9323450.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a68a852507c7e874f3bb36feac2857b7f0ed335afc0f9fd32a10ab7670e536ea.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43f3304faf1cd1e20d694cb62cc5858defd8edc866757a406595fdb1228f529e.png",
     "isStandard": false
   },
   {
@@ -147376,8 +147376,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "REV_240",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42a9d3d365def022dd5140dfb3b9fd57fb49fd6bfba5e16bb1840580b6c95634.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae8e7223526bacc0d5021f853dd1cd1af5bf6638bde0f8f3b80b61cd4e71ebcc.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/129e59ad1b6ab29b26564073be22187070e21f76c572dd936065dd3bb132a969.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c028f5ee214f4855d4bbb7b61749aca277dde8bdf4e2a4f0935bc31b990574fa.png",
     "isStandard": false
   },
   {
@@ -148055,7 +148055,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bef399318b79779bb4f86444ba41a330d5126a58a0c269e2da9623ec95ebd939.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9781a923bd5f07964240e9ea3230b202f592f8df07a496800b26345e3d86f520.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25651eab6fea6f14980e03fedeadc9d100182237f339ded4471d3b43ea589c98.png",
     "isStandard": true
   },
@@ -149002,7 +149002,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2512179b5b287ff6fb3e9d839edff76c9bd9493fbd0d42acd43e985fd0993f3.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8e36729ad9eab5c385589253be52eabedee056244d68b9c78f23188a23bb6c6.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dc994c3239f3f15ad64b5bc87b28c224153e2686e0dde8f1d57f38bf28c6693.png",
     "isStandard": true
   },
@@ -149279,7 +149279,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/516154f893a78dd50510aaa04214a7acc86265250dc51cbf78dfb8cb7de2b9e7.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88571bfe8bde0f88735cf8a42bda16d88e649d7480c8017c9fe3d944084c01e1.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f60ad04e55a9f7e06734e413cd6756dc4c7b6d41c04731bd0de89fa336d9e4bb.png",
     "isStandard": true
   },
@@ -149726,33 +149726,6 @@
     "cardId": "JAIL_831",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6f277552cc44bd9de333039623209d5464d90b9db772ba60de5c7920ca951f7.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dce6f3d1131d59e62ee3dae0aff3ef9758dba88ff8e72aba742f3b1c51f82aa.png",
-    "isStandard": true
-  },
-  {
-    "id": 129851,
-    "name": "마법의 지배신 이시세트",
-    "enname": "Isiset",
-    "manaCost": 6,
-    "classId": 4,
-    "classIds": null,
-    "rarityId": 5,
-    "cardSetId": 1994,
-    "setName": "검은 제국의 지배",
-    "cardType": "하수인",
-    "minionType": null,
-    "minionType2": null,
-    "spellSchool": null,
-    "keywords": "전투의 함성",
-    "text": "<b>전투의 함성:</b> 무작위 비용 10 하수인을 둘 소환합니다. 이들은 주문에 마나 15를 소모하기 전까지는 공격할 수 없습니다.",
-    "flavorText": "무로부터 별을 만들어 내는 데는 어마어마한 힘이 필요합니다. 그리하여 천공의 정원을 더 가꾸기 위하여, 무한한 마력의 원천으로 이시세트가 창조되었습니다.",
-    "attack": 5,
-    "health": 5,
-    "runeCost": null,
-    "collectible": true,
-    "childIds": null,
-    "cardId": "BE_259",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cce894179270602dc96c28b463e69285adf7b14262f546abc2438c46a6e9932.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6c563f617102e4a6e104b10e604a3a171d91de8c463442f5be189cb264451d4.png",
     "isStandard": true
   },
   {
@@ -152024,7 +151997,7 @@
       129675
     ],
     "cardId": "JAIL_443",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7880a9abd66a5fb5e0a8b399d85d1460a14b0c4c1863cccf9e48fa498d657399.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04bd66d76453a7d32e849c13df2daf8cc65a2a20e0b47f0124e46962a0046fb5.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b10fcdeb4a9d04134fc5d2f70dae7acda8d43e232000c697e4c9940cdf180ab4.png",
     "isStandard": true
   },
@@ -154325,7 +154298,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9668d38f1c20723cd404647c2a83ae4d0cba9bb776fad6ee5553824c3ac9c26.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd6f5df2f04de1bff145406fabd25faaac9a5fe3d2defd8fb472a83abd30a54a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59be973d2831878559a554a125deedd731bf6c77c04f4f77adf98ba1534f0689.png",
     "isStandard": true
   },
@@ -154352,7 +154325,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cd862a94fdc68745820ed8adc6a6250e7e8ae1abec854ccac8e9884af96f63a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ebc4a332e3258233be3ab4f42c6206497d7446e857585b2a2b9af32b166445f.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc068ba460ace1aea99e9adb3d64288f0093d636fc6d67be9e1a98e6aecd6013.png",
     "isStandard": true
   },
@@ -155380,7 +155353,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f53ed8adc34a70bf22c26c05514d21f2f36a44717e4514f22609bc3be95feef.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbf179ddaccf0fd6d1034dc0ce54da45d7134abb69f1b1a5d0d09d5b3c2baab3.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ea6a9f154875b21946c328b51380f6934d8dd3b8f05744ee28c9b69ab6e8261.png",
     "isStandard": true
   },
@@ -155970,7 +155943,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94ab6f7326dc6b15b38e45d54e9e0b957712544f226b349adeb188aebae8bcba.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48b95629f1a56caa1af6b483c23d204e85521dd643b5b9f47fe5d17e90f44994.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/104afc535778d20c88818546d7dcedfc2eb6d4b6fb1912064d0cfb2a5eb89f08.png",
     "isStandard": true
   },
@@ -156244,8 +156217,8 @@
       97100
     ],
     "cardId": "ETC_386",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b6508c1aa8f18f4812dd52ff0aa20cfeaf2fb5aac4ef857b2f90846645e43d0.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccb5c58e883ea90eb3f0ccd00271f5a9cfe786bb387bb96075583ca9f632d7c9.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3377c272f5a19a02f8a9d1ad93a25fa4b7f2b22acc691b8bbef2154146f1b77d.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34671ba038885ceee1b7c9b58f1e24d033d2da5357f650e8526a1dd6bcd2e4d8.png",
     "isStandard": false
   },
   {
@@ -157670,7 +157643,7 @@
     "spellSchool": null,
     "keywords": "전투의 함성",
     "text": "<b>전투의 함성:</b> 내가 이번 게임에서 의식을 완료했으면, 사악한 의식을 선택하여 시작합니다.",
-    "flavorText": "이제 제대로 머리를 쓸 시간입니다.",
+    "flavorText": "키식스를 크트락시로 변신시키기 위해 수많은 의식이 필요했습니다.",
     "attack": 6,
     "health": 6,
     "runeCost": null,
@@ -157681,7 +157654,7 @@
       130671
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22030aeb4aa1b171136d1cf7a23bcaa7d33b385f787454e94b866dea9b53757c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/856b54bcc085c3e231418486e3c3d0842f8d9dd6bfe655a36198024f99034472.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8808ca5a59a73c8dc1745721d488af5392df89d8ed80006afca10fe557eb6bb.png",
     "isStandard": true
   },
@@ -161622,8 +161595,8 @@
       42753
     ],
     "cardId": "TLC_466",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eda4b5c8f0e847e86316b3626e9024dad74a42713ba9fd3270a82ba440efcc9f.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56a301b14c1f7ccafc4c1215596c1f69eb2a9befaca6e2bfd612f33bf1541887.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36400927ca86226ef85792effc6ff02e9669cc4167ef91503fd4662cb1919280.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f80ed420b941789561e6d588b2fd423a33d9dd5c26c56934c459b58702a75467.png",
     "isStandard": true
   },
   {
@@ -162081,7 +162054,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2ee37fd73b7d2aac1397c5dfff9188bd1d0f486c2cf466f097626bea9c394ea.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/461f0bd8feb46c106ad514260a7fd9851d7562fefcd087a4d87686290a0725c2.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22a61053d83aab351865746a239f8e352f22af28261247395d403ec182d95ee4.png",
     "isStandard": true
   },
@@ -163838,7 +163811,7 @@
       130689
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d176a0e8c164fe15bb77a26efc63f4f97b5b51c2092f14a16525922b2a42979e.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77863e1fca13beb46386c983528cd4ced0bc82955ae31b30ab2e11b12082b97d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35b7a6513a9a27b6837ec4a89fdf21ca32aada542927050f87e4720fcaeade7c.png",
     "isStandard": true
   },
@@ -164803,7 +164776,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/252f67679ecca7bd52593bb3531a62baa452db0608b8b5d8a2aa1b23ebf51cc5.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ac3dc9aef075c85a6675ec0853b4c29051043f7773424ba2358fec667d4a570.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b622344f4732567d17aef92c5b25f04ae1511fc6c0f522b6a014d444f43bb7aa.png",
     "isStandard": true
   },
@@ -164891,7 +164864,7 @@
       132708
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d5838f4fc5c07ac5ecf758ccd745aca7e535e7630d6e6ddfad9bf2964bcb858.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b93e476e3d8c94291a0e60352fc2b59f64c3a9c3338052b03cec59ed298a183.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58d9922c9380d97038459fd8bff64bdd54509cdaea5f00ef85c980c90a836a0d.png",
     "isStandard": true
   },
@@ -166447,6 +166420,33 @@
     "cardId": "EDR_465",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa32a8ff95c64ad6d3da60a58a77f847bdc8f833180b475c9c4c111671468fb8.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7882dfb8a8f548963fdac506b1d4590b80baf2a3d941356b605d04d54066f8f0.png",
+    "isStandard": true
+  },
+  {
+    "id": 129851,
+    "name": "이시세트",
+    "enname": "Isiset",
+    "manaCost": 7,
+    "classId": 4,
+    "classIds": null,
+    "rarityId": 5,
+    "cardSetId": 1994,
+    "setName": "검은 제국의 지배",
+    "cardType": "하수인",
+    "minionType": null,
+    "minionType2": null,
+    "spellSchool": null,
+    "keywords": "전투의 함성 빙결",
+    "text": "<b>전투의 함성:</b> 10/10 피조물을 둘 소환합니다. 이 피조물들은 내가 주문에 마나를 15 소모하기 전까지 <b>빙결</b>되어 있습니다.",
+    "flavorText": "무로부터 별을 만들어 내는 데는 어마어마한 힘이 필요합니다. 그리하여 천공의 정원을 더 가꾸기 위하여, 무한한 마력의 원천으로 이시세트가 창조되었습니다.",
+    "attack": 3,
+    "health": 5,
+    "runeCost": null,
+    "collectible": true,
+    "childIds": null,
+    "cardId": "BE_259",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e083f55be65815211c65bd64cf00b89b14be4536ab49a9e5cd54830a296c1a8.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6c563f617102e4a6e104b10e604a3a171d91de8c463442f5be189cb264451d4.png",
     "isStandard": true
   },
   {
@@ -168653,7 +168653,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66392428f941f477cfe7ed0b32b52dc8631d380703c178edcfa66424710d841a.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/337e18c49ff9a9e8f4a9e65124558129200221bc24cd4a05710940280cbdce1e.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8ba7db3162416432b36d65dd1159a191d6e1522976b878ac275b6e628ba984c.png",
     "isStandard": true
   },
@@ -170042,7 +170042,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75b32bdb35c040e6d9ab0fd845e95f3b1a31b989ddc616d7c82a3a3fec72d29d.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7767262fe7004be62c8ecb8a0c20f7ca697095a055f97d231195e1c5971ae8cd.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6179c523c6f6ebe9d5add823e5559661624ac7b6fe5b09e8b0d957a437161be.png",
     "isStandard": true
   },
@@ -170477,7 +170477,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdbd5b72d6681ac66b241c2f54f6f179afe43c106ee3735579f3bf647ac19c6c.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0822e4a64c3d0b6261589acbfd6a7222b766c49ca8f165d50d204708be7f5204.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48f1cb3f2e5e763a61fa7a05f61b0126923ae923c5c78ffd27f6e1a3a0debc62.png",
     "isStandard": true
   },
@@ -170770,7 +170770,7 @@
     "spellSchool": null,
     "keywords": "돌진",
     "text": "하수인의 능력치를 8/8로 만듭니다. 그 하수인에게 <b>돌진</b>을 부여합니다.",
-    "flavorText": "자~ 지금부터 확인 들어가겄습니다잉~ ...뭐야, 눈발바닥 펭귄이네?!?!",
+    "flavorText": "자",
     "attack": null,
     "health": null,
     "runeCost": null,
@@ -171625,8 +171625,8 @@
     "collectible": true,
     "childIds": null,
     "cardId": "TLC_600",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d133bde5074db2d4a836befad8ba694b5617708e4bd0e5cf76753b6a89a505f0.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/844177755a10319c51f74015fb9cbdbc1ed46e31ff4713821814b4b9dddeaa13.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd8a766e9ef768de675d74744f273cf4ec8a70338f642e8d47f5310ca8c13d15.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c27650d5ad832e37dafffbda7f3509bfb8e264877b8a6e9baff0957d2e8d2734.png",
     "isStandard": true
   },
   {
@@ -171679,7 +171679,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2791755699939b7052f43af5621cacce42eae6d760e7bff29c8636f32aa66c3.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff0ca856dc8542b347f840e5e69935d00f20bb4d973d8e3bb1543157cf5bb2c0.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d50139a1cc9a32993e95ebda91bda7a29dcc18771de06cb898f2b5b9d0fe074.png",
     "isStandard": true
   },
@@ -172695,7 +172695,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5f33b044478b43b7de61ef8100a6d39b87f1979c8f5dd38f915745f7be813b6.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/297d05d834bfa356f3444195a37749d5b9cfc0aca38b75e9f51fea722d5d690a.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02350897276b3ce86e08e94d8cc3411919bb69678f4e32bf5965f6047028fbab.png",
     "isStandard": true
   },
@@ -172971,14 +172971,14 @@
     "spellSchool": null,
     "keywords": "전투의 함성 죽음의 메아리",
     "text": "<b>전투의 함성</b>: 이번 게임 동안 내가 <b>죽음의 메아리</b> 하수인을 낸 후에, 그 하수인을 복사하여 소환합니다.",
-    "flavorText": "As one of the keepers stationed within the Hall of Origination, it was Ammunae's sole duty to maintain the cycle of life and death within the facility.",
+    "flavorText": "시초의 전당 안에 배치된 수호자 중 하나인 아뮤내의 유일한 의무는 이 시설 내에서 삶과 죽음의 순환을 유지하는 것이었습니다.",
     "attack": 6,
     "health": 6,
     "runeCost": null,
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/698dc8734896daf89c2329b652dec8c914dfe145ae3b8949e84add660d1dee68.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7cff9f95503d568dbb98dddc9cf9735fde27f0d1feae18aaa688fcc4dd861d7.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/874fe0f532736e138f5bb24e6b95b11f526dbd595c1e2d4f12852da45eb9e6cc.png",
     "isStandard": true
   },
@@ -173088,7 +173088,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6075a058fa562c458c06e6cd405d588bd5f90a4481cce882cff105899569c036.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b3a0105fba14857639ca4aefcc398b14a1e857f7270fbc57e3d6da2cc6d1599.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8db9461f22a85aa756a661b67bc7de205fc3bfc584ec0976f406955f2b26be03.png",
     "isStandard": true
   },
@@ -174012,7 +174012,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/301b2df0f8048e59ba07ecf201865443b70184cf6cfd7407b929fc86419ae6d2.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e040a8a4825ef4b5b771059a6e668e828496451e3e944dc25ba46be0ef12762d.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fe6dcdb62c3a78ceda9a72e374e12bb0d1fa0214df166e303daaa79197db466.png",
     "isStandard": true
   },
@@ -174209,7 +174209,7 @@
     "minionType2": null,
     "spellSchool": null,
     "keywords": "도발 전투의 함성",
-    "text": "<b>도발</b>, <b>전투의 함성</b>:& 내 덱에서 공격력이 0, 1, 2인 하수인을 소환합니다. 그 하수인들의 능력치를 얻습니다.",
+    "text": "<b>도발</b>, <b>전투의 함성</b>: 내 덱에서 공격력이 0, 1, 2인 하수인을 소환합니다. 그 하수인들의 능력치를 얻습니다.",
     "flavorText": "한국 이름은 영일이입니다.",
     "attack": 3,
     "health": 3,
@@ -174217,7 +174217,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ccdaba5f88b8f1d2a4dc017210a9bb453e0134d2d285614bf3321eff4939034.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bc378bcf2cc2e6c3257e5c328e38109a1bf980cb851c4045c05640889c8f701.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e8bf0ccba177e8db23cb55e7d25919947213048488e79dcec23e5de7aa762a9.png",
     "isStandard": true
   },
@@ -175495,7 +175495,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff178ffc15455d3de31ba82b3bbe1ebe593f5b25417b04d07763166cec462e41.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e520a4e8b5833ee4829008e1dca934bac66273717dd52283c6e8d7285860a8ac.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22ae95dfb32274a6c73d8ed6532b19baa3ca4b9ce044de82b93898a0c785c7de.png",
     "isStandard": true
   },
@@ -179344,7 +179344,7 @@
       132551
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3bf570f4f886ad71e5d55abb58f23ac517c47ea9639ce49bffc16b52f231e40.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/267c8e217ae2d9222c889e69671acddb110fcf762a1d469ba3b58a4ee0a3890c.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/726158ebc11b72abc356272d93b8f82bebfefa3e8e88cf718c2ffe42a5035306.png",
     "isStandard": true
   },
@@ -179758,7 +179758,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58bda59ee4b5103ac00bbab3efdf120b20c82474ce057b20688feee764f248c3.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6135fbf3edacd8ffb12aec2d993e7d7519dab26f1f85198c4be7688ea2e20f28.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae66d35c94724d58e3621a6fc02d165c12e9f15cf34dc97a58d951e3a0fc626f.png",
     "isStandard": true
   },
@@ -181344,8 +181344,8 @@
     "keywords": "고대 신",
     "text": "<b>고대 신</b>, 이번 게임에서 내가 크툰 능력 4개를 모두 사용하면, 이 하수인의 효과가 3배가 됩니다.",
     "flavorText": "카드 설명은 검은 제국의 지배 도래 시 공개됩니다.",
-    "attack": 12,
-    "health": 12,
+    "attack": 6,
+    "health": 6,
     "runeCost": null,
     "collectible": true,
     "childIds": [
@@ -181356,7 +181356,7 @@
       132349
     ],
     "cardId": "BE_013",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cdff07cf819df95fe779ae1e0e964403bb95d2c22427ffc8dce332ef1a639b8e.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07d526cf9f78fa77ea1e802364ae79430786bf1bf9585e41965a9e4bd407e35e.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/865a8ffb4d7f8ad2e07eed51e3146168f922aa05e90176be3642d35e89af546d.png",
     "isStandard": true
   },
@@ -181594,8 +181594,8 @@
     "minionType": null,
     "minionType2": null,
     "spellSchool": null,
-    "keywords": "면역 고대 신",
-    "text": "<b>고대 신</b>, <b>전투의 함성</b>: 이번 게임에 하수인에 마나를 30 소모했으면, 1턴 동안 <b>면역</b>을 얻습니다. <i>( 남음!)</i> <b>고대 신</b>, <b>전투의 함성</b>: 이번 게임에 하수인에 마나를 30 소모했으면, 1턴 동안 <b>면역</b>을 얻습니다. <i>(준비 완료!)</i> <b>고대 신</b>, <b>전투의 함성</b>: 이번 게임에 하수인에 마나를 30 소모했으면, 1턴 동안 <b>면역</b>을 얻습니다.",
+    "keywords": "전투의 함성 면역 고대 신",
+    "text": "<b>고대 신</b>, <b>전투의 함성</b>: 이번 게임에 하수인에 마나를 30 소모했으면, 1턴 동안 <b>면역</b>을 얻습니다. <i>(30 남음!)</i>",
     "flavorText": "\"음험한 거수\" + \"꿰뚫는 자 크론\" + (\"대지모신 테라제인\" - \"해일의 군주 넵튤론\")",
     "attack": 10,
     "health": 10,
@@ -181608,7 +181608,7 @@
       131855
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd791dc34621d9f430521499f5804c5cb8d02a43ef1125c1ab8ee8da2e97ec07.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46a4a320a6caa498ed1808db7f263c7148f59dbb432dfba35b8a09f1603434be.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74cc05fece28296a74fc10a55667b0aa6c2b9e46e1d97c958b2a720d1cc5b968.png",
     "isStandard": true
   },
@@ -181635,7 +181635,7 @@
     "collectible": true,
     "childIds": null,
     "cardId": "LEG_CS3_036",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8320cf52556cc59ebbb4c715a103eed1373afd3484e6897fa712a2548f9a7a5.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85a767502ba7d4aefc9ec14b882c99695685b4ee90a3306a945f54317f57e767.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/LEG_CS3_036.jpg",
     "isStandard": false
   },
@@ -182304,7 +182304,7 @@
       129210
     ],
     "cardId": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7bcc0edfea28c613638e3393b5a258db5cfe1ee35cf36ab611e74ca3425809e.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e72d8de3de50cff2daee1c3176d876dc2ce1dd0cc9f74037faded76afb490025.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4778c93120cd1d727f74004c52277e2aea5dfa359b3cf9fc785080f3430772f.png",
     "isStandard": true
   },
