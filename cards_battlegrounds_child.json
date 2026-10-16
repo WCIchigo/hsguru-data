@@ -1279,6 +1279,14 @@
     "health": 2,
     "text": "아군 하수인이 적을 처치한 후에, 영구히 생명력을 +3 얻습니다."
   },
+  "77878": {
+    "name": "흉물",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64dc05a9ee864673ad5a3fbcd028f8574bc8b62ef0cdfcde84f674b3ba8213c1.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df87206f43a1a0c8d24466d09f55fc06f04296be6de4a2b47adbd609e170826b.png",
+    "attack": 5,
+    "health": 10,
+    "text": "아군 하수인이 죽은 후에, 그 하수인의 공격력을 얻습니다."
+  },
   "77880": {
     "name": "게",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fac95394c09e2eff337762d4b09b813d817dc3ed3110430685a0c9ec50bf9c76.png",
@@ -2094,14 +2102,6 @@
     "attack": 16,
     "health": 16,
     "text": "<b>천상의 보호막</b> 이 하수인은 모든 정령으로 황금 하수인이 될 수 있습니다."
-  },
-  "101315": {
-    "name": "드라카리 마법부여사",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_ICC_901_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36634c8ac30778ff0dbf0d8195285c32df67e5ac8c602e2946d07fcd374c61ce.png",
-    "attack": 2,
-    "health": 10,
-    "text": "턴이 끝날 때 발동하는 내 효과가 3번 발동합니다."
   },
   "101346": {
     "name": "신인 계약",
@@ -4415,14 +4415,6 @@
     "health": 2,
     "text": "세 번째 아군 시간왜곡의 멧돼지가 죽을 때마다 무작위 황금 야수를 2마리 얻습니다. <i>( 마리 남음!)</i>"
   },
-  "127329": {
-    "name": "시간왜곡의 사우로리스크",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_202_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97c3499ff716831b6ff5d46a7d0a3caf9641565b2a0775a5f804d415b535fdd9.png",
-    "attack": 8,
-    "health": 8,
-    "text": "내 <b>죽음의 메아리</b> 능력이 발동한 후에 영구히 + /+ |1(을,를) 얻습니다."
-  },
   "127332": {
     "name": "시간왜곡의 아기용",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_029_G_triple.png",
@@ -5631,6 +5623,14 @@
     "health": null,
     "text": "내가 상급 <b>장신구</b>를 구매하면, 그 장신구로 변신합니다."
   },
+  "131697": {
+    "name": "뇌수 부패자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_099_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85fb3b5c4971ff98092ea96b2ea65f0b35e619d3b3e2330f52bc8a7dfab30787.png",
+    "attack": 6,
+    "health": 8,
+    "text": "<b>사용 ( ):</b> 카드를 버리고 내 <b>현신</b>에게 + /+ |1(을,를) 부여합니다."
+  },
   "132307": {
     "name": "영혼감시 간수",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_503_G_triple.png",
@@ -6262,6 +6262,14 @@
     "attack": 14,
     "health": 14,
     "text": "<b>집결:</b> <b>천상의 보호막</b>을 얻습니다. <b>기선 제압:</b> 즉시 2번 공격합니다."
+  },
+  "134503": {
+    "name": "부화",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_HERO_000p.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc66e9755279971d231f359f03df96e0a3a1cbcff8dc32b80a48f68d833499b9.png",
+    "attack": null,
+    "health": null,
+    "text": "카드를 버리고 무작위 돌연변이를 얻습니다."
   },
   "134704": {
     "name": "어둠의 모순",
