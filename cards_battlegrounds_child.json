@@ -6254,5 +6254,13 @@
     "attack": null,
     "health": null,
     "text": "4턴마다 <b>어둠의 선물</b> 능력이 있는 하수인을 <b>발견</b>합니다. <i>( 턴 남음!)</i>"
+  },
+  "134495": {
+    "name": "영웅적인 무리어미",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_849_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dff91f31f19b2f951ba4f2823b613893f71f584496898232abec2a801da0bd00.png",
+    "attack": 14,
+    "health": 14,
+    "text": "<b>집결:</b> <b>천상의 보호막</b>을 얻습니다. <b>기선 제압:</b> 즉시 2번 공격합니다."
   }
 }
