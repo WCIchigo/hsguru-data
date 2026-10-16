@@ -1279,14 +1279,6 @@
     "health": 2,
     "text": "아군 하수인이 적을 처치한 후에, 영구히 생명력을 +3 얻습니다."
   },
-  "77878": {
-    "name": "흉물",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64dc05a9ee864673ad5a3fbcd028f8574bc8b62ef0cdfcde84f674b3ba8213c1.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df87206f43a1a0c8d24466d09f55fc06f04296be6de4a2b47adbd609e170826b.png",
-    "attack": 5,
-    "health": 10,
-    "text": "아군 하수인이 죽은 후에, 그 하수인의 공격력을 얻습니다."
-  },
   "77880": {
     "name": "게",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fac95394c09e2eff337762d4b09b813d817dc3ed3110430685a0c9ec50bf9c76.png",
@@ -5438,6 +5430,14 @@
     "attack": 6,
     "health": 6,
     "text": "이 하수인의 공격력이 |1(이,가) 되면 <b>천상의 보호막</b>을 얻습니다. 이 하수인의 공격력이 |1(이,가) 되면 <b>천상의 보호막</b>을 얻습니다. <i>(완료!)</i>"
+  },
+  "130080": {
+    "name": "연구실 조수",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_150_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f562df35a5dc46bd2bedda952e08ce980b1e72d03c15a66126d20ae2c5c8941.png",
+    "attack": 6,
+    "health": 8,
+    "text": "<b>전투의 함성:</b> 내 다음 3번의 <b>새로고침</b>에 <b>먹이</b>를 둘 추가합니다."
   },
   "130084": {
     "name": "악마 먹이",

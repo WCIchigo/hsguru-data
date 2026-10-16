@@ -1547,18 +1547,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fa88a3ca1dbf155deb71cfca082fdfd4a6237975335ab3d70775353e34e3875.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1597ed6167140996916084c4dd7f683149993fcf13620507a6b165a2971db69.png"
   },
-  "2737": {
-    "id": 2737,
-    "name": "흉포한 변신",
-    "manaCost": 2,
-    "cardType": null,
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "<b>영웅 능력</b> 방어도를 + d2 얻고, 이번 턴에 공격력을 + a2 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6af524f8a93559a1061ba1d6763802615977d13fca79f0b7f5968ca255b499c2.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/HERO_06bp2.jpg"
-  },
   "2738": {
     "id": 2738,
     "name": "쇠뇌 사격",
@@ -9455,18 +9443,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c13c18f5000c3af58663ddd9d24886cd2c171a0a32a0002bbc0fb012dbe5c0d.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_034t.jpg"
   },
-  "63004": {
-    "id": 63004,
-    "name": "야수 조련 (3 레벨)",
-    "manaCost": 2,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "<b>속공</b> 능력이 있는 6/6 야수를 소환합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22622a8d80ba57daf0ba5551819cde852aed0fae4273900c6631efd088795970.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BAR_034t2.jpg"
-  },
   "63026": {
     "id": 63026,
     "name": "가시방어병 거북이",
@@ -10174,18 +10150,6 @@
     "text": "<b>퀘스트 전개:</b> 내 영웅이 공격력을 +5 얻어야 합니다. <b>보상:</b> 방어도를 +5 얻고 카드를 뽑습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ae7ec726c10a3e500fb1a4825b9e720e99e2b2a71fa6aa092142b1b5ea0afe7.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_428t.jpg"
-  },
-  "64335": {
-    "id": 64335,
-    "name": "야수 친화",
-    "manaCost": 1,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "<b>퀘스트 전개:</b> 내 영웅이 공격력을 +6 얻어야 합니다. <b>보상:</b> 강인한 거프",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b9ca94e858c5f14a3aed37b89f7444aba28736d34403f032fffe74c1661af3c.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_428t2.jpg"
   },
   "64347": {
     "id": 64347,
@@ -15766,18 +15730,6 @@
     "text": "다음 턴에 상대편의 카드의 비용이 ( ) 증가합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b63af71d57e36ee9cd83290d62f0277e6778d88b824c8273191c06715364212b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_075t2.jpg"
-  },
-  "96906": {
-    "id": 96906,
-    "name": "무한한 잠재력",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "무작위 마법사 <b>비밀</b>을 개 시전합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39dcb4513da306b9e71e6322d38a523898a5aa1da28f6b162e20907801163d1c.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TTN_075t3.jpg"
   },
   "96911": {
     "id": 96911,
@@ -23194,6 +23146,18 @@
     "text": "내 다음 주문이 <b>주문 공격력 +1</b>을 얻습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e2d90ac99cb2a9aac1484036f88d26522e5e8afaf2bdc6c19e5a9c558046fef.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_100t12.jpg"
+  },
+  "117777": {
+    "id": 117777,
+    "name": "반짝이는 달빛",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 다음 주문이 <b>주문 공격력 +4</b>를 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/378689223db7a220718b71343c641865fcde7d4b114a72f499a913b813fa4ebc.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_100t32.jpg"
   },
   "117778": {
     "id": 117778,

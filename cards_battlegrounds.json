@@ -3607,28 +3607,6 @@
     ]
   },
   {
-    "id": 134504,
-    "name": "키식스",
-    "enname": null,
-    "cardType": "영웅",
-    "tier": null,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": 30,
-    "armor": 8,
-    "trinketTier": null,
-    "keywords": null,
-    "text": null,
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b076f0cccfe5702136a485d735bb4fd3fbcc994a6dea0bc77e54ced74a864cb.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c095180698a66cbd117cd59198e3241545d94509cba7b4ea471b92a38290f6d.png",
-    "childIds": null
-  },
-  {
     "id": 57929,
     "name": "타락한 조지",
     "enname": "George the Fallen",
@@ -6142,30 +6120,6 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94e07f23ab9e02f16d07ae2b53c41b0a329a6a78f152fc90f532b86a75705cb8.png",
     "childIds": [
       104549
-    ]
-  },
-  {
-    "id": 123325,
-    "name": "아즈샤라 커틀라스 검사",
-    "enname": "Azsharan Cutlassier",
-    "cardType": "하수인",
-    "tier": 3,
-    "minionType": "해적",
-    "minionType2": null,
-    "attack": 6,
-    "health": 4,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": "전투의 함성",
-    "text": "<b>전투의 함성:</b> 내 선술집 주문들이 이번 게임 동안 추가로 공격력을 +1 부여합니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72f5af253690575f42801a82f542d3025e0521e4edd7647a1d6c44cbb8972856.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2f3e346c01c284e7145f415e836f02dde8f4d2302a2b3189b300029975f6dfc.png",
-    "childIds": [
-      123326
     ]
   },
   {
@@ -12266,6 +12220,28 @@
     "childIds": null
   },
   {
+    "id": 126909,
+    "name": "동풍",
+    "enname": "Easterly Winds",
+    "cardType": "주문",
+    "tier": 4,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "새로고침",
+    "text": "이번 게임 동안 <b>새로고침</b>을 한 후에, 선술집에 있는 무작위 하수인에게 + /+ |1(을,를) 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e91397ab661c970d22da862914aa83c493b7514dac0694f1378a772902c1cd1.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e0b489df16485e0665f8fa613e66f554fbab1462bc5b635a6714b0b89680daa.png",
+    "childIds": null
+  },
+  {
     "id": 110401,
     "name": "딱정벌레의 축복",
     "enname": "Boon of Beetles",
@@ -13060,6 +13036,28 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b31884dceac5a1544799531a34a48f6b169daed5c921c8ba2200cc5d5c2239f7.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbaf472d7a18dc216a47728c5b48170e5d43836401dd683b5b2d774dcf62fde0.png",
+    "childIds": null
+  },
+  {
+    "id": 130527,
+    "name": "동물원 식기",
+    "enname": "Menagerie Tableware",
+    "cardType": "주문",
+    "tier": 7,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내 하수인들에게 + /+ |1(을,를) 부여합니다. 아군 종족의 수만큼 반복합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/187b82954fa28a07ba29941a5f19642403c87269d13eca75a5fb0c9c64afb0de.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69a5d4fcd7bbd8856857ffda833f375abbc2511baf23f756245b1ca643b20469.png",
     "childIds": null
   },
   {
