@@ -23195,18 +23195,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e2d90ac99cb2a9aac1484036f88d26522e5e8afaf2bdc6c19e5a9c558046fef.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_100t12.jpg"
   },
-  "117777": {
-    "id": 117777,
-    "name": "반짝이는 달빛",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "내 다음 주문이 <b>주문 공격력 +4</b>를 얻습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/378689223db7a220718b71343c641865fcde7d4b114a72f499a913b813fa4ebc.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_100t32.jpg"
-  },
   "117778": {
     "id": 117778,
     "name": "반짝이는 달빛",
@@ -25690,18 +25678,6 @@
     "text": "<b>조각</b> 모든 적에게 피해를 2 줍니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed98f00f5df27b31347200d9a3a4ef1f43843a81bba0257ebee73c6ee46b6b1d.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_489t2.jpg"
-  },
-  "123782": {
-    "id": 123782,
-    "name": "파괴 공작!",
-    "manaCost": 2,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "손에서 양옆에 있는 카드의 비용이 (1) 증가합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29b93eb0b64ffcf90d85d451bec6dce434e93b376be5a89a451a0e3bc002c10b.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CATA_186t.jpg"
   },
   "123854": {
     "id": 123854,
