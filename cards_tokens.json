@@ -1763,6 +1763,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb3e14fa5e2bc773c7d53f6551ba150529b5874494e4d22b42fb8058a4d19526.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0d4aad7ab2d2586745ff11f50977e06f0aa7d5797a4d70c3ffed204bafac677.png"
   },
+  "2992": {
+    "id": 2992,
+    "name": "황금 원숭이 보물지도",
+    "manaCost": 2,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "황금 원숭이를 내 덱에 섞어 넣습니다. 카드를 뽑습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9504cfbc51ac7fde1c55bf3ce4d91b2a80ebda5ab3e0bd743fea74d75af4508f.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/LOE_019t.jpg"
+  },
   "2993": {
     "id": 2993,
     "name": "황금 원숭이",
@@ -3011,6 +3023,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b16ee6c0a1e9a795215bdd30454616fceb7a7dd0d260a2a3a46ee8b7603edb4.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621t8.jpg"
   },
+  "41586": {
+    "id": 41586,
+    "name": "황금가시",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 하수인들에게 생명력을 +2 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5edaa4d15726094863460a572b1fc5b871f9c5d6feb7f3a27253a7c9481d87b7.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621t6.jpg"
+  },
   "41587": {
     "id": 41587,
     "name": "얼음송이",
@@ -3215,6 +3239,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66a7483c2a5733607e872648be41faf8ba2e016609bbc247dcf5a53d5a82d12d.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621t23.jpg"
   },
+  "41620": {
+    "id": 41620,
+    "name": "황금가시",
+    "manaCost": 5,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 하수인들에게 생명력을 +4 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/989cb07404aeea71748fdfbf5f7ffbb0c934b61868a43ae7a634bb8a3298b6d9.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621t24.jpg"
+  },
   "41621": {
     "id": 41621,
     "name": "불의 심장",
@@ -3286,6 +3322,30 @@
     "text": "카드를 3장 뽑습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1212036d30e675145a5ea40cad8d1b4066a5cfb225bc7e6ebc2a0e124c42ab1.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621t30.jpg"
+  },
+  "41627": {
+    "id": 41627,
+    "name": "암흑 기름",
+    "manaCost": 10,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "무작위 악마 셋을 내 손으로 가져옵니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2cfba1a636832cffeabe0571fed4a115253a19a94ac9a72f8fab798b8493783.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621t31.jpg"
+  },
+  "41628": {
+    "id": 41628,
+    "name": "황금가시",
+    "manaCost": 10,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 하수인들에게 생명력을 +6 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31009677830948daa5adef7dfc2875cbb1591210af69e23cb3bf921d3346cbbc.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CFM_621t32.jpg"
   },
   "41629": {
     "id": 41629,
@@ -4367,6 +4427,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3dda6d8764a0a332eda58d9a74b581565662dc32bf868ec434eda92dbf4a763.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/LOOT_998l.jpg"
   },
+  "45727": {
+    "id": 45727,
+    "name": "황금 코볼트",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 6,
+    "health": 6,
+    "text": "<b>도발</b>, <b>전투의 함성:</b> 내 손에 있는 <b>모든</b> 카드를 <b>전설</b> 하수인으로 교체합니다. 그 카드들의 비용이 (1) 감소합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd5d50339bed37d099771d1d98b7a6d6144e1f9e2360c70bcce1911547865f5d.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/LOOT_998k.jpg"
+  },
   "45751": {
     "id": 45751,
     "name": "생명의 비약",
@@ -5314,6 +5386,18 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29921414ac9bda035b8132a9efd93531e3b6b4a69655b63362bf03f849dbb759.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/GIL_190t.jpg"
+  },
+  "48752": {
+    "id": 48752,
+    "name": "폭탄",
+    "manaCost": 5,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>뽑을 때 시전</b> 내게 피해를 5 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/998c2a12e77fa5db0e27c3a535f650724901f4ea746caaf631bb47576593c85b.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BOT_511t.jpg"
   },
   "48805": {
     "id": 48805,
@@ -8471,6 +8555,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa49f09a0033ee8ab4c81ed48a7d5923edd70159bfc3065217f2a2762fea756a.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_184t.jpg"
   },
+  "61290": {
+    "id": 61290,
+    "name": "폭죽 정령",
+    "manaCost": 5,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 3,
+    "health": 5,
+    "text": "<b>타락함</b> <b>전투의 함성:</b> 하수인에게 피해를 12 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83b699a9f19c230d13ac6b4122ab60be0002f1f3cb2156b93cba0137df4d839b.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_101t.jpg"
+  },
   "61292": {
     "id": 61292,
     "name": "고리 던지기",
@@ -8770,6 +8866,18 @@
     "text": "<b>타락함</b> <b>독성</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c28f1873faae3cf81d946d13f4c5f1dee893b8d650512c50894511a4053600a.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_083t.jpg"
+  },
+  "61695": {
+    "id": 61695,
+    "name": "폭발하는 폭죽",
+    "manaCost": 8,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 8,
+    "health": 8,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/573a5c1ccb1188e9c0999bdbb142cf9a339430dd2dcfaebcdababb00b5da675f.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_104t.jpg"
   },
   "61701": {
     "id": 61701,
@@ -11302,6 +11410,18 @@
     "text": "<b>도발</b>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/833a5cc5fbcdc99ee739735f07589c52716c8c96281851e8fd56a494dce7cd29.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/AV_258t6.jpg"
+  },
+  "70124": {
+    "id": 70124,
+    "name": "황금껍질 거북",
+    "manaCost": 4,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 7,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c994adf58f92ace4123921d32674b3f2627eef15f1736e38e70e1e0b8b5825c4.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_429t.jpg"
   },
   "70130": {
     "id": 70130,
@@ -18419,6 +18539,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d21ea16c52d2be6805ec0f88733f5fce3d666fc5f2a03d36c72a0dd7738c89d.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/WW_0700p5.jpg"
   },
+  "103479": {
+    "id": 103479,
+    "name": "암흑 탄환",
+    "manaCost": 2,
+    "cardType": null,
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "피해를 2 줍니다. 비용이 3인 무작위 하수인을 소환합니다. 매 턴마다 바뀝니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/676a42e85ec6b58e111c8dac244dfa32015357224c046725ff7d276a59bbb55e.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/WW_0700p6.jpg"
+  },
   "103489": {
     "id": 103489,
     "name": "아홉 개구리의 지팡이",
@@ -18646,6 +18778,18 @@
     "text": "<b>죽음의 메아리:</b> 이 하수인을 내 덱에 섞어 넣습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2770b35d9851e60d1bf3c0cca69502693428f6d4bcfaf1d59e4f151c9c3e5e88.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_330t92.jpg"
+  },
+  "104945": {
+    "id": 104945,
+    "name": "폭주 모듈",
+    "manaCost": 2,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 4,
+    "health": 4,
+    "text": "내 턴이 끝날 때, 내 영웅에게 피해를 3 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b6b2a4d5c346ed02c661424118d39b063a9caa40b98c6625d69d2c0f42a3de1.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_330t93.jpg"
   },
   "104946": {
     "id": 104946,
@@ -21947,6 +22091,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da3be5bb21bab1ca87bf8868b59f08bc19beef440dbfb5179230dd381170c518.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_702t3.jpg"
   },
+  "114404": {
+    "id": 114404,
+    "name": "황금 코볼트",
+    "manaCost": 3,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 6,
+    "health": 6,
+    "text": "<b>도발</b>, <b>전투의 함성:</b> 내 손에 있는 <b>모든</b> 카드를 <b>전설</b> 하수인으로 교체합니다. 그 카드들의 비용이 (1) 감소합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09c37fb7cc0e45dc7df2a8beb739560e74037eed8b3a610c3e2c313831993e2a.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_702t4.jpg"
+  },
   "114493": {
     "id": 114493,
     "name": "보름달의 의식",
@@ -22715,6 +22871,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/092be5186cebd276bd4a78ef0048eed5afa8c07a9782b656fccc9cd258628297.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/EDR_813at.jpg"
   },
+  "117545": {
+    "id": 117545,
+    "name": "암흑 정화",
+    "manaCost": 1,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "<b>퀘스트:</b> 신성 주문을 4개 시전해야 합니다. <b>보상:</b> 생명의 숨결",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c91789156a2e877527f9abe84507d3a161a2f1acd14e99ebfc3cc6c4f51a19fd.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_817t.jpg"
+  },
   "117614": {
     "id": 117614,
     "name": "뼈",
@@ -22846,6 +23014,18 @@
     "text": "비용이 3인 하수인을 <b>발견</b>합니다. 마나 수정을 3개 회복합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1c2577dcb5af251c03caad3262697ee0aed31d1710892eecd6e540be975246b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BG31_BOBt3.jpg"
+  },
+  "117727": {
+    "id": 117727,
+    "name": "황금 하수인 찾기",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "하수인을 뽑습니다. 그 하수인을 둘 복사하여 얻습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b12ad12d939c0f7b2ef91ca1814e9bc54d94d97547d50fe73a9d84225904b8f.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BG31_BOBt4.jpg"
   },
   "117759": {
     "id": 117759,
@@ -25943,6 +26123,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb46cdd2a828dd8cf1119eb1819eb0e99b28a48d8a8efab1e440c25e02df3729.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CORE_LOOT_368.jpg"
   },
+  "126897": {
+    "id": 126897,
+    "name": "암흑 포옹",
+    "manaCost": 2,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "피해를 4 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3adab8c805b8d23897c1159b78999b010d52bd363a587b40603c9e496f9a1b11.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/JAIL_941t.jpg"
+  },
   "126983": {
     "id": 126983,
     "name": "오닉시아의 병사",
@@ -27598,6 +27790,18 @@
     "text": "내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/caf57b1c32ae4d6c03378ea25a0b7b05d480b0f0798ef5ab38631467d34597c2.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t5.jpg"
+  },
+  "132848": {
+    "id": 132848,
+    "name": "폭정의 약제",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "공허군주를 소환합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74b4bc0a6f197ff14500e9ec2be8e6afcc1925ea964febf1c800e2fab6822aff.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t9.jpg"
   },
   "132849": {
     "id": 132849,

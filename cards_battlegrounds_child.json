@@ -3375,6 +3375,14 @@
     "health": 4,
     "text": "내 턴이 끝날 때, 양옆의 하수인에게 공격력을 + 부여합니다. 아군 황금 하수인의 수만큼 반복합니다. 내 턴이 끝날 때, 양옆의 하수인에게 + /+ |1(을,를) 부여합니다. 아군 황금 하수인의 수만큼 반복합니다."
   },
+  "119997": {
+    "name": "황금빛 수상자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_236_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95dc02b1eda5e80f91ed05f1914a1acf5d6e4d2c0a2e14e9c0913cb6b66c2d35.png",
+    "attack": 2,
+    "health": 2,
+    "text": "<b>천상의 보호막</b> 이 하수인은 항상 황금 하수인이지만, 황금 보상을 주지 않습니다."
+  },
   "120105": {
     "name": "타락드러스트 도살자",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_324_G_triple.png",
@@ -4439,6 +4447,14 @@
     "health": 2,
     "text": "<b>천상의 보호막</b>, <b>질풍<b>, </b>환생</b>"
   },
+  "127336": {
+    "name": "시간왜곡의 판다네 정령",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_067_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8104312b1339fe870d164ca8f6c6eabe9e0dfd499ebce33408460b7c134dcd9.png",
+    "attack": 16,
+    "health": 16,
+    "text": "내 턴이 끝날 때 판다네 정령을 둘 얻습니다."
+  },
   "127337": {
     "name": "시간왜곡의 바다 유리",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_110_G_triple.png",
@@ -4470,6 +4486,14 @@
     "attack": 14,
     "health": 8,
     "text": "<b>죽음의 메아리:</b> 이번 전투에만 내 손에 있는 생명력이 가장 높은 하수인을 둘 소환하고 <b>천상의 보호막</b>을 부여합니다."
+  },
+  "127342": {
+    "name": "시간왜곡의 펄럭이",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_072_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75859cededed99dbe35f38d2bd369df4d5d38ca9ae30f9eb4321dd7410d84c99.png",
+    "attack": 10,
+    "health": 12,
+    "text": "내가 2단계 하수인을 판 후 무작위 1단계 하수인을 둘 얻습니다."
   },
   "127343": {
     "name": "시간왜곡의 청소지느러미",
@@ -4503,6 +4527,14 @@
     "health": 4,
     "text": "<b>전투의 함성과 죽음의 메아리:</b> 다음 턴에 골드를 얻습니다."
   },
+  "127347": {
+    "name": "시간왜곡의 페이글",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_208_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65975c73dc13e435724b5ab3a6845508231b6b19295380017e500a0a09dafcd7.png",
+    "attack": 16,
+    "health": 12,
+    "text": "전투당 한 번, 이 하수인이 공격하여 다른 하수인을 처치하면 황금 보상을 2개 얻습니다."
+  },
   "127348": {
     "name": "시간왜곡의 사령관",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_210_G_triple.png",
@@ -4526,6 +4558,14 @@
     "attack": 8,
     "health": 18,
     "text": "<b>주문제작:</b> 하수인에게 공격력을 + 부여합니다."
+  },
+  "127352": {
+    "name": "시간왜곡의 피리꾼",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_069_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a690e66d3f0525f73ffa79bb066c43998bc0045186e387e8f0381749830a3706.png",
+    "attack": 4,
+    "health": 16,
+    "text": "이 하수인이 피해를 받을 때마다 내 <b>혈석</b>들이 이번 게임 동안 추가로 공격력을 + 부여합니다. <i>(전투당 번)</i> 이 하수인이 피해를 받을 때마다 내 <b>혈석</b>들이 이번 게임 동안 추가로 공격력을 + 부여합니다. <i>( 번 남음!)</i>"
   },
   "127353": {
     "name": "시간왜곡의 가시소환사",
@@ -4623,6 +4663,14 @@
     "health": 28,
     "text": "<b>복수 ( ):</b> 내 용족들에게 + /+ |1(을,를) 부여합니다."
   },
+  "127368": {
+    "name": "시간왜곡의 프리즘비늘",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_022_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e51d6c42bb72389326162294afdb88b2edfa9e597c76e133603830562a612b7.png",
+    "attack": 16,
+    "health": 24,
+    "text": "<b>복수 ( ):</b> 아제라이트 강화를 2개 얻습니다."
+  },
   "127369": {
     "name": "시간왜곡의 고취비룡",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_088_G_triple.png",
@@ -4646,6 +4694,14 @@
     "attack": 10,
     "health": 18,
     "text": "<b>집결:</b> 가장 오른쪽에 있는 내 <b>전투의 함성</b>과 <b>죽음의 메아리</b>를 2번 발동시킵니다."
+  },
+  "127373": {
+    "name": "시간왜곡의 폭풍구름",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_031_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/484b582f3cdab7b299a4f338f530a18fc74440fbcbfb599b7452696a08c42645.png",
+    "attack": 22,
+    "health": 18,
+    "text": "<b>죽음의 메아리와 복수 ( ):</b> 선술집 폭풍우를 2개 얻습니다."
   },
   "127374": {
     "name": "시간왜곡의 녹아내린 바위",
@@ -4694,6 +4750,14 @@
     "attack": 12,
     "health": 24,
     "text": "<b>도발</b>, <b>주문제작:</b> 하수인에게 <b>천상의 보호막</b>을 부여합니다."
+  },
+  "127389": {
+    "name": "시간왜곡의 혈술사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_PreMadeChamp_076_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/921ffa5e2cbeaf15522ce7aef0484f96e6eec1b46eff5ae4040ddc81922100d3.png",
+    "attack": 24,
+    "health": 16,
+    "text": "내 턴이 시작될 때 <b>혈석</b>을 개 얻습니다. 그 혈석들이 선술집 주문으로도 간주됩니다."
   },
   "127392": {
     "name": "시간왜곡의 머리 강타꾼",
@@ -4815,6 +4879,14 @@
     "health": 16,
     "text": "<b>기선 제압:</b> 양옆의 멀록에게 내 손에 있는 모든 하수인의 능력치를 2번 부여합니다."
   },
+  "127509": {
+    "name": "시간왜곡의 허드렛일",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_327_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7183c805ecf3fc385c20dc0ee417b459063628f10e6e9971831f98b526be94e2.png",
+    "attack": 18,
+    "health": 10,
+    "text": "내 손으로 카드를 가져올 때마다, 내 해적들에게 + /+ |1(을,를) 두 번 부여합니다."
+  },
   "127512": {
     "name": "시간왜곡의 정찰병",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_333_G_triple.png",
@@ -4903,6 +4975,30 @@
     "health": 16,
     "text": "<b>천상의 보호막</b> 내 턴이 끝날 때 온도 변화를 2개 얻습니다."
   },
+  "127718": {
+    "name": "시간왜곡의 하이에나",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_581_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59ee2d883012468cdf958b2342828c287740514d64baddd12b471479769dc934.png",
+    "attack": 6,
+    "health": 10,
+    "text": "아군 야수가 죽을 때마다 영구히 + /+ |1(을,를) 얻습니다."
+  },
+  "127720": {
+    "name": "시간왜곡의 포자박쥐",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_582_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/637aac2f64620d7f3784b64317b9cb66baaa1c46df9010f476f36fe93133f1dd.png",
+    "attack": 18,
+    "health": 4,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b> 비용이 (2) 이상인 무작위 선술집 주문을 2개 얻습니다."
+  },
+  "127722": {
+    "name": "시간왜곡의 포식자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_583_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6769a4035f26353789cf7215ca44ec0d71374fc5c0fa22e528f4fb094d058327.png",
+    "attack": 10,
+    "health": 10,
+    "text": "내 턴이 시작될 때, 오른쪽에 있는 악마를 잡아먹습니다. 그 악마의 능력치를 2번 얻고 골드를 얻습니다."
+  },
   "127724": {
     "name": "시간왜곡의 킬렉",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_584_G_triple.png",
@@ -4942,6 +5038,14 @@
     "attack": 14,
     "health": 6,
     "text": "<b>죽음의 메아리:</b> 무작위 언데드 피조물을 둘 소환하고 얻습니다."
+  },
+  "127741": {
+    "name": "시간왜곡의 해석가",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_120_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/027f00ade957e61f3690639217933993dc0e0ce2fedebc5b0517c5d4756c522d.png",
+    "attack": 12,
+    "health": 16,
+    "text": "내가 기계를 내거나 <b>합체</b>할 때마다 내 기계들에 + /+ |1(을,를) 부여합니다."
   },
   "127762": {
     "name": "시간왜곡의 수행사제",
@@ -5095,6 +5199,14 @@
     "health": 26,
     "text": "내 턴이 시작될 때, 주문을 버리고 이 하수인이 내 모든 하수인에게 <b>혈석</b>을 개 냅니다."
   },
+  "127876": {
+    "name": "시간왜곡의 파열채찍",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_325_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47fd0237334bbd466fe5f4ba1035e56f3660ee70f08207bbacc48afa5423e016.png",
+    "attack": 26,
+    "health": 10,
+    "text": "<b>죽음의 메아리:</b> 내가 마지막으로 시전한 선술집 주문을 2개 복사하여 얻습니다."
+  },
   "127878": {
     "name": "시간왜곡의 아기 가멧",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_608_G_triple.png",
@@ -5142,6 +5254,14 @@
     "attack": 12,
     "health": 30,
     "text": "내가 <b>죽음의 메아리</b> 능력을 발동시킨 후에 내 하수인들에게 영구히 + /+ |1(을,를) 부여합니다."
+  },
+  "128118": {
+    "name": "시간왜곡의 혈석절단자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_644_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a0693731683b52549343a27d6a1a969eb512970d9f88e6d3e44c0027a1e4302.png",
+    "attack": 10,
+    "health": 20,
+    "text": "<b>천상의 보호막</b>, 아군 하수인이 <b>천상의 보호막</b>을 잃은 후에, 내 <b>혈석들</b>이 이번 게임 동안 추가로 공격력을 + 부여합니다."
   },
   "128176": {
     "name": "시간왜곡의 죽음발망치",
@@ -5246,6 +5366,14 @@
     "attack": 12,
     "health": 16,
     "text": "<b>기선 제압:</b> 양옆에 있는 언데드들에게 <b>환생</b>과 \"최대 생명력과 강화 효과를 모두 회복한 상태로 <b>환생</b>함\" 능력을 부여합니다."
+  },
+  "129125": {
+    "name": "시간왜곡의 행운의 알",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_Giant_683_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28735b8c86b659ac935642421a5eae0877f86a49cbbf42d891db414882e72a7a.png",
+    "attack": 4,
+    "health": 4,
+    "text": "2턴 후, 황금 7단계 하수인 셋 중 하나를 선택하여 그 하수인으로 변신합니다. <i>( 턴 남음!)</i>"
   },
   "129129": {
     "name": "시간왜곡의 미스락스",
