@@ -311,6 +311,14 @@
     "health": null,
     "text": "<b>기선 제압:</b> 가장 왼쪽과 가장 오른쪽에 있는 내 하수인들이 +2/+1을 얻고 즉시 공격합니다."
   },
+  "61915": {
+    "name": "악마사냥꾼 훈련",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbb57e72208ed958b5784f23cdb319df30282237d5b31609fc01fb364cabb4ed.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ee6469349901930a85f19045851d08482701d9fd10421e07a7a8788dba98455.png",
+    "attack": null,
+    "health": null,
+    "text": "아군 하수인 열넷이 공격한 후에, 매 턴마다 내가 처음 사는 하수인의 비용이 무료가 됩니다. <i>( 남음!)</i>"
+  },
   "61917": {
     "name": "신록의 구슬",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e18d6d05089f3ff930e287a2b77a1a41f6571683c5b14b89aeb278a282a6798d.png",
@@ -726,6 +734,14 @@
     "attack": 6,
     "health": 6,
     "text": "<b>집결:</b> 무작위 용족을 얻습니다."
+  },
+  "77468": {
+    "name": "악마사냥꾼 스클립",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44494ac35ab5ceab1c9cf4dc22b013e5a09d3c3ce16044a27faa93b96bbb5f31.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f150ea14b3ba34e1eb35faca2f9b1c10c410641e25378a7e0289b63a03516e6.png",
+    "attack": 4,
+    "health": 4,
+    "text": "선술집이 <b>새로고침</b>될 때마다 한 단계 더 높은 하수인이 추가됩니다."
   },
   "77470": {
     "name": "충직한 심복",
@@ -1975,6 +1991,14 @@
     "health": 8,
     "text": "<b>기선 제압:</b> 이번 전투가 끝날 때까지 내 야수들이 공격력을 +2 얻습니다."
   },
+  "98950": {
+    "name": "아옳옳 중창단",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_354_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8249125531286a9c3e7bf4cee4e5351c90aa257c35fb98aba22be3db57282987.png",
+    "attack": 12,
+    "health": 12,
+    "text": "<b>기선 제압:</b> 내 손에 있는 모든 하수인의 능력치를 2배로 얻습니다."
+  },
   "99012": {
     "name": "사랑앓이 발라드 가수",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG26_814_G_triple.png",
@@ -2238,6 +2262,14 @@
     "attack": 6,
     "health": 8,
     "text": "<b>전투의 함성:</b> 내 팀원이 선술집 동전을 2개 얻습니다."
+  },
+  "104549": {
+    "name": "아빠미소 드랙티르",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_107_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94e07f23ab9e02f16d07ae2b53c41b0a329a6a78f152fc90f532b86a75705cb8.png",
+    "attack": 8,
+    "health": 6,
+    "text": "내 턴이 끝날 때, 내 팀원의 하수인들에게 공격력을 +2 부여합니다."
   },
   "104552": {
     "name": "거울 괴물",
@@ -3039,6 +3071,14 @@
     "health": null,
     "text": "내가 마지막으로 시전한 선술집 주문을 복사하여 얻습니다. 매 턴마다 내 다음 영웅 능력의 비용이 (1) 감소합니다."
   },
+  "117327": {
+    "name": "휘몰아치는 폭풍술사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_201_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fa796dec8ef096cf673178eebbeada7731f5fd0782b37827e538b624ba9b2dc.png",
+    "attack": 10,
+    "health": 2,
+    "text": "이 하수인을 팔면,내 팀원이 골드를 얻습니다. <i>(매 턴마다 강화됩니다!)</i>"
+  },
   "117329": {
     "name": "의뭉스러운 뱀",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO31_203_G_triple.png",
@@ -3247,6 +3287,14 @@
     "health": null,
     "text": "내 팀원이 1골드를 얻습니다. <i>(한 턴에 두 번)</i> 내 팀원이 1골드를 얻습니다. <i>( 남음!)</i>"
   },
+  "119196": {
+    "name": "차원 관문",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_802p.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fe3b65b2daf7035ef044878a5f0d76ccee89d3d74b2c073da3d451958013561.png",
+    "attack": null,
+    "health": null,
+    "text": "게임이 시작될 때, 프로토스 하수인 둘 중에 카드를 14장 산 후에 얻을 하수인을 선택합니다. <i>( 장 남음!)</i> 게임이 시작될 때, 프로토스 하수인 둘 중에 카드를 14장 산 후에 얻을 하수인을 선택합니다. <i>(완료!)</i>"
+  },
   "119256": {
     "name": "청록색 거미",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_809_G_triple.png",
@@ -3263,6 +3311,46 @@
     "health": 8,
     "text": "<b>기선 제압:</b> 양옆의 하수인들을 처치합니다. <b>죽음의 메아리:</b> 그 하수인들을 복사하여 소환합니다. <i>(기워 붙인 회수꾼 제외)</i>"
   },
+  "119758": {
+    "name": "거신",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_802pt.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef5ea835e0f6d338882e5e5221ae4f799a58d711aeb7dc7f9a23182d80f8cc86.png",
+    "attack": 6,
+    "health": 12,
+    "text": "<b>집결:</b> 대상의 양옆에 피해를 줍니다. <i>(내가 골드를 소모하면 강화됩니다!)</i>"
+  },
+  "119760": {
+    "name": "우주모함",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_802pt1.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df487f74705d4a4ec7639c603a717e799b304b205423fe2448233bb6b49b3c7c.png",
+    "attack": 4,
+    "health": 12,
+    "text": "<b>복수 (4):</b> / 요격기를 소환합니다. 그 후 이 하수인을 영구히 강화합니다."
+  },
+  "119762": {
+    "name": "요격기",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_802pt1t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04f1a41860cf8941691d4acc4189e40d580c10833698576a1a2698f931118247.png",
+    "attack": 5,
+    "health": 5,
+    "text": null
+  },
+  "119768": {
+    "name": "불멸자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_802pt4.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80b5f2e6c85afae310365d69868e7155b89be4b66751b70b2e83cb73c047cbe9.png",
+    "attack": 8,
+    "health": 8,
+    "text": "<b>기선 제압:</b> 양옆의 하수인들의 능력치를 얻습니다."
+  },
+  "119770": {
+    "name": "공허 포격기",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_802pt5.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5afdc0afb91129f7c28f3f8fea337c11588197664a89f17d98c24f20326639b.png",
+    "attack": 7,
+    "health": 1,
+    "text": "<b>천상의 보호막</b>. 아군 하수인이 공격할 때마다 그 하수인과 이 하수인에게 공격력 +5를 영구히 부여합니다."
+  },
   "119943": {
     "name": "평온한 명상가",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_835_G_triple.png",
@@ -3270,6 +3358,14 @@
     "attack": 6,
     "health": 16,
     "text": "<b>주문제작:</b> 내 선술집 주문들이 이번 게임 동안 추가로 + /+ |1(을,를) 부여합니다."
+  },
+  "119960": {
+    "name": "모선",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_802pt7.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4b0d849f1265c9c5606bc83129d330bef1f7a4341c4667ea3ce353e8bbee1a1.png",
+    "attack": 6,
+    "health": 8,
+    "text": "<b>복수 (4):</b> 무작위 프로토스 하수인을 얻습니다."
   },
   "119987": {
     "name": "정예 길잡이",
@@ -3847,6 +3943,14 @@
     "health": 18,
     "text": "내 턴이 끝날 때 양옆의 하수인에게 자연적 축복을 시전합니다. 두 번 발동합니다."
   },
+  "120925": {
+    "name": "휴대용 공장",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_MagicItem_361t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb7416ac006f8f3eb5feb8f0463dc3576dfdbb2281491cc09101e52ac2ec59b2.png",
+    "attack": null,
+    "health": null,
+    "text": "종족이 있는 5단계 하수인을 <b>발견</b>합니다. 매 턴이 시작될 때 하나 더 복사하여 얻습니다."
+  },
   "121038": {
     "name": "혈속박 귀걸이",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_MagicItem_808t.png",
@@ -3886,6 +3990,14 @@
     "attack": null,
     "health": null,
     "text": "내 선술집 주문들이 이번 게임 동안 추가로 + /+ |1(을,를) 부여합니다."
+  },
+  "121509": {
+    "name": "아귀 주문술사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG32_340_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f85db50bcbc7ba903fe3aed44167a7587b59e969dcc77609c852c4f6de64f617.png",
+    "attack": 8,
+    "health": 10,
+    "text": "<b>전투의 함성:</b> 아군 언데드를 처치하고 언데드를 둘 <b>발견</b>합니다."
   },
   "121642": {
     "name": "휴몽고스",
@@ -5383,6 +5495,14 @@
     "health": 12,
     "text": "아군 하수인을 대상으로 하는 내 주문들이 세 번 시전됩니다."
   },
+  "130621": {
+    "name": "선구자 아프라스",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGFYM_005_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bb89df04b9539aca6fb1bf4137acc7cc8c31a0817a1388f3e7a640a81ac81b8.png",
+    "attack": 6,
+    "health": 12,
+    "text": "내가 카드를 버릴 때마다 내 <b>현신</b>에게 + /+ |1(을,를) 부여하고 이 하수인을 강화합니다."
+  },
   "130659": {
     "name": "심연의 투사",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG35_921_G_triple.png",
@@ -5527,6 +5647,14 @@
     "health": null,
     "text": "내가 상급 <b>장신구</b>를 구매하면, 그 장신구로 변신합니다."
   },
+  "131693": {
+    "name": "환각술사 구르샤",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_097_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbd6ad3f3b6db3ff9b2313d4ffe661e24908b5e642e71094ea203dcd18b21832.png",
+    "attack": 6,
+    "health": 18,
+    "text": "내가 카드를 버릴 때마다 내 다른 하수인들에게 + /+ |1(을,를) 부여합니다."
+  },
   "131695": {
     "name": "조아트로이드",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_098_G_triple.png",
@@ -5543,6 +5671,14 @@
     "health": 8,
     "text": "<b>사용 ( ):</b> 카드를 버리고 내 <b>현신</b>에게 + /+ |1(을,를) 부여합니다."
   },
+  "131699": {
+    "name": "떠도는 의지파괴자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_100_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/deee975c444362f5117ac3dfe10b5b69c302aee5f45bd4c21351bee0fb08b692.png",
+    "attack": 2,
+    "health": 6,
+    "text": "이 하수인을 팔면 무작위 선술집 주문을 4개 얻습니다. 그중 둘을 내면 나머지 둘을 버립니다. 이 하수인을 팔면 무작위 선술집 주문을 4개 얻습니다. 그중 둘을 내거나 <b>전달</b>하면 나머지 둘을 버립니다."
+  },
   "131701": {
     "name": "내키지 않는 게으름뱅이",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_101_G_triple.png",
@@ -5550,6 +5686,54 @@
     "attack": 2,
     "health": 2,
     "text": "<b>죽음의 메아리:</b> 비용이 1인 무작위 선술집 주문을 둘 얻습니다."
+  },
+  "131703": {
+    "name": "자유 의지 조종자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_102_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5de205de43f0c3ae85349a4d4e82eb75dd0b9d3d12321bd8a14d698a7fbb0963.png",
+    "attack": 8,
+    "health": 16,
+    "text": "이 하수인이 공격한 후에, 생명력이 가장 높은 적 하수인에게 이 하수인의 공격력의 2배만큼 피해를 줍니다."
+  },
+  "131705": {
+    "name": "느라키 공병",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_103_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1b1c3355184fea64d27e95bd06a238f7965026c0dfa5e6736f7a75b71027a13.png",
+    "attack": 12,
+    "health": 6,
+    "text": "<b>전투의 함성과 죽음의 메아리:</b> 기력 충전실을 2개 얻습니다."
+  },
+  "131707": {
+    "name": "어둠의 인형조종사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_104_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66fa38b7653b49b0c740e1d2769616db0fc51a0e4e9fe1eb7a0cbe611203f0e8.png",
+    "attack": 16,
+    "health": 8,
+    "text": "<b>죽음의 메아리:</b> 내 선술집 주문들이 이번 게임 동안 추가로 생명력을 + 부여합니다."
+  },
+  "131711": {
+    "name": "칼잡이 크시르",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_106_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81b452c20b29adcdce1ca501d3d20a15c75b8193443581e4b702e323320aa66e.png",
+    "attack": 8,
+    "health": 8,
+    "text": "내가 카드를 버릴 때마다 이 하수인과 내 <b>현신</b>에게 + /+ |1(을,를) 부여합니다."
+  },
+  "131715": {
+    "name": "흉포한 정신절단자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_108_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5f1adeed6fd204feaffd7920a7cb4f7d692de1294955de46ab727f2b28ef427.png",
+    "attack": 6,
+    "health": 2,
+    "text": "내가 선술집 주문을 시전할 때마다 이 하수인과 내 <b>현신</b>에게 + /+ |1(을,를) 부여합니다."
+  },
+  "131717": {
+    "name": "의심의 그림자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_109_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/256930bfbc316ae17b9e2d2df9a4c7fd2f9c51be3fce526c3e3f41070dc86b1f.png",
+    "attack": 12,
+    "health": 16,
+    "text": "내 손으로 카드를 가져올 때마다, 내 <b>현신</b>에게 + /+ |1(을,를) 부여합니다."
   },
   "131719": {
     "name": "희락",
@@ -5559,6 +5743,30 @@
     "health": 6,
     "text": "<b>전투의 함성:</b> 내 <b>현신</b>에게 + /+ |1(을,를) 부여합니다."
   },
+  "131721": {
+    "name": "공포의 샤",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_111_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a822e0b72c971a4a130e893f8b7ec22414c6a29f947e6aafe632222ee38fb1f0.png",
+    "attack": 18,
+    "health": 24,
+    "text": "내가 선술집 주문을 시전할 때마다 내 하수인들과 <b>현신</b>에게 + /+ |1(을,를) 부여합니다."
+  },
+  "132137": {
+    "name": "느라키 서리술사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_300_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92c1fee1afefb44e3fe690dd7a2cafe9278a5233385f950fc7246657ab41aac4.png",
+    "attack": 12,
+    "health": 6,
+    "text": "<b>사용 ( ):</b> 카드를 버립니다. 내 선술집 주문들이 이번 게임 동안 추가로 + /+ |1(을,를) 부여합니다."
+  },
+  "132184": {
+    "name": "얼굴 없는 첩보원",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_308_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d64eecfe7f35911a8b11f2c911ad7562e4ade0f239878db0bf0807ed9ed96354.png",
+    "attack": 8,
+    "health": 4,
+    "text": "이 하수인을 팔면 무작위 돌연변이를 4마리 얻습니다. 그중 둘을 내면 나머지 둘을 버립니다. 이 하수인을 팔면 무작위 돌연변이를 4마리 얻습니다. 그중 둘을 내거나 <b>전달</b>하면 나머지 둘을 버립니다."
+  },
   "132214": {
     "name": "심연의 급사",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_311_G_triple.png",
@@ -5566,6 +5774,14 @@
     "attack": 6,
     "health": 8,
     "text": "<b>사용 ( ):</b> 카드를 버리고 무작위 선술집 주문을 2개 얻습니다."
+  },
+  "132216": {
+    "name": "정신왜곡 모병관",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_312_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f567e7ff8e3a7bf26da281cf1f8cbe3f037ce85a380d9bc7a79a77fd83e3a79.png",
+    "attack": 12,
+    "health": 4,
+    "text": "<b>사용 ( ):</b> 카드를 버리고 무작위 돌연변이를 2마리 얻습니다."
   },
   "132307": {
     "name": "영혼감시 간수",
@@ -5598,6 +5814,14 @@
     "attack": 6,
     "health": 12,
     "text": "<b>사용 ( ):</b> 다른 아군 언데드에게 <b>환생</b>을 부여합니다. 그 후 그 언데드를 처치하고 + /+ |1(을,를) 얻습니다."
+  },
+  "132332": {
+    "name": "얼굴 없는 변환사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_318_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4808911331aab2f4851395205b75bb8c4a6940b273d7633d5ab9dac8fe347ac1.png",
+    "attack": 10,
+    "health": 10,
+    "text": "<b>죽음의 메아리:</b> 내 <b>현신</b>에게 + /+ |1(을,를) 부여합니다. <i>(이번 게임에서 내가 시전한 선술집 주문의 수만큼 강화됩니다!)</i>"
   },
   "132581": {
     "name": "공허의 힘",
@@ -6063,6 +6287,38 @@
     "health": 16,
     "text": "아군 하수인이 <b>환생</b>한 후에, 가장 오른쪽에 있는 내 언데드에게 그 하수인의 공격력의 2배만큼 능력치를 부여합니다."
   },
+  "133097": {
+    "name": "악취 나는 부식자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_112_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8f576454460007be8e1036d397c07da14fc6cdf4bad2b4c21d85751a356156f.png",
+    "attack": 6,
+    "health": 6,
+    "text": "<b>전투의 함성:</b> 진흙 부식을 둘 얻습니다."
+  },
+  "133099": {
+    "name": "방황하는 제물",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_113_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/207f60c2ee4ea88955b905c1a917e68949276756b1e1f953a5a791053227177b.png",
+    "attack": 4,
+    "health": 2,
+    "text": "<b>환생</b> <b>죽음의 메아리:</b> 내 <b>현신</b>에게 + /+ |1(을,를) 부여합니다."
+  },
+  "133101": {
+    "name": "새끼 기생 살덩이괴물",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_114_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98fd12bde2e709f404c323bc055a00dd0e41dcb31c13949997024feff1bd0e19.png",
+    "attack": 8,
+    "health": 12,
+    "text": "내 턴이 끝날 때 가장 왼쪽에 있는 내 하수인에게 + /+ |1(을,를) 부여합니다. <i>(내가 이번 게임에 버린 카드의 수만큼 강화됩니다!)</i>"
+  },
+  "133103": {
+    "name": "악몽 부식자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_115_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8208072f0ef90e66458d7871e5ca2fe82ca42f46377291a3ddc88f80638b10aa.png",
+    "attack": 14,
+    "health": 8,
+    "text": "<b>죽음의 메아리:</b> 진흙 부식을 둘 얻습니다."
+  },
   "133105": {
     "name": "썩은굴 피조물",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_116_G_triple.png",
@@ -6199,6 +6455,22 @@
     "health": 1,
     "text": "게임마다 각각 다른 <b>어둠의 선물</b>, 능력치 및 등급을 가집니다!"
   },
+  "134406": {
+    "name": "희생의 격노수호병",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_362_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/359078f3e15aefcc339aadf439d8da88f24ce08498952544663779ce109439bb.png",
+    "attack": 10,
+    "health": 6,
+    "text": "<b>죽음의 메아리:</b> 이번 게임 동안 선술집에 있는 하수인들에게 + /+ |1(을,를) 부여합니다. <b>사용 ( ):</b> 이 하수인을 강화합니다."
+  },
+  "134422": {
+    "name": "욕심쟁이 공모자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_369_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c8c0e55f5a8b63474bcbe51f4dffce946e317cff886b2d42739508b8d8fe28b.png",
+    "attack": 14,
+    "health": 14,
+    "text": "이 하수인을 팔 때 이 하수인이 황금 하수인이면, 7단계 하수인을 <b>발견</b>합니다."
+  },
   "134495": {
     "name": "영웅적인 무리어미",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_849_G_triple.png",
@@ -6206,6 +6478,14 @@
     "attack": 14,
     "health": 14,
     "text": "<b>집결:</b> <b>천상의 보호막</b>을 얻습니다. <b>기선 제압:</b> 즉시 2번 공격합니다."
+  },
+  "134498": {
+    "name": "수수께끼의 크시르",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_320_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fb49a568b656bae5576b51f1d6e88181fd9085ffe3ba0b8346d4ac329f5904c.png",
+    "attack": 16,
+    "health": 16,
+    "text": "내 턴이 끝날 때, 가장 왼쪽에 있는 내 선술집 주문 개를 버립니다. 버린 주문 하나당 + /+ |1(을,를) 얻습니다."
   },
   "134503": {
     "name": "부화",
