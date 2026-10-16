@@ -7,14 +7,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2770b35d9851e60d1bf3c0cca69502693428f6d4bcfaf1d59e4f151c9c3e5e88.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_330t92.jpg"
   },
-  "104945": {
-    "name": "폭주 모듈",
-    "manaCost": 2,
-    "classId": 12,
-    "rarityId": 1,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b6b2a4d5c346ed02c661424118d39b063a9caa40b98c6625d69d2c0f42a3de1.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TOY_330t93.jpg"
-  },
   "104946": {
     "name": "괴력 모듈",
     "manaCost": 2,
