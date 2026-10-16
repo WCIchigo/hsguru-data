@@ -239,6 +239,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9fe17dd2179cead5e89030c8dedd26dead63d1bfe4d7c00df4ec471bfe1f5d2.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a60b28b4a9bb70748ce68815582bbde7a0c2ebfdf70988adb51da88c5d655fc.jpg"
   },
+  "227": {
+    "id": 227,
+    "name": "유도 닭",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "기계",
+    "attack": 0,
+    "health": 1,
+    "text": "내 턴이 시작될 때, 이 하수인을 파괴하고 카드를 세 장 뽑습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/996fb5852c6139fafbbe5295c15c2fb7c89bc0b7fadc04a9bf89175ed77acd0f.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/Mekka1.jpg"
+  },
   "229": {
     "id": 229,
     "name": "고정 사격",
@@ -358,6 +370,18 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/444de1af22dc7f936e5c6ab613e246c313d4ca9ae2c7b0676fe41941c0943d07.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/EX1_tk9.jpg"
+  },
+  "378": {
+    "id": 378,
+    "name": "보랏빛 수습생",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": null,
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37d89fb5cfa9376e44458fff315036cfdaa8b2e991c93b82c88f25a62baf2410.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/NEW1_026t.jpg"
   },
   "383": {
     "id": 383,
@@ -12539,6 +12563,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7cbbc84fe0c96498038dc3f47017ccb0099fc295775cd75c0e409f1d3d5d898b.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/ONY_005tb6.jpg"
   },
+  "75824": {
+    "id": 75824,
+    "name": "유골 단지",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 하수인들에게 \"<b>죽음의 메아리:</b> 무작위 <b>전설</b> 하수인을 소환\" 능력을 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11d49a384a595dd1c7a06c230f5e3c53ea4175798c9312ec54bbc5bfdff806fa.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/ONY_005tb7.jpg"
+  },
   "75826": {
     "id": 75826,
     "name": "고대의 환영",
@@ -20975,6 +21011,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28cff9eb2773d262083021ec5cbaca1845f8f6ca5953a3c24686cf7e06fad3f2.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_464t17.jpg"
   },
+  "111955": {
+    "id": 111955,
+    "name": "유골 단지",
+    "manaCost": 3,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "내 하수인들에게 \"<b>죽음의 메아리:</b> 무작위 <b>전설</b> 하수인을 소환함\" 능력을 부여합니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6107bd1a971f588b5be257bde16137f1821187d63db1411335bfdceca25b92fd.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/VAC_464t18.jpg"
+  },
   "111956": {
     "id": 111956,
     "name": "고대의 환영",
@@ -27022,6 +27070,18 @@
     "text": "<b>연계:</b> 이번 턴에 내 영웅이 공격력을 +1 얻습니다. 방어도를 1 얻습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d9a0ec684274b7d2d2922d7d3ba56e3a23ba828ccad719c06abb21bc4e26cbd.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_720t6.jpg"
+  },
+  "130106": {
+    "id": 130106,
+    "name": "보라색 애벌레",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 2,
+    "health": 1,
+    "text": "<b><b>연계</b></b>: 카드를 뽑고 내 영웅에게 피해를 2 줍니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0916f847ca1955f7fa7459031dd51bc52ed5092a5876be9638388fde71ad74ee.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_720t7.jpg"
   },
   "130107": {
     "id": 130107,

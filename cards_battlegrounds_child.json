@@ -2991,6 +2991,14 @@
     "health": null,
     "text": "헬석의 날을 2개 얻습니다."
   },
+  "116241": {
+    "name": "윙윙거리는 해충",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_803_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6be2ea0119c9e42f224f05c4d95477de464710c56c215db986cb3270049b453.png",
+    "attack": 2,
+    "health": 2,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b> / 딱정벌레를 둘 소환합니다."
+  },
   "116435": {
     "name": "헬석광",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_326_G_triple.png",
@@ -6447,6 +6455,22 @@
     "health": null,
     "text": "4턴마다 <b>어둠의 선물</b> 능력이 있는 하수인을 <b>발견</b>합니다. <i>( 턴 남음!)</i>"
   },
+  "134320": {
+    "name": "황혼의 망치",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_MagicItem_403t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/741bbee71a0e6997af505c4909215a7665816bd60a5c11268a7724be309a27a4.png",
+    "attack": null,
+    "health": null,
+    "text": "내 하수인들이 + /+ |1(을,를) 얻습니다. <i>(이번 게임에서 내가 버린 카드의 수만큼 강화됩니다!)</i>"
+  },
+  "134323": {
+    "name": "타락한 지휘봉",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_MagicItem_404t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8079c14c8cda91ab4f630d9f91324d8759b17eb8ca467782f932457dc4cae739.png",
+    "attack": null,
+    "health": null,
+    "text": "내가 선술집 주문을 시전한 후에 내 <b>현신</b>에게 + /+ |1(을,를) 부여합니다."
+  },
   "134402": {
     "name": "어둠의 모순",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360_G_triple.png",
@@ -6510,6 +6534,22 @@
     "attack": 20,
     "health": 20,
     "text": "<b>사용 ( ):</b> <b>혈석</b>을 개 얻습니다. 얻지 못한 혈석은 가장 왼쪽에 있는 내 하수인에게 시전합니다."
+  },
+  "134461": {
+    "name": "부피 증폭기 초상화",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_MagicItem_423t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72b9a22e47e1d87fe276664f4989d494842d177c8408e5ece9bb1e2b97093408.png",
+    "attack": null,
+    "health": null,
+    "text": "무작위 <b>합체</b> 부피 증폭기를 2개 얻습니다. 매 턴이 시작될 때 반복합니다."
+  },
+  "134463": {
+    "name": "키리의 일월식",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_MagicItem_412t2.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e883b7bb842e398c8c582ba8769d8d2563854acc6decfb39fb4401d05a6742b.png",
+    "attack": null,
+    "health": null,
+    "text": "구매 비용이 (4) 이하인 상급 <b>장신구</b>를 선택합니다. 이 장신구와 내 영웅 능력이 그 장신구로 변신합니다."
   },
   "134493": {
     "name": "꼬마 리치 수집가",
@@ -6646,5 +6686,13 @@
     "attack": 20,
     "health": 4,
     "text": "<b>죽음의 메아리:</b> 이 하수인의 능력치 2배를 가진 골렘을 소환합니다."
+  },
+  "134770": {
+    "name": "임기응변의 대가",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_MagicItem_417t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/580c1cde6819c8207171f01e3578c87e1585353e5fe2c2dbe66a0ed7e75b8961.png",
+    "attack": null,
+    "health": null,
+    "text": "하수인을 선택합니다. 이번 턴 비전투 상태에서 그 하수인이 능력치를 얻은 후, 내 <b>현신</b>도 해당 능력치를 얻습니다."
   }
 }
