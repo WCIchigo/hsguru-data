@@ -6255,6 +6255,14 @@
     "health": null,
     "text": "4턴마다 <b>어둠의 선물</b> 능력이 있는 하수인을 <b>발견</b>합니다. <i>( 턴 남음!)</i>"
   },
+  "134402": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 1,
+    "health": 1,
+    "text": "게임마다 각각 다른 <b>어둠의 선물</b>, 능력치 및 등급을 가집니다!"
+  },
   "134495": {
     "name": "영웅적인 무리어미",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_849_G_triple.png",
@@ -6262,5 +6270,85 @@
     "attack": 14,
     "health": 14,
     "text": "<b>집결:</b> <b>천상의 보호막</b>을 얻습니다. <b>기선 제압:</b> 즉시 2번 공격합니다."
+  },
+  "134704": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360t3.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 2,
+    "health": 4,
+    "text": "내가 카드를 낼 때마다 공격력을 + 얻습니다. 내가 카드를 낼 때마다 + /+ |1(을,를) 얻습니다."
+  },
+  "134705": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360_Gt3_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 4,
+    "health": 8,
+    "text": "내가 카드를 낼 때마다 공격력을 + 얻습니다. 내가 카드를 낼 때마다 + /+ |1(을,를) 얻습니다."
+  },
+  "134706": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360t4.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 8,
+    "health": 4,
+    "text": "<b>천상의 보호막</b> 이 하수인의 <b>천상의 보호막</b>이 피해를 번 받아야 부서집니다."
+  },
+  "134707": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360_Gt4_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 16,
+    "health": 8,
+    "text": "<b>천상의 보호막</b> 이 하수인의 <b>천상의 보호막</b>이 피해를 번 받아야 부서집니다."
+  },
+  "134708": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360t5.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 2,
+    "health": 6,
+    "text": "<b>집결:</b> 내가 가장 많이 보유한 종족의 무작위 하수인을 얻습니다."
+  },
+  "134709": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360_Gt5_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 4,
+    "health": 12,
+    "text": "<b>집결:</b> 내가 가장 많이 보유한 종족의 무작위 하수인을 둘 얻습니다."
+  },
+  "134710": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360t6.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 2,
+    "health": 2,
+    "text": "이번 게임에서 내가 <b>전투의 함성</b>을 발동시킬 때마다 + /+ |1(을,를) 얻습니다. <i>(어디에 있든)</i>"
+  },
+  "134711": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360_Gt6_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 4,
+    "health": 4,
+    "text": "이번 게임에서 내가 <b>전투의 함성</b>을 발동시킬 때마다 + /+ |1(을,를) 얻습니다. <i>(어디에 있든)</i>"
+  },
+  "134716": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360t9.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 10,
+    "health": 2,
+    "text": "<b>죽음의 메아리:</b> 이 하수인의 능력치를 가진 골렘을 소환합니다."
+  },
+  "134717": {
+    "name": "어둠의 모순",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_360_Gt9_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b2eab3dc6999ceb7a1540131f0342c6559f005cde711516d3e4750cef41654d.png",
+    "attack": 20,
+    "health": 4,
+    "text": "<b>죽음의 메아리:</b> 이 하수인의 능력치 2배를 가진 골렘을 소환합니다."
   }
 }
