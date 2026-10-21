@@ -27805,14 +27805,14 @@
   },
   "132837": {
     "id": 132837,
-    "name": "Detained for Destruction",
+    "name": "파괴죄로 구금",
     "manaCost": 0,
     "cardType": "주문",
     "minionType": null,
     "attack": null,
     "health": null,
     "text": "Force each minion to attack another minion.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fea9fcedd4594acadd29ec7c284815e77d41288a06131afbff13a58849b6660.png",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05bd012a190e9a98a4c6223ff71348fb4653d4fbee10a99910bd889bd8e041ce.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/CAP_405t1.jpg"
   },
   "132838": {
