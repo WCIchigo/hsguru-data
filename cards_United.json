@@ -5963,10 +5963,6 @@
     "name": "커다란 말벌",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99c53219ad3559d760e862d4191184dcb0f08a8ac2f79c45c90551d2c096f7c5.png"
   },
-  "41329": {
-    "name": "바위 정령",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e0e9b47bfd9d423b9731cafb98959e5d3446f711eadd6fb8015f4773e02a381.png"
-  },
   "41330": {
     "name": "대지의 기원",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61c612b50d58315a66347d8a9d7fb588e307a080d3a7dc48dfed97c583c151fc.png"
@@ -8021,10 +8017,6 @@
   },
   "46428": {
     "name": "카드가의 수정구",
-    "img": null
-  },
-  "46430": {
-    "name": "마도사의 로브",
     "img": null
   },
   "46432": {
@@ -18075,10 +18067,6 @@
     "name": "산양 탈것",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f46db6157d59774030df2015165b4b891455cacf25eeda735fd01c12bbee245.png"
   },
-  "64966": {
-    "name": "타비쉬의 산양",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b9e5f8e16332b6c7aaf558aaa3fcd8f9977b8c700cdd1a0736cbdc4dd2318af.png"
-  },
   "64968": {
     "name": "스톰윈드 피리꾼",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58a173f798f1ff7e6393d10606ae4dc8c192c82d593c35fcb8bc49dc750b8a7c.png"
@@ -19534,10 +19522,6 @@
   "70165": {
     "name": "차를가",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7675cf5f105830e176298682633f101d034c2e0f4856b0609820f6dfc4981f9a.png"
-  },
-  "70166": {
-    "name": "차를가",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84c83763e0082e6d13c9d5f7b3373dda9fcfe50090b2575eb876f2acdb401345.png"
   },
   "70168": {
     "name": "튼튼엄니",
@@ -33187,10 +33171,6 @@
     "name": "그을린 칼갈이",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62aadafb6b8e1a4e15a04eace276d028801948c7fe24494c73a77e834e5a57c3.png"
   },
-  "106676": {
-    "name": "바위!",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bd1bc73736e3b2fa8e6fd619cfc349e49ab0fee71ef2f7bf741354f99941c45.png"
-  },
   "106677": {
     "name": "보!",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0aaf0888effda8fa66c713fe6d7f5332dfe7c184cc46b76111f9dbb2fe9f88a7.png"
@@ -39931,10 +39911,6 @@
     "name": "미래의 실버문",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43542fb4ffe79486edd58111d834144ba7201fcebf7c1ea870bf5ecc0fbf4a41.png"
   },
-  "119196": {
-    "name": "차원 관문",
-    "img": null
-  },
   "119197": {
     "name": "등딱지의 도",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dfcf1141b0ea65faafc0c13d287cbbda00915c3d53d94d4ac038007f6160b3e7.png"
@@ -42121,10 +42097,6 @@
   },
   "121127": {
     "name": "절충의 제단",
-    "img": null
-  },
-  "121128": {
-    "name": "마도사의 파이프",
     "img": null
   },
   "121129": {
@@ -46125,10 +46097,6 @@
   },
   "127401": {
     "name": "실바나스의 힘",
-    "img": null
-  },
-  "127402": {
-    "name": "타비쉬의 힘",
     "img": null
   },
   "127407": {
@@ -50619,6 +50587,14 @@
     "name": "피지느러미 학자",
     "img": null
   },
+  "134581": {
+    "name": "불굴의 모험가",
+    "img": null
+  },
+  "134582": {
+    "name": "불굴의 모험가",
+    "img": null
+  },
   "134585": {
     "name": "끈질긴 가시마녀",
     "img": null
@@ -50799,12 +50775,36 @@
     "name": "기발한 요리용 불",
     "img": null
   },
+  "135874": {
+    "name": "떠나가는 신령",
+    "img": null
+  },
+  "135875": {
+    "name": "떠나가는 신령",
+    "img": null
+  },
+  "135876": {
+    "name": "사막의 결투사",
+    "img": null
+  },
+  "135877": {
+    "name": "사막의 결투사",
+    "img": null
+  },
   "135910": {
     "name": "시간왜곡의 왈로우",
     "img": null
   },
   "135911": {
     "name": "시간왜곡의 왈로우",
+    "img": null
+  },
+  "135916": {
+    "name": "방어 장치",
+    "img": null
+  },
+  "135917": {
+    "name": "방어 장치",
     "img": null
   },
   "135940": {
@@ -50851,6 +50851,14 @@
     "name": "날 선 전략",
     "img": null
   },
+  "136106": {
+    "name": "교활한 카멜레온",
+    "img": null
+  },
+  "136107": {
+    "name": "교활한 카멜레온",
+    "img": null
+  },
   "136112": {
     "name": "로티, 데빌사우루스 형상",
     "img": null
@@ -50881,6 +50889,14 @@
   },
   "136237": {
     "name": "무한의 여명",
+    "img": null
+  },
+  "136260": {
+    "name": "염가 선원",
+    "img": null
+  },
+  "136261": {
+    "name": "염가 선원",
     "img": null
   },
   "136262": {

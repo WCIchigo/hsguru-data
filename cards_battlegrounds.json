@@ -4483,6 +4483,30 @@
     ]
   },
   {
+    "id": 136260,
+    "name": "염가 선원",
+    "enname": "Cut-rate Crewman",
+    "cardType": "하수인",
+    "tier": 1,
+    "minionType": "해적",
+    "minionType2": null,
+    "attack": 2,
+    "health": 2,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "도발",
+    "text": "<b>도발</b> 비용이 (2)가 됩니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b606689c1406699a2b4fce457c05a4da96da85e040c1674a3f3aaf8c33637ed9.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e5eb171cc771b2b8c0f0f7daebae7fdd0eae5ff9935ee49d4ca343748b93d76.png",
+    "childIds": [
+      136261
+    ]
+  },
+  {
     "id": 98582,
     "name": "자장가봇",
     "enname": "Lullabot",
@@ -5683,6 +5707,30 @@
     ]
   },
   {
+    "id": 135874,
+    "name": "떠나가는 신령",
+    "enname": "Driftaway Djinni",
+    "cardType": "하수인",
+    "tier": 3,
+    "minionType": "정령",
+    "minionType2": null,
+    "attack": 6,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "아군 하수인이 <b>보너스 키워드</b>를 얻을 때마다 +3/+4|1(을,를) 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14bd6cc608345bd131b76a3fb00c7ca7319bfecc2ab315ee589c842a188b9b3c.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c91b783205b445c6fb016a25c3e421aebc9abbda9a240f0a422fe526d8d44fc.png",
+    "childIds": [
+      135875
+    ]
+  },
+  {
     "id": 135699,
     "name": "로봇 발사기",
     "enname": "Bot Launcher",
@@ -6620,6 +6668,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d24338dd2fa2b36394e2a13541b17d74c2b49dc48aa7506b812fa7d276299246.png",
     "childIds": [
       113767
+    ]
+  },
+  {
+    "id": 136106,
+    "name": "교활한 카멜레온",
+    "enname": "Cunning Chameleon",
+    "cardType": "하수인",
+    "tier": 4,
+    "minionType": "야수",
+    "minionType2": null,
+    "attack": 9,
+    "health": 3,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리, 발견",
+    "text": "<b>사용 (2)</b>: <b>죽음의 메아리</b> 하수인을 <b>발견</b>합니다. 그 하수인의 <b>죽음의 메아리</b>를 다음 턴까지 복사합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb90ff4c4965659a84b9e7c437414d4bb3bd55ee93d61e0fc9ede7c8af5446ec.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcc5d0042b0c3a205699f39225df21b0e57d58e9a880b8151381ce9ea92cc12a.png",
+    "childIds": [
+      136107
     ]
   },
   {
@@ -7992,6 +8064,30 @@
     ]
   },
   {
+    "id": 135916,
+    "name": "방어 장치",
+    "enname": "Defense Mechanism",
+    "cardType": "하수인",
+    "tier": 5,
+    "minionType": "기계",
+    "minionType2": null,
+    "attack": 3,
+    "health": 10,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "도발, 천상의 보호막",
+    "text": "<b>도발</b>, 이 하수인이 공격받을 때마다 다른 아군 하수인에게 <b>천상의 보호막</b>을 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7dcb3eacb9bc74bb7861b322febc4492821193a63063ca397a15dcc4ad3cf83.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d96bdb1069b4523645c8d5da48bc4368469c2f48fb9ea95b8afaa4cd9e32f93c.png",
+    "childIds": [
+      135917
+    ]
+  },
+  {
     "id": 126641,
     "name": "분장 애호가",
     "enname": "Costume Enthusiast",
@@ -8013,6 +8109,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e21088b9c07aa0305acc7a7eb01b5364a127eaf9ad29da7323fb0880e9c98fa.png",
     "childIds": [
       126642
+    ]
+  },
+  {
+    "id": 134581,
+    "name": "불굴의 모험가",
+    "enname": "Dauntless Adventurer",
+    "cardType": "하수인",
+    "tier": 5,
+    "minionType": "가시멧돼지",
+    "minionType2": null,
+    "attack": 4,
+    "health": 4,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성, 혈석",
+    "text": "<b>전투의 함성</b>: 이 하수인이 아군 가시멧돼지에게 <b>혈석</b>을 2개 냅니다. <i>(내 전장 조합에 있는 서로 다른 <b>보너스 키워드</b>의 수만큼 강화됩니다!)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91553d927d261794b3fbef454124f50d96900f7aed81ab042473c3504c09d109.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4f126ded785f4df80a2746c8ea5691953975c341b3f8da491538c4de5e0da62.png",
+    "childIds": [
+      134582
     ]
   },
   {
@@ -8940,6 +9060,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0729841d9c7c4bef453ffabe65a3dc19fe3d212bb30de8b243c7e52e75e120b.png",
     "childIds": [
       86994
+    ]
+  },
+  {
+    "id": 135876,
+    "name": "사막의 결투사",
+    "enname": "Desert Duelist",
+    "cardType": "하수인",
+    "tier": 6,
+    "minionType": "정령",
+    "minionType2": null,
+    "attack": 6,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "아군 하수인이 <b>보너스 키워드</b>를 얻을 때마다 내 하수인들에게 +6/+6|1(을,를) 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/495fc920d6f3be50d02405dd107472c285a7b81f6d7e36f092eadcb8f199d0ea.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42dbf3bebff17f8c77e2eb12aaf1c8edc93ad1cd4e8e380c69f2532eba7820a3.png",
+    "childIds": [
+      135877
     ]
   },
   {

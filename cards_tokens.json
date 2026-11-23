@@ -2843,18 +2843,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75dd05b825970ab8fc27923bb5976e14b208a757f81d7fa1c672289d1fd8758c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_083t1.jpg"
   },
-  "41329": {
-    "id": 41329,
-    "name": "바위 정령",
-    "manaCost": 1,
-    "cardType": "하수인",
-    "minionType": "정령",
-    "attack": 1,
-    "health": 1,
-    "text": null,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e0e9b47bfd9d423b9731cafb98959e5d3446f711eadd6fb8015f4773e02a381.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_211aa.jpg"
-  },
   "41330": {
     "id": 41330,
     "name": "대지의 기원",
@@ -10438,18 +10426,6 @@
     "text": null,
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/feadc7d7260054eb780150ab385bb4a4fb53e3e7e8c3ffee4f49c9b6952e6e83.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_455t.jpg"
-  },
-  "64966": {
-    "id": 64966,
-    "name": "타비쉬의 산양",
-    "manaCost": 2,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 2,
-    "health": 2,
-    "text": "공격할 때, <b>면역</b> 상태가 됩니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b9e5f8e16332b6c7aaf558aaa3fcd8f9977b8c700cdd1a0736cbdc4dd2318af.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/SW_458t.jpg"
   },
   "65160": {
     "id": 65160,
@@ -19378,18 +19354,6 @@
     "text": "<b>특대</b>, 이번 게임에서 내가 시전한 신성 주문 하나당 비용이 (1)씩 감소합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa3f5ec0d3f62036ed8d4c414fa1fbf63fd9804c6be0f6932a49c7cc9e1386c4.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/MIS_918t.jpg"
-  },
-  "106676": {
-    "id": 106676,
-    "name": "바위!",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "상대편이 가위를 선택하면, 카드를 2장 뽑습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bd1bc73736e3b2fa8e6fd619cfc349e49ab0fee71ef2f7bf741354f99941c45.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/MIS_916a.jpg"
   },
   "106677": {
     "id": 106677,
