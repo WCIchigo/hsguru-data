@@ -23170,6 +23170,28 @@
     ]
   },
   {
+    "id": 136018,
+    "name": "시간왜곡의 거울 마법사",
+    "enname": "Timewarped Mirror Mage",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": null,
+    "minionType2": null,
+    "attack": 9,
+    "health": 9,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>사용 ( )</b>: 무작위 아군 하수인을 복사하여 얻습니다. <i>(강화 효과가 없는 일반 하수인으로, <b><b>시간왜곡</b>의</b> 하수인 제외)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b40dad2cd28fc254994508949fa8aae64cac4e46479b550727aabf47a9d30cc.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7a0cd80ff8744c0c6034113c9f6448dd7fd5d865a0064a17791526af32dbd2e.png",
+    "childIds": null
+  },
+  {
     "id": 136298,
     "name": "시간왜곡의 거품로봇",
     "enname": "Timewarped Bubblebot",
@@ -23192,6 +23214,52 @@
     "childIds": [
       136299
     ]
+  },
+  {
+    "id": 136137,
+    "name": "시간왜곡의 결사단",
+    "enname": "Timewarped Phalanx",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "모두",
+    "minionType2": null,
+    "attack": 5,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리",
+    "text": "<b>죽음의 메아리</b>: 모든 아군 종족에게 +2/+2|1(을,를) 영구히 부여합니다. (종족마다 하나씩) 내가 종족이 없는 하수인을 낸 후에 강화됩니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93d3d28faed93fb2c84acca49a73205c7efdedd34f932fb2cc7ba124e2e65d49.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4be68dcb43f7e55e5f7a4c2f68fcd3bb08064f94d35601478902cb80ff487cd1.png",
+    "childIds": [
+      136138
+    ]
+  },
+  {
+    "id": 135019,
+    "name": "시간왜곡의 경화빛",
+    "enname": "Timewarped Hardlight",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "기계",
+    "minionType2": null,
+    "attack": 7,
+    "health": 7,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "천상의 보호막",
+    "text": "<b><b>천상의 보호막</b></b> 아군 <b>천상의 보호막</b>이 피해를 방지한 후에, 그만큼 공격력을 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e52fd46904ac945d7e1ef253126f4c33625987858442a4974838e2011c5ed571.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ec3d11b6c4df31798c1f0ad97c12d0593bfcd8a653d3387bf9b0664baf0902c.png",
+    "childIds": null
   },
   {
     "id": 127709,
@@ -23288,6 +23356,78 @@
     ]
   },
   {
+    "id": 136435,
+    "name": "시간왜곡의 공포수호병",
+    "enname": "Timewarped Terrorguard",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 7,
+    "health": 8,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "새로고침",
+    "text": "내가 선술집 주문을 시전한 후에, 내 다음 <b>새로고침</b>에 <b>먹이</b>를 2개 추가합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8780ba0a36b53b071febb91ff5067f510bfb9fd86866cd07c06e7e33a83f7344.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e93fded70bcbfa66b5c82de44517b703ade679aa9c93e8020980c3655b49040e.png",
+    "childIds": [
+      136436
+    ]
+  },
+  {
+    "id": 136286,
+    "name": "시간왜곡의 공허사제",
+    "enname": "Timewarped Voidpriest",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "돌연변이",
+    "minionType2": null,
+    "attack": 4,
+    "health": 8,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내가 카드를 버린 후에 그 카드를 복사하여 얻습니다. <i>(한 턴에 3번)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8df99faa28e8dec20bad464c6b9e7f30a418aa016539fdc42c5cfc5651841ee.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74e2f961191bf10040b46d68f2749f36f4482114fd17814e6ded0c91398197e0.png",
+    "childIds": [
+      136287
+    ]
+  },
+  {
+    "id": 136143,
+    "name": "시간왜곡의 관광단",
+    "enname": "Timewarped Tour Group",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "모두",
+    "minionType2": null,
+    "attack": 6,
+    "health": 7,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내가 카드를 낼 때마다 그 단계 이상인 아군 하수인들에게 +2/+2|1(을,를) 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b5888c397d29efede5ae82fcc57f692c1c9b939362078b857a9fa27e25cfcf5.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42fbdc30a53595915fac96e648cc978c6405e6593d2f22155544e3f58b231c7b.png",
+    "childIds": [
+      136144
+    ]
+  },
+  {
     "id": 128177,
     "name": "시간왜곡의 관리인",
     "enname": "Timewarped Caretaker",
@@ -23336,6 +23476,30 @@
     "childIds": [
       128048
     ]
+  },
+  {
+    "id": 135750,
+    "name": "시간왜곡의 기계멀록",
+    "enname": "Timewarped Mecherel",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "기계",
+    "minionType2": [
+      "멀록"
+    ],
+    "attack": 12,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "천상의 보호막",
+    "text": "<b>천상의 보호막</b> 다른 아군 하수인이 <b>천상의 보호막</b>을 잃은 후에, <b>천상의 보호막</b>을 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/beecf5fc6f4b684d6b8621f7f257ffcf0fa5a4170e5ed02298cc0bed0a3a287f.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92b5f0debfe17c42a898efd93a4aac26f550a505bd7bfeb069682b16266de70a.png",
+    "childIds": null
   },
   {
     "id": 136407,
@@ -23410,6 +23574,28 @@
     ]
   },
   {
+    "id": 136304,
+    "name": "시간왜곡의 노략꾼",
+    "enname": "Timewarped Looter",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "해적",
+    "minionType2": null,
+    "attack": 6,
+    "health": 10,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "선술집에서 2단계 이하의 하수인을 제시할 상황에 그 대신 <b>포상</b>을 제시합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa71a0a635bc9f05357a0790b434d45bb08f0536340e144004c236e47211b444.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d1a27de78381822b70fdfd0165777d0ba1ad1907b7cb1a494bebbf8eea8a255.png",
+    "childIds": null
+  },
+  {
     "id": 126580,
     "name": "시간왜곡의 노략질꾼",
     "enname": "Timewarped Plunderer",
@@ -23479,6 +23665,54 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef98b599b05f49bdbea14671779cb7078fcae830ca11ce6d0703a2b67a9deaee.png",
     "childIds": [
       127374
+    ]
+  },
+  {
+    "id": 136290,
+    "name": "시간왜곡의 느조스의 피조물",
+    "enname": "Timewarped Spawn of N'Zoth",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "돌연변이",
+    "minionType2": null,
+    "attack": 7,
+    "health": 7,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리",
+    "text": "<b>죽음의 메아리</b>: 내 <b>현신</b>에게 이 하수인의 최대 능력치를 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/236b5a081ce1adbc5306dcde1c6ae253363e15d8ab52dd1810452d7284ec149b.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4122acbe5d38f69bf3637a502e9e704df13fc47ac9fa676856bc1ff105fe553.png",
+    "childIds": [
+      136291
+    ]
+  },
+  {
+    "id": 136310,
+    "name": "시간왜곡의 달달한 식성의 축제꾼",
+    "enname": "Timewarped Sweet Tooth",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "돌연변이",
+    "minionType2": null,
+    "attack": 8,
+    "health": 3,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성, 죽음의 메아리",
+    "text": "<b>전투의 함성과 죽음의 메아리</b>: 타락한 동전을 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d4eebca019ca9336c7b69af3d95f9f61cecaf547b64b928abdd481af408c56b.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31be09073961f5596bb12917a0625530585f04a0ef744d19f47d48b67f502749.png",
+    "childIds": [
+      136311
     ]
   },
   {
@@ -23886,6 +24120,30 @@
     ]
   },
   {
+    "id": 135987,
+    "name": "시간왜곡의 복제자",
+    "enname": "Timewarped Replicator",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "돌연변이",
+    "minionType2": null,
+    "attack": 12,
+    "health": 4,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리",
+    "text": "<b>죽음의 메아리</b>: 내 손에서 가장 오른쪽에 있는 카드 2장을 버리고 시간왜곡의 복제자를 소환합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2ed7a8858cba52a8331c38aa93f0a96ad6e43b51e34e5345fb4a0d4d9d95e1b.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ade4ef1d6dc18a81ac9de5e3d72513d8296a7190fb523eb35a7be40c8fd7876c.png",
+    "childIds": [
+      135988
+    ]
+  },
+  {
     "id": 127773,
     "name": "시간왜곡의 불멸자",
     "enname": "Timewarped Immortal",
@@ -24170,6 +24428,30 @@
     "childIds": null
   },
   {
+    "id": 136296,
+    "name": "시간왜곡의 신성화 로봇",
+    "enname": "Timewarped Sanctifier",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "기계",
+    "minionType2": null,
+    "attack": 7,
+    "health": 4,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "천상의 보호막",
+    "text": "내 턴이 끝날 때 신성화를 시전합니다. <b>천상의 보호막</b> 능력이 있는 아군 하수인의 수만큼 반복합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d17d00536739123a0b6e7991ac9775d94233a8f432fc5fac211e700cd378359.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52fb97c2df1ae858c54e18d4774801465d432f1e41d9384274791d0b883023f1.png",
+    "childIds": [
+      136297
+    ]
+  },
+  {
     "id": 127877,
     "name": "시간왜곡의 아기 가멧",
     "enname": "Timewarped Lil' Quilboar",
@@ -24263,6 +24545,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42af1a46267c339aee94f6a0eddb06fc908e292fbe8c25c063e96d30bb74bca5.png",
     "childIds": [
       127772
+    ]
+  },
+  {
+    "id": 136022,
+    "name": "시간왜곡의 악몽",
+    "enname": "Timewarped Nightmare",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "언데드",
+    "minionType2": null,
+    "attack": 8,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리",
+    "text": "<b>죽음의 메아리</b>: 이 하수인과는 다른 아군 언데드에게 '<b>죽음의 메아리</b>: 시간왜곡의 악몽을 소환함' 능력을 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a10508baefe29c463069f2f0868447723472278266f0c407ec473378746d84d.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05a51cc2d6c12a6980bc03ff2110a8d1529561355f8c54af1da9c8e6049ff315.png",
+    "childIds": [
+      136023
     ]
   },
   {
@@ -24404,6 +24710,28 @@
     "childIds": null
   },
   {
+    "id": 135976,
+    "name": "시간왜곡의 이야기",
+    "enname": "Timewarped Story",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "하수인에게 모든 <b>보너스 키워드</b>를 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5188aa128d985ea369912e393e5236ff5e5c2eca7f386772fe403c126f1201a.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7c4168ba8e49f84198ee411baf696d5d7f4cc4ba65f144b484154076c196791.png",
+    "childIds": null
+  },
+  {
     "id": 136133,
     "name": "시간왜곡의 인내자",
     "enname": "Timewarped Endurer",
@@ -24500,6 +24828,30 @@
     ]
   },
   {
+    "id": 135906,
+    "name": "시간왜곡의 정예수호병",
+    "enname": "Timewarped Sergeant",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "언데드",
+    "minionType2": null,
+    "attack": 8,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리",
+    "text": "<b>죽음의 메아리</b>: 내 다른 하수인들에게 생명력을 +3 부여합니다. <i>(이 하수인이 공격력을 얻은 후 영구히 강화됩니다.)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3bb3feadb0f47db4f984b8051db3ef7f4779793fbc29c5b9b55db4610688c190.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00d94d01e1428505312c0e8727d2c790b34094bf9eb76f3fa590d51c57f3bed1.png",
+    "childIds": [
+      135907
+    ]
+  },
+  {
     "id": 127510,
     "name": "시간왜곡의 정찰병",
     "enname": "Timewarped Scout",
@@ -24592,6 +24944,28 @@
     ]
   },
   {
+    "id": 136340,
+    "name": "시간왜곡의 지혜의 공",
+    "enname": "Timewarped Wisdomball",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "새로고침",
+    "text": "이번 턴에 하는 <b>새로고침</b>들이 가끔씩 도움이 됩니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e4d9b799a100f2d79454c80eedd6ba9364b1f03a14d20b712f910f107bf4a2e.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6b45605b04d24fc417a6452553667db67408fd57a1ee0ebac0d0116ced1dcc9.png",
+    "childIds": null
+  },
+  {
     "id": 126398,
     "name": "시간왜곡의 진화",
     "enname": "Timewarped Evolution",
@@ -24635,6 +25009,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d8cab68e37c74d55f50209e1246803da4975f1168629933f32d69fce45ed007.png",
     "childIds": [
       136239
+    ]
+  },
+  {
+    "id": 135896,
+    "name": "시간왜곡의 천둥 기사",
+    "enname": "Timewarped Thunder Knight",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "정령",
+    "minionType2": null,
+    "attack": 5,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성, 죽음의 메아리",
+    "text": "<b>전투의 함성과 죽음의 메아리</b>: 원소 지휘를 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50f9046a65915c6c2611f4022434e631bf2494fa820eb8c58d8c07f2e02fcd43.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de5d9430f0f43700195833e717c4b0c645149b370accdfaf85099b60b67c1687.png",
+    "childIds": [
+      135897
     ]
   },
   {
@@ -24684,6 +25082,28 @@
     "childIds": [
       136293
     ]
+  },
+  {
+    "id": 136433,
+    "name": "시간왜곡의 춤꾼",
+    "enname": "Timewarped Mosher",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 10,
+    "health": 11,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>튼튼함</b>, <b>사용 (1)</b>: 다른 악마에게 생명력 +15|1(과,와) <b>튼튼함</b>을 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02821db68a7b92d7b6cd28504cc91eccf1916d5d23f1677533ef6bd024d1f1de.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc182a10893a65ca571b8909da860eb7bb2602d0e59beeaa56ef17f4468e6ce0.png",
+    "childIds": null
   },
   {
     "id": 126525,
@@ -24758,6 +25178,28 @@
     ]
   },
   {
+    "id": 136280,
+    "name": "시간왜곡의 크시르",
+    "enname": "Timewarped K'Thir",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "돌연변이",
+    "minionType2": null,
+    "attack": 6,
+    "health": 7,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>사용 (0)</b>: 내 손에 있는 모든 카드를 버립니다. 버린 카드 하나당 내 하수인들에게 +5/+5|1(을,를) 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c28c2f7bd08bd3fd5adb6e6a0a9d30aead4d68ed52daf02e153d9eb7289db43.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fb49a568b656bae5576b51f1d6e88181fd9085ffe3ba0b8346d4ac329f5904c.png",
+    "childIds": null
+  },
+  {
     "id": 127780,
     "name": "시간왜곡의 킬제덴",
     "enname": "Timewarped Kil'jaeden",
@@ -24803,6 +25245,52 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59a604b1bc47ab91864f1c08570b90c8af805312843d8692c5074e3a1e90c403.png",
     "childIds": [
       127770
+    ]
+  },
+  {
+    "id": 136405,
+    "name": "시간왜곡의 탈것",
+    "enname": "Timewarped Mount",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "용족",
+    "minionType2": null,
+    "attack": 5,
+    "health": 7,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성, 죽음의 메아리, 집결",
+    "text": "<b>전투의 함성, 죽음의 메아리, 집결</b>: 용폭풍을 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ab7705ea9a22f5088b4d8bbfea6baa9b0b1fa64235d54e4d397bbdbf249e56e.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/926d3828b1b1c93bfea49c72f785da3f2f5c55a7c8887e6c7666ed0f73b9b5f3.png",
+    "childIds": null
+  },
+  {
+    "id": 135902,
+    "name": "시간왜곡의 투척꾼",
+    "enname": "Timewarped Slinger",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "멀록",
+    "minionType2": null,
+    "attack": 5,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성",
+    "text": "<b>전투의 함성</b>: 다른 멀록을 황금 멀록으로 만듭니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9c8ea601fab824a7f9c90b97ab22c35a062fae7f90475da56ae9f60cab6bedf.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b64acb17f60fccfa0c2ee6df11ca5b7d11e749f398ecfcbc75fb5d1057ab8f9.png",
+    "childIds": [
+      135903
     ]
   },
   {
@@ -24902,6 +25390,30 @@
     ]
   },
   {
+    "id": 136024,
+    "name": "시간왜곡의 퓨마",
+    "enname": "Timewarped Sabercat",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "야수",
+    "minionType2": null,
+    "attack": 10,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리",
+    "text": "아군 <b>죽음의 메아리</b> 하수인이 죽을 때마다, 내 선술집 주문들이 이번 게임 동안 추가로 공격력을 +1 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca2350b292fc9482b812fa328ef5d7b3657181990af97c1c338e7d45c69c1e38.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a335861ec9dc6bf3d6050de1704dd5c45de974bd4915edc4010b00888bad6fd8.png",
+    "childIds": [
+      136025
+    ]
+  },
+  {
     "id": 126565,
     "name": "시간왜곡의 프리즘비늘",
     "enname": "Timewarped Prismscale",
@@ -24998,6 +25510,28 @@
     ]
   },
   {
+    "id": 136135,
+    "name": "시간왜곡의 혈석 밀수꾼",
+    "enname": "Timewarped Gem Smuggler",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "가시멧돼지",
+    "minionType2": null,
+    "attack": 6,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성, 혈석",
+    "text": "<b>전투의 함성과 사용 ( )</b>: 이 하수인이 내 다른 모든 하수인에게 <b>혈석</b>을 2개 냅니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19c4ef8b88ced92a70d36ce3e6a800a10f126b7c2eb200ad51778fbfd443df4a.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/375935bde5ce129d161d1a86c39b31a19d806f7d0b64b8e0a6b0e52579762004.png",
+    "childIds": null
+  },
+  {
     "id": 128117,
     "name": "시간왜곡의 혈석절단자",
     "enname": "Timewarped Gemsplitter",
@@ -25089,6 +25623,78 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f066e3d47da79be0cff9607d0b81aee9ee5b943f7e523fa277da7af9f5777d6.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8e09d6834fe0c7342d1bf0c159263cb5b2b5d810a046abdb939c7290c4af278.png",
+    "childIds": null
+  },
+  {
+    "id": 135898,
+    "name": "시간왜곡의 황천 피조물",
+    "enname": "Timewarped Nether Construct",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "악마",
+    "minionType2": [
+      "정령"
+    ],
+    "attack": 8,
+    "health": 8,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>사용 (1)</b>: 선술집에 있는 하수인들의 능력치를 2배 증가시킵니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6ebc4fb6df8725c10afea4b42097e4be4f3c606107763000b7accbf4becf9fb.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5bb40705b92338b707937d1565b0069ddff08d1d8657a308f2f78a115a6454c.png",
+    "childIds": [
+      135899
+    ]
+  },
+  {
+    "id": 136429,
+    "name": "시간왜곡의 후후란",
+    "enname": "Timewarped Huhuran",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "야수",
+    "minionType2": [
+      "언데드"
+    ],
+    "attack": 8,
+    "health": 9,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리, 집결",
+    "text": "내가 <b>죽음의 메아리</b> 또는 <b>집결</b> 하수인을 낼 때마다, 그 하수인의 <b>죽음의 메아리</b>와 <b>집결</b>을 발동시킵니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a44ee82aa7be093db408d564fbfada4f6a975d06cced5a3780d736d68e6176cd.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb9fd356013c427ef7cb1e75fb1bb55e5758010093a1aa5875916745997589ff.png",
+    "childIds": null
+  },
+  {
+    "id": 135975,
+    "name": "시간왜곡의 흉물의 의례",
+    "enname": "Timewarped Rite of Atrocity",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "어둠의 선물",
+    "text": "하수인을 선택하고 일반 하수인으로 복사하여 얻습니다. 그 후 <b>어둠의 선물</b>을 선택해 그 하수인에게 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b56089b52aa434b729b03d8e1d98103031cf4c3f0ba4460869d6205b87502fe8.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63bd5ce4c070ec509dc6b3b865f5a74533321fd6c44b1fef13a16287d2bd317f.png",
     "childIds": null
   },
   {

@@ -5151,14 +5151,6 @@
     "health": 4,
     "text": "이 하수인을 팔면 무작위 돌연변이를 4마리 얻습니다. 그중 둘을 내면 나머지 둘을 버립니다."
   },
-  "132214": {
-    "name": "심연의 급사",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_311_G_triple.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/100cda3de6525ac5c9e09dde15870d535d0629802f1f52ce63114f226e4a6db1.png",
-    "attack": 4,
-    "health": 4,
-    "text": "<b>사용 ( ):</b> 카드를 버리고 무작위 선술집 주문을 2개 얻습니다."
-  },
   "132216": {
     "name": "정신왜곡 모병관",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_312_G_triple.png",
@@ -5775,6 +5767,30 @@
     "health": 12,
     "text": "아군 하수인이 <b>보너스 키워드</b>를 얻을 때마다 내 하수인들에게 +6/+6|1(을,를) 두 번 부여합니다."
   },
+  "135897": {
+    "name": "시간왜곡의 천둥 기사",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de5d9430f0f43700195833e717c4b0c645149b370accdfaf85099b60b67c1687.png",
+    "attack": 10,
+    "health": 10,
+    "text": "<b>전투의 함성과 죽음의 메아리</b>: 원소 지휘를 2장 얻습니다."
+  },
+  "135899": {
+    "name": "시간왜곡의 황천 피조물",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5bb40705b92338b707937d1565b0069ddff08d1d8657a308f2f78a115a6454c.png",
+    "attack": 16,
+    "health": 16,
+    "text": "<b>사용 (1)</b>: 선술집에 있는 하수인들의 능력치를 3배 증가시킵니다."
+  },
+  "135903": {
+    "name": "시간왜곡의 투척꾼",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b64acb17f60fccfa0c2ee6df11ca5b7d11e749f398ecfcbc75fb5d1057ab8f9.png",
+    "attack": 10,
+    "health": 10,
+    "text": "<b>전투의 함성</b>: 다른 멀록 둘을 황금 멀록으로 만듭니다."
+  },
   "135905": {
     "name": "시간왜곡의 납작엄니",
     "img": null,
@@ -5782,6 +5798,14 @@
     "attack": 18,
     "health": 12,
     "text": "내가 골드를 소모할 때마다 이 하수인이 내 모든 가시멧돼지에게 <b>혈석</b>을 2개 냅니다. <i>(5골드 남음!)</i>"
+  },
+  "135907": {
+    "name": "시간왜곡의 정예수호병",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00d94d01e1428505312c0e8727d2c790b34094bf9eb76f3fa590d51c57f3bed1.png",
+    "attack": 16,
+    "health": 10,
+    "text": "<b>죽음의 메아리</b>: 내 다른 하수인들에게 생명력을 +6 부여합니다. <i>(이 하수인이 공격력을 얻은 후 영구히 강화됩니다.)</i>"
   },
   "135909": {
     "name": "시간왜곡의 부족 훈련교관",
@@ -5911,6 +5935,14 @@
     "health": 6,
     "text": "<b>전투의 함성과 죽음의 메아리</b>: 자라나는 수액을 둘 얻습니다."
   },
+  "135988": {
+    "name": "시간왜곡의 복제자",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ade4ef1d6dc18a81ac9de5e3d72513d8296a7190fb523eb35a7be40c8fd7876c.png",
+    "attack": 24,
+    "health": 8,
+    "text": "<b>죽음의 메아리</b>: 내 손에서 가장 오른쪽에 있는 카드 2장을 버리고 황금 시간왜곡의 복제자를 소환합니다."
+  },
   "135990": {
     "name": "시간왜곡의 커틀라스 검사",
     "img": null,
@@ -5926,6 +5958,22 @@
     "attack": 8,
     "health": 12,
     "text": "<b>사용 ( )</b>: 다른 아군 하수인을 처치하고 다음 턴까지 '<b>죽음의 메아리</b>: 그 하수인을 2마리 복사하여 소환함' 능력을 얻습니다."
+  },
+  "136023": {
+    "name": "시간왜곡의 악몽",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05a51cc2d6c12a6980bc03ff2110a8d1529561355f8c54af1da9c8e6049ff315.png",
+    "attack": 16,
+    "health": 10,
+    "text": "<b>죽음의 메아리</b>: 이 하수인과는 다른 아군 언데드에게 '<b>죽음의 메아리</b>: 황금 시간왜곡의 악몽을 소환함' 능력을 부여합니다."
+  },
+  "136025": {
+    "name": "시간왜곡의 퓨마",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a335861ec9dc6bf3d6050de1704dd5c45de974bd4915edc4010b00888bad6fd8.png",
+    "attack": 20,
+    "health": 12,
+    "text": "아군 <b>죽음의 메아리</b> 하수인이 죽을 때마다, 내 선술집 주문들이 이번 게임 동안 추가로 공격력을 +2 부여합니다."
   },
   "136054": {
     "name": "사원 수호자",
@@ -6046,6 +6094,14 @@
     "attack": 20,
     "health": 20,
     "text": "<b>사용 (3)</b>: 다른 아군 하수인에게 이 하수인의 능력치의 2배를 부여합니다."
+  },
+  "136144": {
+    "name": "시간왜곡의 관광단",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42fbdc30a53595915fac96e648cc978c6405e6593d2f22155544e3f58b231c7b.png",
+    "attack": 12,
+    "health": 14,
+    "text": "내가 카드를 낼 때마다 그 단계 이상인 아군 하수인들에게 +4/+4|1(을,를) 부여합니다."
   },
   "136150": {
     "name": "시간왜곡의 홈즈",
@@ -6223,6 +6279,22 @@
     "health": 10,
     "text": "<b>죽음의 메아리</b>: 내 <b>현신</b>에게 +8/+8|1(을,를) 부여합니다. <i>(이번 게임에서 내가 버린 카드의 수만큼 강화됩니다!)</i>"
   },
+  "136287": {
+    "name": "시간왜곡의 공허사제",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74e2f961191bf10040b46d68f2749f36f4482114fd17814e6ded0c91398197e0.png",
+    "attack": 8,
+    "health": 16,
+    "text": "내가 카드를 버린 후에 그 카드를 복사하여 얻습니다. <i>(한 턴에 6번)</i>"
+  },
+  "136291": {
+    "name": "시간왜곡의 느조스의 피조물",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4122acbe5d38f69bf3637a502e9e704df13fc47ac9fa676856bc1ff105fe553.png",
+    "attack": 14,
+    "health": 14,
+    "text": "<b>죽음의 메아리</b>: 내 <b>현신</b>에게 이 하수인의 최대 능력치의 2배를 부여합니다."
+  },
   "136293": {
     "name": "시간왜곡의 청동 문지기",
     "img": null,
@@ -6238,6 +6310,14 @@
     "attack": 12,
     "health": 16,
     "text": "<b>사용 (2)</b>: <b>합체</b> 기계를 6개 <b>발견</b>합니다."
+  },
+  "136297": {
+    "name": "시간왜곡의 신성화 로봇",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52fb97c2df1ae858c54e18d4774801465d432f1e41d9384274791d0b883023f1.png",
+    "attack": 14,
+    "health": 8,
+    "text": "내 턴이 끝날 때 신성화를 두 번 시전합니다. <b>천상의 보호막</b> 능력이 있는 아군 하수인의 수만큼 반복합니다."
   },
   "136299": {
     "name": "시간왜곡의 거품로봇",
@@ -6270,6 +6350,14 @@
     "attack": 2,
     "health": 2,
     "text": "<b>기선 제압</b>: 내 <b>현신</b>의 능력치의 2배를 얻습니다."
+  },
+  "136311": {
+    "name": "시간왜곡의 달달한 식성의 축제꾼",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31be09073961f5596bb12917a0625530585f04a0ef744d19f47d48b67f502749.png",
+    "attack": 16,
+    "health": 6,
+    "text": "<b>전투의 함성과 죽음의 메아리</b>: 타락한 동전을 2개 얻습니다."
   },
   "136343": {
     "name": "시간왜곡의 균류학자",
@@ -6318,6 +6406,14 @@
     "attack": 12,
     "health": 12,
     "text": "선술집에 있는 <b>전투의 함성</b> 하수인들의 비용이 (2) 감소합니다."
+  },
+  "136436": {
+    "name": "시간왜곡의 공포수호병",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e93fded70bcbfa66b5c82de44517b703ade679aa9c93e8020980c3655b49040e.png",
+    "attack": 14,
+    "health": 16,
+    "text": "내가 선술집 주문을 시전한 후에, 내 다음 <b>새로고침</b>에 <b>먹이</b>를 4개 추가합니다."
   },
   "136444": {
     "name": "시간왜곡의 까다로운 포식자",
