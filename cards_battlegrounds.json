@@ -21590,6 +21590,30 @@
     ]
   },
   {
+    "id": 136266,
+    "name": "시간왜곡의 병사",
+    "enname": "Timewarped Soldier",
+    "cardType": "시간왜곡",
+    "tier": 3,
+    "minionType": "돌연변이",
+    "minionType2": null,
+    "attack": 4,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "이 하수인이 능력치를 얻을 때마다 그 능력치를 내 <b>현신</b>에게도 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9438d506d656b2b25b75cd857aa74a7d38f3fc7997e56a2c6d3c07cf8e691f40.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/616bd347f1beedc988d4c30cd718161009eab02a36625e228ca190e113b00706.png",
+    "childIds": [
+      136267
+    ]
+  },
+  {
     "id": 135908,
     "name": "시간왜곡의 부족 훈련교관",
     "enname": "Timewarped Clan Trainer",
@@ -21825,6 +21849,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3af67643d1513015c7424276bef04b6132d482fcb197d6e3c33ecb0426273ae3.png",
     "childIds": [
       127734
+    ]
+  },
+  {
+    "id": 135968,
+    "name": "시간왜곡의 선임 정찰대원",
+    "enname": "Timewarped Sr. Scout",
+    "cardType": "시간왜곡",
+    "tier": 3,
+    "minionType": null,
+    "minionType2": null,
+    "attack": 7,
+    "health": 7,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "발견, 어둠의 선물",
+    "text": "이 하수인을 팔면, <b>어둠의 선물</b> 능력이 있는 2단계 하수인을 <b>발견</b>합니다. <i>(매 턴마다 강화됩니다!)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08f10ae1a9eac9933932239610c88d45bb8c6444e97fb7fd64733dee89b534a2.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4fd92b44b92988a3a780c79b5cd32159d1d202fa1394c67c98c632ee0630999a.png",
+    "childIds": [
+      135969
     ]
   },
   {
@@ -22157,6 +22205,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4892a2ce104a9ee4e305bb85ab22ef5f3db5dfbda8a2713c329e0e50d7e5847.png",
     "childIds": [
       127433
+    ]
+  },
+  {
+    "id": 135966,
+    "name": "시간왜곡의 재활용 제작사",
+    "enname": "Timewarped Scrapsmith",
+    "cardType": "시간왜곡",
+    "tier": 3,
+    "minionType": "가시멧돼지",
+    "minionType2": null,
+    "attack": 7,
+    "health": 3,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "도발, 천상의 보호막, 전투의 함성, 죽음의 메아리, 혈석",
+    "text": "<b>전투의 함성과 죽음의 메아리</b>: 가시멧돼지에게 <b>도발</b>, <b>천상의 보호막</b>, 또는 <b>환생</b>을 부여하는 <b>혈석</b>을 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d05a1f0bcce145663d1636c56ef5ccadd71e679d914b4874abff1e912c296de6.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/397c0a678812158043cb4e5bcd242b8754573979a0a8b449010490006b5f1f64.png",
+    "childIds": [
+      135967
     ]
   },
   {

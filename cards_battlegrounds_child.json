@@ -5847,6 +5847,22 @@
     "health": 16,
     "text": "<b>도발</b>, 내가 가시멧돼지를 낸 후에 <b>혈석</b>을 2개 얻고 이 하수인에게 2개 냅니다."
   },
+  "135967": {
+    "name": "시간왜곡의 재활용 제작사",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/397c0a678812158043cb4e5bcd242b8754573979a0a8b449010490006b5f1f64.png",
+    "attack": 14,
+    "health": 6,
+    "text": "<b>전투의 함성과 죽음의 메아리</b>: 가시멧돼지에게 <b>도발</b>, <b>천상의 보호막</b>, 또는 <b>환생</b>을 부여하는 <b>혈석</b>을 2개 얻습니다."
+  },
+  "135969": {
+    "name": "시간왜곡의 선임 정찰대원",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4fd92b44b92988a3a780c79b5cd32159d1d202fa1394c67c98c632ee0630999a.png",
+    "attack": 14,
+    "health": 14,
+    "text": "이 하수인을 팔면, <b>어둠의 선물</b> 능력이 있는 2단계 하수인을 둘 <b>발견</b>합니다. <i>(매 턴마다 강화됩니다!)</i>"
+  },
   "135971": {
     "name": "시간왜곡의 반대로 기술자",
     "img": null,
@@ -6102,6 +6118,14 @@
     "attack": 8,
     "health": 4,
     "text": "<b>환생</b>, <b>사용 ( )</b>: 카드를 버리고 가장 왼쪽에 있는 내 돌연변이 둘에게 <b>환생</b>을 부여합니다."
+  },
+  "136267": {
+    "name": "시간왜곡의 병사",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/616bd347f1beedc988d4c30cd718161009eab02a36625e228ca190e113b00706.png",
+    "attack": 8,
+    "health": 12,
+    "text": "이 하수인이 능력치를 얻을 때마다 그 능력치의 2배를 내 <b>현신</b>에게도 부여합니다."
   },
   "136271": {
     "name": "시간왜곡의 지하 군주",
