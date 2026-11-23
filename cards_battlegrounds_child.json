@@ -5775,6 +5775,14 @@
     "health": 12,
     "text": "아군 하수인이 <b>보너스 키워드</b>를 얻을 때마다 내 하수인들에게 +6/+6|1(을,를) 두 번 부여합니다."
   },
+  "135905": {
+    "name": "시간왜곡의 납작엄니",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/777e1eba187c3a68e0bc40548d322e2dc758a1df8d05954b5cfeb00a011700ee.png",
+    "attack": 18,
+    "health": 12,
+    "text": "내가 골드를 소모할 때마다 이 하수인이 내 모든 가시멧돼지에게 <b>혈석</b>을 2개 냅니다. <i>(5골드 남음!)</i>"
+  },
   "135909": {
     "name": "시간왜곡의 부족 훈련교관",
     "img": null,
@@ -6015,6 +6023,30 @@
     "health": 18,
     "text": "내가 이 하수인에게 주문을 시전할 때마다, 이번 게임 동안 내 야수들에게 +4/+4|1(을,를) 부여합니다. <i>(어디에 있든)</i>"
   },
+  "136134": {
+    "name": "시간왜곡의 인내자",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5a9fbcde0a297ceec1601ce5b4d35e472056432f3adf4e105841a83cf4c6a66.png",
+    "attack": 10,
+    "health": 18,
+    "text": "내가 하수인에게 <b>혈석</b>을 낸 후에 다음 턴까지 그 하수인에게 <b>튼튼함</b>을 부여합니다. <i>(한 턴에 6번)</i>"
+  },
+  "136140": {
+    "name": "시간왜곡의 흉합체",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94f3537114a4df28e0941a365000e511a65f97cf039d986220000452be1f5a2c.png",
+    "attack": 16,
+    "health": 16,
+    "text": "<b><b>천상의 보호막</b>,</b> <b><b>도발</b>,</b> <b>질풍</b>, <b>독소</b>, <b>죽음의 메아리</b>: 1/1 식물을 넷 소환합니다."
+  },
+  "136142": {
+    "name": "시간왜곡의 하수인뭉치",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52463ff27ae19277add78e392bf64902f503b1aaff431a2ed88b1ed08137fde6.png",
+    "attack": 20,
+    "health": 20,
+    "text": "<b>사용 (3)</b>: 다른 아군 하수인에게 이 하수인의 능력치의 2배를 부여합니다."
+  },
   "136150": {
     "name": "시간왜곡의 홈즈",
     "img": null,
@@ -6095,6 +6127,14 @@
     "health": null,
     "text": "첫 턴을 넘기고 주요 <b>시간왜곡</b>을 방문합니다. 45골드를 소모할 때까지 구매하는 카드들을 잠금 상태로 만듭니다. <i>(45골드 남음!)</i>"
   },
+  "136239": {
+    "name": "시간왜곡의 창살 갉작이",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d8cab68e37c74d55f50209e1246803da4975f1168629933f32d69fce45ed007.png",
+    "attack": 8,
+    "health": 24,
+    "text": "다른 아군 야수가 공격할 때마다 골드린의 축복을 2번 시전합니다."
+  },
   "136261": {
     "name": "염가 선원",
     "img": null,
@@ -6127,6 +6167,14 @@
     "health": 12,
     "text": "이 하수인이 능력치를 얻을 때마다 그 능력치의 2배를 내 <b>현신</b>에게도 부여합니다."
   },
+  "136269": {
+    "name": "시간왜곡의 의지파괴자",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/deee975c444362f5117ac3dfe10b5b69c302aee5f45bd4c21351bee0fb08b692.png",
+    "attack": 6,
+    "health": 10,
+    "text": "<b>사용 (1)</b>: 무작위 선술집 주문을 6개 얻습니다. 내가 하나를 시전한 후, 나머지를 버립니다."
+  },
   "136271": {
     "name": "시간왜곡의 지하 군주",
     "img": null,
@@ -6143,6 +6191,14 @@
     "health": 12,
     "text": "내가 이 하수인에게 주문을 시전한 후에 자라나는 수액을 2개 얻습니다. <i>(한 턴에 2번)</i>"
   },
+  "136275": {
+    "name": "시간왜곡의 종양",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa5792d668301540f1bdee54bce2f6b494aaecc0bc23dc52a3daff06bb13b609.png",
+    "attack": 4,
+    "health": 16,
+    "text": "내가 하수인을 버릴 때마다 그 하수인의 능력치의 2배와 <b><b>보너스 키워드</b></b>를 얻습니다."
+  },
   "136277": {
     "name": "시간왜곡의 재활용로봇",
     "img": null,
@@ -6158,6 +6214,62 @@
     "attack": 10,
     "health": 8,
     "text": "<b>전투의 함성, 죽음의 메아리, <b>집결</b></b>: 금고를 얻습니다. 이미 금고가 있으면, 그 대신 그 금고가 2턴 일찍 열립니다."
+  },
+  "136285": {
+    "name": "시간왜곡의 변환사",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4808911331aab2f4851395205b75bb8c4a6940b273d7633d5ab9dac8fe347ac1.png",
+    "attack": 14,
+    "health": 10,
+    "text": "<b>죽음의 메아리</b>: 내 <b>현신</b>에게 +8/+8|1(을,를) 부여합니다. <i>(이번 게임에서 내가 버린 카드의 수만큼 강화됩니다!)</i>"
+  },
+  "136293": {
+    "name": "시간왜곡의 청동 문지기",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22e37c5eddee5b36eb81773ee4f0dc0380427b0ab631deefaf001ef256509c68.png",
+    "attack": 2,
+    "health": 40,
+    "text": "<b>합체</b>, <b>튼튼함</b>"
+  },
+  "136295": {
+    "name": "시간왜곡의 고물로봇",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d24338dd2fa2b36394e2a13541b17d74c2b49dc48aa7506b812fa7d276299246.png",
+    "attack": 12,
+    "health": 16,
+    "text": "<b>사용 (2)</b>: <b>합체</b> 기계를 6개 <b>발견</b>합니다."
+  },
+  "136299": {
+    "name": "시간왜곡의 거품로봇",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9252e6e091697117b3c4e5f0f804114f4b09b6af57b18321111bbbcfd2c4a45.png",
+    "attack": 6,
+    "health": 16,
+    "text": "<b>기선 제압</b>: 양옆의 하수인들에게 <b>천상의 보호막</b>을 부여합니다. 이미 하수인에게 천상의 보호막이 있다면 3번 더 피해를 받아야 부서집니다."
+  },
+  "136301": {
+    "name": "시간왜곡의 컨시어지",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a69c0bd8b1422ff85e912fbe713b3819998335cd299f9eb862badcc5816d20a4.png",
+    "attack": 10,
+    "health": 14,
+    "text": "능력치를 부여하는 선술집 주문의 비용이 (2) 감소합니다."
+  },
+  "136303": {
+    "name": "시간왜곡의 배달부",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73db780376ca142e7e2ff3fcaf6c77956e7f0e186087025dd2745db730f84cd3.png",
+    "attack": 8,
+    "health": 18,
+    "text": "<b>사용 (2):</b> 황금 4단계 하수인을 둘 <b>발견</b>합니다."
+  },
+  "136309": {
+    "name": "시간왜곡의 고라스의 눈",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc598389d78fcac719de5fe754a0906bbf997c9c470e09c1c5355d775492e438.png",
+    "attack": 2,
+    "health": 2,
+    "text": "<b>기선 제압</b>: 내 <b>현신</b>의 능력치의 2배를 얻습니다."
   },
   "136343": {
     "name": "시간왜곡의 균류학자",
@@ -6191,6 +6303,22 @@
     "health": 12,
     "text": "<b>전투의 함성과 집결</b>: 내 다음 3번의 <b>새로고침</b>에 <b>먹이</b>를 2개 추가합니다."
   },
+  "136408": {
+    "name": "시간왜곡의 기술자",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61440b26b983d83eac12528b859e6a2aab784067793fc48d1bf71f1867eb975a.png",
+    "attack": 16,
+    "health": 20,
+    "text": "<b>사용 ( )</b>: 턴이 끝날 때 발동하는 아군의 모든 효과를 두 번 발동시킵니다."
+  },
+  "136410": {
+    "name": "시간왜곡의 미래의 투사",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f120b66df881bd96c2f1664eafbb9b9f01d327c89c15f22debe28bddd3eb6bf.png",
+    "attack": 12,
+    "health": 12,
+    "text": "선술집에 있는 <b>전투의 함성</b> 하수인들의 비용이 (2) 감소합니다."
+  },
   "136444": {
     "name": "시간왜곡의 까다로운 포식자",
     "img": null,
@@ -6206,6 +6334,14 @@
     "attack": 8,
     "health": 8,
     "text": "<b>사용 ( )</b>: 이 하수인과 다른 아군 하수인에게 울려퍼지는 고함을 두 번 시전합니다."
+  },
+  "136448": {
+    "name": "시간왜곡의 횡단자",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf0fc183a0f473fd2c6532f32109aa96f03b829db21ee227a43779f623f2c6fe.png",
+    "attack": 12,
+    "health": 16,
+    "text": "내 턴이 끝날 때 무작위 <b>오색비룡</b>을 2마리 얻고 그 <b>전투의 함성</b>을 발동시킵니다."
   },
   "136592": {
     "name": "골화술사",
