@@ -5399,6 +5399,22 @@
     "health": null,
     "text": "무작위 하수인을 2마리 얻습니다. 그중 하나를 내면 나머지 하나를 버립니다."
   },
+  "134522": {
+    "name": "강건한 지옥사냥개",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f6b6031a6fa563c68e366650f3e7406ec1ffd92c25e7c75152fa7eb03f3dac7.png",
+    "attack": 2,
+    "health": 8,
+    "text": "<b>튼튼함</b>"
+  },
+  "134528": {
+    "name": "임픔",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/081c4c633891fde3ced0786ba371865e8ae485e0c9aca784b3eea935a6425b77.png",
+    "attack": 8,
+    "health": 12,
+    "text": "<b><b>도발</b>,</b> <b>튼튼함</b>, <b>임무</b>: 이 하수인이 5번 공격받으면 무작위 황금 악마를 둘 얻습니다. <i>(5번 남음!)</i>"
+  },
   "134694": {
     "name": "공허사제 복제사",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_700_G_triple.png",
@@ -5423,6 +5439,38 @@
     "health": null,
     "text": "하수인을 선택합니다. 이번 턴 비전투 상태에서 그 하수인이 능력치를 얻은 후, 내 <b>현신</b>도 해당 능력치를 얻습니다."
   },
+  "135911": {
+    "name": "시간왜곡의 왈로우",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6a7de689dd76c6439d285f67cdba03dd606ce290385baa6397058769724ef24.png",
+    "attack": 20,
+    "health": 20,
+    "text": "<b>사용 (3)</b>: 내가 가장 많이 보유한 종족이고 <b>어둠의 선물</b> 능력이 있는 4단계 이상 하수인을 둘 <b>발견</b>합니다."
+  },
+  "135973": {
+    "name": "시간왜곡의 티케투스",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e34a97f1f4db8b64d43a194ff40166bc65cd389d85bb41ad05174dcef15611bf.png",
+    "attack": 12,
+    "health": 16,
+    "text": "<b>사용 (3)</b>: 3단계 다크문 경품을 2개 <b>발견</b>합니다."
+  },
+  "136065": {
+    "name": "시간왜곡의 미로크",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45db7d8104f608cea39afb3c1a910b972fbe844df598a2814574181c6b6deb53.png",
+    "attack": 6,
+    "health": 12,
+    "text": "<b>사용 (4)</b>: 보조 <b>시간왜곡</b>에서 비용이 2인 하수인을 둘 <b>발견</b>합니다."
+  },
+  "136069": {
+    "name": "시간왜곡의 무르도즈노",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/118cfb4c405d64d988e1141958f75ce137a6c9c4c52bbf7e802b70884be62add.png",
+    "attack": 16,
+    "health": 16,
+    "text": "<b>사용 ( )</b>: 주요 <b><b>시간왜곡</b></b>에서 비용이 2인 카드를 두 장 <b>발견</b>합니다."
+  },
   "136100": {
     "name": "날 선 전략",
     "img": null,
@@ -5430,6 +5478,14 @@
     "attack": null,
     "health": null,
     "text": "1단계 하수인을 <b>발견</b>합니다. <i>(내가 이번 턴에 산 하수인 수만큼 강화됩니다!)</i>"
+  },
+  "136231": {
+    "name": "시간왜곡의 과일 상인",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c2c5726617c89461d59e551990f8bb7d6ddbcb77c82d4d79491158b4baee9f5.png",
+    "attack": 12,
+    "health": 12,
+    "text": "<b>사용 (6)</b>: 선술집 바나나 요리를 개 얻습니다."
   },
   "136237": {
     "name": "무한의 여명",

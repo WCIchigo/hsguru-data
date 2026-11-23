@@ -813,6 +813,8 @@
   "134438": "After you summon 25 minions, replace this with a random Greater Undead Trinket . (25 left!)",
   "134444": "At the end of your turn, give your minions +7/+7. (Doubles at the start of each turn!)",
   "134463": "Choose a Greater Trinket that costs (4) or less to buy. Transform this and your Hero Power into a copy of it.",
+  "134521": "Resilient",
+  "134527": "Taunt , Resilient Mission: Once this is attacked 5 times, get a random Golden Demon. (5 left!)",
   "134639": "Get 2 random Tavern spells. When you play one, discard the other. At the start of your turn, repeat this.",
   "134640": "Gain 1 Gold for each friendly Golden minion. At the start of your turn, repeat this.",
   "134641": "Get a Menagerie Tableware. At the start of each turn, get another.",
@@ -822,5 +824,11 @@
   "134748": "Discover a Golden minion of your most common type with a Dark Gift . It doesn't give a Triple Reward.",
   "134757": "After your Deity awakens, give it Reborn .",
   "134758": "Spellcraft: Choose a minion. After it gains stats outside combat this turn, your Deity also gains them.",
-  "134759": "After you discard 3 cards, your Tavern spells give an extra +1/+1 this game. (3 left!)"
+  "134759": "After you discard 3 cards, your Tavern spells give an extra +1/+1 this game. (3 left!)",
+  "135910": "Activate (3): Discover a minion of your most common type from Tier 4 or above with a Dark Gift .",
+  "135959": "Discover a minion of your most common type with a Dark Gift .",
+  "135972": "Activate (3): Discover a Tier 3 Darkmoon Prize.",
+  "136064": "Activate (4): Discover a 2-Cost minion from the Minor Timewarp .",
+  "136067": "Activate ( ): Discover a 2-Cost card from the Major Timewarp .",
+  "136230": "Activate (3): Get Tavern Dish Bananas."
 }

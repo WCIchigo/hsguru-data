@@ -4649,6 +4649,30 @@
     ]
   },
   {
+    "id": 134521,
+    "name": "강건한 지옥사냥개",
+    "enname": "Hardy Felhound",
+    "cardType": "하수인",
+    "tier": 2,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 1,
+    "health": 4,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>튼튼함</b>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4b14390ff2f8177b22f2bba8bdab4c1eccfab9ea0bf9f4881ae0d2a7c75589f.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f6b6031a6fa563c68e366650f3e7406ec1ffd92c25e7c75152fa7eb03f3dac7.png",
+    "childIds": [
+      134522
+    ]
+  },
+  {
     "id": 108432,
     "name": "고대의 전투로봇",
     "enname": "Ancestral Automaton",
@@ -6046,6 +6070,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d236fbe0fcc595bfa356d74e55a6c1f079e3fc6ed1e61b8eb4d92882133b10e3.png",
     "childIds": [
       105649
+    ]
+  },
+  {
+    "id": 134527,
+    "name": "임픔",
+    "enname": "Imp-erial",
+    "cardType": "하수인",
+    "tier": 3,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 4,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "도발",
+    "text": "<b><b>도발</b>,</b> <b>튼튼함</b>, <b>임무</b>: 이 하수인이 5번 공격받으면 무작위 황금 악마를 얻습니다. <i>(5번 남음!)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e714a393e1f6c12bd86e74def0572c64a782c7b0372bc09bed5814037966fa96.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/081c4c633891fde3ced0786ba371865e8ae485e0c9aca784b3eea935a6425b77.png",
+    "childIds": [
+      134528
     ]
   },
   {
@@ -18980,6 +19028,30 @@
     ]
   },
   {
+    "id": 136230,
+    "name": "시간왜곡의 과일 상인",
+    "enname": "Timewarped Fruit Vendor",
+    "cardType": "시간왜곡",
+    "tier": 3,
+    "minionType": "야수",
+    "minionType2": null,
+    "attack": 6,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>사용 (3)</b>: 선술집 바나나 요리를 개 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b9adde4fd591be5f358b070cece8f270c345393df0572d207e7f7d3ecdd77d5.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c2c5726617c89461d59e551990f8bb7d6ddbcb77c82d4d79491158b4baee9f5.png",
+    "childIds": [
+      136231
+    ]
+  },
+  {
     "id": 127735,
     "name": "시간왜곡의 구린속",
     "enname": "Timewarped Festergut",
@@ -19290,6 +19362,28 @@
     ]
   },
   {
+    "id": 135959,
+    "name": "시간왜곡의 망원경",
+    "enname": "Timewarped Telescope",
+    "cardType": "시간왜곡",
+    "tier": 3,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "발견, 어둠의 선물",
+    "text": "내가 가장 많이 보유한 종족의 <b>어둠의 선물</b> 능력이 있는 하수인을 <b>발견</b>합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/636d51a242fdbb66106ec76d1cfbfd6e087aa37bc3471cc77b2868be6c0ad973.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecc3f95b8a53f9bf28c77b5a61dd7cb4079b53d030b2715ef039122aced269f2.png",
+    "childIds": null
+  },
+  {
     "id": 127181,
     "name": "시간왜곡의 멀로클레스",
     "enname": "Timewarped Murcules",
@@ -19359,6 +19453,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d3851db4c3e2c9a18796d6c7bec86045387baecd2cc3437dda83f311512a798.png",
     "childIds": [
       127777
+    ]
+  },
+  {
+    "id": 136064,
+    "name": "시간왜곡의 미로크",
+    "enname": "Timewarped Morchie",
+    "cardType": "시간왜곡",
+    "tier": 3,
+    "minionType": null,
+    "minionType2": null,
+    "attack": 3,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "발견",
+    "text": "<b>사용 (4)</b>: 보조 <b>시간왜곡</b>에서 비용이 2인 하수인을 <b>발견</b>합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b037515068c1a879303a11c2990532133ed3251d5d1a41a331de88ffad07b5f8.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45db7d8104f608cea39afb3c1a910b972fbe844df598a2814574181c6b6deb53.png",
+    "childIds": [
+      136065
     ]
   },
   {
@@ -20850,6 +20968,30 @@
     ]
   },
   {
+    "id": 136067,
+    "name": "시간왜곡의 무르도즈노",
+    "enname": "Timewarped Murozond",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "용족",
+    "minionType2": null,
+    "attack": 8,
+    "health": 8,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "발견",
+    "text": "<b>사용 ( )</b>: 주요 <b><b>시간왜곡</b></b>에서 비용이 2인 카드를 <b>발견</b>합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be835c6b544e6fd5749af632b2c11bab20aea209e4a281a536732bd4c3d6652a.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/118cfb4c405d64d988e1141958f75ce137a6c9c4c52bbf7e802b70884be62add.png",
+    "childIds": [
+      136069
+    ]
+  },
+  {
     "id": 129128,
     "name": "시간왜곡의 미스락스",
     "enname": "Timewarped Mythrax",
@@ -21418,6 +21560,30 @@
     ]
   },
   {
+    "id": 135910,
+    "name": "시간왜곡의 왈로우",
+    "enname": "Timewarped Wallow",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": null,
+    "minionType2": null,
+    "attack": 10,
+    "health": 10,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "발견, 어둠의 선물",
+    "text": "<b>사용 (3)</b>: 내가 가장 많이 보유한 종족이고 <b>어둠의 선물</b> 능력이 있는 4단계 이상 하수인을 <b>발견</b>합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29409dedad5a4bcf2c340f7f0563b82dcccb4ba74bf2885997efe547902b06d1.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6a7de689dd76c6439d285f67cdba03dd606ce290385baa6397058769724ef24.png",
+    "childIds": [
+      135911
+    ]
+  },
+  {
     "id": 129103,
     "name": "시간왜곡의 용암 잠복꾼",
     "enname": "Timewarped Lava Lurker",
@@ -21812,6 +21978,32 @@
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ccfebdaae59fb7b3c7e5655ad94c729895703721cf228ba1956e543af31b965.png",
     "childIds": null
+  },
+  {
+    "id": 135972,
+    "name": "시간왜곡의 티케투스",
+    "enname": "Timewarped Tickatus",
+    "cardType": "시간왜곡",
+    "tier": 5,
+    "minionType": "돌연변이",
+    "minionType2": [
+      "악마"
+    ],
+    "attack": 6,
+    "health": 8,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "발견",
+    "text": "<b>사용 (3)</b>: 3단계 다크문 경품을 <b>발견</b>합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/667413cc0fd5eb3de21e1ff5b170d5535b9e98317424e5a5bd103c55be26f752.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e34a97f1f4db8b64d43a194ff40166bc65cd389d85bb41ad05174dcef15611bf.png",
+    "childIds": [
+      135973
+    ]
   },
   {
     "id": 127875,
