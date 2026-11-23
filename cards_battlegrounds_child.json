@@ -5399,6 +5399,14 @@
     "health": null,
     "text": "무작위 하수인을 2마리 얻습니다. 그중 하나를 내면 나머지 하나를 버립니다."
   },
+  "134514": {
+    "name": "집착하는 장인",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c65b2a50901b7f68f1d9111dcf3d55e1218bbfd22592a6f89ae0671f40b6ae78.png",
+    "attack": 8,
+    "health": 8,
+    "text": "<b>임무</b>: 카드를 5장 사면 4단계 하수인을 둘 <b>발견</b>합니다. <i>(5장 남음!)</i>"
+  },
   "134522": {
     "name": "강건한 지옥사냥개",
     "img": null,
@@ -5414,6 +5422,38 @@
     "attack": 8,
     "health": 12,
     "text": "<b><b>도발</b>,</b> <b>튼튼함</b>, <b>임무</b>: 이 하수인이 5번 공격받으면 무작위 황금 악마를 둘 얻습니다. <i>(5번 남음!)</i>"
+  },
+  "134542": {
+    "name": "지진해일 서퍼",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1ed1eff830493b5fcb9eb8017cd57d5cb9d17746cb2a6d43fc8b00eae9338a6.png",
+    "attack": 6,
+    "health": 6,
+    "text": "내 턴이 끝날 때 무작위 <b>원소의 기원</b>을 2장 얻습니다."
+  },
+  "134544": {
+    "name": "분출하는 춤꾼",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89f82d60bf31c02285f765c408ab5b0bbbdc4e0355f4b15904579c313b55e262.png",
+    "attack": 8,
+    "health": 8,
+    "text": "<b>전투의 함성과 죽음의 메아리</b>: 무작위 <b>원소의 기원</b>을 2장 얻습니다."
+  },
+  "134586": {
+    "name": "끈질긴 가시마녀",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06fe16a5054bbce5401e34b135d03d437f1dae8c677435f2975672df56b6bc2a.png",
+    "attack": 6,
+    "health": 6,
+    "text": "<b>임무</b>: 이 하수인에게 주문 8개가 시전되면, 내 <b>혈석들</b>에게 이번 게임 동안 +4/+6|1(을,를) 추가로 부여합니다. <i>(8개 남음!)</i>"
+  },
+  "134596": {
+    "name": "갈퀴발 지하마귀",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcdb423797a3a1c474c4bbe36a99ad401b95807053a9801c9cdfae9461ac5dc9.png",
+    "attack": 10,
+    "health": 12,
+    "text": "<b>임무</b>: 아군 하수인이 18마리 죽으면, 내 언데드들이 이번 게임 동안 공격력을 +20 얻습니다. (어디에 있든) <i>(18마리 남음!)</i>"
   },
   "134694": {
     "name": "공허사제 복제사",
@@ -5438,6 +5478,22 @@
     "attack": null,
     "health": null,
     "text": "하수인을 선택합니다. 이번 턴 비전투 상태에서 그 하수인이 능력치를 얻은 후, 내 <b>현신</b>도 해당 능력치를 얻습니다."
+  },
+  "135474": {
+    "name": "잿빛안개 침투요원",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a571a4bc13d0754f878c9c65cede0496cd865622000c5617ed6f88ba350cf7c9.png",
+    "attack": 8,
+    "health": 12,
+    "text": "<b>임무</b>: 이 하수인이 피해를 20 받으면, 한 방 브란 뒤집기를 둘 얻습니다. <i>(20 남음!)</i>"
+  },
+  "135873": {
+    "name": "기발한 요리용 불",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/708d15a4a44ce13544da3fa10c65dea3a49dfeab933701ca9624ee1d0d9cf477.png",
+    "attack": 14,
+    "health": 14,
+    "text": "<b>임무</b>: 아군 하수인들이 <b><b>보너스 키워드</b></b>를 8번 얻으면, 깜짝 정령을 둘 얻습니다. <i>(8번 남음!)</i>"
   },
   "135911": {
     "name": "시간왜곡의 왈로우",
@@ -5479,6 +5535,22 @@
     "health": null,
     "text": "1단계 하수인을 <b>발견</b>합니다. <i>(내가 이번 턴에 산 하수인 수만큼 강화됩니다!)</i>"
   },
+  "136113": {
+    "name": "로티, 데빌사우루스 형상",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/012dc5cf3936498926344a81319cc22f29653b37c614b3bda9e6180981275d7a.png",
+    "attack": 20,
+    "health": 20,
+    "text": "<b>임무</b>: 이 하수인이 피해를 60 주면, 무작위 7단계 하수인을 둘 얻습니다. <i>(60 남음!)</i>"
+  },
+  "136160": {
+    "name": "손님 호객꾼",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35be032baf280e9a43c34475706e2dbde72fdbeb47c3fa59cc459caaad64761c.png",
+    "attack": 4,
+    "health": 6,
+    "text": "<b>임무</b>: 내 전장 조합을 채워 내 하수인들에게 영구히 +4/+2|1(을,를) 부여합니다."
+  },
   "136231": {
     "name": "시간왜곡의 과일 상인",
     "img": null,
@@ -5494,5 +5566,13 @@
     "attack": null,
     "health": null,
     "text": "첫 턴을 넘기고 주요 <b>시간왜곡</b>을 방문합니다. 45골드를 소모할 때까지 구매하는 카드들을 잠금 상태로 만듭니다. <i>(45골드 남음!)</i>"
+  },
+  "136263": {
+    "name": "야심만만한 포병",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92be7c2f9a668d5bdba51adeb0b5b0d5d1544de00aa2d45710629d01738aef3e.png",
+    "attack": 2,
+    "health": 14,
+    "text": "<b>임무</b>: 이 하수인의 공격력이 7 이상인 상태로 내 턴을 종료하면 내 최대 골드가 2 증가합니다."
   }
 }
