@@ -4871,10 +4871,6 @@
     "name": "주전자",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da3d262adc882e55ed1cbde20bfb2ac31704f0aa52e9d3d09d69b6b6b58c3c89.png"
   },
-  "39586": {
-    "name": "식사 준비",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/342cdc30ae595a79bac40259d30942853aea6fe31b7e66d219d6c65413960298.png"
-  },
   "39587": {
     "name": "한 잔씩 돌리기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8058d197c0c3e256c1e40ddb3fb9966d8ac8fec0304495e0c51c4dd2b43a857b.png"
@@ -15951,10 +15947,6 @@
     "name": "달송곳니",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/360e61787e7d8aa1ac63fcec04f57adffdf41dc9d31b50fa12adc8723557faab.png"
   },
-  "61976": {
-    "name": "행운영혼 수집가",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd3eb365f79f47e508762b440b0f9f1793d00db025ccfc0ffcbb118aaeddc961.png"
-  },
   "61980": {
     "name": "마나빵",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7feeb311dfae7253e28fa7dd8b589d79c3222108e382a24fc93aec3c3535eef0.png"
@@ -20259,6 +20251,10 @@
     "name": "스승 구옌",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9dd4510be3fe7e30f122eaf732e40d217ecf56b5f8c9f779bbe818b59765ce80.png"
   },
+  "71909": {
+    "name": "폭풍의 힘",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cdfaa8987db6fb11471aedf9f195ff56f1ba3a7ea00eb1824335feb7784b602.png"
+  },
   "71914": {
     "name": "집어삼키기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a5a916d55b76470462d149c3aa0b9ec57a039e87e49bb804b75caf93948d7b7.png"
@@ -20926,6 +20922,10 @@
   "73462": {
     "name": "바다 동물 친구들",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84ca79e3f14016858422fa852817ec7c385825d6fb180e0c4d6875de686b266f.png"
+  },
+  "73463": {
+    "name": "범고래",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b72ced972f9d5a020fd7166066d9770cc4d0e3b6543e576fda8052db2a2cc94.png"
   },
   "73464": {
     "name": "해초 공격",
@@ -28651,6 +28651,10 @@
     "name": "약실 장전",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a51baea4a63e2b3b4e3b51ab932560e21b4ae2714455a150f82af5f4c595236c.png"
   },
+  "100535": {
+    "name": "폭풍인도자",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f9dc71eef4bb4b48881cf6387989a5a66ec42bc4fbb7691cea0884ac6796d95.png"
+  },
   "100536": {
     "name": "폭풍인도자",
     "img": null
@@ -31130,10 +31134,6 @@
   "103500": {
     "name": "철의 찬송 잉게",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42a8c2de1046aa118bdc06e9f68bdac9b13890d931e62353f25c392c1aa3c1ae.png"
-  },
-  "103501": {
-    "name": "장조 찬가",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5a4b9d5aa5c015084805fa5e0f81093c3a609a0548f4b059473360ccfe4b918.png"
   },
   "103502": {
     "name": "모이라 브론즈비어드",
@@ -36031,10 +36031,6 @@
     "name": "무료 여행 당첨자",
     "img": null
   },
-  "113130": {
-    "name": "행운의 알",
-    "img": null
-  },
   "113132": {
     "name": "불굴의 탈것",
     "img": null
@@ -39507,10 +39503,6 @@
     "name": "언더펠 균열",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb7acf764efa6d16e0ccac83a0c97ed06e93daa21b1ba49518c77a2fecd118df.png"
   },
-  "118228": {
-    "name": "지옥절규자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b2657e297ddbfb47903b3c802aa486c5dec4b0c971138014e5088d4338d66db.png"
-  },
   "118232": {
     "name": "고대 테러닥스",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/132fca79d659e55a9ac1f9d39adcdbb5066f66dc685de4dfa0aa4d4eb31355a7.png"
@@ -40535,10 +40527,6 @@
     "name": "타락한 뾰족털",
     "img": null
   },
-  "120035": {
-    "name": "바느질하는 마녀",
-    "img": null
-  },
   "120036": {
     "name": "바느질하는 마녀",
     "img": null
@@ -41100,6 +41088,10 @@
     "img": null
   },
   "120399": {
+    "name": "용맹한 호랑이",
+    "img": null
+  },
+  "120400": {
     "name": "용맹한 호랑이",
     "img": null
   },
@@ -41809,10 +41801,6 @@
   },
   "120938": {
     "name": "금박 닻",
-    "img": null
-  },
-  "120939": {
-    "name": "상어 대포",
     "img": null
   },
   "120940": {
@@ -46235,6 +46223,10 @@
     "name": "아카에다스",
     "img": null
   },
+  "127483": {
+    "name": "아카에다스",
+    "img": null
+  },
   "127488": {
     "name": "주문에 속박된 영혼",
     "img": null
@@ -49759,6 +49751,10 @@
     "name": "영리한 조난자",
     "img": null
   },
+  "132923": {
+    "name": "조용한 배달부",
+    "img": null
+  },
   "132924": {
     "name": "조용한 배달부",
     "img": null
@@ -50835,10 +50831,6 @@
     "name": "어둠의 모순",
     "img": null
   },
-  "134710": {
-    "name": "어둠의 모순",
-    "img": null
-  },
   "134711": {
     "name": "어둠의 모순",
     "img": null
@@ -51097,6 +51089,10 @@
   },
   "136060": {
     "name": "똑딱이의 힘",
+    "img": null
+  },
+  "136061": {
+    "name": "무르도즈노의 힘",
     "img": null
   },
   "136064": {

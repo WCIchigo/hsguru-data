@@ -8999,18 +8999,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/905e2f291c594a12e09be22684a7d8c9e327139162cbb210910516d2d7ce9fcc.png",
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe7d2337dbcfda3d275b869ef80d4c7cf71b581c56c3cbbd25508890d64acaca.png"
   },
-  "61976": {
-    "id": 61976,
-    "name": "행운영혼 수집가",
-    "manaCost": 3,
-    "cardType": "하수인",
-    "minionType": null,
-    "attack": 3,
-    "health": 4,
-    "text": "<b>타락함</b> <b>전투의 함성:</b> 영혼 파편을 내 덱에 둘 섞어 넣습니다. 카드를 뽑습니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd3eb365f79f47e508762b440b0f9f1793d00db025ccfc0ffcbb118aaeddc961.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/YOP_003t.jpg"
-  },
   "61980": {
     "id": 61980,
     "name": "마나빵",
@@ -12070,6 +12058,18 @@
     "text": "<b>죽음의 메아리:</b> 내 전장에 히드랄로돈이 있으면, 히드랄로돈 머리를 둘 소환합니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d2d9d9c8647bb45d9c7675de3a0cec7999c1b7303023bcfb942fb2085b74696.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TSC_950t.jpg"
+  },
+  "73463": {
+    "id": 73463,
+    "name": "범고래",
+    "manaCost": 6,
+    "cardType": "하수인",
+    "minionType": "야수",
+    "attack": 6,
+    "health": 6,
+    "text": "<b>도발</b>",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b72ced972f9d5a020fd7166066d9770cc4d0e3b6543e576fda8052db2a2cc94.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TSC_650t.jpg"
   },
   "73553": {
     "id": 73553,
@@ -23446,18 +23446,6 @@
     "text": "언더펠로 통하는 균열을 엽니다. 카드를 균열로 던져 넣어 무작위 지옥 야수 2마리를 소환합니다. <i>(한 턴에 한 번)</i>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb7acf764efa6d16e0ccac83a0c97ed06e93daa21b1ba49518c77a2fecd118df.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_446t.jpg"
-  },
-  "118228": {
-    "id": 118228,
-    "name": "지옥절규자",
-    "manaCost": 5,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 5,
-    "health": 3,
-    "text": "<b>속공</b> <b>생명력 흡수</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b2657e297ddbfb47903b3c802aa486c5dec4b0c971138014e5088d4338d66db.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TLC_446t2.jpg"
   },
   "118280": {
     "id": 118280,

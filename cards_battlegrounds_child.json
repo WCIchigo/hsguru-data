@@ -639,6 +639,14 @@
     "health": null,
     "text": "하수인을 둘 선택합니다. 그 하수인들은 다음 턴까지 서로의 공격력을 얻습니다."
   },
+  "71909": {
+    "name": "폭풍의 힘",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cdfaa8987db6fb11471aedf9f195ff56f1ba3a7ea00eb1824335feb7784b602.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b04df246da96775b2814862d097012cd286f50509731927a663157777bd06b6.png",
+    "attack": null,
+    "health": null,
+    "text": "매 턴이 시작될 때, 새로운 영웅 능력 둘 중 하나를 선택합니다."
+  },
   "71914": {
     "name": "집어삼키기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a5a916d55b76470462d149c3aa0b9ec57a039e87e49bb804b75caf93948d7b7.png",
@@ -2118,14 +2126,6 @@
     "attack": null,
     "health": null,
     "text": "단계 다크문 경품을 <b>발견</b>합니다."
-  },
-  "103501": {
-    "name": "장조 찬가",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5a4b9d5aa5c015084805fa5e0f81093c3a609a0548f4b059473360ccfe4b918.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9ada5217a54bd33742af18cb49e479f51f1f1c58f63a7c838d6409463dde61c.png",
-    "attack": null,
-    "health": null,
-    "text": "한 턴에 두 번, 하수인에게 내 단계만큼 공격력을 부여합니다. <i>(다음 턴에 생명력으로 바뀝니다!)</i>"
   },
   "103503": {
     "name": "단조 찬가",
