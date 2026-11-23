@@ -1475,6 +1475,30 @@
     ]
   },
   {
+    "id": 136099,
+    "name": "두목 바네사",
+    "enname": "Vanessa the Ringleader",
+    "cardType": "영웅",
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": 30,
+    "armor": 15,
+    "trinketTier": null,
+    "keywords": null,
+    "text": null,
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4d71fe6ada64e43799a5c56b089bf96786d1cef2ae093a4995c3d9505dd5444.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7b3379426e813fd8f98a8b0976cabeb6ceb333eef1fc19d8349d8c44f8a864a.png",
+    "childIds": [
+      136100
+    ]
+  },
+  {
     "id": 58027,
     "name": "두억시니",
     "enname": "Shudderwock",
@@ -3139,6 +3163,30 @@
     "childIds": [
       61408,
       77855
+    ]
+  },
+  {
+    "id": 136236,
+    "name": "이터누스",
+    "enname": "Eternus",
+    "cardType": "영웅",
+    "tier": null,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": 30,
+    "armor": 18,
+    "trinketTier": null,
+    "keywords": null,
+    "text": null,
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b095efc9617f984d1aae54a368e44f628c33b08f5c61e24cbfad6d4be5a678e.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bceafc61cafb4c3bd37ad40d2767b284d298d34b651d29b82f69971f458720f.png",
+    "childIds": [
+      136237
     ]
   },
   {

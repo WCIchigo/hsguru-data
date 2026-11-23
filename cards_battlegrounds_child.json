@@ -5422,5 +5422,21 @@
     "attack": null,
     "health": null,
     "text": "하수인을 선택합니다. 이번 턴 비전투 상태에서 그 하수인이 능력치를 얻은 후, 내 <b>현신</b>도 해당 능력치를 얻습니다."
+  },
+  "136100": {
+    "name": "날 선 전략",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f7829cf1b202e8b944d97de90597f7c1b5def0d00290267ef8ff7d2a002ac71.png",
+    "attack": null,
+    "health": null,
+    "text": "1단계 하수인을 <b>발견</b>합니다. <i>(내가 이번 턴에 산 하수인 수만큼 강화됩니다!)</i>"
+  },
+  "136237": {
+    "name": "무한의 여명",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbdf485739b5f0f0ed09797d53651c5b498953501dd751f46d3113196ea12005.png",
+    "attack": null,
+    "health": null,
+    "text": "첫 턴을 넘기고 주요 <b>시간왜곡</b>을 방문합니다. 45골드를 소모할 때까지 구매하는 카드들을 잠금 상태로 만듭니다. <i>(45골드 남음!)</i>"
   }
 }
