@@ -2843,6 +2843,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75dd05b825970ab8fc27923bb5976e14b208a757f81d7fa1c672289d1fd8758c.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_083t1.jpg"
   },
+  "41329": {
+    "id": 41329,
+    "name": "바위 정령",
+    "manaCost": 1,
+    "cardType": "하수인",
+    "minionType": "정령",
+    "attack": 1,
+    "health": 1,
+    "text": null,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e0e9b47bfd9d423b9731cafb98959e5d3446f711eadd6fb8015f4773e02a381.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/UNG_211aa.jpg"
+  },
   "41330": {
     "id": 41330,
     "name": "대지의 기원",
@@ -9094,18 +9106,6 @@
     "text": "이번 게임에서 내가 주문을 시전한만큼 무작위 주문을 시전합니다. <i>(대상은 무작위로 선택)</i>",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e6ff78c7ddfc351bc82f6c452e4ca4e27746c625b00fef2fdf673fb4748b491.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_004t1.jpg"
-  },
-  "62083": {
-    "id": 62083,
-    "name": "운명의 손",
-    "manaCost": 0,
-    "cardType": "주문",
-    "minionType": null,
-    "attack": null,
-    "health": null,
-    "text": "내 손을 무작위 주문으로 가득 채웁니다. 이번 턴에 그 주문들의 비용이 (0)이 됩니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bdedfeaaa6f0005e4c995de4130864aed8aad6b74866fdc3233ce95675e7de70.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/DMF_004t2.jpg"
   },
   "62085": {
     "id": 62085,
@@ -19355,6 +19355,18 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa3f5ec0d3f62036ed8d4c414fa1fbf63fd9804c6be0f6932a49c7cc9e1386c4.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/MIS_918t.jpg"
   },
+  "106676": {
+    "id": 106676,
+    "name": "바위!",
+    "manaCost": 0,
+    "cardType": "주문",
+    "minionType": null,
+    "attack": null,
+    "health": null,
+    "text": "상대편이 가위를 선택하면, 카드를 2장 뽑습니다.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bd1bc73736e3b2fa8e6fd619cfc349e49ab0fee71ef2f7bf741354f99941c45.png",
+    "cropImage": "https://art.hearthstonejson.com/v1/tiles/MIS_916a.jpg"
+  },
   "106677": {
     "id": 106677,
     "name": "보!",
@@ -27251,18 +27263,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be5fb103714ddced592d2ae1c6468682409c4e9ff4ac3519f736406f39792599.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_781t2.jpg"
   },
-  "131171": {
-    "id": 131171,
-    "name": "악취 나는 포식자",
-    "manaCost": 7,
-    "cardType": "하수인",
-    "minionType": "언데드",
-    "attack": 9,
-    "health": 6,
-    "text": "<b>전투의 함성</b>: 적 하수인을 2마리 처치합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a2df7520665c1264e7b41eefbeb5608efefcdd3a8d98525a7c8f3af079d63bb.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_781t3.jpg"
-  },
   "131172": {
     "id": 131172,
     "name": "원반 그대로 두기",
@@ -27538,18 +27538,6 @@
     "text": "주문을 5개 뽑습니다.",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/310c33f4b7a11a9710b7d5d9deed133db0a8052ef0edbc42f6346e0348d8ea18.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_009t4.jpg"
-  },
-  "132565": {
-    "id": 132565,
-    "name": "악취 나는 포식자",
-    "manaCost": 7,
-    "cardType": "하수인",
-    "minionType": "언데드",
-    "attack": 9,
-    "health": 6,
-    "text": "<b>전투의 함성</b>: 적 하수인을 3마리 처치합니다.",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ec897199d0084af9775667eb6ad966cafe0e45aa971fce152b7fe5b49c9e58c.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/BE_781t4.jpg"
   },
   "132566": {
     "id": 132566,
