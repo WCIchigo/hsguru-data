@@ -5151,6 +5151,14 @@
     "health": 4,
     "text": "이 하수인을 팔면 무작위 돌연변이를 4마리 얻습니다. 그중 둘을 내면 나머지 둘을 버립니다."
   },
+  "132214": {
+    "name": "심연의 급사",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_311_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/100cda3de6525ac5c9e09dde15870d535d0629802f1f52ce63114f226e4a6db1.png",
+    "attack": 4,
+    "health": 4,
+    "text": "<b>사용 ( ):</b> 카드를 버리고 무작위 선술집 주문을 2개 얻습니다."
+  },
   "132216": {
     "name": "정신왜곡 모병관",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_312_G_triple.png",
@@ -5663,6 +5671,14 @@
     "health": 16,
     "text": "내가 이 하수인에게 주문을 시전한 후에 신성화를 두 번 시전합니다."
   },
+  "135020": {
+    "name": "시간왜곡의 경화빛",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ec3d11b6c4df31798c1f0ad97c12d0593bfcd8a653d3387bf9b0664baf0902c.png",
+    "attack": 14,
+    "health": 14,
+    "text": "<b><b>천상의 보호막</b>,</b> 아군 <b>천상의 보호막</b>이 피해를 방지한 후에, 그 2배만큼 공격력을 얻습니다."
+  },
   "135024": {
     "name": "빛 생성기",
     "img": null,
@@ -5742,6 +5758,14 @@
     "attack": 8,
     "health": 6,
     "text": "이 하수인을 팔면 선술집을 <b>새로고침</b>합니다. 비용이 (1)인 <b>포상</b>이 넷 추가로 생깁니다."
+  },
+  "135751": {
+    "name": "시간왜곡의 기계멀록",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92b5f0debfe17c42a898efd93a4aac26f550a505bd7bfeb069682b16266de70a.png",
+    "attack": 24,
+    "health": 10,
+    "text": "<b>천상의 보호막</b> 다른 아군 하수인이 <b>천상의 보호막</b>을 잃은 후에, <b>천상의 보호막</b>을 얻습니다."
   },
   "135873": {
     "name": "기발한 요리용 불",
@@ -5959,6 +5983,14 @@
     "health": 12,
     "text": "<b>사용 ( )</b>: 다른 아군 하수인을 처치하고 다음 턴까지 '<b>죽음의 메아리</b>: 그 하수인을 2마리 복사하여 소환함' 능력을 얻습니다."
   },
+  "136019": {
+    "name": "시간왜곡의 거울 마법사",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7a0cd80ff8744c0c6034113c9f6448dd7fd5d865a0064a17791526af32dbd2e.png",
+    "attack": 18,
+    "health": 18,
+    "text": "<b>사용 ( )</b>: 무작위 아군 하수인을 둘 복사하여 얻습니다. <i>(강화 효과가 없는 일반 하수인으로, <b><b>시간왜곡</b>의</b> 하수인 제외)</i>"
+  },
   "136023": {
     "name": "시간왜곡의 악몽",
     "img": null,
@@ -6078,6 +6110,22 @@
     "attack": 10,
     "health": 18,
     "text": "내가 하수인에게 <b>혈석</b>을 낸 후에 다음 턴까지 그 하수인에게 <b>튼튼함</b>을 부여합니다. <i>(한 턴에 6번)</i>"
+  },
+  "136136": {
+    "name": "시간왜곡의 혈석 밀수꾼",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/375935bde5ce129d161d1a86c39b31a19d806f7d0b64b8e0a6b0e52579762004.png",
+    "attack": 12,
+    "health": 12,
+    "text": "<b>전투의 함성과 사용 ( )</b>: 이 하수인이 내 다른 모든 하수인에게 <b>혈석</b>을 4개 냅니다."
+  },
+  "136138": {
+    "name": "시간왜곡의 결사단",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4be68dcb43f7e55e5f7a4c2f68fcd3bb08064f94d35601478902cb80ff487cd1.png",
+    "attack": 10,
+    "health": 10,
+    "text": "<b>죽음의 메아리</b>: 모든 아군 종족에게 +4/+4|1(을,를) 영구히 부여합니다. (종족마다 하나씩) 내가 종족이 없는 하수인을 낸 후에 강화됩니다."
   },
   "136140": {
     "name": "시간왜곡의 흉합체",
@@ -6271,6 +6319,14 @@
     "health": 8,
     "text": "<b>전투의 함성, 죽음의 메아리, <b>집결</b></b>: 금고를 얻습니다. 이미 금고가 있으면, 그 대신 그 금고가 2턴 일찍 열립니다."
   },
+  "136281": {
+    "name": "시간왜곡의 크시르",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fb49a568b656bae5576b51f1d6e88181fd9085ffe3ba0b8346d4ac329f5904c.png",
+    "attack": 12,
+    "health": 14,
+    "text": "<b>사용 (0)</b>: 내 손에 있는 모든 카드를 버립니다. 버린 카드 하나당 내 하수인들에게 +10/+10|1(을,를) 부여합니다."
+  },
   "136285": {
     "name": "시간왜곡의 변환사",
     "img": null,
@@ -6343,6 +6399,14 @@
     "health": 18,
     "text": "<b>사용 (2):</b> 황금 4단계 하수인을 둘 <b>발견</b>합니다."
   },
+  "136305": {
+    "name": "시간왜곡의 노략꾼",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d1a27de78381822b70fdfd0165777d0ba1ad1907b7cb1a494bebbf8eea8a255.png",
+    "attack": 12,
+    "health": 20,
+    "text": "선술집에서 3단계 이하의 하수인을 제시할 상황에 그 대신 <b>포상</b>을 제시합니다."
+  },
   "136309": {
     "name": "시간왜곡의 고라스의 눈",
     "img": null,
@@ -6391,6 +6455,14 @@
     "health": 12,
     "text": "<b>전투의 함성과 집결</b>: 내 다음 3번의 <b>새로고침</b>에 <b>먹이</b>를 2개 추가합니다."
   },
+  "136406": {
+    "name": "시간왜곡의 탈것",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/926d3828b1b1c93bfea49c72f785da3f2f5c55a7c8887e6c7666ed0f73b9b5f3.png",
+    "attack": 10,
+    "health": 14,
+    "text": "<b>전투의 함성, 죽음의 메아리, 집결</b>: 용폭풍을 2개 얻습니다."
+  },
   "136408": {
     "name": "시간왜곡의 기술자",
     "img": null,
@@ -6406,6 +6478,22 @@
     "attack": 12,
     "health": 12,
     "text": "선술집에 있는 <b>전투의 함성</b> 하수인들의 비용이 (2) 감소합니다."
+  },
+  "136430": {
+    "name": "시간왜곡의 후후란",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb9fd356013c427ef7cb1e75fb1bb55e5758010093a1aa5875916745997589ff.png",
+    "attack": 16,
+    "health": 18,
+    "text": "내가 <b>죽음의 메아리</b> 또는 <b>집결</b> 하수인을 낼 때마다, 그 하수인의 <b>죽음의 메아리</b>와 <b>집결</b>을 두 번 발동시킵니다."
+  },
+  "136434": {
+    "name": "시간왜곡의 춤꾼",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc182a10893a65ca571b8909da860eb7bb2602d0e59beeaa56ef17f4468e6ce0.png",
+    "attack": 20,
+    "health": 22,
+    "text": "<b>튼튼함</b>, <b>사용 (1)</b>: 다른 악마에게 생명력 +30|1(과,와) <b>튼튼함</b>을 부여합니다."
   },
   "136436": {
     "name": "시간왜곡의 공포수호병",

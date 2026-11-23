@@ -3127,6 +3127,10 @@
     "name": "검은 새끼용",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e1b708bf226597e0ec12e763cbfe056ae27bfe9880c88767ab25ad61d6712bd.png"
   },
+  "2448": {
+    "name": "죽어라, 벌레 같은 놈들!",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/924e1867c8138df3131482f48cf64ca5542255b48a7bdd494eb95ce9d6abf903.png"
+  },
   "2483": {
     "name": "거미떼",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da061324b1139b476e84dccd7af1cc2a0c66c3c3686f6172c36bd2497fb708f7.png"
@@ -13379,6 +13383,10 @@
     "name": "향상된 조준경",
     "img": null
   },
+  "58017": {
+    "name": "죽어라, 벌레 같은 놈들!",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04954e70d96899070bf74f2d637b399d582bb38bf4215c751a7a68f2b5827a32.png"
+  },
   "58021": {
     "name": "위대한 아카잠자락",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/609f3d7d9105c78283a3e17cbc101e32087fbba239dd3ff5f680f922c1ff17f1.png"
@@ -13658,6 +13666,10 @@
   "58509": {
     "name": "구원",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4159e0111b0020ebb3eea9af4a1f39a774001c58fe09c81168c18bd82409c3ba.png"
+  },
+  "58512": {
+    "name": "얼음 방패",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d6e1842400597729d18f51a94df9f0a70c32c204fd772aef5eeb54940eb1158.png"
   },
   "58524": {
     "name": "일리다리 지옥칼날",
@@ -36083,6 +36095,14 @@
     "name": "하늘 해적 기수",
     "img": null
   },
+  "113150": {
+    "name": "얼음 낚시꾼",
+    "img": null
+  },
+  "113151": {
+    "name": "얼음 낚시꾼",
+    "img": null
+  },
   "113152": {
     "name": "열기구 측량사",
     "img": null
@@ -40114,6 +40134,10 @@
   "119639": {
     "name": "죽어라, 벌레 같은 놈!",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c57fd05e32eda644f450906f8a9297347e1e92d2c3027dea3e391f0bf153b8b1.png"
+  },
+  "119640": {
+    "name": "죽어라, 벌레 같은 놈!",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe25ef98632cd90751649e6bec4f264325fe86263e904a71f921af97201b265d.png"
   },
   "119643": {
     "name": "국왕 무라딘",
@@ -48123,6 +48147,14 @@
     "name": "라비츠",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53e32a76c0fdda4e0d58bd9f80e1c3bcddcec33850390a4d5e0167ab7d3fa4e2.png"
   },
+  "130658": {
+    "name": "심연의 투사",
+    "img": null
+  },
+  "130659": {
+    "name": "심연의 투사",
+    "img": null
+  },
   "130662": {
     "name": "뒤틀린 격노수호병",
     "img": null
@@ -49124,6 +49156,10 @@
     "img": null
   },
   "132213": {
+    "name": "심연의 급사",
+    "img": null
+  },
+  "132214": {
     "name": "심연의 급사",
     "img": null
   },
@@ -50887,6 +50923,10 @@
     "name": "시간왜곡의 경화빛",
     "img": null
   },
+  "135020": {
+    "name": "시간왜곡의 경화빛",
+    "img": null
+  },
   "135023": {
     "name": "빛 생성기",
     "img": null
@@ -50992,6 +51032,10 @@
     "img": null
   },
   "135750": {
+    "name": "시간왜곡의 기계멀록",
+    "img": null
+  },
+  "135751": {
     "name": "시간왜곡의 기계멀록",
     "img": null
   },
@@ -51235,6 +51279,10 @@
     "name": "시간왜곡의 거울 마법사",
     "img": null
   },
+  "136019": {
+    "name": "시간왜곡의 거울 마법사",
+    "img": null
+  },
   "136022": {
     "name": "시간왜곡의 악몽",
     "img": null
@@ -51391,7 +51439,15 @@
     "name": "시간왜곡의 혈석 밀수꾼",
     "img": null
   },
+  "136136": {
+    "name": "시간왜곡의 혈석 밀수꾼",
+    "img": null
+  },
   "136137": {
+    "name": "시간왜곡의 결사단",
+    "img": null
+  },
+  "136138": {
     "name": "시간왜곡의 결사단",
     "img": null
   },
@@ -51583,6 +51639,10 @@
     "name": "시간왜곡의 크시르",
     "img": null
   },
+  "136281": {
+    "name": "시간왜곡의 크시르",
+    "img": null
+  },
   "136284": {
     "name": "시간왜곡의 변환사",
     "img": null
@@ -51659,6 +51719,10 @@
     "name": "시간왜곡의 노략꾼",
     "img": null
   },
+  "136305": {
+    "name": "시간왜곡의 노략꾼",
+    "img": null
+  },
   "136308": {
     "name": "시간왜곡의 고라스의 눈",
     "img": null
@@ -51715,6 +51779,10 @@
     "name": "시간왜곡의 탈것",
     "img": null
   },
+  "136406": {
+    "name": "시간왜곡의 탈것",
+    "img": null
+  },
   "136407": {
     "name": "시간왜곡의 기술자",
     "img": null
@@ -51735,7 +51803,15 @@
     "name": "시간왜곡의 후후란",
     "img": null
   },
+  "136430": {
+    "name": "시간왜곡의 후후란",
+    "img": null
+  },
   "136433": {
+    "name": "시간왜곡의 춤꾼",
+    "img": null
+  },
+  "136434": {
     "name": "시간왜곡의 춤꾼",
     "img": null
   },

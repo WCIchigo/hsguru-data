@@ -23189,7 +23189,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b40dad2cd28fc254994508949fa8aae64cac4e46479b550727aabf47a9d30cc.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7a0cd80ff8744c0c6034113c9f6448dd7fd5d865a0064a17791526af32dbd2e.png",
-    "childIds": null
+    "childIds": [
+      136019
+    ]
   },
   {
     "id": 136298,
@@ -23259,7 +23261,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e52fd46904ac945d7e1ef253126f4c33625987858442a4974838e2011c5ed571.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ec3d11b6c4df31798c1f0ad97c12d0593bfcd8a653d3387bf9b0664baf0902c.png",
-    "childIds": null
+    "childIds": [
+      135020
+    ]
   },
   {
     "id": 127709,
@@ -23499,7 +23503,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/beecf5fc6f4b684d6b8621f7f257ffcf0fa5a4170e5ed02298cc0bed0a3a287f.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92b5f0debfe17c42a898efd93a4aac26f550a505bd7bfeb069682b16266de70a.png",
-    "childIds": null
+    "childIds": [
+      135751
+    ]
   },
   {
     "id": 136407,
@@ -23593,7 +23599,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa71a0a635bc9f05357a0790b434d45bb08f0536340e144004c236e47211b444.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d1a27de78381822b70fdfd0165777d0ba1ad1907b7cb1a494bebbf8eea8a255.png",
-    "childIds": null
+    "childIds": [
+      136305
+    ]
   },
   {
     "id": 126580,
@@ -25103,7 +25111,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02821db68a7b92d7b6cd28504cc91eccf1916d5d23f1677533ef6bd024d1f1de.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc182a10893a65ca571b8909da860eb7bb2602d0e59beeaa56ef17f4468e6ce0.png",
-    "childIds": null
+    "childIds": [
+      136434
+    ]
   },
   {
     "id": 126525,
@@ -25197,7 +25207,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c28c2f7bd08bd3fd5adb6e6a0a9d30aead4d68ed52daf02e153d9eb7289db43.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fb49a568b656bae5576b51f1d6e88181fd9085ffe3ba0b8346d4ac329f5904c.png",
-    "childIds": null
+    "childIds": [
+      136281
+    ]
   },
   {
     "id": 127780,
@@ -25267,7 +25279,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ab7705ea9a22f5088b4d8bbfea6baa9b0b1fa64235d54e4d397bbdbf249e56e.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/926d3828b1b1c93bfea49c72f785da3f2f5c55a7c8887e6c7666ed0f73b9b5f3.png",
-    "childIds": null
+    "childIds": [
+      136406
+    ]
   },
   {
     "id": 135902,
@@ -25529,7 +25543,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19c4ef8b88ced92a70d36ce3e6a800a10f126b7c2eb200ad51778fbfd443df4a.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/375935bde5ce129d161d1a86c39b31a19d806f7d0b64b8e0a6b0e52579762004.png",
-    "childIds": null
+    "childIds": [
+      136136
+    ]
   },
   {
     "id": 128117,
@@ -25673,7 +25689,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a44ee82aa7be093db408d564fbfada4f6a975d06cced5a3780d736d68e6176cd.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb9fd356013c427ef7cb1e75fb1bb55e5758010093a1aa5875916745997589ff.png",
-    "childIds": null
+    "childIds": [
+      136430
+    ]
   },
   {
     "id": 135975,
