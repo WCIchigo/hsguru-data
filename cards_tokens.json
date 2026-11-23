@@ -12071,18 +12071,6 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d2d9d9c8647bb45d9c7675de3a0cec7999c1b7303023bcfb942fb2085b74696.png",
     "cropImage": "https://art.hearthstonejson.com/v1/tiles/TSC_950t.jpg"
   },
-  "73463": {
-    "id": 73463,
-    "name": "범고래",
-    "manaCost": 6,
-    "cardType": "하수인",
-    "minionType": "야수",
-    "attack": 6,
-    "health": 6,
-    "text": "<b>도발</b>",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b72ced972f9d5a020fd7166066d9770cc4d0e3b6543e576fda8052db2a2cc94.png",
-    "cropImage": "https://art.hearthstonejson.com/v1/tiles/TSC_650t.jpg"
-  },
   "73553": {
     "id": 73553,
     "name": "수달",

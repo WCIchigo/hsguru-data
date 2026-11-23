@@ -20259,10 +20259,6 @@
     "name": "스승 구옌",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9dd4510be3fe7e30f122eaf732e40d217ecf56b5f8c9f779bbe818b59765ce80.png"
   },
-  "71909": {
-    "name": "폭풍의 힘",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cdfaa8987db6fb11471aedf9f195ff56f1ba3a7ea00eb1824335feb7784b602.png"
-  },
   "71914": {
     "name": "집어삼키기",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a5a916d55b76470462d149c3aa0b9ec57a039e87e49bb804b75caf93948d7b7.png"
@@ -20930,10 +20926,6 @@
   "73462": {
     "name": "바다 동물 친구들",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84ca79e3f14016858422fa852817ec7c385825d6fb180e0c4d6875de686b266f.png"
-  },
-  "73463": {
-    "name": "범고래",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b72ced972f9d5a020fd7166066d9770cc4d0e3b6543e576fda8052db2a2cc94.png"
   },
   "73464": {
     "name": "해초 공격",
@@ -28658,10 +28650,6 @@
   "100369": {
     "name": "약실 장전",
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a51baea4a63e2b3b4e3b51ab932560e21b4ae2714455a150f82af5f4c595236c.png"
-  },
-  "100535": {
-    "name": "폭풍인도자",
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f9dc71eef4bb4b48881cf6387989a5a66ec42bc4fbb7691cea0884ac6796d95.png"
   },
   "100536": {
     "name": "폭풍인도자",
@@ -41115,10 +41103,6 @@
     "name": "용맹한 호랑이",
     "img": null
   },
-  "120400": {
-    "name": "용맹한 호랑이",
-    "img": null
-  },
   "120403": {
     "name": "피라냐",
     "img": null
@@ -46015,10 +45999,6 @@
     "name": "시간왜곡의 카멜레온",
     "img": null
   },
-  "127364": {
-    "name": "시간왜곡의 거대마귀",
-    "img": null
-  },
   "127365": {
     "name": "시간왜곡의 임프침투요원",
     "img": null
@@ -46252,10 +46232,6 @@
     "img": null
   },
   "127482": {
-    "name": "아카에다스",
-    "img": null
-  },
-  "127483": {
     "name": "아카에다스",
     "img": null
   },
@@ -49783,10 +49759,6 @@
     "name": "영리한 조난자",
     "img": null
   },
-  "132923": {
-    "name": "조용한 배달부",
-    "img": null
-  },
   "132924": {
     "name": "조용한 배달부",
     "img": null
@@ -50619,7 +50591,15 @@
     "name": "황혼의 횡단자",
     "img": null
   },
+  "134536": {
+    "name": "황혼의 횡단자",
+    "img": null
+  },
   "134537": {
+    "name": "천둥 기사",
+    "img": null
+  },
+  "134538": {
     "name": "천둥 기사",
     "img": null
   },
@@ -50695,6 +50675,14 @@
     "name": "자유의 투사",
     "img": null
   },
+  "134579": {
+    "name": "공허에 물든 흙여사제",
+    "img": null
+  },
+  "134580": {
+    "name": "공허에 물든 흙여사제",
+    "img": null
+  },
   "134581": {
     "name": "불굴의 모험가",
     "img": null
@@ -50747,6 +50735,10 @@
     "name": "오염된 심문관",
     "img": null
   },
+  "134610": {
+    "name": "오염된 심문관",
+    "img": null
+  },
   "134611": {
     "name": "분출하는 눈자루",
     "img": null
@@ -50756,6 +50748,10 @@
     "img": null
   },
   "134613": {
+    "name": "썩은굴 감염자",
+    "img": null
+  },
+  "134614": {
     "name": "썩은굴 감염자",
     "img": null
   },
@@ -50895,6 +50891,14 @@
     "name": "빛 생성기",
     "img": null
   },
+  "135215": {
+    "name": "파도 감시자",
+    "img": null
+  },
+  "135216": {
+    "name": "파도 감시자",
+    "img": null
+  },
   "135222": {
     "name": "물의 기원",
     "img": null
@@ -50931,6 +50935,10 @@
     "name": "묘지 잠복자",
     "img": null
   },
+  "135260": {
+    "name": "부정한 의식",
+    "img": null
+  },
   "135473": {
     "name": "잿빛안개 침투요원",
     "img": null
@@ -50948,6 +50956,10 @@
     "img": null
   },
   "135611": {
+    "name": "영원의 탈것",
+    "img": null
+  },
+  "135612": {
     "name": "영원의 탈것",
     "img": null
   },
@@ -51067,8 +51079,24 @@
     "name": "불길한 수액괴물",
     "img": null
   },
+  "136015": {
+    "name": "용폭풍",
+    "img": null
+  },
   "136053": {
     "name": "사원 수호자",
+    "img": null
+  },
+  "136054": {
+    "name": "사원 수호자",
+    "img": null
+  },
+  "136058": {
+    "name": "클록스워스의 힘",
+    "img": null
+  },
+  "136060": {
+    "name": "똑딱이의 힘",
     "img": null
   },
   "136064": {
@@ -51087,12 +51115,20 @@
     "name": "시간왜곡의 무르도즈노",
     "img": null
   },
+  "136070": {
+    "name": "격동의 성장",
+    "img": null
+  },
   "136099": {
     "name": "두목 바네사",
     "img": null
   },
   "136100": {
     "name": "날 선 전략",
+    "img": null
+  },
+  "136104": {
+    "name": "골드린의 축복",
     "img": null
   },
   "136106": {
@@ -51125,6 +51161,14 @@
   },
   "136113": {
     "name": "로티, 데빌사우루스 형상",
+    "img": null
+  },
+  "136123": {
+    "name": "어린 무클라",
+    "img": null
+  },
+  "136124": {
+    "name": "어린 무클라",
     "img": null
   },
   "136125": {
@@ -51161,6 +51205,18 @@
   },
   "136214": {
     "name": "강대한 우차",
+    "img": null
+  },
+  "136215": {
+    "name": "강대한 우차",
+    "img": null
+  },
+  "136216": {
+    "name": "원숭이",
+    "img": null
+  },
+  "136217": {
+    "name": "원숭이",
     "img": null
   },
   "136230": {

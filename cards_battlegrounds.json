@@ -242,50 +242,6 @@
     "childIds": null
   },
   {
-    "id": 133353,
-    "name": "독성",
-    "enname": "Toxicity",
-    "cardType": null,
-    "tier": null,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": "독소",
-    "text": "<b>독소</b>",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb56df021d9dc1930fd996d01fd3df6933b6c2ea8508294325cfcc26289a979f.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
-    "childIds": null
-  },
-  {
-    "id": 132208,
-    "name": "메아리치는 목소리",
-    "enname": "Echoing Voice",
-    "cardType": null,
-    "tier": null,
-    "minionType": null,
-    "minionType2": null,
-    "attack": null,
-    "health": null,
-    "armor": null,
-    "trinketTier": null,
-    "keywords": "전투의 함성",
-    "text": "내 턴이 끝날 때, 이 하수인의 <b>전투의 함성</b>을 발동시킵니다.",
-    "flavorText": null,
-    "duosOnly": false,
-    "solosOnly": false,
-    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4ecc09860ed9461426c09210f3341e33a5d637175d483ee3b2d396f180b780d.png",
-    "imgGold": null,
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef37ad58b6d3447b99115e73b191ed5e09af08c382f161b9a73ea9c53c69a92c.png",
-    "childIds": null
-  },
-  {
     "id": 132833,
     "name": "무적",
     "enname": "Invulnerability",
@@ -5105,6 +5061,30 @@
     ]
   },
   {
+    "id": 136123,
+    "name": "어린 무클라",
+    "enname": "Young Mukla",
+    "cardType": "하수인",
+    "tier": 2,
+    "minionType": "야수",
+    "minionType2": null,
+    "attack": 1,
+    "health": 1,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성",
+    "text": "<b>전투의 함성</b>: 선술집 바나나 요리를 2개 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e373545bbf7265a802de4e0c8c596f3d51c4d573201a5e339abefbfcd834cca9.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa5498b09e205f50a8d5977af7c3435a7b3442f953769cb9208244e75918cc04.png",
+    "childIds": [
+      136124
+    ]
+  },
+  {
     "id": 130075,
     "name": "연구실 조수",
     "enname": "Laboratory Assistant",
@@ -6882,7 +6862,11 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47a2c2505fb7cc859943d051cfbfdda7e425c07772d51ba1a4c7bd2851f981a0.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4392c143c2e3a24b20e62ec6ceaf92b5448c1f0711e768f9bd99a292e05f6f4.png",
-    "childIds": null
+    "childIds": [
+      136215,
+      136216,
+      136217
+    ]
   },
   {
     "id": 122179,
@@ -7627,7 +7611,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/950e42e840031ab656d60fe7f355ab5348e3697040b64fbfb1dabc4d8f0d1f54.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/258a2e7347fd0844c4b0e2e1662d6a65ac711b441c98d350c729b88cbfdfd4ed.png",
-    "childIds": null
+    "childIds": [
+      136054
+    ]
   },
   {
     "id": 117334,
@@ -7767,7 +7753,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1858d5ea2428b31a4ed67cba394fbb119a596f3470801a7fa85e495b341ef7a4.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c4348fc6b618901b4e8446329f7da8eafec3eace47a2ddf1e2d63a5034cc3b0.png",
-    "childIds": null
+    "childIds": [
+      134614
+    ]
   },
   {
     "id": 121508,
@@ -7957,7 +7945,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56d0c4d1464a221d00f05e147c0c493228379971e0782a97cd53027ec0ead437.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/926d3828b1b1c93bfea49c72f785da3f2f5c55a7c8887e6c7666ed0f73b9b5f3.png",
-    "childIds": null
+    "childIds": [
+      135612
+    ]
   },
   {
     "id": 117328,
@@ -8291,7 +8281,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/600dff5bc8874c333a37ed19b28cbe872649b8426d3d4eb6db17e29b52743392.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf0fc183a0f473fd2c6532f32109aa96f03b829db21ee227a43779f623f2c6fe.png",
-    "childIds": null
+    "childIds": [
+      134536
+    ]
   },
   {
     "id": 122562,
@@ -8459,6 +8451,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cc5b0f5aa0cc400915beb171fe6956fa3ebd4d281105a3f440fe11f312e0db9.png",
     "childIds": [
       130082
+    ]
+  },
+  {
+    "id": 134579,
+    "name": "공허에 물든 흙여사제",
+    "enname": "Voidtouched Geopriestess",
+    "cardType": "하수인",
+    "tier": 5,
+    "minionType": "가시멧돼지",
+    "minionType2": null,
+    "attack": 5,
+    "health": 7,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "혈석",
+    "text": "아군 하수인이 <b>보너스 키워드</b>를 얻을 때마다, 이 하수인이 내 모든 하수인에게 <b>혈석</b>을 2개 냅니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49c26ad8063993743b9e8896f6ebaf342fba2b9e4a0638d3852f9a9f161cf6ae.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f81cd45eae1c2ed541d95927219bf3b390f0d4aaa485c94898bc3febfd992b8.png",
+    "childIds": [
+      134580
     ]
   },
   {
@@ -9029,7 +9045,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/209198db4fa9985e67b10a40e7a985379c4ce7eb5a52f099d40355762417e61d.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/189e520f4593b8569af384bc05966617e5021ee1b4e8e7d5c7a6396e7bd86ec7.png",
-    "childIds": null
+    "childIds": [
+      134610
+    ]
   },
   {
     "id": 64062,
@@ -9312,7 +9330,9 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c453c30242ab78751ab6a2043ad94a2ed07244a692627373b331b576c709928.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de5d9430f0f43700195833e717c4b0c645149b370accdfaf85099b60b67c1687.png",
-    "childIds": null
+    "childIds": [
+      134538
+    ]
   },
   {
     "id": 59935,
@@ -9406,6 +9426,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e5fca5fa497835550a464c51c8e81261f474a1f9d797bd1504181281bdbd270.png",
     "childIds": [
       97409
+    ]
+  },
+  {
+    "id": 135215,
+    "name": "파도 감시자",
+    "enname": "Wave Watcher",
+    "cardType": "하수인",
+    "tier": 5,
+    "minionType": "정령",
+    "minionType2": null,
+    "attack": 4,
+    "health": 8,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내 턴이 끝날 때, 내 정령들에게 +3/+3|1(을,를) 부여합니다. 내 전장 조합에 있는 서로 다른 <b>보너스 키워드</b>의 수만큼 반복합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4d2dcb01f81344a174299b316eb2a0f6a0b61fdc58b35da2f435354c9314964.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2edfa5c30d0d4e634031d278520165f5a188e127db60cb06d087415ac9fd1da.png",
+    "childIds": [
+      135216
     ]
   },
   {
@@ -12273,6 +12317,28 @@
     "childIds": null
   },
   {
+    "id": 135260,
+    "name": "부정한 의식",
+    "enname": "Unholy Ritual",
+    "cardType": "주문",
+    "tier": 3,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "죽음의 메아리",
+    "text": "언데드에게 \"<b>죽음의 메아리</b>: 1/1 해골을 둘 소환\" 능력을 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3cf63f873be626b0ef42a7700d9f6db1a76e9046fc1b365ebd4a46234e9e7fb.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/363e6a904e5cb6c8da8aa712c9258d691d9a61abb0d79cae34c3e51f7e258436.png",
+    "childIds": null
+  },
+  {
     "id": 119470,
     "name": "분수 속 차원문",
     "enname": "Portal in a Fountain",
@@ -12559,6 +12625,50 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d16a74f5319c21deba0e2c7e633d580e38efdf9401e4e62d25bda069ffc2636d.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b1c26d7061c308a5aa926f3f714b2fa5ef7aba48d40ca560d44189c77afc019.png",
+    "childIds": null
+  },
+  {
+    "id": 136070,
+    "name": "격동의 성장",
+    "enname": "Tumultuous Growth",
+    "cardType": "주문",
+    "tier": 4,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "하수인을 선택합니다. 무작위 선술집 주문을 개 시전합니다. <i>(가능하다면 그 하수인을 대상으로 선택)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03f676efaf70b187950e5b72c86ee0aaf8f7867aa9956c6762bc7a4b1fa56e92.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c1ed5e97ffebbdf1aa5017b65f7ec8e8cdc39e2ee95b71cd0f2dde6998c0ec8.png",
+    "childIds": null
+  },
+  {
+    "id": 136104,
+    "name": "골드린의 축복",
+    "enname": "Goldrinn's Blessing",
+    "cardType": "주문",
+    "tier": 4,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "이번 게임 동안 내 야수들이 + /+ |1(을,를) 얻습니다. <i>(어디에 있든)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27afc752fcf753b0bf93ab2c80dbada7a7f0a41a9288a875cc0d0a6bf65a453e.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ad9064a5a12064b8db339396350a0205bbe6b3982f0d9620742f34516aac188.png",
     "childIds": null
   },
   {
@@ -13373,6 +13483,28 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b79592d2f14dea13b9c1a5e0e1540b488e5b271ceb4e9d1367eea081fd53112.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4be480a8c29f7617670854e94045d0a9701fc575c0a771b3767acce280ed2047.png",
+    "childIds": null
+  },
+  {
+    "id": 136015,
+    "name": "용폭풍",
+    "enname": "Dragonstorm",
+    "cardType": "주문",
+    "tier": 6,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내 용족들에게 \"내 턴이 끝날 때 + /+ |1(을,를) 얻음\" 능력을 부여합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63e941c528a1f4efb204bcf39965b736ec58cdadb9c83e05fbddeb6c96e0f32a.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6601fbdfd1d97f0d5ea846c1e2d4d7828d1e152ead42b170e18b585f2901fc34.png",
     "childIds": null
   },
   {
@@ -20540,6 +20672,28 @@
     "childIds": null
   },
   {
+    "id": 136060,
+    "name": "똑딱이의 힘",
+    "enname": "Power of Buttons",
+    "cardType": "시간왜곡",
+    "tier": 3,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>구매 시 시전</b> '늘어나는 수집품'을 내 두 번째 영웅 능력으로 만듭니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b038c3b9d07e367de1f24e5c3c8e7a1869e87e225915354fcee5b2e7358d6913.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/671077078b3a666ac8543479a2a1f01942a832f97aea021259b14aa4e748ad1b.png",
+    "childIds": null
+  },
+  {
     "id": 126271,
     "name": "리치 왕의 힘",
     "enname": "Power of the Lich King",
@@ -20559,6 +20713,28 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95b7dda9c40298761b5515ec1ead3e84dfe9040dc453a5eaa4fca16fd674cefb.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14b5835f5f1771533fc5334621a647bce71b2b357b142bec9798f30ef02bc0b1.png",
+    "childIds": null
+  },
+  {
+    "id": 136061,
+    "name": "무르도즈노의 힘",
+    "enname": "Power of Murozond",
+    "cardType": "시간왜곡",
+    "tier": 3,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>구매 시 시전</b> '평행 시간대'를 내 두 번째 영웅 능력으로 만듭니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91d33a12396ed84a764cf00a40793bb89daf4f7307064f6499ac58064d297500.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3051c7b52c5d8d4eb395fa83c28c6a6aabe9820bedbcac12af9a62a366d46d6c.png",
     "childIds": null
   },
   {
@@ -22069,6 +22245,28 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e52f3cb2d12dee0a7d2366beb203a346aee5490fc1f878b85c31fdba7be78424.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52fdaf15541b8dde577f7af584b4f8a96cca374cb758b5d55e42d3a26fdcb1d7.png",
+    "childIds": null
+  },
+  {
+    "id": 136058,
+    "name": "클록스워스의 힘",
+    "enname": "Power of Clocksworth",
+    "cardType": "시간왜곡",
+    "tier": 3,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>구매 시 시전</b> '곱절의 시간'을 내 두 번째 영웅 능력으로 만듭니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2817818d6ca5f4b47b512f094493b463ff6704220191b3916a66926bc3473f06.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/830f07ba20dae1f0f4dfcd0eb8b9f98e9d09b016a5d312c56e57ca6981703374.png",
     "childIds": null
   },
   {
