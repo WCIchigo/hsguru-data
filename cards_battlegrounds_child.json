@@ -2535,6 +2535,14 @@
     "health": 1,
     "text": null
   },
+  "113129": {
+    "name": "무료 여행 당첨자",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_103_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b7e93952438dd7650be033f05efc9d5f55ef4ba2174e422c81258faa41f60f1.png",
+    "attack": 4,
+    "health": 4,
+    "text": "<b>임무</b>: 이 하수인이 전투에서 생존하면 황금 보상을 2개 얻습니다."
+  },
   "113155": {
     "name": "겁 없는 미식가",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG30_123_G_triple.png",
@@ -2614,14 +2622,6 @@
     "attack": 5,
     "health": 5,
     "text": "내 턴이 끝날 때, 선술집에서 단계가 가장 높은 하수인을 <b>전달</b>합니다."
-  },
-  "113637": {
-    "name": "수상망측한 아기 수액",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BGDUO_HERO_101_Buddy.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fa2766ecaf48e5a5dfa7e4b3438f4a252bd7023e5b8d23fab4bd05726a4f17a.png",
-    "attack": 7,
-    "health": 7,
-    "text": "두 턴이 시작될 때마다, 단계가 가장 높은 내 팀원의 하수인을 강화 효과가 없는 일반 하수인으로 복사하여 얻습니다. <i>(2턴 남음!)</i>"
   },
   "113650": {
     "name": "성물회 수행원",
@@ -3014,14 +3014,6 @@
     "attack": null,
     "health": null,
     "text": "내 팀원이 1골드를 얻습니다. <i>(한 턴에 두 번)</i>"
-  },
-  "119196": {
-    "name": "차원 관문",
-    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG31_HERO_802p.png",
-    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c7724b58bdc4bdd05158483f53c184bfc940e64534ea835dfa23129c461399e.png",
-    "attack": null,
-    "health": null,
-    "text": "게임이 시작될 때, 프로토스 하수인 둘 중에 카드를 14장 산 후에 얻을 하수인을 선택합니다. <i>(14장 남음!)</i>"
   },
   "119669": {
     "name": "기워 붙인 회수꾼",
@@ -5310,6 +5302,14 @@
     "attack": null,
     "health": null,
     "text": "내 턴이 끝날 때, 내 하수인들에게 +4/+4|1(을,를) 부여합니다. <i>(이번 게임에서 내가 낸 황금 하수인의 수만큼 강화됩니다!)</i>"
+  },
+  "133396": {
+    "name": "떠 다니는 양초 세트",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG36_MagicItem_208t.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d870ac27c9537c17a514e4e2d1572d7ddc5d0f2310674b1a654f07392e44a1f.png",
+    "attack": null,
+    "health": null,
+    "text": "아군 하수인의 <b>죽음의 메아리</b> 능력을 발동시킵니다."
   },
   "133435": {
     "name": "미끼 창조술사",
