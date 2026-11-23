@@ -5415,6 +5415,14 @@
     "health": 8,
     "text": "<b>튼튼함</b>"
   },
+  "134524": {
+    "name": "태평한 낮잠꾸러기",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58610ec0185e587d10848c2ff87804a571dcb9f6a61e9356755c751401629474.png",
+    "attack": 12,
+    "health": 10,
+    "text": "<b>튼튼함</b>, 이 하수인이 공격받을 때마다 무작위 선술집 주문을 2개 얻습니다."
+  },
   "134528": {
     "name": "임픔",
     "img": null,
@@ -5439,6 +5447,14 @@
     "health": 8,
     "text": "<b>전투의 함성과 죽음의 메아리</b>: 무작위 <b>원소의 기원</b>을 2장 얻습니다."
   },
+  "134558": {
+    "name": "피지느러미 학자",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/256fe1f80a3e212e5ba8832a23d497bcf1b74dc31b2b298c97e4f6e7cf2d01ee.png",
+    "attack": 12,
+    "health": 16,
+    "text": "내 턴이 끝날 때, 내 손에서 가장 왼쪽에 있는 선술집 주문을 복사하여 시전합니다. 두 번 발동합니다. <i>(가능하다면 이 하수인을 대상으로 선택)</i>"
+  },
   "134586": {
     "name": "끈질긴 가시마녀",
     "img": null,
@@ -5446,6 +5462,14 @@
     "attack": 6,
     "health": 6,
     "text": "<b>임무</b>: 이 하수인에게 주문 8개가 시전되면, 내 <b>혈석들</b>에게 이번 게임 동안 +4/+6|1(을,를) 추가로 부여합니다. <i>(8개 남음!)</i>"
+  },
+  "134588": {
+    "name": "잔혹한 뻣뻣가시",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56ea7cbbcc467070df2d44f811ca921ea49d5236373bf669a78fe955be47c638.png",
+    "attack": 8,
+    "health": 14,
+    "text": "내가 골드를 소모한 후에 다음 턴까지 무작위 <b>보너스 키워드</b>를 둘 얻습니다. <i>(5골드 남음!)</i>"
   },
   "134596": {
     "name": "갈퀴발 지하마귀",
@@ -5487,6 +5511,22 @@
     "health": 12,
     "text": "<b>임무</b>: 이 하수인이 피해를 20 받으면, 한 방 브란 뒤집기를 둘 얻습니다. <i>(20 남음!)</i>"
   },
+  "135700": {
+    "name": "로봇 발사기",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b6a31628749c2aa0e4bdedaa90f6385f90450329b3d29b404c72fe237483e58.png",
+    "attack": 6,
+    "health": 2,
+    "text": "<b><b>천상의 보호막</b>. 임무</b>: 아군 하수인 5마리가 <b>천상의 보호막</b>을 잃으면, 무작위 <b>합체</b> 기계를 넷 얻습니다. <i>(5마리 남음!)</i>"
+  },
+  "135704": {
+    "name": "비열한 은행가",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c30c667c5f6771ee99c008edd0943e07748255558aa99aa6e7b616f5638be29.png",
+    "attack": 10,
+    "health": 12,
+    "text": "<b>사용 (1)</b>: 선술집에 있는 카드들의 비용이 (2) 감소합니다."
+  },
   "135873": {
     "name": "기발한 요리용 불",
     "img": null,
@@ -5502,6 +5542,14 @@
     "attack": 20,
     "health": 20,
     "text": "<b>사용 (3)</b>: 내가 가장 많이 보유한 종족이고 <b>어둠의 선물</b> 능력이 있는 4단계 이상 하수인을 둘 <b>발견</b>합니다."
+  },
+  "135941": {
+    "name": "야심만만한 신병",
+    "img": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f4341c655d59e787ea1a126aadce2950d0a88a22d0ca34daa7dafe4ca49468f.png",
+    "attack": 12,
+    "health": 12,
+    "text": "<b>전투의 함성</b>: 내 손에 있는 하수인에게 +12/+12|1(을,를) 부여합니다. <i>(이번 턴에 내가 시전한 선술집 주문의 수에 따라 강화됩니다!)</i>"
   },
   "135973": {
     "name": "시간왜곡의 티케투스",

@@ -5683,6 +5683,30 @@
     ]
   },
   {
+    "id": 135699,
+    "name": "로봇 발사기",
+    "enname": "Bot Launcher",
+    "cardType": "하수인",
+    "tier": 3,
+    "minionType": "기계",
+    "minionType2": null,
+    "attack": 3,
+    "health": 1,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "천상의 보호막, 합체",
+    "text": "<b><b>천상의 보호막</b>. 임무</b>: 아군 하수인 5마리가 <b>천상의 보호막</b>을 잃으면, 무작위 <b>합체</b> 기계를 둘 얻습니다. <i>(5마리 남음!)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f90a47d320f074ae3f5c92ca9f76ec88c459eb2a2f451047f07cacb2c74ba849.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b6a31628749c2aa0e4bdedaa90f6385f90450329b3d29b404c72fe237483e58.png",
+    "childIds": [
+      135700
+    ]
+  },
+  {
     "id": 112364,
     "name": "로봇 의수",
     "enname": "Prosthetic Hand",
@@ -6962,6 +6986,30 @@
     ]
   },
   {
+    "id": 135703,
+    "name": "비열한 은행가",
+    "enname": "Crooked Banker",
+    "cardType": "하수인",
+    "tier": 4,
+    "minionType": "해적",
+    "minionType2": null,
+    "attack": 5,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>사용 (1)</b>: 선술집에 있는 카드들의 비용이 (1) 감소합니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ea6338df3c5d800a870cadad86ac8412f74883acbae0c197bd9ed464447f955.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c30c667c5f6771ee99c008edd0943e07748255558aa99aa6e7b616f5638be29.png",
+    "childIds": [
+      135704
+    ]
+  },
+  {
     "id": 99011,
     "name": "사랑앓이 발라드 가수",
     "enname": "Lovesick Balladist",
@@ -7149,6 +7197,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a877d29b9885e88af52fe891a670171f8a6893267f942a95b796a9d8092a875.png",
     "childIds": [
       121509
+    ]
+  },
+  {
+    "id": 135940,
+    "name": "야심만만한 신병",
+    "enname": "Ambitious Recruit",
+    "cardType": "하수인",
+    "tier": 4,
+    "minionType": "멀록",
+    "minionType2": null,
+    "attack": 6,
+    "health": 6,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": "전투의 함성",
+    "text": "<b>전투의 함성</b>: 내 손에 있는 하수인에게 +6/+6|1(을,를) 부여합니다. <i>(이번 턴에 내가 시전한 선술집 주문의 수에 따라 강화됩니다!)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb3073a3169e793ea055be815d35f3588ac6dbb3252c14225470060ff2a37273.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f4341c655d59e787ea1a126aadce2950d0a88a22d0ca34daa7dafe4ca49468f.png",
+    "childIds": [
+      135941
     ]
   },
   {
@@ -7365,6 +7437,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c65bdc724db7ac8102e9ccc10524457be72ec36d711f136cdc44af1ed30065d.png",
     "childIds": [
       120026
+    ]
+  },
+  {
+    "id": 134587,
+    "name": "잔혹한 뻣뻣가시",
+    "enname": "Brutal Bristlethorn",
+    "cardType": "하수인",
+    "tier": 4,
+    "minionType": "가시멧돼지",
+    "minionType2": null,
+    "attack": 4,
+    "health": 7,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내가 골드를 소모한 후에 다음 턴까지 무작위 <b>보너스 키워드</b>를 얻습니다. <i>(5골드 남음!)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c93e4c3c7cfc3e103473cca26b59921f6124d3e2fb19222d5122cc973b6591c0.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56ea7cbbcc467070df2d44f811ca921ea49d5236373bf669a78fe955be47c638.png",
+    "childIds": [
+      134588
     ]
   },
   {
@@ -8391,6 +8487,30 @@
     ]
   },
   {
+    "id": 134523,
+    "name": "태평한 낮잠꾸러기",
+    "enname": "Nonchalant Napper",
+    "cardType": "하수인",
+    "tier": 5,
+    "minionType": "악마",
+    "minionType2": null,
+    "attack": 6,
+    "health": 5,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>튼튼함</b>, 이 하수인이 공격받을 때마다 무작위 선술집 주문을 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/648914148d6ebfa21cbf48bbe60e679a1aff834eec4e421d17e05b617971869e.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58610ec0185e587d10848c2ff87804a571dcb9f6a61e9356755c751401629474.png",
+    "childIds": [
+      134524
+    ]
+  },
+  {
     "id": 97408,
     "name": "티투스 리븐데어",
     "enname": "Titus Rivendare",
@@ -8412,6 +8532,30 @@
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e5fca5fa497835550a464c51c8e81261f474a1f9d797bd1504181281bdbd270.png",
     "childIds": [
       97409
+    ]
+  },
+  {
+    "id": 134557,
+    "name": "피지느러미 학자",
+    "enname": "Bloodfin Scholar",
+    "cardType": "하수인",
+    "tier": 5,
+    "minionType": "멀록",
+    "minionType2": null,
+    "attack": 6,
+    "health": 8,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "내 턴이 끝날 때, 내 손에서 가장 왼쪽에 있는 선술집 주문을 복사하여 시전합니다. <i>(가능하다면 이 하수인을 대상으로 선택)</i>",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f2b8a822bc729ae1d4467ab698356a7dede18c0a4387881131f6c1cc350a04a.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/256fe1f80a3e212e5ba8832a23d497bcf1b74dc31b2b298c97e4f6e7cf2d01ee.png",
+    "childIds": [
+      134558
     ]
   },
   {
@@ -11989,6 +12133,28 @@
     "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/deea90713c316d99b6a2f2c2aee8a6d0fe7f6e688d08047731648ba34342e174.png",
     "imgGold": null,
     "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25d4ce78a20b258d08147e1d9428573893faff59f42adaf8c62abc5900034f28.png",
+    "childIds": null
+  },
+  {
+    "id": 135226,
+    "name": "원소 지휘",
+    "enname": "Command the Elements",
+    "cardType": "주문",
+    "tier": 5,
+    "minionType": null,
+    "minionType2": null,
+    "attack": null,
+    "health": null,
+    "armor": null,
+    "trinketTier": null,
+    "keywords": null,
+    "text": "<b>원소의 기원</b> 4개를 모두 얻습니다.",
+    "flavorText": null,
+    "duosOnly": false,
+    "solosOnly": false,
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78635cc55fcbc03e1934245c0c2716c22b7ce64acb4d2937a4a3c9fab26daa59.png",
+    "imgGold": null,
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f47e9b13854c4b7203243580c952cdfac2a92c057aeb3c01ecae04dd84b57d35.png",
     "childIds": null
   },
   {
