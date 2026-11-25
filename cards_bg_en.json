@@ -1,0 +1,4312 @@
+{
+  "57633": {
+    "img": "68c3d150469db4f2b6d3c882dc705c7699ad2bb5034a4e657259d712ed79de5b"
+  },
+  "57634": {
+    "img": "f88f62662fa97e5b28aec4eb14ff7de12baaf9ff320b6fa527965b208452dc83"
+  },
+  "57635": {
+    "img": "0d06e5cfacac92df9ac1e80ac9795c1660e5d29a1ab5fd0437ab6e398cecd7bf"
+  },
+  "57891": {
+    "img": "da8a22dde29d34d646636aef3d9a011cb190269b4c2ccde27b5ec889369e11c6"
+  },
+  "57892": {
+    "img": "8ca7039896d3c971cf99807ee13e12add02ed1b223b7e5eb84eb6d1baab1072d"
+  },
+  "57893": {
+    "img": "c233ad15305b76bbc30df1c51ea697132dfd98d4a85a050a5c80a18b5226a571"
+  },
+  "57924": {
+    "img": "b8f1689595648a17f1a498fa128508a1d144681ebb2c1c696ff3438b61ef3e55"
+  },
+  "57929": {
+    "img": "e34128982297fbb0ec49b0094e03a0d841971bc7fdcb5d75c9045500b365fb43"
+  },
+  "57944": {
+    "img": "2198a9633db594969293d34d84534e4f096726de3b0afe5a5efbb6c4b6d4dafa"
+  },
+  "57946": {
+    "img": "96cc5eb8a75d0025e36c7c75d7277cfa2d12a20dfc10a76b630c92e9f38c6e1c"
+  },
+  "57947": {
+    "img": "d89d08b843a164de2bf6205413d5991fef85c1a98edae0bb0605cba93778f290"
+  },
+  "58021": {
+    "img": "9b5403d7cdc79592d090328f89bed3f63082aa63219136ee1f4b886e5774b973"
+  },
+  "58024": {
+    "img": "3bfd8249cdc97325f0cbc8c151c014a955d7515c588a59b661d0539bbb494d65"
+  },
+  "58027": {
+    "img": "1fe34d71a922dc62e87aee6ef974269a34d1bd844bf2dcf4d834e3308e92d6f2"
+  },
+  "58044": {
+    "img": "4755bc5d8d61ab555dd4a7d8913b7f42fa0d8e42373f061f518ebc3d23c06613"
+  },
+  "58435": {
+    "img": "e9e5e00917ba36d4b6b0cab0ff32c668f42a7f62cba54720ce74bf59a7360305"
+  },
+  "58534": {
+    "img": "680d13bcf92be54a82ef1549f2d8ac33785b44c5c16e77782209b3665fc45571"
+  },
+  "58535": {
+    "img": "755f8f83429c50fbd372c750569965a8af4a723d462fae6e7a3be848299c455d"
+  },
+  "59203": {
+    "img": "f49c98550eeafbe3c267ab2aba475d4b8805bb5dd1690f53a713345b4e055d58"
+  },
+  "59397": {
+    "img": "855ff4baf04966fb8a6ef94d1b6ed02e837258d055ac7270b4565cc47945e542"
+  },
+  "59670": {
+    "img": "2f1555db10c55393adce53c85639e75ad81c4358edcbe8b85ce553041c656f59",
+    "text": "After you play a Demon, deal 1 damage to your hero and gain +2/+2."
+  },
+  "59687": {
+    "img": "46ca5504723178839d0e378a2e5b406c690fdaff04d3878d720439f9ba96c76f",
+    "text": "<b>Deathrattle:</b> Summon 2 random <b>Deathrattle</b> minions."
+  },
+  "59805": {
+    "img": "8d93e981198f0dc5c3ec6c29948c171b14e1734e34f839b805d9afb0b8c5db75"
+  },
+  "59806": {
+    "img": "c1f5e1d8d34f3934802f2f3a6504db875fa16d20ef28e32f9fb79764f3531e69"
+  },
+  "59807": {
+    "img": "a99f05e003a5ef5976a38e5a03a5c8ad408a531c46dec8eca7d9b7e2ed721465"
+  },
+  "59814": {
+    "img": "06b7e853ea770541b731db60c5917f221d1a0e7db60f35980ec4b16972673d5a"
+  },
+  "59831": {
+    "img": "e295b61232676e2aecbfcff07d1aeac492cc71dfdd093fb667d1883b88161134"
+  },
+  "59935": {
+    "img": "d4d93141486485a30f1b7576d0e5fd573ebb90cb1e691961711afb667fdbaadb",
+    "text": "<b>Deathrattle:</b> Summon plain copies of your first 2 Mechs that died this combat."
+  },
+  "59955": {
+    "img": "93dcfb095f34e43cf7ae70690a1d3a3aa6e74052218fb24239a69331871411f0",
+    "text": "<b>Deathrattle:</b> Your Beasts have +5/+5 this game <i>(wherever they are)</i>."
+  },
+  "60028": {
+    "img": "3c50d46680c38d695e1a04f4fa711af37215b4f66a1d51d75f30244be459e551",
+    "text": "<b>Battlecry:</b> If you control another Murloc, <b>Discover</b> a Murloc."
+  },
+  "60211": {
+    "img": "9b2ed65f1e26cb2162dade35e0ece32985489b6e726acb2b4ccb60dd6f46e8da"
+  },
+  "60212": {
+    "img": "09d845c9930b4f40fa08de8480ae1253d95b0ef889011208cf3a443ce116343c"
+  },
+  "60213": {
+    "img": "fdfd53a0300611df632e577b5ca8d39ab73b033c6790738d1718a9f347808810"
+  },
+  "60214": {
+    "img": "747856b2960faa8b36cf2536e3e7fdbe46d1f5190162495a703e86b5fcc894a6"
+  },
+  "60362": {
+    "img": "af63d0fb173b2e87c7600202cdd001c8051ebde23fc53b2448f57e20dbf84dcf"
+  },
+  "60366": {
+    "img": "647014a288d62b59415dd3e7812138d71b744adb8c86f3f6463f4a2a30c8e3c8"
+  },
+  "60367": {
+    "img": "63c7db216f9ebc066142ba59a7af159f6f412d770617082d943425e01907d463"
+  },
+  "60369": {
+    "img": "33b6b8a19e54e4bf3db67532304b6706aeda4ed25b2d6ae48c1b93f0a5fa4da2"
+  },
+  "60370": {
+    "img": "c6835e5a9d3e3e001c5c6e7cb1f92013c0946052d0e159f5b6ec30148c002385"
+  },
+  "60372": {
+    "img": "55fc3eff88c8878d93433b8b9795d15c2b1eeec247878003bd4d17dc3c50d109"
+  },
+  "60630": {
+    "img": "141690cdca19b7c97040da673c70f423ac51789ec974a2747e173f500b5aef9b",
+    "text": "After you trigger a <b>Battlecry</b>, give your Dragons +2/+2."
+  },
+  "61488": {
+    "img": "ba694abed12cb8aba9e0ef10323b9e25427a731c5cf450c77db730aad88e6c5b"
+  },
+  "61489": {
+    "img": "52fce35e3f7585600ee1f0bd14313d10dc0a6cd9a9d261383b339ae131cbcad6"
+  },
+  "61490": {
+    "img": "49b5dcf60c07dc84be3526bc87f03c843b8487f57a452b3bbf0bf2fbb4669bab"
+  },
+  "61910": {
+    "img": "590505c51463b8a5454cad048b73152ebaa37c5b86f1a45adf1f1b307e04dde7"
+  },
+  "61912": {
+    "img": "dac3e003f49edf666520268175e76f3d8940fd1b30f620ebbf35b469da8c5928"
+  },
+  "61914": {
+    "img": "ed3834a04729f36b8eabe7b5fc8985474be890701d760f86ddb94d6e562c3d80"
+  },
+  "61930": {
+    "img": "36669a780bbe312a321fdcc2c70e79c249c582d884c909a0ded8465147e2819c",
+    "text": "<b>Divine Shield</b> Whenever you summon a Mech during combat, gain +2 Attack and <b>Divine Shield</b>."
+  },
+  "62230": {
+    "img": "9181c3af318a4b6f111f1afa7f89d9cab4c11cc566880d0539d11768a355776d",
+    "text": "<b>Rally:</b> Trigger your left-most <b>Deathrattle</b> <i>(except this minion's)</i>."
+  },
+  "62242": {
+    "img": "3164dc85722abe5632990f7f7a550e50d59bed0b989997f7e508fbb804ef5790"
+  },
+  "62266": {
+    "img": "0d7bc9b6c56265158c3cdd8c4813e54988987d03f240e037fbf1d4b2f8c82d4a"
+  },
+  "62268": {
+    "img": "c57603a93b419b36b9827e7d7797e8d339493cc37d60a82589e93add3daef1ab"
+  },
+  "63319": {
+    "img": "5cb1ec97741e89912c61d3493b83dc4514190a6e24433b81441ce4bd9cca8814"
+  },
+  "63601": {
+    "img": "733fc2b0c807f4e50f4b2eabd7841db6ec4e28b964dd1f3b66709af9b0f69fde"
+  },
+  "63602": {
+    "img": "90c14e05675e472d9b30f24f5465514a262bc82ac96a237a69d9d91bb78bd7e2"
+  },
+  "63604": {
+    "img": "dc60771c75525ba6ae155e810ef4de0642871b7509484766699d269cab1b346e"
+  },
+  "64038": {
+    "img": "3488b094af0dec6d1c3b595a68eabaaae175930ddebcf9243c256204be3a62c2",
+    "text": "When you sell this, get a 3/3 Elemental."
+  },
+  "64054": {
+    "img": "2665d9db5829622ccb0f5f852a656bf8b7cfe5d64bb76b54649d31d35ac148d0",
+    "text": "<b>Divine Shield</b> <b>Windfury</b>"
+  },
+  "64062": {
+    "img": "8f7f31112c6e4c31cd3fb156288fd9351f9f927845708409fb047b357e702e8c",
+    "text": "<b>Taunt</b> <b>Deathrattle:</b> Get a random Elemental."
+  },
+  "64077": {
+    "img": "f4683667b535c66e956c8b590bb53bc5b1d32cfa31fbc37265b035125dde5d61",
+    "text": "<b>Battlecry:</b> Get a random Elemental."
+  },
+  "64189": {
+    "img": "9aaea2314ac2bcc6d5ba1a8640a93e9fb87a378b524e41c498c4630ebda2f1d5",
+    "text": "After this attacks and kills a minion, deal excess damage to an adjacent enemy."
+  },
+  "64400": {
+    "img": "90e3962d38a39c474d6749b07e1f30f9444c8242bcfe46b759a78b415ba791e8"
+  },
+  "64403": {
+    "img": "2776258c531eab9aa258dd02cff72204f1d6c27d507d8cb833f8d94622596959"
+  },
+  "64475": {
+    "img": "d999a1019c20b0c07b4ab8c52998b318a71addd4fcf8ffc230e0c9f0c5f440ec"
+  },
+  "64480": {
+    "img": "1a4c6659d89f7b0d43921ef268b3e03ed8294bf622880716b845695aa7025672"
+  },
+  "64485": {
+    "img": "2137905fb672e4c884326120d0bd9838a92a55fb86ef74b5b02108b287c334e0"
+  },
+  "65031": {
+    "img": "e9d038c19070d1246bb6febb802fe42fc05feb137f129d6c876aaeec9ab155f1",
+    "text": "<b>Venomous</b>"
+  },
+  "66196": {
+    "img": "2d48ec66d4a0ef8a17f53a6a8b86702792f105df5b35bd5b98d1e60bca3c03fa"
+  },
+  "66483": {
+    "img": "99d0e0c7a2cfdc09ef020142a609eab3912a342328f352e91fa50d04e246dd05"
+  },
+  "67356": {
+    "img": "196f54a4bfd8c829c7ed10c27e3f688ef5fa3baa0960957ee546eb58e0866628"
+  },
+  "67553": {
+    "img": "dc689b9c9ef0523daab423b78d81bb2b2482db5ffa34cc4f8f6e157878d3c67a"
+  },
+  "68129": {
+    "img": "c37eed6066f809121f6ee41ad74ba6b2b0ef27a22046350055aa699a1b59a435"
+  },
+  "70143": {
+    "img": "a468983cb85ea3d65204e954b0d0e524f73791130f6f28c8d478bf89b0cf3b3c",
+    "text": "<b>Battlecry:</b> Get 2 <b>Blood Gems</b>."
+  },
+  "70157": {
+    "img": "17c49e49315b30b4272af364508b6781f3a8bc6f42007060ad6f2486c777ecaa",
+    "text": "<b>Rally:</b> Get a <b>Blood Gem</b>."
+  },
+  "70173": {
+    "img": "8f7573129f68f55c65e0c812dd1d7d04a554ca166bf03283283d8163594c01d1",
+    "text": "<b>Windfury</b> <b>Rally:</b> This plays a <b>Blood Gem</b> on all your other minions."
+  },
+  "70790": {
+    "img": "e904618ffe4f2f8bc402d57a39616cafa887f9b2db15f54982da099791f1f263",
+    "text": "<b>Deathrattle:</b> Summon a 2/3 Turtle with <b>Taunt</b>."
+  },
+  "70838": {
+    "img": "ab372e45722fc52f89107c805953fc1d1baf1117a6fcbadb5eb036a51cb08d57"
+  },
+  "70956": {
+    "img": "99e34da4df417e465c2dfa1fd9d64ab7801cb9f578f150fb3d9a68f80eae7232"
+  },
+  "71454": {
+    "img": "18e253a84ea5a601358092089b5037b63c7185e84821c01497695924bf8e974a"
+  },
+  "71458": {
+    "img": "751da6abf1bb11711e2a655e406e6f00a1b742fb9c1a13979dd05c1b30959f1a"
+  },
+  "71463": {
+    "img": "ebe2ed1616c510d74c3067827dfa7e5483d49ee96dbec58acbdb919097b76a40"
+  },
+  "71908": {
+    "img": "1fc653052913d219e52e2faba49408cfedac3d4d71815c7517776e8b8f58e39c"
+  },
+  "71916": {
+    "img": "8f97581d937edaaffbe106635197de92b9fa08c94549c1c4afe17e33379e6611"
+  },
+  "72062": {
+    "img": "7c4f792d5450991c39514e2b318ea630a283060d36f313128476d6ee3c95df00",
+    "text": "This permanently keeps <b><b>Bonus Keyword</b>s</b> and stats gained in combat."
+  },
+  "73940": {
+    "img": "72c7527bc40e65f3787eaccff552413af2284b3960e17949fb9034337388fabf"
+  },
+  "74631": {
+    "img": "4f1be4931392e41fc8f2f7ff95535071fe766449927998c49f3b6187a48ef54e"
+  },
+  "74646": {
+    "img": "bfd091318e5569280e39ecc5baefcb3e25803712616d965de26433d3841ae72d"
+  },
+  "75702": {
+    "img": "4c24bdeae005097cbe9a5adc2bb8941769904c1f6a0f89e58a9dd160c09d97be"
+  },
+  "76521": {
+    "img": "ae0b2d852402efc4c2b762eb2aa33ef13002cfa12dafa907b5e41d5318725fe1"
+  },
+  "76562": {
+    "img": "741660e17c6a0c5f64964fd776d8308df471ce9ae35d33fc11f4636fe5ee0614"
+  },
+  "77516": {
+    "img": "1e9aea552042f309134a5d5a154320105bed39d7a2454f5da64bd8582f9c1a5e"
+  },
+  "77987": {
+    "img": "eaa651927ccc3576f1a708cbe930b0459aab76cbf1a0b0c0185c60931bcf9728"
+  },
+  "79615": {
+    "img": "3053c976c7f7bb379a6245a58c91013d83c0db46ed78656843a1dfe44a051c01"
+  },
+  "79618": {
+    "img": "774d1b999875605577fe01b595e7a1cc59ce5cf9528ab4107991525aff6812a1"
+  },
+  "79719": {
+    "img": "7b1355e949ed9a7d8012b1a984765284aece74252810e1b2bba1f1fa0745351b"
+  },
+  "80239": {
+    "img": "7246a78d05cbd0d5fe0085af9eb851badcc3fdecf909b258d74380c7ead58356"
+  },
+  "80247": {
+    "img": "d85b424a96cdf102768e21f308721f06c890c0cedd9ae9ca95b7d57ccf9a7b6a"
+  },
+  "80754": {
+    "img": "c9d4f85406b1e4ce1cb91ef5b539f1e60c7862d0d71b37834d36608dd41d5659",
+    "text": "<b><b>Battlecry:</b> Discover</b> a minion of a type you don't control."
+  },
+  "80755": {
+    "img": "1ef54f846dc963add553eeb019522bcddd6cf6334beede845a16e087467b957f",
+    "text": "<b>Battlecry and Deathrattle:</b> Your <b>Blood Gems</b> give an extra +1/+1 this game."
+  },
+  "80832": {
+    "img": "4fd143a3753cdc4688529d5f4ab153c801fa28fb46548758a1463cfd93a2511b"
+  },
+  "81569": {
+    "img": "eb3d5a5a2ab678675d406f96feeaa4fda0c284886f4af60ce2f4e00decd67ab9"
+  },
+  "82110": {
+    "img": "5e30179bb33d709c38dbf5bc616fe0c2803c6f904c86ca54b8b7576d20ee3c0e"
+  },
+  "84867": {
+    "img": "d8b00ad1868efb110f7f1ef8f3208d231291a7d2a2b4ad379f93a4ccb8e73a8c"
+  },
+  "85125": {
+    "img": "01be0615e19f83ee4b322ff1aa37c289d878332a64eb8fca18dcbb8cd41a9fd0"
+  },
+  "86013": {
+    "img": "53365149a5b7ef3552ee45f6b96e2e1bab9e9515b495cbf9202ef744a903b0cb"
+  },
+  "86291": {
+    "img": "5a0b2abde7702cdd372ed890e14bd0cb76d9dc5fee2185425d10240f5648d0c2"
+  },
+  "86783": {
+    "img": "022f0a1ada40682b2fa051d34924de7b54cdcffd0c0adfefeda1aae0cb03a5b6",
+    "text": "<b>Venomous</b>. <b>Start of Combat:</b> For each of your minion types, gain +5/+5 and a random <b>Bonus Keyword</b>."
+  },
+  "87060": {
+    "img": "b1b7cb5f3a6c30bd07a2168d86c080272ae7da68e522669bd09fb9d0de0a57ca",
+    "text": "When you sell this, get a random Murloc."
+  },
+  "87084": {
+    "img": "6c740c79104b2b0671df7a1af162f194936c8af551ca22d95cb993e6a04e3c3a",
+    "text": "At the end of your turn, trigger the <b>Battlecries</b> of adjacent minions."
+  },
+  "89037": {
+    "img": "361014b0cf3c1027b1254d3650fd1327a50c0892445fb0b57e1ca519f04d6c10",
+    "text": "<b>Quest:</b> Buy minions."
+  },
+  "89044": {
+    "img": "4563c36cf9da6ee7c4a9eb650be92f80ed6095bf39de467450121f12ee84d788",
+    "text": "<b>Quest:</b> Add cards to your hand."
+  },
+  "89293": {
+    "img": "42fe13acfe1cf3beba1ddac7d03e34ab34a967092381b4a6a5ab2814be231210",
+    "text": "Don't bother asking her for drinks. She will never serve."
+  },
+  "89449": {
+    "img": "14def0cf745640710d7b9e462d9a4eeb605c12324845bfd66dd20c172a535903",
+    "text": "At the end of your turn, 2 friendly minions trigger their <b>Battlecries</b>."
+  },
+  "89473": {
+    "img": "9a525b2717d08d0dce1682aa0fa2acc94df50ea01667c3511fce6c0286f7a439",
+    "text": "<b>Start of Combat:</b> Make your left and right- most minions Golden."
+  },
+  "89481": {
+    "img": "b38e5624fb65a745f394a47a57483642da84a65a42a0d4be751e2e3e2642825b",
+    "text": "<b>Start of Combat:</b> Summon a copy of your highest-Health minion."
+  },
+  "89643": {
+    "img": "15f4f6fb2613257d56d5890689f31fd40edda44f5a78028228c121c245831ab4",
+    "text": "<b>Quest:</b> Summon minions."
+  },
+  "89650": {
+    "img": "141a671a19f77a9fb58ea3d441d6bb1eb727a11b82aef63f38e1f1f903dab576",
+    "text": "After you buy a minion, give it +2/+2 and improve this."
+  },
+  "90328": {
+    "img": "8b4860dc3b216a30cc9c50532316470363c154e0c0e9c02557b9f510657814ed",
+    "text": "<b>Quest:</b> Buy or ."
+  },
+  "90425": {
+    "img": "cc2e330319848f52b61f5f1eff52db6058d645d3084a260a6f72c4a2e68c751b",
+    "text": "<b>Deathrattle:</b> Destroy the minion that killed this."
+  },
+  "90916": {
+    "img": "ba18d67978795f57762d4820133ff2090373c87bfe17cdc28153cbecd970edef",
+    "text": "After you <b>Discover</b> a card, get an extra copy of it."
+  },
+  "90917": {
+    "img": "8871f8873f9549b6e5a482d4f653c4e60558a8b5a2af823cc84d61b90d5abbc0",
+    "text": "Get a copy of ' '. Your end of turn effects trigger an extra time."
+  },
+  "92397": {
+    "img": "4fe21f2f69f26b63187664020b8b47e15b1ccbea850dd731be96b2c70db0c769",
+    "text": "At the end of your turn, give your Dragons + /+ and improve this."
+  },
+  "92406": {
+    "img": "33316b955e3160f248d9fc1a7dc75bd1470e994d23d76612e1cd1442cdc1d338",
+    "text": "If you lost your last combat, this minion sells for 5 Gold."
+  },
+  "92548": {
+    "img": "413417811c08ba5ce3a7dc3f59df56f60c2ad283679e4aedf99a7a04d678a083",
+    "text": "<b>Quest:</b> Increase a friendly minion's stats times."
+  },
+  "92549": {
+    "img": "79fdae4815aeef8e912803a00df508fa1afcad7fcbf9e6e7165c2640d1ae9389",
+    "text": "<b>Quest:</b> Have friendly minions die."
+  },
+  "92551": {
+    "img": "bd7b38c089c1ee601a47cd0d9d2131299a754d9e9dbc2eeac7c58e53352167f2",
+    "text": "At the start of each turn, get 2 random ."
+  },
+  "92554": {
+    "img": "79e99f64b30d200651a7176620b6ad19d96a478ccb603fb6c17d56382cb79973",
+    "text": "Occasionally gives helpful <b>Refreshes</b>."
+  },
+  "92563": {
+    "img": "102dc67a8a6545e33c8d5cd5cf1d3cf14d3cfb9716c89a56f40f81dd33a29446",
+    "text": "At the start of each turn, spin the Wheel of Yogg-Saron."
+  },
+  "92960": {
+    "img": "7b366fe469672ad4f0d9c4a2572d2798846780508ae7ffdd05b61e4699fea5a6"
+  },
+  "93074": {
+    "img": "38ea95e271b8a87fb782892d66da07d6dc6f376537e2145f8893d8e3cf6db4b2",
+    "text": "After each combat, get a plain copy of the last friendly minion that died."
+  },
+  "95006": {
+    "img": "767e21e5cd5c297e56cafc0131e9e62ff05045c64a8369f5bed33a97c32e41dc",
+    "text": "<b>Taunt</b> <b>Start of Combat:</b> Give another friendly Dragon +2/+2 and <b>Divine Shield</b>."
+  },
+  "95246": {
+    "img": "dfd78d55cdc08da0150645b9f30d027ce300ae2099a70cdd8e6d940abcaac1bb",
+    "text": "<b>Taunt</b> <b>Reborn</b>"
+  },
+  "95265": {
+    "img": "5a76828ca9e3efe9d08ed6fb085baf6212385ca1d775ddb91169aa64f87ffd07",
+    "text": "<b>Deathrattle:</b> Summon a 2/1 Hand with <b>Reborn</b>."
+  },
+  "95267": {
+    "img": "5eb050b84cf893e16438f731b5399c8df7d2c5e14daa4412e58b5a91396dd8d6",
+    "text": "<b>Battlecry:</b> Your Undead have +1 Attack this game <i>(wherever they are)</i>."
+  },
+  "95271": {
+    "img": "f528aa9dc54f4186b32e216d14c062ad44ab2f4bfa63247d0feb6de82ca11fa2",
+    "text": "Has +1 Attack for each friendly minion that died this combat."
+  },
+  "95280": {
+    "img": "0d6e311ebf626ef4e8d34b8aa5730391ab427f5ba6d0946f0733c4834b28d0f9",
+    "text": "<b>Reborn</b> <b>Deathrattle:</b> Give a friendly Undead +1/+2."
+  },
+  "95286": {
+    "img": "de43ac8e4270fd3e6cc0604524384bc28bda80617de35b813f68fc473e5c9c80",
+    "text": "<b><b>Divine Shield</b>, <b>Windfury</b> Rally:</b> Remove all <b><b>Bonus Keyword</b>s</b> from the target."
+  },
+  "95867": {
+    "img": "36cc3482f6a92d7df8d91b0ccfa16fb4c730fbae6f6817c54dc48eb41499eeb6",
+    "text": "You only need 2 copies of a minion to make it Golden."
+  },
+  "95940": {
+    "img": "09fe9c67a580efcbfcdbcbea700d31f10a389ab3190a64627866e600f1ac525b",
+    "text": "<b>Quest:</b> Spend Gold."
+  },
+  "96758": {
+    "img": "31d1e9e888f893a3de4a137bf3356535781da8f3303f99467b511c634c9f1169",
+    "text": "<b>Battlecry:</b> Summon a 1/1 Cat.",
+    "flavor": "To be a cool cat in Gadgetzan, you gotta have bling."
+  },
+  "96786": {
+    "img": "db28f8ae1123f29b74f0a7fe907bd88bf21a9d660a8e559bb3ba9fc8f41369d3",
+    "text": "Your <b>Battlecries</b> trigger twice.",
+    "flavor": "Contains 75% more fiber than his brother Magni!"
+  },
+  "96812": {
+    "img": "0a71b1471a52fed6dc0ca94cb656d72af13b8aa6f64c9a48ab765bec78d0db47",
+    "text": "<b>Magnetic</b> <b>Divine Shield</b> <b>Taunt</b>",
+    "flavor": "Every ten seconds it asks if you want to update."
+  },
+  "96870": {
+    "img": "b0e4538239738a5f6c2f3372eb0d93c5076169d77fb940f058be142a734394d4"
+  },
+  "97186": {
+    "img": "13182aee887f90545dd7c5a0fb97bd46e69dc2a156099622fb9220ba5688c8ec"
+  },
+  "97408": {
+    "img": "6ca6bb25b04b2432c72e3effb6ee04c5d7e85eb30460100078e966b0c97115ba",
+    "text": "Your <b>Deathrattles</b> trigger an extra time.",
+    "flavor": "There used to be five Horsemen but one of them left because a job opened up in the deadmines and the benefits were better."
+  },
+  "97442": {
+    "img": "7df15bf6a58f2e459258f18379f285bff533a5b216218351ffdf4efde6985f71",
+    "text": "At the start of each turn, gain Gold. <i>(Improves each turn!)</i>"
+  },
+  "97485": {
+    "img": "270781241c77a19e67c55380a9bddd937493717b6a7a2636197d104c3346af6e",
+    "text": "At the start of every turn, choose from 2 new Rewards."
+  },
+  "97535": {
+    "img": "9721f463d07793ed2e45704b83b51facaa339c707af029b01edc0feccd02209c",
+    "text": "Whenever a card is added to your hand, give another friendly Pirate +2/+2."
+  },
+  "97539": {
+    "img": "bf1878195d9d93eb24c20a0a1a8fedf270dfa62ad36422b7447fb28780bc0ca2",
+    "text": "<b>Battlecry:</b> Make a friendly minion from Tier 6 or below Golden."
+  },
+  "97604": {
+    "img": "7836ddcc51fac90aab429c9f33fc74a902f317fd15102c8448b9b772a089949a",
+    "text": "When you sell this, <b>Discover</b> a Tier minion. <i>(Improves each turn!)</i>"
+  },
+  "97743": {
+    "img": "799c4133060ede9c63e89534a07d8608bf7bf9a12bf59a35b9133c3640dc98e3",
+    "text": "<b>Quest:</b> Have friendly minions attack times."
+  },
+  "97756": {
+    "img": "a8d54eab08e503182c57eb4f2ffc4a27be462514b788f94f56b2b1d505535c45",
+    "text": "<b>Spellcraft:</b> Make a friendly minion Golden until next turn."
+  },
+  "97813": {
+    "img": "b20653b3f7f01034dbb0beaa36698811a556e1c28d957adbd2baa95b690e136d"
+  },
+  "97966": {
+    "img": "88da61dd70e5fa63078930e7d12f1c917d662b5586c0c175da1b1e2ff01eb9a3",
+    "text": "<b>Spellcraft:</b> Choose a non-Golden card. Move it to your hand."
+  },
+  "98509": {
+    "img": "68f74a65e93410d39cd991d6510957e13f92ead69ab745d1fc7ca825e8ea49e4",
+    "text": "While this is in your hand, after you play a Murloc, gain +6/+6."
+  },
+  "98576": {
+    "img": "354a55ff5d962490e8b8475e545c2a0f43cc5b32c6ff4febd9514d55defd6905",
+    "text": "<b>Magnetic</b> At the start of your turn, gain 1 Gold."
+  },
+  "98582": {
+    "img": "705bf8a248000c1bcca754c8d574eeb1fcff391bd5c3bb908b93ab8ce9578e6d",
+    "text": "<b>Magnetic</b> At the end of your turn, gain +1 Health."
+  },
+  "98592": {
+    "img": "0f2f6b9e393b00cd0fc302dd524586254285ed67dce57bb552ce8b697545c432",
+    "text": "<b>Deathrattle:</b> Get a random <b>Magnetic</b> Mech."
+  },
+  "98713": {
+    "img": "1aac8971a92c1e16e41710d03a62345743157726d734292d9431d0d0c23dca99",
+    "text": "Whenever you <b>Magnetize</b> to a different minion, it also <b>Magnetizes</b> to this."
+  },
+  "98726": {
+    "img": "98b8446f9299c384de93710439502fcd7896f6ea4d060028432dfba709fab082",
+    "flavor": "Catch him Teron up the Battlegrounds."
+  },
+  "98824": {
+    "img": "6199f2c814a41c55d5a954afc923885ac131e2a53067dc0b224c0b5b4f627c65",
+    "text": "After you summon a Beast in combat, double its Attack."
+  },
+  "98831": {
+    "img": "054b9de2c5e94fcd96e8558ab3ee76192475d9e6d6e5432e46db1df86471c577",
+    "text": "<b>Deathrattle:</b> Summon two 0/1 Cublings with <b>Taunt</b>."
+  },
+  "98889": {
+    "img": "00de475f7b832c8e0330b508ddaaa888f55cbaa455e7aec1f40d3de31adb7195",
+    "text": "Whenever you spend 5 Gold, give your Pirates +1/+ . <i>(5 Gold left!)</i>"
+  },
+  "98930": {
+    "img": "ab66d2e58d6ab9f78b61fa1d70d3b8e4a0066d618bae58df55af69b9f79930f5",
+    "text": "<b>Battlecry:</b> Your <b>Blood Gems</b> give an extra +1 Health this game."
+  },
+  "98939": {
+    "img": "e6ec1a8f4036983ee4036c71e6c2267def829b1e02e21d4e96ce3887e83871b3",
+    "text": "<b>Start of Combat:</b> For the rest of this combat, your Beasts have +1 Attack."
+  },
+  "98946": {
+    "img": "596668166e880d7ce9a9b31b37399ebd4d17a2b2a98ddc5657200fb535a873f0",
+    "text": "<b>Deathrattle:</b> Your <b>Blood Gems</b> give an extra +1 Attack this game."
+  },
+  "98948": {
+    "img": "c34eae7a2d0202f765612e3eb7a739397794a03a49eb577aff59ae3cd671069f",
+    "text": "<b>Start of Combat:</b> Gain the stats of all the minions in your hand."
+  },
+  "99011": {
+    "img": "6d5e498103a8083933bf0747eb1ef3effa331b01a1a8d93c1684bec888fda2bb",
+    "text": "<b>Battlecry:</b> Give a Pirate + Health. <i>(Improved by each Gold you spent this turn!)</i>"
+  },
+  "99033": {
+    "img": "4c350c9d4db7252a2c73bfd9336e7604cce79d4b89c92bf1a3697b2f8cac8581"
+  },
+  "99035": {
+    "img": "c3a4938e2c154a9fdd06da853895a3858bc4caba3059b114be06876d43c78575",
+    "text": "Also damages the enemies next to whomever this attacks."
+  },
+  "99199": {
+    "img": "4f3fe96ee5a46227a656e82a899266c0380f00075a854356c02abe20657b678a",
+    "text": "Two <b>Refreshes</b> each turn cost Health instead of Gold. <i>( left!)</i>"
+  },
+  "99228": {
+    "img": "050ca2be6f5ca4248076c9901736ac6b107752a301596b71b53cb0eb7e8c6564",
+    "text": "After your hero takes damage, give your Demons +2/+2. At the end of your turn, improve this."
+  },
+  "99232": {
+    "img": "64c9daec222c78b7c5391195aebaba172ed01734acb1700d07458c5068558ecc",
+    "text": "<b><b>Battlecry:</b> Discover</b> a Demon. Deal damage to your hero equal to its Tier."
+  },
+  "100026": {
+    "img": "9eb51f4930e99aa7dd5d82d44327177324fb5ff083bbe1dcbd10829483d4a8d9",
+    "text": "<b>Battlecry and Start of Combat:</b> Give your other Dragons +1/+1."
+  },
+  "100596": {
+    "img": "9f5c230ed5212de11adff938c748a24f7036cf9c415435483a28969310ffb871",
+    "text": "Give a minion + Attack. Give a minion + /+ ."
+  },
+  "100601": {
+    "img": "eb31283e7344d34c4aff3c90650aeae6a7ecdeda3c1777f28f6319365ea55e0a",
+    "text": "Choose a friendly minion from Tier 4 or below. Make it Golden."
+  },
+  "100899": {
+    "img": "165c0ce7547c5bc236fa119991c410ff6340504a80779ccad8bb30ba2e400c6c",
+    "text": "Sell a friendly minion. Give its stats to a random friendly minion."
+  },
+  "100910": {
+    "img": "b89d4f1bf8e50831c62832166b3b1a48766b4b4902d0c2791f1d2efd802d7e01",
+    "text": "<b>Discover</b> a new Hero Power."
+  },
+  "100911": {
+    "img": "03bdc0e363776275722156a91b20f3ee670354752b4d0737e36902054cc4d69e",
+    "text": "Choose a minion. <b>Refresh</b> the Tavern with minions of its type."
+  },
+  "100949": {
+    "img": "d23e0b1f82af26541bf8b0bebeac39e65a41b6b92777d0d44633694389a04e51",
+    "text": "After your hero takes damage, rewind it and give this + Health."
+  },
+  "101130": {
+    "img": "a9b0b4b708101b42d2a5ac468107ac2d46ff72dcca25edd819141ff5258f35b4"
+  },
+  "101314": {
+    "img": "36bed8369fd5681f6510fe1c18cabbbd9d29ef795c59bc55e42361e9ee87944a",
+    "text": "Your end of turn effects trigger twice.",
+    "flavor": "Drakkari sorceresses have the irritating habit of repeating themselves at the end of every sentence. Every sentence."
+  },
+  "101345": {
+    "img": "5ede4e1662b8cf908a7f7df3ba25547828bf94fa16ef913bc63a79eb26e01e5c",
+    "flavor": "I Am Murloc... but they're not in this lobby."
+  },
+  "101954": {
+    "img": "898732647888002bef0df1b6c4b522852f7c1b7d3d8feed8774faebdd545b558",
+    "text": "Start at 10 Gold."
+  },
+  "101986": {
+    "img": "99061ad4089783538dbbeedd087aaf1ae3ab07e169b89c783d11edeb733ae140",
+    "text": "Unspent Gold carries over to your next turn. If you saved at least 5, gain 1 extra."
+  },
+  "101992": {
+    "img": "6eaa9e229bf858064e7ac19d9ebcf9812bda506d199118e451dadee2436b6535",
+    "text": "You cannot upgrade the Tavern with Gold. It upgrades itself every 2 turns. <i>(2 turns left!)</i>"
+  },
+  "102005": {
+    "img": "4cde985a964a3e62691a00bdbf6dfbdc148fb7a4c5d0c35dbdddff70f5103d3c",
+    "text": "Minions cost 2 Gold. You cannot <b>Refresh</b> the Tavern. It <b>Refreshes</b> itself after you buy a card."
+  },
+  "102046": {
+    "img": "4dd9c49f53cdc19058829db3a5b9c079ac47b2de1645abbad339ecc28e1f938c",
+    "text": "The first time you buy a card each turn, get an extra copy of it."
+  },
+  "102075": {
+    "img": "4d066eb457545569c2c05aab2922762db92fec44f8e7b3d988ce739bcaf4b0ef",
+    "text": "You only need 2 copies to make minions Golden. They give Tavern Coins instead of Triple Rewards."
+  },
+  "102076": {
+    "img": "5863eebf6aa2210aa1115254e02897170f36ec0b265eafba3e7274bfba8d05cc",
+    "text": "Start with two upgrading 'Piggy Banks'. Break them open to gain Gold!"
+  },
+  "102083": {
+    "img": "fded12e5a7a4b660fd2adc440fdbb2593997fb8bf96a73ab81c8639e6e7a6bff",
+    "text": "The Tavern always has 7 cards."
+  },
+  "102084": {
+    "img": "a491dc2a083ec3306223cd891a07e4ed413505e1f234744b95029ac5b4904edb",
+    "text": "Start with a Goldenizer."
+  },
+  "102085": {
+    "img": "aecfa4840a11581e4ccf342f7145db70b9376d01cd5fb8bb7536c204ee2fee59",
+    "text": "The first minion you buy each turn is free."
+  },
+  "102090": {
+    "img": "b4e74af4bd15b17156bac16eb1116876a25ac0b7df73375f2d11d7bf39e9b630",
+    "text": "ALL minions are Golden, but you do not get Triple Rewards."
+  },
+  "102092": {
+    "img": "a7e4107e874f3fc2e87ba29542142fa4bff5977ee9d7bd4946f4ceaa8c48342d",
+    "text": "Whenever you <b>Refresh</b> 5 times, find the <b>Golden</b> Monkey! <i>( left!)</i>"
+  },
+  "102093": {
+    "img": "13722512c18291837b649c58b106066b204c6e038e9237fad895286160c78eae",
+    "text": "Instead of a minion, Triple Rewards <b>Discover</b> a <b>Tier 1</b> Darkmoon Prize. <i>(Improves in 4 turns!)</i>"
+  },
+  "102455": {
+    "img": "c35d3880183fad5433568ea09083674f641f9a83dd25feb2bd716a24f48780e1",
+    "text": "After you win a combat, <b>Discover</b> a minion of your Tier. Otherwise, get a random one of a Tier lower."
+  },
+  "102457": {
+    "img": "3564e260a739b3e3567267acf650613e4ba9e02959daab2903041abcc39396d6",
+    "text": "After you upgrade the Tavern, <b>Refresh</b> it with minions of your most common type."
+  },
+  "102459": {
+    "img": "5ac078763ea0936b0bb1daa449749e14474be35887d8fcba7be3910f382eb06e",
+    "text": "After you upgrade the Tavern, <b>Discover</b> a <b>Tier 1</b> Darkmoon Prize. <i>(Improves in 3 turns!)</i>"
+  },
+  "102748": {
+    "img": "6785e1d44d2707b23b5be4f0c47bc2c6b437dcc6a7eb205cffbedb403eda40c7",
+    "text": "All heroes are Master Nguyen."
+  },
+  "102792": {
+    "img": "b6701b9624523000b9b56b41d5645397492eb159c1ff70a885ead8b083cbcbaa",
+    "text": "Start at 1 Gold. Minions cost (1) but sell for (0). Upgrading the Tavern costs (2) less."
+  },
+  "102875": {
+    "img": "d85af6af72bff39a55a1bfa196103cfe4caa5ce831f3f274f0e2d68bf10bae76",
+    "text": "At the start of the game, all players <b>Discover</b> a Tier 6 minion from the same choices."
+  },
+  "102971": {
+    "img": "0e2eb5a1bf5195a1d0f686ff161a728d58b50123918d28af0be2bd7b34df9cca",
+    "text": "Start at Tavern Tier 3 with 9 Gold. All cards in your first shop are Tier 3."
+  },
+  "102976": {
+    "img": "b133226f93221a8c070893cb55bef066ac5e1b4d4bcabc25ea623e2d34b62b86",
+    "text": "At the start of each turn, ALL players spin the SAME Wheel of Yogg-Saron."
+  },
+  "102982": {
+    "img": "5fdf965a740eb0b3d09338ead596f04730894f1de6e481e5c8b9c623c25c9c1e",
+    "text": "At the start of each turn, choose from 2 new Quest Rewards. <i>(Unlocks on Turn 4.)</i>"
+  },
+  "102989": {
+    "img": "cdb3035d499fcda44e2c716aed9677a3bb413de5a27a1b93c872ecc279fae633",
+    "text": "Guess which player will win your next combat. If you're correct, get 3 Gold Coins."
+  },
+  "102991": {
+    "img": "a33182c073f70a3baf5054c51214550c1ebc4eb50f351096516665f3c0b7f334",
+    "text": "All minion types are in the Tavern. It always has 7 cards."
+  },
+  "103078": {
+    "img": "662ab32f72a1f891b049263ab00391318ffcb67f3904f53f2699a25bea863231",
+    "text": "Tavern Tier 7 exists. Start with 10 extra Armor."
+  },
+  "103113": {
+    "img": "cfe9510385ca4546ad7e726870e1341e952fc3d680362eddaa60941a17649574",
+    "text": "Start with 'Whodunit?' as your second Hero Power."
+  },
+  "103477": {
+    "img": "ac54b6c5a46020754983d77fc367cb644e41bba67743f6cca94fbc0c85ac5edd",
+    "flavor": "Meetings always reach quorum when they're led by Thorim."
+  },
+  "103500": {
+    "img": "6102b6f98b0a4484a19d84e3717254ffd83624ba4ef1bb64a614600e4fab7710"
+  },
+  "103541": {
+    "img": "3527bb2ea12c28b84e9e2be1c9abcbe5776cdf901502cd886c38b205c0840a57",
+    "text": "<b>Buddies</b> are in the Tavern."
+  },
+  "103619": {
+    "img": "4ed9bf2b2e0049373f45ac4f0ea3bfbafc3f77b23121676fc669085189a60f0c",
+    "text": "One <b>Pass</b> each turn is free. <i>( left!)</i>"
+  },
+  "103666": {
+    "img": "d659142e057f2a7b125ee937780e330e7655fbbf1e9cd3e792d88b7d4c38421c",
+    "text": "<b>Battlecry:</b> Get 2 copies of Fortify."
+  },
+  "103676": {
+    "img": "af5f61e68e35ee63976f2768a53edc088baf46a7671493679820d35a1210aa77",
+    "text": "Whenever you cast a Tavern spell, give your minions +1 Attack."
+  },
+  "103698": {
+    "img": "b1cbec257508a5f3d98d4c55f8d2b15920b0ff82b18b3f98d0a9d7f3efb28e41",
+    "text": "<b>Battlecry and Deathrattle:</b> Give minions in the Tavern +12/+12 this game."
+  },
+  "103700": {
+    "img": "810d5d1c84ae0549f7a35c892493a7c8da5ee0a3567ea29ec019be5c535511c2",
+    "text": "<b>Rally:</b> Deal damage equal to this minion's Attack to the target and an adjacent minion."
+  },
+  "103779": {
+    "img": "5c92ec882b2bd5a72aaa1005294924e53c1a4d5d81e0017546284f0e9aca19e5",
+    "text": "Gain 2 Gold next turn."
+  },
+  "103785": {
+    "img": "4831fea242038da80e5532b0843e7d8902cb2d640dd0b66911f4b06c6c7c53a4",
+    "text": "Set your Armor to 5."
+  },
+  "103791": {
+    "img": "867254cbdea5ebe4d1960ebddbfb4585c6558f28cb0bd5d0a0e852605a6871ed",
+    "text": "Give a minion + Health and <b>Taunt</b>. Give a minion + /+ and <b>Taunt</b>."
+  },
+  "103793": {
+    "img": "f811519c3e4ff9c73e6777e6e64ec060437db08451fe67256ed05908dbc536c9",
+    "text": "Get a random Tier 1 minion."
+  },
+  "103796": {
+    "img": "0f89f8d8348e1d31f27512ddd9b361923aa299ed1591fc5ee44427e7523d9afb",
+    "text": "Give a minion <b>Divine Shield</b>."
+  },
+  "104029": {
+    "img": "e330ffa1323b31937176913a1c64b310870c40311441b67de9effc3dfb60d3a6",
+    "text": "Increase your maximum Gold by 1."
+  },
+  "104436": {
+    "img": "3ce26c73b00d681d0e788816094ccda79df8f2460ab3b4ccfafac8157cb9fae6",
+    "text": "Gain 1 Gold."
+  },
+  "104440": {
+    "img": "d8e72797e5b814b1809e1f2f089efe9b0f468da780fa1c7bfaee482c2786dc56",
+    "text": "Give a friendly minion \"At the end of your turn, gain + /+ .\""
+  },
+  "104445": {
+    "img": "fb22ad3debe7e773d4017f2e40ae998501e4cf0a4725edb7724b998c1b17794a",
+    "text": "Give a minion + /+ and <b>Taunt</b>."
+  },
+  "104446": {
+    "img": "0705b95fefbbbadc84292a283c42addd522bbe6e0939cea4453822ebdfe01c92",
+    "text": "Gain 2 free <b>Refreshes</b>."
+  },
+  "104448": {
+    "img": "0a89c5c90a4a7b7b914d51f2e92b33c54ed630bb520a535725c77f8c0a013e08",
+    "text": "Make a random minion in the Tavern Golden."
+  },
+  "104466": {
+    "img": "56160deb58ee700875c0a80c9f5a63a9d5d999db51c4e4747b9914604079d789",
+    "text": "<b>Battlecry:</b> <b>Discover</b> a Tavern spell."
+  },
+  "104472": {
+    "img": "ba465f13db21d1476c5c8c587d9551d843594ac6e18bb10f91beaf24ba968e05",
+    "text": "Choose a minion. Give all minions that share a type with it + /+ ."
+  },
+  "104494": {
+    "img": "52c672dd7b5d5582f7e2ed52b7d32adb58fc73546e42d065a2fe29369e718c16",
+    "text": "<b>Refresh</b> the Tavern with Tavern spells."
+  },
+  "104502": {
+    "img": "4d779be3ee52cecfa1a936ca9d3bd824123bb44bfe4221dd4ff9568e3c58be49",
+    "text": "Steal a random minion from the Tavern."
+  },
+  "104538": {
+    "img": "5b307b2501ef44241b34fe2a8c82a95eb82a13fd0e2414d45f4df486455afbc3",
+    "text": "<b>Battlecry:</b> Your teammate gets a Tavern Coin."
+  },
+  "104545": {
+    "img": "d6490b9422d1e589b2e31f0877c166edea527d0212531fbcc0bc075d131b9b45",
+    "text": "At the end of your turn, give your teammate's minions +1 Attack."
+  },
+  "104550": {
+    "img": "a8dcd72a1988ad65785b7a5944000056b7fe242c559777d28a0391bb2e78d3da",
+    "text": "When you buy or <b>Discover</b> this, get an extra copy and <b>Pass</b> it."
+  },
+  "104551": {
+    "img": "c4637a59cbf85e0a61c653571a855d8231cb8127179f275e95ca28864c774c54",
+    "text": "<b>Deathrattle:</b> Summon two 1/1 Skeletons."
+  },
+  "104559": {
+    "img": "92d547b2b24807baf97b6e132706f1ad72a24e675ab1dd5c56a44f311d4e8b73",
+    "text": "Gain 1 Gold. This costs Health to buy instead of Gold."
+  },
+  "104560": {
+    "img": "bf4575f5cfc404a191cd75dd3d76c235ef1ce6fdae796c4b3f36f28977bc90bc",
+    "text": "<b>Start of Combat:</b> Set a random enemy minion's Health to 1."
+  },
+  "104561": {
+    "img": "22b1e2505fff43f3d7a47f7d119db123b67495b7d112e29c8c469b0b6424fe3d",
+    "text": "At the end of your turn, give a minion in your teammate's warband <b>Divine Shield</b>."
+  },
+  "104567": {
+    "img": "7967bdf718ec0b9f75cecf15a89691b57ef18b809b468b8364e27988020fe859",
+    "flavor": "Being called The Nameless One is actually a paradox because that is, in fact, their name."
+  },
+  "104593": {
+    "img": "820287c433003eda7a7f351770a70c3f3296e3c1c3dc85b02202373ecc20edf1",
+    "text": "<b>Deathrattle:</b> You and your teammate each gain two free <b>Refreshes</b>."
+  },
+  "104601": {
+    "img": "e8b559fe09dcb0b427b05ef79c001c1eb8729635c79610a8a5fbbc3e628bef0b",
+    "text": "Set a minion's stats to / ."
+  },
+  "104610": {
+    "img": "6ed2321cab01de102d0fb971e92c43d585f2881ae65371d2ef4c3520cb45fec8",
+    "text": "<b>Battlecry:</b> Destroy a friendly Undead to get a plain copy of it."
+  },
+  "104660": {
+    "img": "b1cf03791baaff65bf04e36b0b327b128392a70ef048794b63302530234cf4ed",
+    "text": "<b>Quest:</b> Destroy enemy minions."
+  },
+  "104661": {
+    "img": "787208cf84961756e666293c1fe09baab0810aa8bae906b60f1eedbed8fcde59",
+    "text": "<b>Quest:</b> Get your warband to total Attack."
+  },
+  "104670": {
+    "img": "293271c28b8436939fe9ba7bbdc421e84d2c7a6267c42f43a4d1a4d608fdf14a",
+    "text": "Get a copy of ' '. Your <b>Deathrattles</b> trigger an extra time."
+  },
+  "104671": {
+    "img": "aa8001d4d5d13ad70280058eaf5586d00af9d8015801cd00b0befd8637f80b41",
+    "flavor": "Fashioning farcical folly, Flobbidinous Floop frequently flabbergasts fawning fanatics."
+  },
+  "104673": {
+    "img": "e9ecd40aaedc6606bffbc0600c685dc29065cf07cb9d75df0b556e3f39f3cf99",
+    "text": "Get a copy of ' '. Your <b>Battlecries</b> trigger an extra time."
+  },
+  "104677": {
+    "img": "7e675516bf1d4aa5640a2042f904a4001f2783678cbd078578d8aa61c0f96941",
+    "text": "After each combat, <b>Discover</b> a non-Golden minion from your last opponent's warband. It keeps enchantments."
+  },
+  "104724": {
+    "img": "590b93d0003c35ea8d9f17abbe53e75894e3c3b0566222ff03152f6b557ed696",
+    "text": "At the start of each turn, get two Accelerators that transform a minion into one from a Tier higher."
+  },
+  "104764": {
+    "img": "071e744d5670da1e4c84f752d6ad3b0af714b90a2defef22a1c41859630ead50",
+    "text": "<b>Activate ( ):</b> Discard a card to get 3 <b><b>Blood Gems</b>.</b>"
+  },
+  "104766": {
+    "img": "ec5ed0bdd627395868a98d92a328a131dd6648d56b8e817153f7030f735aeafd",
+    "text": "<b>Divine Shield</b>. Whenever a <b>Blood Gem</b> is played on this, this plays a <b>Blood Gem</b> on a different friendly minion."
+  },
+  "104818": {
+    "img": "d9d6b3f698562fe5f58049f63f035b1d11e72e4de0c4759ffb5d923f7d4ee070",
+    "text": "Minions in the Tavern cost 2 Gold."
+  },
+  "104821": {
+    "img": "53ac31c159324ae89bde526f5a0f6b5d0ae6c95bd1fb8b3093cefa010c3a65d1",
+    "text": "The Tavern always offers 2 whenever it is <b>Refreshed</b>."
+  },
+  "104957": {
+    "img": "f426a6a07b91346b909fd7d4e1e71b05ffd379a8831bbed03054bf3a3fed1cbb",
+    "text": "<b>Deathrattle:</b> You and your teammate each get a <b>Blood Gem</b>."
+  },
+  "104959": {
+    "img": "8b62055d1d81c2e1cd9aad02a81336b852a7bae232264e4886e4d2dd60c63908",
+    "text": "<b>Avenge (3):</b> Your teammate gets a random minion of their most common type."
+  },
+  "104981": {
+    "img": "df5c670889c546b92b73879ea78999866053b7fb6e1f34368af0310ef89c17d7",
+    "flavor": "Will you be his Gall?"
+  },
+  "104982": {
+    "img": "fd46902953238ca62b52ce8f91b0408f65a1b057a684ebf930859b323bbd0106",
+    "flavor": "He always got'Cho back."
+  },
+  "105251": {
+    "img": "93393f68cdfb45bfae2445f64fe78c6894ad48f4ea010b149a2d4e6cbb458a7b",
+    "text": "The first time your team <b>Passes</b> each turn, gain +1/+2."
+  },
+  "105264": {
+    "img": "1976f4312bfaff86d0c8c80b158571c35c2ee7f34290ae0937210a7da711eb10",
+    "text": "<b>Discover</b> a <b>Battlecry</b> minion."
+  },
+  "105265": {
+    "img": "b36ad83873872e0434cbf51f49a9ba2a13f08ee5134d53d85dc21397fb0a36bf",
+    "text": "<b>Discover</b> a <b>Deathrattle</b> minion."
+  },
+  "105267": {
+    "img": "a4f6e5129b8f6b576f6ca7e3924aa7a4c61d6ba52a78b7e6446fbf2e8a45801a",
+    "text": "If you win your next combat, gain 3 Gold. If you tie, gain 1."
+  },
+  "105271": {
+    "img": "b03bc94496e8c33bef4debe8837aa2ae78f6e23667965aef2eeed5030053b65a",
+    "text": "Give a friendly minion of each type + /+ ."
+  },
+  "105276": {
+    "img": "dfe3a294da288c04e02503745ff521dc40d903ef7e68cd659608551be32f55a0",
+    "text": "Give minions in the Tavern + /+ this game."
+  },
+  "105314": {
+    "img": "e0b627924d8e7bea6de73614d6d9edb83fbf22b240a20ce9ded6f1cfbedd47d9"
+  },
+  "105431": {
+    "img": "610ac5b9a2f225d7b53df4d9b38cf6c06027424e1445ef95abff238eedef4898"
+  },
+  "105434": {
+    "img": "1ac26eaaf2f28af6241d45b6bc56f79f4fd14f9d5662d9a1cadd9707b42dfb6e"
+  },
+  "105435": {
+    "img": "928f481109c2226b2cb633de7eb373fc9963a25e84bd067f50983c52a0ca8dcc",
+    "text": "After the first time this is sold, <b>Pass</b> it. After the first time this is sold, <b>Pass</b> it. <i>(Has been sold.)</i>"
+  },
+  "105523": {
+    "img": "e5dce7b1264dc6207a0d544b1a6fbd9dadd96219d66ad1270e7bb68fc1125c5d",
+    "text": "At the end of your turn, gain +1/+1."
+  },
+  "105646": {
+    "img": "ad33b76732b779b54340c2df9577ed0154b9a99122e7c3e343db955f568e2968",
+    "text": "After this is <b>Passed</b>, gain +4/+4."
+  },
+  "105664": {
+    "img": "29c559aaa7c94720926cba10075ed8d78603fac45ed5a69f2c4bdf7de478738b",
+    "text": "Choose a minion. Get a different minion of the same type."
+  },
+  "105667": {
+    "img": "70a8600cf7ae592a894376602aa200ec200f7955ba57fbda5780f6ad44b5d3b0",
+    "text": "Give a minion + /+ and <b>Taunt</b>. If it already has <b>Taunt</b>, remove it."
+  },
+  "105669": {
+    "img": "a51e9d394ebb42c84486ceb56e7e621c2d75e058796eb70fc1cc39281e5f7089",
+    "text": "<b>Discover</b> a minion of your most common type."
+  },
+  "105714": {
+    "img": "d4de67841ff6432e5c9268a370746ac1a8feacd7a687ac820ed25732241e9177",
+    "text": "At the start of your turn, you and your teammate each gain 1 Gold."
+  },
+  "105752": {
+    "img": "dc70ccfcbc1a1af1de49b5153e8d88ae937b2a4ca02a14e0af4d0a0a018f07d5",
+    "text": "Give a minion + /+ ."
+  },
+  "105799": {
+    "img": "4cf6207d979a757d8a831a582edfc6e63196f6bed98f800eece96e5345094bb7",
+    "text": "<b>Battlecry:</b> Give a minion + /+ <i>(Improved by each Orc-estra your team has played this game)</i>."
+  },
+  "105835": {
+    "img": "b093515f6c56ef3356f51cc9c8d38396c49ef5201ca538bb121c5cd84541c3e3",
+    "text": "<b>Spellcraft:</b> <b>Pass</b> a different non-Golden minion."
+  },
+  "105852": {
+    "img": "1af7b6a92977715f605e7c8031705b6d2d13b9460644964a7b02b71bb41cd0d6",
+    "text": "At the end of your turn, get 2 random Tavern spells."
+  },
+  "105903": {
+    "img": "5f9d9c17d7f35c6a572d5b7fea7ad8525ecc72807c4f90d4313cdf439cfde035",
+    "text": "Give minions in the Tavern + /+ ."
+  },
+  "106320": {
+    "img": "aed2499f7ad173ee6520157049b8e4a7a74bd2c24b67cec5babea70779f5803f",
+    "text": "<b>Battlecry:</b> Minions in your team's Taverns have +3/+2 this game."
+  },
+  "106470": {
+    "img": "7fb7b87d12997bf03587896db92765ae8a06150de84b356467d637ab1112697d",
+    "text": "On Turn 6, <b>Discover</b> a Golden Tier 4 minion. <i>(5 turns left!)</i>"
+  },
+  "106500": {
+    "img": "a9fb274613986680a190eeeae03bcd374211f8d82c3fa4df0b18928708739b30",
+    "text": "You occasionally get helpful <b>Refreshes</b>! <i>(Unlocks on Turn 5.)</i>"
+  },
+  "106507": {
+    "img": "71d1529af409b537a7d8aa3f370a4b9912193ee0607d2660e349d4d9b88a8b3a",
+    "text": "On Turn 7, <b>Discover</b> a Golden Tier 5 minion. <i>(6 turns left!)</i>"
+  },
+  "106508": {
+    "img": "7567bb2a5e93631892ea80d09e6ceb0d2920f012b72cfdb839e074695aec3913",
+    "text": "On Turn 8, <b>Discover</b> a Golden Tier 6 minion. <i>(7 turns left!)</i>"
+  },
+  "106510": {
+    "img": "cf2069d71585c162fd18f993ad991564617d3d9d1c8a476013bb57033315b541",
+    "text": "On Turn 5, <b>Discover</b> a Golden Tier 3 minion. <i>(4 turns left!)</i>"
+  },
+  "106631": {
+    "img": "1734cfa9afbdf18f0539d3b63f575088b6a4ab9ada9a7acba27ac480aec7c767",
+    "text": "Every 4 turns, get a Faceless Manipulator. <i>(4 turns left!)</i>"
+  },
+  "106633": {
+    "img": "a34d13430e96c71505657f753e7a003e1c15fc9baa0d27722d6c1d22cd3d33dd",
+    "text": "The first time your hero takes fatal damage in combat, prevent it and gain 11 Gold next turn instead."
+  },
+  "107183": {
+    "img": "b5dc71d6043587083c1ed1536c6277d38ab188e96b8166180c0558ca93a9ee0d",
+    "flavor": "Madam Goya is distrustful of others by nature, so consider it an honor to be paired with her in Duos."
+  },
+  "107226": {
+    "img": "1c74f5942c5aa4cce2ff00fde95b1a65316ad6e2a1ff083438839151568b752c",
+    "text": "At the start of each turn, one player chooses a card for ALL players to get at end of turn."
+  },
+  "107939": {
+    "img": "cc0422678623a4f475b5825a1231159bd2fe59663905b4af34e2149ff34ae27d",
+    "text": "Whenever you cast a Tavern spell, give Elementals in the Tavern +3/+3 this game."
+  },
+  "107944": {
+    "img": "77335779af8b388c8d844f9ca5753d25a7a01c3fd947f28fa9c2b2263e183fa6",
+    "text": "<b>Start of Combat:</b> Transform into a copy of your teammate's highest- Health minion."
+  },
+  "108432": {
+    "img": "9de2d7e4f5ea86e02b6953c94d1a5f416b0ec464c6a3d01e0f6d995f8ddac848",
+    "text": "Has +3/+2 for each other Ancestral Automaton you've summoned this game <i>(wherever this is)</i>."
+  },
+  "108463": {
+    "img": "33c31f2ff4d9a8601239e734e8241f12c00106e7bb0133c5aab9deaffc017430",
+    "text": "<b>Divine Shield</b>. Adjacent Dragons permanently keep <b><b>Bonus Keyword</b>s</b> and stats gained in combat."
+  },
+  "108909": {
+    "img": "189061d32cfb2b20a7e0fa2e553f7c9c8cbc18836e36730ba4c75d429975058b",
+    "text": "<b>Choose One -</b> Give a Beast +1/+1 and <b>Reborn</b>; or +4 Attack and <b>Windfury</b>."
+  },
+  "108922": {
+    "img": "64bce55340e4cdb78b693e0ed08e8324c0fa152180df985e7548fa956588fdfe",
+    "text": "Once you have space each combat, summon the highest- Attack Murloc from your hand for this combat only."
+  },
+  "108992": {
+    "img": "b4b700a178299e633acdd217e3b590a8a560c39c1f4aa1dc496f89fb103f42a3",
+    "text": "<b>Deathrattle:</b> Give a different friendly Undead <b>Reborn</b>."
+  },
+  "109230": {
+    "img": "83b198da16cfdc3727d9992799dafbfdbe407e7133009863ec88644c946166fa",
+    "text": "Give your minions + /+ ."
+  },
+  "109232": {
+    "img": "4cb7fd2e01f75e2955e06471f10b941418cfba5750d3ec101fc26cb82d4ae49e",
+    "text": "Give your minions + /+ twice."
+  },
+  "109379": {
+    "img": "9c40eb2f8aa0b4a65ca5c9a4bbc5d7d77ef5d58e1136d1ee7ee777d1a4d79154",
+    "text": "On Turn 9, <b>Discover</b> a Golden Tier 7 minion. <i>(8 turns left!)</i>"
+  },
+  "109879": {
+    "img": "ec940cf82a1b249df1f3d35e1f8af0cad2adbfbf830d1f6e6011fec2da28903e",
+    "text": "<b>Taunt</b> Whenever this takes damage, give a minion in your hand +2/+1."
+  },
+  "110101": {
+    "img": "022b717c256752a299229c2eedb9aeeb664a1d809e5c8bc235291c7e5d370e09",
+    "text": "<b>Divine Shield</b> <b>Deathrattle:</b> Summon a 1/1 Microbot."
+  },
+  "110298": {
+    "img": "136ca4fe98de0b7a6435735040e7ad708d0f8ef58a63149aa83341a18a03ac01",
+    "text": "Tavern spells cost (1) less."
+  },
+  "110299": {
+    "img": "006dcbd6f748d98ebb22ff0106e9df2b7396685205a55990edb3473c734dbdf5",
+    "text": "Your Tavern spells cast an extra time."
+  },
+  "110303": {
+    "img": "c3bca222089bbffdb612fe8d7853299cae558f6745db9f799aa67517e7cf33ba",
+    "text": "<b>Avenge (3):</b> Get a random Tavern spell."
+  },
+  "110305": {
+    "img": "8e4e675caee89dd4818240e45ff1e1287c20c5acd26c034c324e600be3fd510a",
+    "text": "The first time you buy a card each turn, get an extra copy of it."
+  },
+  "110308": {
+    "img": "aa50c2902b81fce350c6a7b892428d3717b0c18aac64affa00edf079dcd44217",
+    "text": "After you <b>Refresh</b> 5 times, make the highest-Tier minion in the Tavern Golden. <i>( left!)</i>"
+  },
+  "110309": {
+    "img": "0fa4bbe998fdaaa72580f7763fc545c5e0adf03498c3478ff14d727e54fa9c89",
+    "text": "At the start of each turn, make a friendly Tier minion Golden and improve this."
+  },
+  "110310": {
+    "img": "a6e578c980c65c1d66c54123e6cbcb28ac3e512deb067cca7aa29e14f1b7f871",
+    "text": "Get a copy of ' ' from Tier 7."
+  },
+  "110325": {
+    "img": "d7d057ba11b9223c5a3934822255895aa46031e3b509e9dc0ad188345c81b1e0",
+    "text": "At the start of each turn, <b>Discover</b> a <b>Buddy</b>."
+  },
+  "110343": {
+    "img": "bcc4ecf753719fe4186d1ceb0d28aa3a52e5a8c5ef3d283fd84f95f5f2e4e3a7",
+    "text": "At the start of each turn, cast 5 random Tavern spells."
+  },
+  "110345": {
+    "img": "5ab0af50dd845574d0a285c9d40a4f0378ac3a1b50658fa5171242bc7bbfd6e6",
+    "text": "At the start of each turn, get 3 random Tavern spells."
+  },
+  "110350": {
+    "img": "831331055889cf29139bb5c851d1569d437da5356e8632431fc0c3be02bd8bde",
+    "text": "<b>Quest:</b> Cast spells."
+  },
+  "110400": {
+    "img": "365b5016dff06480ba1e00ce118cbefbfa0284fb7cc73702c237493ef18541c4",
+    "text": "Get a random Murloc and a copy of it."
+  },
+  "110406": {
+    "img": "73a471b7e4a748449fe9e8bd3112faf32f8eceb418aa544f0a3f67f3a165ecf6",
+    "text": "Get 3 random <b>Spellcraft</b> spells."
+  },
+  "110407": {
+    "img": "f065d251f1a859cfb4a7aad3ff442c3dcf3d520193dcdce64735cec0e33b1833",
+    "text": "Choose a friendly Demon. It consumes 3 random minions in the Tavern to gain their stats."
+  },
+  "110642": {
+    "img": "452d23983d775fcf7c305ed4ac38ee26c4b4aabd7fc77c1bcf4eda2d6b3bc9f9",
+    "text": "This plays 3 <b>Blood Gems</b> on a minion. It steals all <b>Blood Gems</b> from its neighbors."
+  },
+  "110928": {
+    "img": "0f00b455aa7538b824576eec83632c9480c7ecd1060dc6f4a1a5daea048a0b7a",
+    "text": "The first 2 times you <b>Discover</b> a card each turn, get an extra copy of it. <i>(2 left!)</i>"
+  },
+  "110957": {
+    "img": "86a217d6e320f104fc3187d4550ef44afd99020e597e801772e773c9a84514cd",
+    "text": "Your Hero Power triggers twice."
+  },
+  "110966": {
+    "img": "d7e77e9df5bc8f3d1bf8efa47d215d116fe92590f83ebd79dd8a656cd1ef6e3a",
+    "text": "Get a Fish of N'Zoth."
+  },
+  "110967": {
+    "img": "47b1cc0ee4f8d8c25894d5bf112ed7de55cba0f32fb174190da39bc8436f6313",
+    "text": "Whenever you summon a minion, give it <b>Divine Shield</b>. <i>(5 times per combat.)</i>"
+  },
+  "110975": {
+    "img": "0bcad825f680d08bc40c84e14e7a7f979187679a35ca6563823e4e73d026e421",
+    "text": "Get a Soul Rewinder and a Wrath Weaver. Your Soul Rewinders also gain Attack."
+  },
+  "110985": {
+    "img": "b75fe8d875efe6e0d13d7d03671c45513f8a16c619ea9dcbcca3a77dab4ea119",
+    "text": "Whenever you play a card, give a friendly Dragon +4/+4."
+  },
+  "110991": {
+    "img": "7e75fae72ff49234a69ed85c8c47513781ca46604a91ba686e798b531a0ee089",
+    "text": "After you play a minion, give the left-most minion in your hand +5/+5."
+  },
+  "110993": {
+    "img": "2650a21522df8928d62fad31da3b69e4a0bd3f891dea7a92cd4d356000565afb",
+    "text": "Whenever you spend Gold, give two friendly Pirates +3/+3."
+  },
+  "111092": {
+    "img": "96aba3421aa3879cb320c34da2f360419485c740144f730ab52fa686206d7fa3",
+    "text": "Minions in the Tavern have +3/+3. The Tavern always has 7 cards."
+  },
+  "111207": {
+    "img": "b906f2ad779e0874a1dfe497f2bc08edf8c4fce6f110d05af3d9720618199a21",
+    "text": "Get a Faceless Manipulator."
+  },
+  "111387": {
+    "img": "c24e78e8dde5949c05a77e0b5ba474595866923b4765f7770136853cc252ff72",
+    "text": "When you have Gold, get a random Golden Tier 5 minion. <i>(Once per game.)</i>"
+  },
+  "111399": {
+    "img": "86b9888ab6677c43da1800ed2e244203cee4d22efa027acc0dc1041769fba01a",
+    "text": "<b>Discover</b> a Tier 4 minion with a type. At the start of each turn, get another copy of it."
+  },
+  "111400": {
+    "img": "60b2ed5a46bcb132deabb6e711fa88be5e3200f968b66f79f2f75c902b563105",
+    "text": "Get a Spitescale Special. Your first two <b>Spellcraft</b> spells each turn cast an extra time. <i>(2 left!)</i>"
+  },
+  "111401": {
+    "img": "e34156dad1e231146f6e370f9672b1f0304c21ef2d685869b6e8b65dc161fe73",
+    "text": "<b>Start of Combat:</b> Give your left and right-most minions <b>Divine Shield</b>."
+  },
+  "111408": {
+    "img": "04030f6eb650fb1509118c93b94cc54813059aaa85c6f883ee5ba1cb896da73c",
+    "text": "After 6 friendly minions die, get a random Beast. <i>(6 left!)</i>"
+  },
+  "111417": {
+    "img": "79c06c5a5b46c9256ed60fee5c22199a49dccdcb9ea335f264551cd3a5a013d6",
+    "text": "<b>Start of Combat:</b> Double the stats of your two lowest-Attack minions."
+  },
+  "111427": {
+    "img": "9965e245478d9f9651afd780d1b352913d77a90610450f43e2f11bdb786164d2",
+    "text": "Transform all your minions into random Tier 4 minions."
+  },
+  "111448": {
+    "img": "c238c8a2b355eda48c51d3715b0db3f608e2801c9f00dbcba7630c76b6289668",
+    "text": "At the end of each turn, increase your maximum Gold by 1."
+  },
+  "111488": {
+    "img": "a367fb1f6eef95288437351aa7f3afc9ad6c9f51db7599a7a5197ab2af8f587b",
+    "text": "<b>Start of Combat:</b> Triple the stats of your minions with no type."
+  },
+  "111499": {
+    "img": "0c1f3e277e161c331935a3a5353f7b74c1eb37b049bb202d34cf67ad5deb7914",
+    "text": "After you sell 6 minions, get a random Elemental. <i>(6 left!)</i>"
+  },
+  "111500": {
+    "img": "86cccde4ffa5385748b421135047986305e0fcaa8e24b4b33d3d24338a1bdb76",
+    "text": "<b>Start of Combat:</b> Give 3 friendly Elementals \"<b>Deathrattle:</b> Summon a Flourishing Frostling\"."
+  },
+  "111512": {
+    "img": "dc04aaabd25353680132eb240692472f88167fcb270eab3b6d0419e202297bc3",
+    "text": "<b>Avenge (3):</b> Your <b>Blood Gems</b> give an extra +1 Health this game."
+  },
+  "111514": {
+    "img": "24af5ef204d71d1aa6fc9967a6804bc2ef90db36e925b6942a565a01b90a5d95",
+    "text": "<b>Start of Combat:</b> Give your Quilboar \"<b>Deathrattle:</b> Get 2 <b>Blood Gems</b>.\""
+  },
+  "111556": {
+    "img": "287c56367c4689d8bac3d61dd51477806134fb7cc0e9b799e8cfdc4a8b7a3735",
+    "text": "<b>Spellcraft:</b> Choose a minion. Then choose a minion from a Tier higher to transform it into."
+  },
+  "111557": {
+    "img": "0fffcdc190cf0a6977e161d6cb44ee6f0497e0a48a97dd8ad33504f443ee3ae8",
+    "text": "<b>Start of Combat:</b> Give your Naga \"<b>Deathrattle:</b> Get a random <b>Spellcraft</b> spell.\""
+  },
+  "111607": {
+    "img": "154c6c2a2d04bb37e3bdaa47c4afe8a6efc0bd5a04ee28bd9633bf91b088dbc2",
+    "text": "Get a Brann Bronzebeard and a random <b>Battlecry</b> minion. Your Brann Bronzebeards are both Murlocs and Dragons."
+  },
+  "111609": {
+    "img": "73c6a26f5055159affba8e817da13b3f5f0c04ad4a66ad62fa9b5b86f9bedc70",
+    "text": "<b>Discover</b> a Tavern spell. At the start of each turn, <b>Discover</b> another."
+  },
+  "111664": {
+    "img": "8a75e2c2f82f8807a2e8486aec6ebbb47ba8475c7a583869d3daef33160add5b",
+    "text": "Whenever you cast a spell on a minion, give it +4/+4."
+  },
+  "111962": {
+    "img": "12f5aad307860deedee0273bf60cfd266e6716c4e69cd6b65c67c78b7ea6c267",
+    "text": "The Tavern offers 2 extra whenever it is <b>Refreshed</b>."
+  },
+  "111999": {
+    "img": "2a345c425221f03dbb29f14a4894fadf9b0ccba40c9ca53a47b8f4ecd3579ef0",
+    "text": "The Tavern offers an extra minion of a higher Tier whenever it is <b>Refreshed</b>."
+  },
+  "112001": {
+    "img": "876565263d233602a16ee8e4d67385d2a5cfcecf6b6280fe54403e7ab6e0b801",
+    "text": "At the start of every two turns, gain 2 Gold and <b>Discover</b> a Tier 6 minion. <i>(2 turns left!)</i>"
+  },
+  "112002": {
+    "img": "4f852555fc6b61bea0cb186e92df06f9d76cda6c174b14691e5c96a3cfdf9fc9",
+    "text": "Get a random . At the start of each turn, get another."
+  },
+  "112013": {
+    "img": "168c4f71b300f6eb9864541bcd2013f0a26117db97815205355935d3870fc638",
+    "text": "Get 3 <b>Blood Gems</b>. Your <b>Blood Gems</b> give an extra +2/+1."
+  },
+  "112075": {
+    "img": "7a0427c406d03490d3a3f8c5b1e8e077d86c1ad7d07df67b934644e9891f4c06",
+    "text": "In two turns, gain 10 Gold. <i>(Once per game.)</i>"
+  },
+  "112079": {
+    "img": "72ededf1e48d7192798d11c3eb751cad74a1781e296f09f25163f5a678684afb",
+    "text": "Get a random <b>Battlecry</b> minion. At the start of each turn, get another."
+  },
+  "112080": {
+    "img": "ec4501c8c38c90b98d3fd7f3b3c9d4eb7da6bbe72c075450a36261df3dd11b40",
+    "text": "<b>Avenge (5):</b> Give a random friendly Undead <b>Reborn</b>."
+  },
+  "112082": {
+    "img": "0a0f8c0345eb5c88b03f3bb839b155ebed2c942e6f44deed9e7428994db63c52",
+    "text": "At the end of every 3 turns, get a Goldenizer. <i>(3 turns left!)</i>"
+  },
+  "112102": {
+    "img": "3921e544c5cd4bfe273e7740e80efa50e55663e46f7f6fff29d9e0454534b5f1",
+    "text": "Get a Titus Rivendare. <b>Start of Combat:</b> Double the Health of your Titus Rivendares."
+  },
+  "112364": {
+    "img": "e8a843d79173a25a3d606dd0fe842614a86668a7517e0cdf66c1fb03b3d848d4",
+    "text": "<b>Magnetic</b>, <b>Reborn</b> Can <b>Magnetize</b> to Mechs or Undead.",
+    "flavor": "It's creaky and it's rusty! It's spooky and it's dusty!"
+  },
+  "112381": {
+    "img": "a29bd2a78cb1061657855236d93d28ff9742b57dbce012f7b8642e9bb4ea5b6c",
+    "text": "After you summon a Beast in combat, double its Attack."
+  },
+  "112382": {
+    "img": "5cc678fb09dfcb750e4c8a412f24b41efa6b6e385c1f63c0b387878a5b5e0935",
+    "text": "Minions in the Tavern have +2/+2. Improves every 3 times your hero takes damage outside combat. <i>(3 left!)</i>"
+  },
+  "112392": {
+    "img": "6ee0d59a3bf5713aed82402c66be53a11c544ecc35460c9d362d1fb7a7968817",
+    "text": "After you play an Elemental, give Elementals in the Tavern +3/+2 this game."
+  },
+  "112398": {
+    "img": "58b30a7b8b423ed8be95a89101ccc31dcf5649144eb4f9e3d4483b9cd63a4ac1",
+    "text": "After a friendly Quilboar attacks each combat, this plays a <b>Blood Gem</b>s on all your Quilboar."
+  },
+  "112399": {
+    "img": "6305ab84d0d33b9699411b67cc45ac94db42f1527481292905c1118a44e1fd58",
+    "text": "Whenever you cast a Tavern spell, your Undead have +1 Attack this game <i>(wherever they are)</i>."
+  },
+  "112400": {
+    "img": "fb5e2142fe26b43ffe52a8e967528ce04bef4b45d4ce93361b944648021aae9e",
+    "text": "Get a Living Azerite. Your Living Azerites also give stats to friendly Elementals."
+  },
+  "112411": {
+    "img": "20f200b525c4e6962dd2bb8bd7644e41f5e45f9f0d5d922dcfa1a2ff8d4d4573",
+    "text": "<b>Start of Combat:</b> Give each of your minions Health equal to half its Attack."
+  },
+  "112850": {
+    "img": "3959a18f7c66afc99b315c731b88b05a9fda759bd731e8568af508e5371e63af",
+    "text": "Whenever a friendly minion with no type dies, get a random Tavern spell."
+  },
+  "112855": {
+    "img": "66ac4516435d618708ef536e9d0924b160c88e51d1629b38307cdd75441ba81d",
+    "text": "Your first spell each turn casts an extra time."
+  },
+  "112895": {
+    "img": "1eb63b586381bd63007dc74201adc443d6995bd9c20cc4470b2b35fdffeef0d5",
+    "text": "When you buy a Greater <b>Trinket</b>, this transforms into a copy of it."
+  },
+  "112988": {
+    "img": "5524e049c98468c92a8b3cdadf901d5dec8aa80e54a17c24e6c9f012f6de2903",
+    "text": "Gain 4 Gold. Increase your maximum Gold by 4."
+  },
+  "112990": {
+    "img": "03593aef2e657fe19ce63534a803d57ba995bc620a33dcde84501e2373139b12",
+    "text": "You only need 2 copies of a Pirate to make it Golden."
+  },
+  "112991": {
+    "img": "602323091dea4ce52058cebb5122d797f62607402d95915cc5c37a6c8e1ae3e8",
+    "text": "In 2 turns, choose a Greater <b>Trinket</b> to buy and replace this. <i>(2 turns left!)</i>"
+  },
+  "113096": {
+    "img": "6ae10298a1bbe1736e5896415f4d096e66962fe1e43ee7965eba9fd389cbd903",
+    "text": "Whenever a friendly Quilboar dies, summon a Golem with stats equal to its <b>Blood Gems</b>."
+  },
+  "113101": {
+    "img": "890dd4011a3408e74eb138f43a5e875e78e916d174328dbab5c88eb1e7b4c8bf",
+    "text": "Gain 3 Gold. The Tavern no longer offers cards from Tier 1 or Tier 2."
+  },
+  "113102": {
+    "img": "781faed4c2ceed1513f6b7d456458ccdbad6f93c523350877cba011bd888c428",
+    "text": "After you spend Gold, cast Shiny Ring. <i>(7 Gold left!)</i>"
+  },
+  "113103": {
+    "img": "f5f7d61aeaeb026e3a0b39ffa8bfc2e4505bda2744493aa75a7e3f0f28a127eb",
+    "text": "Get a random Tier 7 minion. At the start of each turn, get another."
+  },
+  "113104": {
+    "img": "2b20728905e585393fd216783b4ed802d940642004295e14c741ebc6ca8baa08",
+    "text": "Spin the Wheel of Yogg-Saron. At the start of each turn, spin it again."
+  },
+  "113128": {
+    "img": "f1751ba15d857c7e2f5d9a61f7778f9bf80223fb17d61eef9c6457bf2066ce6a",
+    "text": "<b>Mission:</b> Once this minion survives combat, get a Triple Reward."
+  },
+  "113154": {
+    "img": "52a94d4095150376cb16b01781dd985d0c6211d1606cb214d2f26bcd8977dfac",
+    "text": "<b>Choose One - </b>Your <b>Blood Gems</b> give an extra +1/+1 this game; or Get 4 <b>Blood Gems</b>."
+  },
+  "113156": {
+    "img": "236a763197a21701974268e888ae1299fc38b2543348d03c0a703a4de0b0ce72",
+    "text": "Whenever you summon an Undead, gain +2/+2 permanently. <i>(+6/+6 if it doesn't fit!)</i>"
+  },
+  "113310": {
+    "img": "6a28f042a646df0506d208585bdddcea2c3d093ac8fd41880cbb24ece4564513"
+  },
+  "113766": {
+    "img": "e5f1f191c50545f802ea792e61e83b40b7e664d6887384537d0f8588ef4064f9",
+    "text": "<b>Battlecry:</b> Choose a friendly Mech. <b>Discover</b> a Mech to <b>Magnetize</b> to it."
+  },
+  "113901": {
+    "img": "b822b9d5e3af166597eba3f236b11619a235d2af37e953e080731a07c2d754f5",
+    "text": "Choose a minion. Transform it into a random minion of a higher Tier. It keeps its stats."
+  },
+  "114379": {
+    "img": "c023d32543d0619c534697b43b7398d93210d312d5ee5e7e4fba6de739aad28a",
+    "text": "Whenever you would summon an excess minion, give your minions +2/+2 permanently."
+  },
+  "114486": {
+    "img": "603fcc1ce86e834cedfa92c5d5925283c2349dbc81c93156cdebf92d566d38d8",
+    "text": "<b>Deathrattle:</b> This plays 3 <b>Blood Gems</b> on all your Quilboar."
+  },
+  "115225": {
+    "img": "38fc669a569e601dcfcf1bd8ded36d8f9e6d188d099ef5ce2108f7acf79a15ff",
+    "text": "Get 5 <b>Blood Gems</b>. Your <b>Blood Gems</b> give an extra +3/+3."
+  },
+  "115226": {
+    "img": "9444198a899454b573e0f33c1d7ab6410eb22e1f968c95d97af7255c5349e461",
+    "text": "Whenever you cast a Tavern spell, your Undead have +2 Attack this game <i>(wherever they are)</i>."
+  },
+  "115230": {
+    "img": "2e39f9cec5eefdf752801e9ef1b26c4c22cf49edf5699270ef9007cbb41da85e",
+    "text": "<b>Discover</b> 2 Tavern spells. At the start of each turn, <b>Discover</b> 2 more."
+  },
+  "115235": {
+    "img": "5262800ee934175bee20702a575c953529e177766100cc129e6e10878fd96f98",
+    "text": "After you play an Elemental, give Elementals in the Tavern +5/+5 this game."
+  },
+  "115236": {
+    "img": "0a88fa676d0d514cac06bf4cffee81e04af8a4b4885705b2f3178f371f3e625a",
+    "text": "Minions in the Tavern have +2/+2. Improves every 4 times you <b>Refresh</b>. <i>(4 left!)</i>"
+  },
+  "115237": {
+    "img": "b5a1bd13a437e9dfe0d9b536d44981cbc603272aa266529a0adeb2ce180fb769",
+    "text": "After you play a minion, give the left-most minion in your hand +10/+10."
+  },
+  "115245": {
+    "img": "ffb7ee90a71cd1ea4635d9266caf67ad149f97e267805aaee324d48a60c3d969",
+    "text": "Whenever you spend Gold, give two friendly Pirates +8/+8."
+  },
+  "115250": {
+    "img": "63043318422cd61922ed09deda2bc599cf71e37afd09ffa97f4dd4c99cd856b1",
+    "text": "Get 2 random . At the start of each turn, get 2 more."
+  },
+  "115610": {
+    "img": "6174378c6b2940afb619ca4e5cd1ed94c77a6100524031bb442fded941ced010",
+    "text": "<b>Avenge ( ):</b> Get a random Undead. <b>Deathrattle:</b> Summon it from your hand for this combat only."
+  },
+  "115678": {
+    "img": "a4024d3e8233da6eb264af245c27f5d3b51cac50f48ce5a4dd4df3304e4aa260",
+    "text": "Whenever you play or <b>Magnetize</b> a Mech, give it +3/+1."
+  },
+  "115848": {
+    "img": "0e75256749795b6110db3d0027bde65f488932df7f3021b8bad7fb73741b51ac",
+    "text": "<b>Battlecry:</b> Give your other minions + /+ . Repeat for each different <b>Bonus Keyword</b> in your warband."
+  },
+  "116023": {
+    "img": "fafdf7e377b4154ce84f225b2b1651532104702ac070b3d5e64c8356a92acf6e",
+    "text": "<b>Battlecry:</b> Cast Echoing Roar on a friendly Dragon."
+  },
+  "116025": {
+    "img": "564149f8ab1decab64baaa7ca86670834e613b7c7e5c9dab356c473aa40c1958",
+    "text": "<b>Activate ( ):</b> Trigger another friendly minion's end of turn effects."
+  },
+  "116178": {
+    "img": "4139fdb0b6bcb732f7e4e3b4b76f4b21730b3b7415cc611d0d0a652104d1452a",
+    "text": "<b>Battlecry:</b> Gain a random <b>Bonus Keyword</b>."
+  },
+  "116697": {
+    "img": "65b6a54c042fe53b47073e2fbd60bbd5702fc6784ec9ea4257d114210ca36483",
+    "text": "After you cast a Tavern spell, another friendly Demon consumes a minion in the Tavern to gain its stats."
+  },
+  "116734": {
+    "img": "6a22bd3b3913156e0384417955a2f6ab627b4028616c2cf64aa78cf9f58604b2",
+    "text": "<b>Battlecry:</b> Give Elementals in the Tavern + /+ this game."
+  },
+  "116736": {
+    "img": "dc1bb58abab9dc46c645c4cae4c56d11c2366479ec4571b27c89663ff4bcbf2a",
+    "text": "When you sell this, give your minions +1 Attack. Improve your future Ballers."
+  },
+  "116920": {
+    "img": "7271c5d7cc6abd3714cd928b0e480dd4bd6c9b5bd216c9afb95be6ff7b21d047"
+  },
+  "116926": {
+    "img": "4578e7741654c9bcaf0c8ca90965c1165900f16c922efad316e0d8684f15bfaf"
+  },
+  "117157": {
+    "img": "9f800f7ac4041af78dea3bf2eb6532017fcdae2366d75a485ba982f40a40bc88",
+    "text": "Your Undead have +20 Attack."
+  },
+  "117326": {
+    "img": "de92d6a712c092d0c63dae9866203034eb824a4a046ea43f2f367b1ba86a7181",
+    "text": "When you sell this, your teammate gains Gold. <i>(Improves each turn!)</i>"
+  },
+  "117328": {
+    "img": "242777dd77d7a933a1de3f9495d95c8b51a95fdcf7cd99c2ebf7f488eb4226b8",
+    "text": "<b>Deathrattle:</b> Your teammate gets a random <b>Deathrattle</b> minion."
+  },
+  "117332": {
+    "img": "b5c064d1f4526da8919bf56fe7fac0a80faa11b28f8b343682ca2216c9941b29",
+    "text": "<b>Battlecry:</b> Increase your team's maximum Gold by (1)."
+  },
+  "117334": {
+    "img": "fb3b633f094752da17ea4fdf94aecd70ea969f6e96f67bf20260b54800af9e2c",
+    "text": "Has +4/+4 for each of your team's San'layn Scribes that died this game <i>(wherever this is)</i>."
+  },
+  "117336": {
+    "img": "13a79f931b02cdb3f08c9f5240f398fa0dcf9420c491be57947b247944cde8a9",
+    "text": "After your team <b>Passes</b>, randomly gain <b>Venomous</b>, <b>Taunt</b>, or <b>Divine Shield</b> until next turn."
+  },
+  "117353": {
+    "img": "3f077689686260bd5825b91c7be0da135d0afecda7bdbd556a507d098bfbe329",
+    "text": "<b>Deathrattle:</b> Reduce the Cost of upgrading your team's Taverns by (1)."
+  },
+  "117359": {
+    "img": "fc74c454240e72b1f5345ab2489ec6a4e884241551f4ba621d0e6ce6d476aa56",
+    "text": "<b>Magnetic</b> Has +3/+ for each time your team has <b>Passed</b> this game <i>(wherever this is).</i>"
+  },
+  "117409": {
+    "img": "306833a36bccb3239ddcaa0ddab3be9a3cd0666258271c15791d8e73a1fc4d3b"
+  },
+  "117416": {
+    "img": "00f73dd8464ac25b0c503071884ed5b07d816dd9cc576f904f90e381d6b6a3c1",
+    "text": "Whenever you cast a spell on a minion, give it +10/+10."
+  },
+  "117425": {
+    "img": "894a5d707075147675934a18d3dda14d19578c870752fabf268060db8a850232"
+  },
+  "117492": {
+    "img": "0b916c102bac64194a91c03e57c5fa901a7d03df766752dc5bef832656361047",
+    "text": "At the end of your turn, this plays a <b>Blood Gem</b> on all your teammate's minions."
+  },
+  "117553": {
+    "img": "02a5427fe35e136177e5c1b97aa165f1048d7c0181b148b6d45ec027859c47a2",
+    "text": "<b>Battlecry:</b> The next Tavern spell you buy costs (1) less."
+  },
+  "117573": {
+    "img": "55635e5f9c78bcc178736f314a024ac88a6e29465778d5dc34f7d3720ac22b3e",
+    "text": "<b>Choose One -</b> Give your minions + /+ ; or At the start of your next turn, give your minions + /+ twice."
+  },
+  "117584": {
+    "img": "951e0a06d787dae1f3aa14700f94f4b23daa77fb26bdbab84d7ad9361d172ffa",
+    "text": "<b>Choose One</b> - Give a minion + /+ twice; or Give your minions + /+ ."
+  },
+  "117667": {
+    "img": "4c405587467e3e1b2ae2fd61a6a51e6035572ef86cdf1fd54635188df71261a2",
+    "text": "When you sell this, give your minions + Health. Improve your future Ballers."
+  },
+  "117670": {
+    "img": "1d90ec880fb0c3043d0c7df13a1fea6bb4ff17174071e236de4ffd9a91a30aad",
+    "text": "Get a Fire Baller and a Snow Baller."
+  },
+  "117671": {
+    "img": "5a3844107bbf1a4a5395e40570640f4c741922e7e4cf91475be2c37592c884e5",
+    "text": "<b>Discover</b> a minion. Your teammate gets the other options."
+  },
+  "117794": {
+    "img": "b59f399d304bd49c34735439ef5f13289f3122a77a4ceb305bbdfe0d38ed1493",
+    "text": "<b>Discover</b> a <b>Deathrattle</b> minion. Your first <b>Deathrattle</b> each combat triggers an extra time."
+  },
+  "117795": {
+    "img": "b78b6009e9cd5702676de8a92e90bfd11b9390e4f3d5260b0a4469bb93c5f2c9",
+    "text": "Every fourth card you buy costs Health instead of Gold. <i>(3 left!)</i>"
+  },
+  "117797": {
+    "img": "229a51109d079fc5d96c3e446ba0f20e7c93a22f2ba9939464677046b0abb170",
+    "text": "After you play 2 Naga, get a random <b>Spellcraft</b> spell. <i>(2 left)</i>"
+  },
+  "117801": {
+    "img": "47bdf6cd8ac97c34990bb3f476e30e6096fa43e9a1aeda6e10431676632139c0",
+    "text": "Choose from 2 new Lesser <b><b>Trinket</b>s</b> to replace this for free. At the start of each turn, repeat this."
+  },
+  "117854": {
+    "img": "f88aa92a42ac8d330cbb4df8792d33ae607b9429c8ebf1a3657124329cc8e8bc",
+    "text": "Reduce the Cost of upgrading the Tavern by (3). At the start of each turn, repeat this."
+  },
+  "117855": {
+    "img": "22ef7678e048559111f6a62b2a31fbf72f6fe8193c4dcee3660e591ad30238ff",
+    "text": "Get 2 random <b>Magnetic</b> Mecha-Demons. At the start of each turn, get 2 more."
+  },
+  "117857": {
+    "img": "17f514e728778720cad2ff9cc1092f3b69ffa8f409ecc6d036a3c36d992c481c",
+    "text": "Get a plain copy of a random friendly minion. At the start of each turn, repeat this."
+  },
+  "117860": {
+    "img": "b9d91232abfd917a4a912b68245e0767630ad9302f6c61987c620f25a276e2e8",
+    "text": "<b>Discover</b> a Tier 3 Darkmoon Prize. At the start of every three turns, repeat this. <i>(3 turns left!)</i>"
+  },
+  "117905": {
+    "img": "821a561c9ea1ad43758829de43b176face189de0c402485b91e0270e92294de1",
+    "text": "Get an Elemental of Surprise. <i>(More appear when you least expect them...)</i>"
+  },
+  "117906": {
+    "img": "aca161f4b0bec4c82f57661c29717ba30a2cc7223cab63bf24039fe133eef05c",
+    "text": "After 8 friendly minions die, get a random Undead. <i>(8 left!)</i>"
+  },
+  "117932": {
+    "img": "61a2e057b85b65c7804611752698fb1aa430a7cc6a62478be87e62b05f1d94b5",
+    "text": "<b>Pass</b> a copy of the first card you buy each turn."
+  },
+  "117933": {
+    "img": "a9fa6dc2c98a2bddf0b10a0c9106de68aa00da3227e27aa31ecddfaa93e6e0e1",
+    "text": "Whenever your team plays a Golden minion, both you and your teammate get a Triple Reward."
+  },
+  "117934": {
+    "img": "52b66f7765a413d87ec23562b89c0f078a6803aabeb7e6ca14b33bd5ffc7d17a",
+    "text": "<b>Start of Combat:</b> Summon a copy of your teammate's highest-Health minion."
+  },
+  "117936": {
+    "img": "70f6fce74093a79005d9e925d8286b269eedf4c941689fdd823e4d3bcffee1d4",
+    "text": "Get a Portal in a Bottle. At the start of each turn, get another."
+  },
+  "117937": {
+    "img": "98fb831c2f49a3a22492dd8668cfcf96ce3d3bda8929c0163b161dfd169d91df",
+    "text": "After you sell your first minion each turn, <b>Pass</b> it."
+  },
+  "117938": {
+    "img": "f6d5abc70cd25bbd2b2fff68dd760cf649deb933098a27621c5574de060b213e",
+    "text": "Get an Orc-estra Conductor. At the start of each turn, get another."
+  },
+  "117939": {
+    "img": "81859af4a3ea9bacd4cf2ee349aaf93bdd8525619cc03a76cc5e4e2f0b4f451f",
+    "text": "Skip this turn. At the end of it, replace your warband with a copy of your teammate's."
+  },
+  "117941": {
+    "img": "84c994a20b85797f1ed8d9a45cb32d7c24d36775e266851a14ac68f4ad8e175e",
+    "text": "Become a copy of your teammate's Lesser <b>Trinket</b>."
+  },
+  "117942": {
+    "img": "14e7c64b87bbbcdb466afaeeb549c94fad309f587ebfbc0bddfa2d88437370f6",
+    "text": "Become a copy of your teammate's Greater <b>Trinket</b>."
+  },
+  "118509": {
+    "img": "8d7aa28058e00012c4e260fdba758d271e7d6016a2ed201e102937cb98e4b19f"
+  },
+  "118510": {
+    "img": "82eaa9c8dd309cb185b597515338fdb6074e4ba2d9d3993394945eaeaed8ba13"
+  },
+  "118669": {
+    "img": "df5975de432be84469e8271e89d3adafa202cbc4a1a9bb06618f43b3551a3c79",
+    "text": "All heroes are Marin the Manager. Make 'Growing Collection' your second Hero Power."
+  },
+  "118670": {
+    "img": "03fb64b569ac6fad77b8418ae82c1b210c17118ca4b4b8a3cacb19979ee745a3",
+    "text": "At the end of every 2 turns, get a plain copy of your left-most minion. <i>(2 turns left!)</i>"
+  },
+  "118671": {
+    "img": "f272f3a18acbf8ee32f2ad3e2d2710add66ed4e96a11dda5abb9401f8a52105b",
+    "text": "At the start of each turn, <b>Discover</b> a Tavern spell. <i>(Unlocks on Turn 3.)</i>"
+  },
+  "118673": {
+    "img": "dfce15222e2079f8e5b0d87cde091e59141537b84997cef7639dd72b0e067538",
+    "text": "After you <b>Refresh</b> two times, gain 1 Gold next turn. <i>( left!)</i>"
+  },
+  "118674": {
+    "img": "187eaa4b653fafe61c2ee4e1f36681e2e1b32a85365896ec7c53443de7fd60de",
+    "text": "Spell Tickets are in the Tavern! Get 3 to <b>Discover</b> a Tavern spell of your Tier. <i>( left!)</i>"
+  },
+  "118676": {
+    "img": "b249e80e118a0a8e4a883c786dee5acd2d34c3f6d9f3670926790b8d09ea78ed",
+    "text": "Twice per turn, you can remove all copies of a minion in the Tavern from your pool."
+  },
+  "118680": {
+    "img": "5c1de40383f5c5e6baa0609b524351c77bf372835a80ca5145b41780a882a504",
+    "text": "The Tavern offers an extra Tavern spell whenever it is <b>Refreshed</b>."
+  },
+  "118688": {
+    "img": "3887848ec526fa57dd773363c96d22cb33c617577c59edf9313481e4eeb38303",
+    "text": "After you buy your first Tavern spell each turn, get an extra copy of it. <i>(Unlocks on Turn 5.)</i>"
+  },
+  "118697": {
+    "img": "e70e27c43ac4178185ef12a34cf90432f09375127622599017af2a18cfb06c84",
+    "text": "At the start of each turn, get an Evolving Scroll. Each turn, it transforms into a Tavern spell from a Tier higher."
+  },
+  "118700": {
+    "img": "01bc0baffc239f685ec81486141f1b48ae3ccf547f69a498fc8330df91b8c1e9",
+    "text": "Minions with no type have all minion types."
+  },
+  "118733": {
+    "img": "f26992bf60044817c7b90790d97d80f06d9b64337689661293f9017ee961003b",
+    "text": "After you upgrade the Tavern, <b>Discover</b> a <b>Tier 1</b> Tavern spell. <i>(Improves in 2 turns!)</i>"
+  },
+  "118734": {
+    "img": "f0060795f299b9ba35cf5540941bb02e9d6a26a87c3f6186852a75b6b3ec66e9",
+    "text": "The Tavern only offers cards of your Tier."
+  },
+  "119044": {
+    "img": "cb2f96d005bcce47366bfbe15dd18f191182ee555236a9d3661aa714053dcab8",
+    "text": "Every 3 turns, get a Golden Arrow. <i>(3 turns left!)</i>"
+  },
+  "119092": {
+    "img": "4617367b298f8d6f9bda86ae4ec708c328f3744e2a05b7bc4cc3528419259c6a",
+    "text": "Start with a Golden Patient Scout in play."
+  },
+  "119093": {
+    "img": "02ddd8df310871073944cf1b0860657ded810624c60d3f2eddb73538088e01b4",
+    "text": "Start with a Sandy in play."
+  },
+  "119094": {
+    "img": "4453fc6ffc8c65289778636d448904c6dd2accac9751ac2a7364f9a427f9ba29",
+    "text": "At the start of the game, <b>Discover</b> a second Hero Power."
+  },
+  "119142": {
+    "img": "6885f84f509dd766a7002ded5165bc437dd5cdd79db8eb7ab4a918d97f9dffab",
+    "text": "At the start of each turn, get a Portal in a Bottle."
+  },
+  "119143": {
+    "img": "4af2c4cee308f330a000834e68dfd550d3d3b1b1b26d3fe459a68e522558a069",
+    "text": "You can send up to 2 Gold to your teammate each turn."
+  },
+  "119157": {
+    "img": "83193061381563b46e2209bad604795be959b8ca19bd38ec0af1db26c0df8b20",
+    "text": "Once per game, you can <b>Goldenize</b> and <b>Pass</b> a minion."
+  },
+  "119470": {
+    "img": "a6c17ffd4e8e215b6e289f930cff68a94799d1c6677b12efef2329b225d99532",
+    "text": "<b>Pass</b> a minion in the Tavern."
+  },
+  "119471": {
+    "img": "51ceed57f7ceeac61208109729e837bb13422e11a1dd2af641b08642f8e0f153",
+    "text": "<b>Pass</b> a friendly non-Golden minion."
+  },
+  "119599": {
+    "img": "e3f8b8572addb421bf23c477815edbe4aacaf15805feef6d109929f44afbcf4d",
+    "text": "<b>Start of Combat:</b> Your left-most minion gains stats equal to the nearest enemy minion's."
+  },
+  "119666": {
+    "img": "a1bda9029f061d4183f1e8a1d6b62131f8939e2bbf8cb9805e9ed7d5c45a4606",
+    "text": "<b>Start of Combat:</b> Destroy the minion to the left. <b>Deathrattle:</b> Summon an exact copy of it. <i>(Except Stitched Salvager.)</i>"
+  },
+  "119718": {
+    "img": "94c77f0987aa7bbc41dc2948db38fa5036d3b6a7509c5a8c019b1088802c1902",
+    "text": "<b>Discover</b> a Tier 7 minion."
+  },
+  "119748": {
+    "img": "eb3a6db5a6e442c5b8dda07006eeae5ba884c9a665b44f4378cddd2bc504bd19",
+    "text": "At the start of each turn, get a random minion of your most common type. <i>(Unlocks on Turn 2.)</i>"
+  },
+  "119749": {
+    "img": "95b667e55decc65cc4fcc2216456e5ceb989de4d31ba6b73f19c93baddec42e3",
+    "text": "Start with 3 different Tier 2 minions in hand."
+  },
+  "119994": {
+    "img": "b5349a37aafbf6bf3b20c08f8b29fd72340ebbb9dbb5b810aad3c6a79445ff9b",
+    "text": "At the end of your turn, give adjacent minions +2 Attack. Repeat for each friendly Golden minion."
+  },
+  "119996": {
+    "img": "7b9b54fc1fcbfc834becf676a6126633318ef26814ee4b24401fd46619fae050",
+    "text": "<b>Divine Shield</b> This minion is always Golden, but doesn't give a Triple Reward."
+  },
+  "120025": {
+    "img": "4ae49212edc5fa64700871f9274374e9323bd401151ed27d780701c221326771",
+    "text": "<b>Magnetic</b> <b>Deathrattle:</b> Summon an Ancestral Automaton."
+  },
+  "120137": {
+    "img": "f9e9f10d01971f7ca872db8e6bda0e8a85bf3fd070f0242002e606c373a3cb67",
+    "text": "<b>Start of Combat:</b> Give your left and right-most Undead <b>Reborn</b>."
+  },
+  "120139": {
+    "img": "d94306c0a489df1a6ed98d67ec2c7fa6982581ec71d3043db3ecefc82597474e",
+    "text": "Get three random Tier 4 minions."
+  },
+  "120145": {
+    "img": "22c6fbf0970d6732abbe0f7ff5c6563ae864c48a0a8d0e7761f173711f8dc6a0",
+    "text": "Get a Golden Mishmash and a 10/10 Amalgam with <b>Venomous</b>."
+  },
+  "120146": {
+    "img": "ebb841e552ac1b00cd562467b6617767197dae52e5382fe7405ecd965a054554",
+    "text": "After you cast 4 spells, this plays a <b>Blood Gem</b> on all your minions. <i>(4 left!)</i>"
+  },
+  "120152": {
+    "img": "de62c3ac4c83478705854636023643237946d50c63ab79a284f1639b9523cc5b",
+    "text": "Get a Monstrous Macaw. Your Monstrous Macaws also trigger your left-most <b>Battlecry</b>."
+  },
+  "120154": {
+    "img": "092bf9c6ad856f92212b082e3d6a25eeef38c03d246a0022f4fc4d0a896bae52",
+    "text": "Steal the highest-Tier card from the Tavern. At the end of each turn, repeat this."
+  },
+  "120155": {
+    "img": "f79ced4a402f4088cdbf3b0015c0769b020a79ea16d7c623f0ca90e493b7ca98",
+    "text": "Get a Knockoff Wisdomball. At the start of each turn, repeat this."
+  },
+  "120159": {
+    "img": "9e0a6b545eb87bcd3569f5b75ff6adacf40a28a64d2319263ecf54b6565b5f53",
+    "text": "Make the next you buy Golden. Gain 5 free <b>Refreshes</b>."
+  },
+  "120160": {
+    "img": "a5ff51ca678ec58693721867800ee3cf849e9c2dbf00afbfd3e506775e51a55b",
+    "text": "Your Tavern spells give an extra +1/+1. After you cast Tavern spells from hand, improve this. <i>(5 left!)</i>"
+  },
+  "120213": {
+    "img": "1315731e42cd0fb7ef3af8b018c3d782d6e7257bd9d24cca7ff35d176d5b1147",
+    "text": "<b>Battlecry and Deathrattle:</b> Get a Shiny Ring."
+  },
+  "120215": {
+    "img": "426e4a3d9f4dbe05c7739de2b19edcea6329af0324a586afde424d8371c0ffb6",
+    "text": "When you sell this, your Tavern spells give an extra +1/+1 this game."
+  },
+  "120223": {
+    "img": "b9df14cfb4f6516d1e2d82d5f05bb16fdd24fbb05a4eeccc3ea20750595e986a",
+    "text": "<b>Choose One -</b> Your Tavern spells give an extra +2 Attack this game; or +2 Health."
+  },
+  "120299": {
+    "img": "cc15b66c1e217d7b7206a86969cb2ad9c763b313e2ffd181f00ff584ca6c8ce2",
+    "text": "At the end of your turn, your Tavern spells give an extra +1/+1 this game."
+  },
+  "120301": {
+    "img": "e9db91dce36ea23cb00915c54a10ed5a6c44d12bac9fb14200d5c7ea8c25fcf8",
+    "text": "<b>Start of Combat:</b> Give your Dragons +2/+2. Improves permanently after you cast a Tavern spell."
+  },
+  "120358": {
+    "img": "4e36b7096c33a6a86098c74678538e6995d82e0d49674678a37106994315b844"
+  },
+  "120606": {
+    "img": "0cff1a49a7d2a8e5e7a692fb4018e8e539fadb14c2d132071a62e4a297b63375",
+    "text": "Get 2 Thaumaturgists. Your Thaumaturgists' <b>Spellcrafts</b> are permanent."
+  },
+  "120610": {
+    "img": "809b6fb901167171b8dac138146c673275661eb2b29c0cd57b48d1119c0274b0",
+    "text": "After you cast 8 spells, get a random Naga. <i>(8 left!)</i>"
+  },
+  "120617": {
+    "img": "920dd542827254599b455eb94e8fdc8cbc339a35f1fd5a27170ecba3e3b118be",
+    "text": "Get 3 random <b>Spellcraft</b> spells. At the start of each turn, get 3 more."
+  },
+  "120619": {
+    "img": "2a7fa45ce5981593e09a06468f9c2c6e55923782ba84e14bfe59e3cf323cd2b4",
+    "text": "At the end of each turn, give your left-most minion +3/+3. After you cast a spell, improve this."
+  },
+  "120649": {
+    "img": "00710ce9e4c1259f578ecc7966a42304e7b0cd55c112669127b998b52bacc2d7"
+  },
+  "120662": {
+    "img": "990ccc0629424dfc7b9b7d2bf571811914eb260ce29a9502266252285751eeca",
+    "text": "<b>Taunt</b> <b>Deathrattle:</b> Get a Staff of Enrichment."
+  },
+  "120664": {
+    "img": "dfd71527d8cff31e20632af2b5d6363a18e6435e085749bd102c2f032148624b",
+    "text": "Whenever you cast a Tavern spell, deal 1 damage to your hero and give your Demons +1/+1."
+  },
+  "120677": {
+    "img": "327b250a45f662d347ced355efc3066f21e0d57e985c30f91936292941637497",
+    "text": "<b>Start of Combat:</b> If this minion is in your hand, summon a copy of it."
+  },
+  "120681": {
+    "img": "779efa7cf015504c854e936f5800fa41b7c02e603b81e4c2cb9c9fff90f82689",
+    "text": "At the end of your turn, gain +2/+2 and a random <b>Bonus Keyword</b>."
+  },
+  "120689": {
+    "img": "1f9386af0720649976825c2d0392d878f3ccf31645742ae871c60c26151abd75",
+    "text": "<b>Taunt</b> <b>Battlecry and Deathrattle:</b> Get a Seafood Stew."
+  },
+  "120698": {
+    "img": "275c9fe2cbd8a1f061a2fc5a4561ce9b60c73dc0e7d741c0bad3a4267348f218",
+    "text": "One Demon each turn costs Health instead of Gold to buy. <i>(1 left!)</i>"
+  },
+  "120705": {
+    "img": "9814dd042c16856fcbddb7faa6a4d3707cdc980bfc0ab7b112ed2ce6d7d69c17",
+    "text": "After you play an Elemental, gain a free <b>Refresh</b>."
+  },
+  "120800": {
+    "img": "d9969e980b584482fbe01bed9775a4150ebda20c18be1cd53a278c1d15c8ce7a",
+    "text": "Get a Sellemental. At the start of each turn, get another."
+  },
+  "120809": {
+    "img": "6f46fb0f42dc73d76f2da924ea0b3acecc2e28facf09762b37561f050c1b28e3",
+    "text": "Make a random friendly minion from Tier 4 or below Golden. At the start of each turn, repeat this."
+  },
+  "120827": {
+    "img": "a6c0e9b458560e7dee0a9da1d355550e8abe83305d8f5516f35dcb8179568c12",
+    "text": "Craft a custom Undead. At the start of every 2 turns, repeat this. <i>(2 turns left!)</i>"
+  },
+  "120866": {
+    "img": "7ae2ce9d76f8b0864a15e8d167d04a6025bbe7d8536280066b8ef156c852347d",
+    "text": "Get a Dr. Boom's Monster. At the start of every turn, get another."
+  },
+  "120870": {
+    "img": "e9ca12c6dcf87a702e85cc794edc0eba33f7495deb8cf20071e19170bdca6c69",
+    "text": "Whenever a friendly Dragon attacks, give it <b>Divine Shield</b>. <i>(3 times per combat.)</i>"
+  },
+  "120873": {
+    "img": "899b48fe5e4590dd9858e636ce728b1ec40f3e33da13587d203262a6605515f0",
+    "text": "Your end of turn effects trigger an extra time."
+  },
+  "120875": {
+    "img": "ad14e46ceb83030a579960a76dd0262260000b408a9c5f5538d726773a792b38",
+    "text": "Get a Timewarped Poet."
+  },
+  "120900": {
+    "img": "40bab0bc57cdd91a35e036485db19d3412e1e6e34162c4e20f36961a0d9dd399",
+    "text": "Give a minion + /+ twice. If it's a Naga, repeat this."
+  },
+  "120925": {
+    "img": "2bd375d148468575d058eb2248656ea9a3b9efb4ace56393ac675de3f41556af",
+    "text": "<b>Discover</b> a Tier 6 minion with a type. At the start of each turn, get another copy of it."
+  },
+  "120926": {
+    "img": "4bdaa8a249c41056984ddc6979d33b09fe0677b1c35b0088c8d97f1abc0d8766",
+    "text": "<b>Start of Combat:</b> Trigger all friendly <b>Deathrattles</b>."
+  },
+  "120928": {
+    "img": "a7b24ada1b03770d5a4aa3af876aaf817c5e6cef629fef6b8beabf45cb60a525",
+    "text": "Your first two <b>Refreshes</b> each turn contain only Tier 6 cards. <i>(2 left!)</i>"
+  },
+  "120932": {
+    "img": "e595c60b0bd28218e0223595e205564676ac341a3235a03a87cec0d62aa0edc6",
+    "text": "Whenever a friendly Beast attacks, give it +4 Attack and permanently improve this."
+  },
+  "120939": {
+    "img": "236b5fa73ca824cb6e797ab4604f24479403e58892355b1672c6a4ce14bbd352",
+    "text": "After you spend Gold, give your Pirates +7/+7 and improve this. <i>(7 Gold left!)</i>"
+  },
+  "120940": {
+    "img": "b9dc3ce5805dc85a57fe625a59896c63fa286387c7e79a6724efced44791b158",
+    "text": "Give a minion + /+ . Repeat for each different <b>Bonus Keyword</b> in your warband."
+  },
+  "120942": {
+    "img": "13b33f0b82d8a47875d66dad76f96be600c43d2cb0f69c546635604a80c9a68a",
+    "text": "Get a Bassgill. After you summon a Murloc in combat, give it <b>Divine Shield</b>."
+  },
+  "121033": {
+    "img": "4be936a7c5a4a3353d13aa5f3fb6d33966b51a893a4607bad2de9c5d1aac2406",
+    "text": "One Tavern spell each turn costs Health instead of Gold to buy. <i>(1 left!)</i>"
+  },
+  "121036": {
+    "img": "994487aa6038f616563ad56d7dbfc9a6b1ccc108dc54f3a49fbbd90ef4fb5d3f",
+    "text": "Get a Doubloon Grifter. The first Pirate you buy each turn is free."
+  },
+  "121037": {
+    "img": "7c4d69bcadb6e11ec661ae52b4c7d7526b653d90d8b5c9cb647339637159bf26",
+    "text": "One <b>Battlecry</b> each turn triggers two extra times. <i>(1 left!)</i>"
+  },
+  "121038": {
+    "img": "dfbd6b533f1d9c9946ae5652eed2efd46c68d6ff4ba1b62ddabc8b245b0ae07a",
+    "text": "After you cast 5 spells, this plays two <b>Blood Gems</b> on all your minions. <i>(5 left!)</i>"
+  },
+  "121041": {
+    "img": "28dad3f8592c89d24102a03281c57a7f7c52c3700561e6caa28ddd2d001afddd",
+    "text": "<b>Avenge (4):</b> Your Tavern spells give an extra +1/+1 this game."
+  },
+  "121109": {
+    "img": "6a260926c9698f2b2189eb65b17b77bee92af8e8ca68277ebb04904999c68770",
+    "text": "Get a Hackerfin. At the end of each turn, trigger your Hackerfins' <b>Battlecries</b>."
+  },
+  "121111": {
+    "img": "1f20c8255e75fcd7abf487444e33c34e491e559dd4c76b813b4165354ac382b1",
+    "text": "Get a Tide Oracle Morgl."
+  },
+  "121114": {
+    "img": "b0f453dbeac4d348bd76af353d2220d3aa0991716445360bd18225f66243d2e9",
+    "text": "Get an Arcane Behemoth."
+  },
+  "121120": {
+    "img": "ade7e4a69320e42231110f065cad3554c14a76fbc1ebad490cae1b8360c22787",
+    "text": "Gain 2 Gold. Buy your Greater <b>Trinket</b> next turn instead of Turn 9."
+  },
+  "121121": {
+    "img": "2d6f27cf2d72af8dd4a5cd678dbea32b47127dbbb61b2f8fd6023b5cebc066eb",
+    "text": "At the end of each turn, your Undead have +2 Attack this game <i>(wherever they are)</i>."
+  },
+  "121125": {
+    "img": "79e2844f8f8721d04744b192003c38b49bc7cba0c9af5108351f37f4874f8435",
+    "text": "After you buy a minion, get a <b>Magnetic</b> Satellite with its stats. <i>(Twice per turn.)</i>"
+  },
+  "121132": {
+    "img": "21cfef0ed4d40fa06470ecf9255940b5ff498e5ae711a8dc3e5bdb5ff5a9ae5a",
+    "text": "At the end of your turn, this plays 7 <b>Blood Gems</b> on a friendly minion of each type."
+  },
+  "121138": {
+    "img": "ff86d9d7918c11db6de7f94e51ca88a479c4dc95dffecfb9fb76d0c80dbb60ba",
+    "text": "<b>Spellcraft:</b> Give a Murloc a random <b>Bonus Keyword</b>."
+  },
+  "121140": {
+    "img": "a634796c1611b4481a8bd406754157a69a7af9bfcc27b25095b2cd1c22c30ed8",
+    "text": "Whenever you cast a Tavern spell, give the left-most minion in your hand and warband +3/+3."
+  },
+  "121335": {
+    "img": "cb44ca14a455119417425b5ec1ede83c922085f9c6502a3c86e8bb37e1b0f3ab",
+    "text": "Your Tavern spells give an extra + /+1. <i>(+2/+1 can be earned endlessly!)</i>"
+  },
+  "121508": {
+    "img": "b1c84efe3d94d748d0b42ebabbfb6ca77d2bbb5def5f9e4b7f6d043c8165b2ba",
+    "text": "<b>Battlecry:</b> Destroy a friendly Undead to <b>Discover</b> an Undead."
+  },
+  "121558": {
+    "img": "093f7937233b9b0582e4d347a826867021374f1a5af7dd97159b4f36bec501ae",
+    "text": "Get a Maw Caster. Whenever you destroy a minion outside combat, gain 1 Gold."
+  },
+  "121684": {
+    "img": "0841e5eea86150e69ad1a47747e6b4a800addef5ccebd128195c1f5e87dfffe9",
+    "text": "<b>Discover</b> two Tier 6 minions. Set their stats to 30/30."
+  },
+  "121687": {
+    "img": "021ab03177e7e17831e591491440583b9f65bb9be56d5051621af4ca8b0ad21f",
+    "text": "After your hero takes damage, rewind it and give minions in the Tavern +1/+2 this turn."
+  },
+  "121943": {
+    "img": "7544a1e447a6ac3a60807bae4fac410ffb248aefc9f3e4651441ef20a7624ca3",
+    "text": "At the start of each turn, make the highest-Tier minion in the Tavern Golden."
+  },
+  "121945": {
+    "img": "0b72599026a17684a884c4e690c429879ae6ae5dd685d687a9930fbe78f9cf50",
+    "text": "Get a 5-Gold Coin Pouch. Increase your maximum Gold by 5."
+  },
+  "122013": {
+    "img": "6a8b9b4036064615085584c5d0293326648385adc4022a06ba461e744761af78",
+    "text": "At the start of your next turn, gain 4 Gold and choose a Lesser <b>Trinket</b> to buy."
+  },
+  "122014": {
+    "img": "76d81a1a7c1c712157a179bdebc8588ca0f0dbd3e06df70ea873a9f363aeb07f",
+    "text": "At the start of your next turn, gain 4 Gold and choose a Greater <b>Trinket</b> to buy."
+  },
+  "122177": {
+    "img": "a5d4f8e4b68cc8246a29e8a9a4a2d35af12512c56a512802439b1c67e5e78a84",
+    "text": "<b>Battlecry and Deathrattle:</b> Get a random <b>Bounty</b>."
+  },
+  "122179": {
+    "img": "09cca16da3374e10eae09b6044704a4e20e81af9c1f33db8c92800744c4cd7e0",
+    "text": "<b>Rally:</b> Get a random <b>Bounty</b>."
+  },
+  "122182": {
+    "img": "a1745f7deb5907f8f5bf7744d43e1eb6bdf7608609f1b6bc4e459a4d720c74b8",
+    "text": "Give four friendly minions + Health. Give four friendly minions + /+ ."
+  },
+  "122183": {
+    "img": "7b49cb84bd716181897e272e5d4318116121cff23adb844a69d266f141a28818",
+    "text": "Give four friendly minions + Attack. Give four friendly minions + /+ ."
+  },
+  "122184": {
+    "img": "6d7c584da924277b39f5ef3cc853c5f1678693a990a24dd60c3fc4a5adc2690a",
+    "text": "Give your left-most minion + /+ ."
+  },
+  "122185": {
+    "img": "3fdd96a61a4ed8a495b8693e6ae0d21e1492a4507c02d65866b5e2d50d25f39d",
+    "text": "Get a random minion of your most common type."
+  },
+  "122186": {
+    "img": "67950fa8f4802c4af2591b537f63785139702d380fca1139a16b2a8e32f21d9d",
+    "text": "Gain 2 Gold."
+  },
+  "122281": {
+    "img": "e8a7f0c0457d42e9259aa5b99929b46369351fdafc0f3b4a00d0b89801c1b5a2",
+    "text": "After you play a card from Tier 3 or below, give your Murlocs +4/+4."
+  },
+  "122516": {
+    "img": "75bb8bd2502254fcb29c8bbf3e6996971865bef1f95e9a6479c8966ead3b52cf",
+    "text": "After you spend Gold, get a random <b>Bounty</b>. <i>(9 Gold left!)</i>"
+  },
+  "122520": {
+    "img": "9b2e2872580492497794d379d1e08010d74636dec1d8ce52454bf90713b677cd",
+    "text": "Your <b>Bounties</b> cast twice."
+  },
+  "122562": {
+    "img": "e1a2dd9c40ca7c42e6971657e853c18b13942b2dc8ac76710db0ac4b4849a745",
+    "text": "<b>Rally:</b> This plays 4 permanent <b>Blood Gems</b> on itself."
+  },
+  "122564": {
+    "img": "452592505d1494e044a73d8ebdece193a2ad46ec3ffc4a68d110fd974b51cf30",
+    "text": "Whenever a friendly <b>Rally</b> minion attacks, this plays 3 <b>Blood Gems</b> on all your minions."
+  },
+  "122566": {
+    "img": "094b50acb4eeed924115edf6f4f86d67e4f22112613a2738599d78c8d59da4cf",
+    "text": "<b>Rally:</b> Your <b>Blood Gems</b> give an extra +1/+1 this game."
+  },
+  "122568": {
+    "img": "a956dc615ff2d96fb3dee8da94eccb811712ddc30e6da736b7fdb422c6586efa",
+    "text": "<b>Rally:</b> This plays a <b>Blood Gem</b> on itself."
+  },
+  "122674": {
+    "img": "6c5880711fb705ecf81dc876cdbd3d23d363c2c812e669b6f6e07f483857360e",
+    "text": "<b>Rally:</b> Your Tavern spells give an extra +1 Health this game."
+  },
+  "122737": {
+    "img": "55ceacf0ec98b5c0585466bec77553f7a0ffba36593173145e5ff202eb4e5d73",
+    "text": "<b>Battlecry:</b> Get a <b>Blood Gem</b> that also gives a Quilboar <b>Divine Shield</b>."
+  },
+  "122788": {
+    "img": "ccc1dc91e691c96b79b5da29d2d665712231ef268c74c9494c7fcbeb561dde5b",
+    "text": "Start with 'Growing Collection' as your second Hero Power."
+  },
+  "122789": {
+    "img": "738b25685f8bce90a44c7b4a33888ac6c14025136c491a5bf9ea9f2613b4188b",
+    "text": "Start with 'Fantastic Treasure' as your second Hero Power."
+  },
+  "122790": {
+    "img": "a698c1f128777cbbcd0559efe8cd008aee5283a22df172f8cfaeef48599fa11a",
+    "text": "Buy your Lesser <b>Trinket</b> on Turn 5, and your Greater <b>Trinket</b> on Turn 8."
+  },
+  "122822": {
+    "img": "6c8bde016fd0691596eda1916ec16ade3ca40d98aeee09e7a351d6edc76c0055",
+    "text": "Unlock Tier 7 this game. At the start of your next turn only, upgrade the Tavern."
+  },
+  "122825": {
+    "img": "8e699f6cf0dfcd3fc6cd39457fa622381a2d3f268b8576fe9a37112b535f1594",
+    "text": "At the start of each turn, get a 1/1 Murloc. <b>Discover</b> a Tavern spell to teach it."
+  },
+  "122864": {
+    "img": "97c19fcb42509ec2dff25bbc3847eedc8ada801586c6c2a61a59d5474287fe24",
+    "text": "<b>Discover</b> a Tier 1 minion."
+  },
+  "122899": {
+    "img": "59a50dc3258d5f040ca7fb773639cf08285607251423a88d4974432abdbdc255",
+    "text": "Give your minions with <b>Divine Shield</b> + Attack. Give your minions with <b>Divine Shield</b> + /+ ."
+  },
+  "122921": {
+    "img": "a6f74044d92d0cbd974317c8ae3f3b480dba7f97365d6b13d79e4f1f59e07da4",
+    "text": "Whenever you cast a Tavern spell, give your Pirates +3/+2."
+  },
+  "122925": {
+    "img": "4353cce4621f9cf3cb1ebda87df3c4485e7ad5532b9f0d7604a47ad548485ffa"
+  },
+  "123637": {
+    "img": "2e63bfec9191db945c11e4e2df708efd396c24aac13d66fff70c3bbaf12ff1f7",
+    "text": "At the end of your turn, you and your teammate each get a random Tier 1 card."
+  },
+  "123841": {
+    "img": "8cef30220dd6f7e6384fe143410e8a113c607aa782bed0efd854888b94380b27",
+    "text": "After your teammate sells a minion, gain its stats. <i>(Once per turn.)</i>"
+  },
+  "126154": {
+    "img": "999e8b28595f3e4d8d6475b89aa111ba278d60c104327182f83cd29f066fd583",
+    "text": "Get an Evolving Tavern. Repeat at the start of each turn."
+  },
+  "126157": {
+    "img": "29110625875c9fcdf4efa92993d149079f4e426cac7e773fe72b85d8a1ab7f37",
+    "text": "<b>Discover</b> 3 minions from your Tier."
+  },
+  "126159": {
+    "img": "e8d52c1b9bc632338b20c8b1fd071c59d8842cd2bf69cc10118265da71872d23",
+    "text": "Give a minion +2/+2, then double its stats."
+  },
+  "126165": {
+    "img": "73f77e8aca1e23329f98dfeeec7b7e289714ce3f37c2f007fd7dc21e64e06613",
+    "text": "Fill your hand with Tavern Dish Bananas. Your Tavern spells give an extra +3/+3 this game."
+  },
+  "126169": {
+    "img": "53218e601f143691f08973bc19085e307e63ea91c73ddbf80d3a909fd8a909ca",
+    "text": "<b>Deathrattle:</b> After the Tavern is <b>Refreshed</b> this game, give a random minion in it +4/+4."
+  },
+  "126173": {
+    "img": "d319cf4387cf2f472a045968ab0812e154f25fa09789884297d04d5ce6937284",
+    "text": "After you spend Gold, cast Easterly Winds. <i>(7 left!)</i>"
+  },
+  "126175": {
+    "img": "cb59c5913f94bf07f6d5bbd33c1233c3171864fde3a7a781e6332e622f767f40",
+    "text": "<b>Battlecry:</b> After the Tavern is <b>Refreshed</b> this game, give a random minion in it +10/+10."
+  },
+  "126235": {
+    "img": "ade8fcfccfdd34c346b8a8d66d3a038010cdb3f1576d86e719036440292074bb",
+    "text": "<b>Battlecry and Deathrattle:</b> Gain 1 Gold next turn."
+  },
+  "126237": {
+    "img": "8289a19adba2c37ce09fda3d590a1eb8701faabf508e9da1420e14d93181c220",
+    "text": "<b>Casts When Bought</b> Make 'Swatting Insects' your second Hero Power."
+  },
+  "126239": {
+    "img": "bd4639fdeec31c1fe4333a5d855b7eba39752e25155a276e1ae69891fbf4f381",
+    "text": "<b>Taunt</b> <b>Divine Shield</b> <b>Reborn</b>"
+  },
+  "126262": {
+    "img": "518002e94c75db342440881cc5b08f614c011949fb3d2f4e0a37f2c51fbe5c6b",
+    "text": "Give minions in the Tavern +2/+2 this game. The Tavern always has 7 cards this game."
+  },
+  "126266": {
+    "img": "0319dddf21a3d2dbff2dcf0051290a78f6541f809233e31146fafb9ca0955171",
+    "text": "<b>Casts When Bought</b> Make 'Lead Explorer' your second Hero Power."
+  },
+  "126267": {
+    "img": "499a1a26c51c92eb57c43265535c9f75857eba281ef0d33bbb773ef00af32b5b",
+    "text": "<b>Casts When Bought</b> Make 'Boon of Light' your second Hero Power."
+  },
+  "126269": {
+    "img": "57156749c0db1483627da843756dab83c34a088fe84d542895d0aacac33669f6",
+    "text": "<b>Casts When Bought</b> Make 'Snicker-Snack' your second Hero Power."
+  },
+  "126270": {
+    "img": "291800adbea657a5e456f4b3719810f8e766141f6d13001c41861c01943bd5b7",
+    "text": "<b>Casts When Bought</b> Make 'Rapid Reanimation' your second Hero Power."
+  },
+  "126271": {
+    "img": "b66eca180aa4236c279d68a40dba7883fada06a4356c5908eeef8973550add93",
+    "text": "<b>Casts When Bought</b> Make 'Reborn Rites' your second Hero Power."
+  },
+  "126273": {
+    "img": "40e06b0dd68fa498b092df792b9cf77e6d1a3a36fe0fec124898632e03c0503f",
+    "text": "<b>Casts When Bought</b> Make 'Three Wishes' your second Hero Power."
+  },
+  "126276": {
+    "img": "30cfef7f81faaf6b44c38b47f9861833e221918372320fed079e775554697d9b",
+    "text": "<b>Casts When Bought</b> Make 'Natural Balance' your second Hero Power."
+  },
+  "126285": {
+    "img": "625ef435e4c40d972e97f07af6d6fc75cc5ed6763627be40d73f50850faeaadf",
+    "text": "After you play an Elemental, gain +1/+1 and improve this."
+  },
+  "126343": {
+    "img": "59a03e53f456f498245066e975aabe1d2f0aecf48d5a4910cc34b234b614383e",
+    "text": "At the end of your turn, summon a Tabbycat with this minion's stats.",
+    "flavor": "To be a cool cat in Gadgetzan, you gotta have bling."
+  },
+  "126351": {
+    "img": "4ecdbf63096b582fcee9a55c2fae1c280c2c993d2068cf34f8e1dc911b1f7fc3",
+    "text": "<b><b>Taunt</b>.</b> <b>Deathrattle:</b> Give a random minion in your hand +7/+7 and summon it for this combat only."
+  },
+  "126397": {
+    "img": "df2b797be1de2f3dcfe85b3c4af066c63f797d6df7471b9ef62a1ca70d550ee0",
+    "text": "Increase your maximum Gold by 4. Gain 4 Gold."
+  },
+  "126398": {
+    "img": "0c40d4a558ab5115728a075c277fb313739004e3a1239d20202e150c6208114a",
+    "text": "Choose a minion. <b>Discover</b> a Tier 6 minion to transform it into. Set its stats to 30/30."
+  },
+  "126399": {
+    "img": "fdc6ce36f1d8893a4d947897218f8256b21e258096136e6b8683f9bf75de4f83",
+    "text": "<b>Casts When Bought</b> Gain 10 Armor."
+  },
+  "126401": {
+    "img": "d569dad4f936398aa9cd08d77b2546fdcba2db034cd77885add5c7f871c33750",
+    "text": "<b>Discover</b> a <b>Deathrattle</b> minion from Tier 5 or higher. Give it <b><b>Reborn</b>.</b>"
+  },
+  "126404": {
+    "img": "a691bb81035deb7969a2d0f7050e9e0f512d1422640809552bb034b452c65c38",
+    "text": "Choose a minion. Get a random minion of the same type from Tiers 4, 5, and 6."
+  },
+  "126451": {
+    "img": "f53d60e33ac940d2822683326578988eba96103cc55d0342deb9fa3031c5e718",
+    "text": "<b>Deathrattle:</b> Your Undead have +2 Attack this game, wherever they are. <i>(+4 if triggered outside combat!)</i>"
+  },
+  "126514": {
+    "img": "fda96f928385b64e23b1ce130cf914300cfdb92df3b5e73e464648557ea68e81",
+    "text": "After you play an Elemental, give minions in the Tavern +5/+5 this game."
+  },
+  "126517": {
+    "img": "fad4a08a8bf020f29fbea8594a138e9ee90494e66b164b5f0e88c7ebc6b7154a",
+    "text": "<b>Taunt</b> <b>Spellcraft:</b> Give a minion <b>Divine Shield</b>."
+  },
+  "126521": {
+    "img": "68afa74ff92071dc6b69fb806143a2c02a37fc6ea74c7ea41026244a31e36bdd",
+    "text": "After you <b>Refresh</b> 5 times, make the highest-Tier minion in the Tavern Golden. <i>(5 left!)</i>"
+  },
+  "126522": {
+    "img": "891ce5fcebbc000f0ab78276428000ab783c57fc6c5fc499823f7658829949dd",
+    "text": "<b>Stealth</b> At the start of your turn, if this minion survived last combat, get a Triple Reward."
+  },
+  "126524": {
+    "img": "f299ba62eb21e148f820f12f84fb13fc829af9cd0c12a1bf878c6a953db46640",
+    "text": "<b>Rally:</b> Trigger your right-most <b>Battlecry</b> and <b>Deathrattle</b>."
+  },
+  "126525": {
+    "img": "0ce12eb3175c1baa6f05522e29176b642ae9b9558fdcafebfdc0b75ebcfdbfe2",
+    "text": "<b>Start of Combat:</b> Transform into a copy of the minion to the left of this."
+  },
+  "126532": {
+    "img": "0ff17fdbd1b69897dad4fd84b38a80f95b7c4ed6718bfb36e904ffbcbc2aa224"
+  },
+  "126537": {
+    "img": "1b37427552f4cc4e8302375bceb8a0caa66f3e5953698496b76722e8c981b0ba"
+  },
+  "126548": {
+    "img": "ee63697119ad19278455f251b1df65076eb0df5cb522250b8d358751cf86c36d",
+    "text": "<b>Stealth</b> After you summon a Beast, give it +4/+3. Improves after you cast a spell."
+  },
+  "126558": {
+    "img": "b7991debf528de135f456f173ff3fb4006afdd524b7a932ed0072a8beebd674e",
+    "text": "After you buy a card, give your Demons +4/+4."
+  },
+  "126560": {
+    "img": "d335101082d2e51ede93d796839dd863fe8359c961eda14db83f1115a80699f0",
+    "text": "After you spend Gold, give minions in the Tavern +3/+7 this game. <i>(7 Gold left!)</i>"
+  },
+  "126565": {
+    "img": "c2294c0c7c7577564ee6fdbd9118e7032404123d7db9ac5f7bafc092134e5acc",
+    "text": "At the end of your turn, cast Azerite Empowerment twice."
+  },
+  "126568": {
+    "img": "bbf0518ba205e47577514bb1972fdcea2c56a8bdc1d61c62a181d4fc1c6b9c08",
+    "text": "<b>Deathrattle and Avenge (3):</b> Get a Tavern Tempest."
+  },
+  "126574": {
+    "img": "1462d42a6e506db2414d7f0b87c1bb4a86f080b324360558a4c20834846fb303",
+    "text": "After you play a Murloc, give minions in your hand and board +2/+2."
+  },
+  "126577": {
+    "img": "43555b86032982bea3b0cb64175ccb95c0360865efc2d59fde793e214959421e",
+    "text": "After you play a Naga, give all your Naga +6/+10."
+  },
+  "126578": {
+    "img": "ffdb621009176f9bcbc2a6dfb670a5e50ac932e1b63ebddd8c86aec876f3ba97",
+    "text": "After you play a card from Tier 4 or above, give your Pirates +3/+2."
+  },
+  "126580": {
+    "img": "8c6296e4f5d9450f271e4f6d12534cabccf07632ecadae7be7b0f71d55f74fe1",
+    "text": "<b>Deathrattle:</b> Increase your maximum Gold by 2."
+  },
+  "126583": {
+    "img": "5f1968dbaa87a8c04dd532131cb03b13841ab0a6b90816e90cde27473c169f62",
+    "text": "<b>Activate ( ):</b> Get 5 <b>Blood Gems</b>. They also count as Tavern spells."
+  },
+  "126584": {
+    "img": "d1dbd20b85a7f1cb7155aca7b6266baab00392427b47f514dbf5b81fad48d5d5",
+    "text": "After you play an Undead, your Undead have an extra +3 Attack this game."
+  },
+  "126641": {
+    "img": "72fb94334d08e007d6cfc283eb6d6832a6243e6fcf7eb286b8dab48b68a747f5",
+    "text": "<b>Divine Shield</b> <b>Start of Combat:</b> Gain the Attack of the highest-Attack minion in your hand."
+  },
+  "126733": {
+    "img": "92db1d1d8858bd65a5ccf340cd5d312bcad37b76a7d3c6b25fa8aa073ff6fc4c",
+    "text": "After you cast a Tavern spell, your Undead have +3 Attack this game <i>(wherever they are)</i>."
+  },
+  "126754": {
+    "img": "34d73e23d2371533ac33dfbb15855f5ab86133538904abb4cab91167aa660ca5",
+    "text": "Whenever a friendly minion gains Attack, give it + Health."
+  },
+  "126756": {
+    "img": "448f64c63520e6ef51b3e6044801ecbbe007b4fd5f2994f46d98dd9274b7ba44",
+    "text": "The Tavern always offers 1 extra Tavern spell. Your Tavern spells give an extra +2/+2."
+  },
+  "126757": {
+    "img": "a1801da7ecce9642ff14bf4b88ec70d1926f6d3cc2e195e457529ec3e5c13599",
+    "text": "At the end of your turn, get a Sellemental."
+  },
+  "126761": {
+    "img": "e24241128da2cecd8f1554a7e194fd8a157124ea768a504ace3d7444ec9448ab",
+    "text": "Whenever this takes damage, your Undead have +1 Attack this game <i>(wherever they are)</i>."
+  },
+  "126762": {
+    "img": "43df3334487b394d88794a20e04f9596f4a792d45ddf590b532bf2a587f2d471",
+    "text": "<b>Avenge (4):</b> Increase your maximum Gold by 1."
+  },
+  "126830": {
+    "img": "5a56fe8033590879da4ebe42027396bcd7b9b4b518af130bfcb75e65ce6dd6e7",
+    "text": "After you <b>Magnetize</b> a minion, give your minions +5/+5."
+  },
+  "126860": {
+    "img": "61b15f2367fbc24778559a9026bec70a10c8ee33bddafe0569513fb857637030",
+    "text": "<b>Battlecry and Deathrattle:</b> Get a random <b>Chromadrake</b>."
+  },
+  "126909": {
+    "img": "33401d3676d09991655ca17e0f2f7de990e83069e7937bfe08bbc30fa1de146f",
+    "text": "After the Tavern is <b>Refreshed</b> this game, give a random minion in it + /+ ."
+  },
+  "126924": {
+    "img": "bbfb6b685f770e5724a9c402fac9651d137068900995a9d1b913b5239a99ccfd",
+    "text": "At the end of your turn, consume the highest-Health minion in the Tavern to gain its stats."
+  },
+  "126955": {
+    "img": "feb04bff5b524ebec6415a4e80f162a6e7f506131d97b2de4ef8149dfc319103",
+    "text": "<b>Deathrattle:</b> Get a Tomb Turning."
+  },
+  "126957": {
+    "img": "3d9fa7c2ad3b3c1e467348cefdd2afd38282c02a3d6cf015b4aefa10f71c7591",
+    "text": "<b>Discover</b> an Undead. It dies if you play it this turn."
+  },
+  "126959": {
+    "img": "b3e78aea34fc5938ce7550c9e1a62732b6404b163d902dbda90c680081cf6ec9",
+    "text": "<b>Activate ( ):</b> Give the next minion you buy this turn +20/+20 and double its stats."
+  },
+  "126966": {
+    "img": "5405e0077b8dc3603627fc29386d3306dc5481304a70cd5d2fe240f7f10c85c7",
+    "text": "<b>Stealth</b> <b>Rally:</b> Gain the target's Attack."
+  },
+  "126974": {
+    "img": "269629a9364b0f83b5035039f5898ed3290231029e7e200bea054a12d609fcd4",
+    "text": "<b>Windfury</b> <b>Rally:</b> This plays 2 permanent <b>Blood Gems</b> on all your other minions."
+  },
+  "127096": {
+    "img": "af2555b0d52937863a47dd5c9982e166c204a07d904cba480bd3ea2b01c0e361",
+    "text": "Whenever this takes damage, your <b>Blood Gems</b> give an extra +1 Attack this game. <i>(3 times per combat.)</i>"
+  },
+  "127097": {
+    "img": "129458acac73a7e519926b10cd1b5aabff5cc3852899dba2ea5be5772a8529ee",
+    "text": "Whenever every third friendly Timewarped Boar dies, get a random Golden Beast. <i>( left!)</i>"
+  },
+  "127107": {
+    "img": "38508e6974fbc4a1e78c2cb5d890e140d640030c939f85cfb2e5f8526df357bf",
+    "text": "<b>Battlecry, Deathrattle, and Rally:</b> Get a random Tier 6 minion."
+  },
+  "127109": {
+    "img": "8d31a9628cdde483eed0b8252c7eb1a0f6b1653532fd0b97831f43d3b39aaf70",
+    "text": "<b>Rally:</b> Give a friendly minion of each type +10/+10 permanently and improve this."
+  },
+  "127113": {
+    "img": "2ac3563d90ca30a246634cfebda01434a04ed6eb8464705d964693157b682bcb",
+    "text": "After you summon a different minion in combat, give it double this minion's maximum stats. <i>(3 times per combat.)</i>"
+  },
+  "127126": {
+    "img": "c2f93d386c360a115127b27467a99cf46cfd9eed138a1384dc509b638f43a7f8",
+    "text": "After you trigger a <b>Deathrattle</b>, gain +4/+3 permanently."
+  },
+  "127128": {
+    "img": "901cc1b0c0c07d593fb811fa9fbfc8fd9f1b53d73fa3fe65d01afb9336da16c5",
+    "text": "<b>Deathrattle:</b> Summon the highest-Health minion from your hand and give it <b>Divine Shield</b> for this combat only."
+  },
+  "127129": {
+    "img": "640b8b3c070d088482cce634eeb6bec3d9dce3050870e7cfca3d4856dd588838",
+    "text": "After you sell a Tier 2 minion, get a random Tier 1 minion."
+  },
+  "127132": {
+    "img": "cbb63f209266adf3b1278e338c8d343dcd225186be2c9c9363025408504e7351",
+    "text": "<b>Taunt</b>, <b>Reborn</b> <b>Deathrattle:</b> Get a Tavern Coin."
+  },
+  "127167": {
+    "img": "85095effec681dd5826cbd61bd01cf6d3fba6852799a3be5c1d2f5d89a0eb440",
+    "text": "<b>Divine Shield</b> <b>Rally:</b> Double this minion's stats. <i>(2 times per combat.)</i>"
+  },
+  "127168": {
+    "img": "28585909250d7b93cff688354794b99accd2aa7585a67e0bc6faa9f17c4c464e",
+    "text": "At end of turn, give a friendly minion of each type +3/+3. <i>(Improved by each Tavern spell you've cast this turn!)</i>"
+  },
+  "127180": {
+    "img": "4c12c843ff92fbaae03355f8ddb91148a0c33d761a0a74ccafe4e81cfb516f2f",
+    "text": "At the end of your turn, gain +2/+2. <i>(Improved by each <b>Battlecry</b> you've triggered this game!)</i>"
+  },
+  "127181": {
+    "img": "88713211151ec23f50850b74745533d5760fec447d6258d0cf726637a6dc6230",
+    "text": "<b>Divine Shield</b> Whenever this kills a minion, give the left-most minion in your hand +4/+4."
+  },
+  "127182": {
+    "img": "6cf2b4034a8fe6b181c16639b37fc316217d2e37b8a546a84b3bb5afb728f38c",
+    "text": "Once per combat, when this attacks and kills a minion, get a Triple Reward."
+  },
+  "127245": {
+    "img": "b0ff737d133fb3b5458aca317487e369a7b704b28fbe2f3d00f8961958f68d73",
+    "text": "At the end of your turn, cast Repair Job on adjacent Mechs."
+  },
+  "127246": {
+    "img": "733eca811f43dbb2ef86c25fc92274031a3758bd8df9efe5cba02fb58b1df392",
+    "text": "<b>Start of Combat:</b> Deal this minion's Attack to the highest-Health enemy minion."
+  },
+  "127247": {
+    "img": "f218f1b9d7ff640b6be45c4cd7652680e1cdd340753dc3cfd6a459de8465ea87",
+    "text": "<b>Spellcraft:</b> Give a minion +2/+2 for each friendly Naga."
+  },
+  "127249": {
+    "img": "31f265a38d58749ec183060ed93fccf41b25828e638007f3c45a9dba105cfd31",
+    "text": "<b>Avenge (3):</b> Get a random <b>Spellcraft</b> spell and Tavern spell."
+  },
+  "127250": {
+    "img": "01cfff754758e5eb1f730885e51dd202f8b5fbe755401a6ac879bfa4490dbb17",
+    "text": "<b>Spellcraft:</b> Give a minion +12 Attack."
+  },
+  "127288": {
+    "img": "2871037c748eb4b3992bde269ca87b7571d7a6259d4f60b327c413fc24556116",
+    "text": "<b>Discover</b> a minion of your Tier. Lock it in your hand for 1 turn."
+  },
+  "127293": {
+    "img": "c2caf173a1181dcb0283cebaa807008e4262d470ffbb4b3a1b31c91b3b5cbb7e",
+    "text": "After you cast a Tavern spell, get an extra copy of it. <i>(3 times per turn.)</i>"
+  },
+  "127323": {
+    "img": "3a122cd2ebfab8b2a28694eb41a994cfa3b09bde4a47e6867bebab680ac34386",
+    "text": "<b>Casts When Bought.</b> Gain 1 extra Chronum at your next <b>Timewarp.</b>"
+  },
+  "127324": {
+    "img": "f28d3b3a087e94ad2f8bc074b2e5ec893e2890547a28c825bd787ef3cb3511e4",
+    "text": "<b>Discover</b> a 1-Cost card from the Major <b>Timewarp.</b> Lock it in your hand for 1 turn."
+  },
+  "127401": {
+    "img": "b91573b24b1de5eff96b3c01784e605ba7cb16a70712b4c2ac8304a6af3b87ba",
+    "text": "<b>Casts When Bought</b> Make 'Reclaimed Souls' your second Hero Power."
+  },
+  "127430": {
+    "img": "115a525bfefeec305f926d1f72ef8fe89f0ae30d0249ab3d41f9b885378e709b",
+    "text": "<b>Avenge (5):</b> Get a <b>Blood Gem</b>. Your <b>Blood Gems</b> give an extra +1/+1 this game."
+  },
+  "127431": {
+    "img": "716a2c62c0e528a05026c1337b20905e279e4243d6fce66ec6d128e228454fe4",
+    "text": "<b>Deathrattle:</b> Your <b>Blood Gems</b> give an extra + Health this game."
+  },
+  "127441": {
+    "img": "d2d319869c4704296f5bec3b2e7dc521a57680c07c8771330ab58455384f9654",
+    "text": "<b>Divine Shield</b> All your Dragons keep <b><b>Bonus Keyword</b>s</b> and stats gained in combat."
+  },
+  "127443": {
+    "img": "a87c982030f3a6cb96077bce34646ffff9c7d4719b66a2acdb1d20cd57059160",
+    "text": "<b>Taunt.</b> <b>Deathrattle:</b> Trigger an adjacent minion's <b>Deathrattle</b> <i>(except Timewarped Warghoul)</i>."
+  },
+  "127494": {
+    "img": "1a192f5c0fbc8fac8a9e78c77a796a0c7c84e4b39523ab762018bd3c15942ea5",
+    "text": "At the end of your turn, give this minion's stats to the left-most minion in your hand."
+  },
+  "127498": {
+    "img": "ad53eab19aceb8dd3b5c57d078fd348ef60f44048234ad3baa4862426ce6b511",
+    "text": "<b>Start of Combat:</b> Give adjacent Murlocs the stats of all the minions in your hand."
+  },
+  "127503": {
+    "img": "0171bf209d575a62fa6d955f0b7e00f12ff3760cee7b5da9dd49453584330cdd",
+    "text": "<b>Start of Combat:</b> Double your left-most minion's Attack."
+  },
+  "127506": {
+    "img": "3d06c12ebf58a1fdd563cd241ed42a274728b2f529bc10c7b184cff62af3fb8b",
+    "text": "Give your minions + /+ . Give Golden ones another + /+ ."
+  },
+  "127508": {
+    "img": "3a59b6262010ef11eec9091f39787423da90e2a7343a51f8885fa7b02bb43e3f",
+    "text": "Whenever a card is added to your hand, give your Pirates +1/+1."
+  },
+  "127510": {
+    "img": "fe23d9296853767698d5f320d1702c77ee9d52f932dc52d183d04b6f10593934",
+    "text": "When you sell this, get 1 random minion from Tier 7. <i>(Improves each turn!)</i>"
+  },
+  "127513": {
+    "img": "ee3e89dd514c506ff139d416c8a2f2800a639568f96a6658cd64f296442706dc",
+    "text": "Fill your hand with random <b>Spellcraft</b> spells."
+  },
+  "127517": {
+    "img": "0eb8d490ff5530125dc89ce64b7df9b5adb2a19eb0777733b60cf99d6c9d0064",
+    "text": "<b>Divine Shield</b> <b>Avenge (3):</b> Get a random Mech."
+  },
+  "127539": {
+    "img": "ae0d6e8e0fb7878690fea76af1e755b4d00f824d82fd21d7cd08d4dac8959457",
+    "text": "After your hero takes damage, rewind it and give your Demons + Health."
+  },
+  "127556": {
+    "img": "f422fabc0a853889ea65001ce32843f5148559a9c67c9f0bc103cbda665eb8fb",
+    "text": "At the start of each turn, <b>Discover</b> a Pirate to crew the ship. <b>Deathrattle:</b> Summon and get that Pirate."
+  },
+  "127562": {
+    "img": "751bb32058381bfc267b2684b26018b295098ab2acb1569fa7eadad5925b0ade",
+    "text": "<b>Taunt</b> <b>Deathrattle:</b> Get a Spitescale Special."
+  },
+  "127567": {
+    "img": "58aa0b125ce1ca1b5cbf7e958b76d971b75e5abdf444c2eaf236a6a8b2ba432a",
+    "text": "Whenever a minion is consumed, this gains its stats."
+  },
+  "127568": {
+    "img": "ab0dc3c8dc1299e2b54b9f50c3fdec09975759e8baac2bed8a564b10f6d0053a",
+    "text": "<b>Deathrattle:</b> Summon and get 4 random Pirates."
+  },
+  "127647": {
+    "img": "dde063b7899c4e744dbcd6e83e2b7839b90046024682cce6e3aa99e2d490d539",
+    "text": "<b>Divine Shield</b> At the end of your turn, get a Temperature Shift."
+  },
+  "127696": {
+    "img": "2553bc0937396db8633c27a1ee7f128b5e7f3fc5cb6315fa8fe0463890db6d13"
+  },
+  "127709": {
+    "img": "06903be3854c6fc9f3299a09536c5bf756069d19c3c5030da9a614d825c5561f",
+    "text": "<b>Discover</b> a 1-Cost and 2-Cost minion from the Minor <b>Timewarp</b>."
+  },
+  "127710": {
+    "img": "373f214514f1f3097c1626563e3e4bca51d19894ffc1755d39a4bc11b31b26f7",
+    "text": "<b>Taunt</b> After you buy an Elemental, gain its stats."
+  },
+  "127714": {
+    "img": "7dc34e0e74ed6c1c86c87fcb31069ad4ccbc0f32814c16cce276f04c7c27da50",
+    "text": "Whenever a friendly Beast dies, gain +2/+3 permanently."
+  },
+  "127721": {
+    "img": "9d0034c4851ef9e02843215b8401ad1eb74ac22b106adafa2ecf9eac9296b135",
+    "text": "<b>Activate ( ):</b> Consume another friendly minion to gain its stats and 3 Gold."
+  },
+  "127723": {
+    "img": "91196bb80093aa44376d51f931607a77f281e83b89b24f677444b77412f11faf",
+    "text": "<b>Taunt</b> <b>Deathrattle:</b> Get a random Demon."
+  },
+  "127725": {
+    "img": "e45522d1db5059f30a31f70bc21a0e97f5dbadb5cedafd31212fa34a156f1379",
+    "text": "<b>Rally:</b> Get a random Dragon."
+  },
+  "127727": {
+    "img": "ba69f0e7159bfc33b234f68d3a6d1bf23e8d86486a485b9e4a67cb00aaeccf87",
+    "text": "The Tavern offers an extra <b>Frozen</b> Elemental whenever it is <b>Refreshed</b>."
+  },
+  "127733": {
+    "img": "26d57be07f5c2821eaa418ea0581243c0253d8c0cc1a6578447e4c1f023999ed",
+    "text": "<b>Divine Shield</b> The Tavern offers an extra Pirate whenever it is <b>Refreshed</b>."
+  },
+  "127735": {
+    "img": "f60f01cc1613e3d3b95b8a87011c7a58b2041957d88d78bea8144ea0669322f4",
+    "text": "<b>Deathrattle:</b> Summon and get a random Undead Creation."
+  },
+  "127739": {
+    "img": "924aee28539b40db7ea1e6fb559be0b3cc44eace01b958616188908d776c999c",
+    "text": "Whenever you play or <b>Magnetize</b> a Mech, give your Mechs +3/+3."
+  },
+  "127760": {
+    "img": "384c18f1f1e7d351633daa23bb704bffefa553e5640007dc1f8b52a1e30ae8b4",
+    "text": "After you <b>Refresh</b> 3 times, get a random <b>Spellcraft</b> spell. <i>(3 left!)</i>"
+  },
+  "127761": {
+    "img": "75051c2548daf04f03442dafb20c1248a0c289bd8bd6bad638ef9d4a1bb9b6e2",
+    "text": "At the start of your turn, spin the Wheel of Yogg-Saron."
+  },
+  "127765": {
+    "img": "1142420d76a8de157385eb1189b16ac11b862e8e5bf6b36037130bcb867bd7a1",
+    "text": "After you kill a second minion each combat, get a plain copy of it."
+  },
+  "127767": {
+    "img": "d26bf0d56b220a644536be2ade1ee8b7179229d40b2fbcb7ec574a4fe5eff188",
+    "text": "At the end of your turn, get a random minion of your Tier."
+  },
+  "127769": {
+    "img": "2d4549de6bd610013898e7709b3f0500bbee82d9450cebf3aa87b7dfab40e914",
+    "text": "After you summon a minion in combat, double its stats."
+  },
+  "127771": {
+    "img": "570eaad8549a6a820a8712253718904f6274614bb487a0bad5eb95a0deeee186",
+    "text": "After your hero takes damage, rewind it and reduce the Cost of your next Tavern spell by (1)."
+  },
+  "127773": {
+    "img": "4d3443359788ec91228c87f3f6a2efaa953fd59bbe73034d8e356cd596cedd0c",
+    "text": "<b>Start of Combat:</b> Gain the stats of adjacent minions."
+  },
+  "127774": {
+    "img": "78ab4fd8d4827c873f35f99c8f3718ddb582ac352e2b06decff27d4a3804eae4",
+    "text": "<b>Discover</b> two Tier 7 minions."
+  },
+  "127776": {
+    "img": "13a3fa945e4db920eb5b22d4340b7dbd296f0f232248de87a489601568af72d3",
+    "text": "<b>Avenge (4):</b> Get a random Protoss minion."
+  },
+  "127780": {
+    "img": "117e73a6092d8cf989b7d3a9bc361488eaa7eebed7fbaf2bf8859c65b7e770c8",
+    "text": "The Tavern offers two extra Demons with +7/+7 whenever it is <b><b>Refreshed</b>.</b> <i>(Upgrades each turn!)</i>"
+  },
+  "127790": {
+    "img": "73985722fc551b3b58a3094cb8fe90ffe253bd6e1fbf9bcdcd2ab2e2f778ee50",
+    "text": "At the start of your turn, get the <b>Buddy</b> of your Hero Power."
+  },
+  "127799": {
+    "img": "b68730d54b3be38e33c3ce9625743cc77510ebd9eb1ed7724851b38198625e59",
+    "text": "At the end of your turn, trigger all friendly <b>Battlecries</b>."
+  },
+  "127800": {
+    "img": "b1a9db1942cb2047c5c3c17185892bfbce40f1754d2cd64f127518f8766d6cdd",
+    "text": "At the end of your turn, give your minions +1/+1. After you play a card from Tier 3 or below, improve this."
+  },
+  "127801": {
+    "img": "09e1e2fb14d1e51f195fc9ee14fe13f65f03eb2f5f602e4c43864c1f55392250",
+    "text": "After you sell 3 Murlocs, your Tavern spells give an extra +2/+1 this game. <i>(3 left!)</i>"
+  },
+  "127807": {
+    "img": "2a91acb7cdbefc7df7fe1aa73626e27cd3089a057720786b4055fbaad91449d9",
+    "text": "After you cast 2 <b>Spellcraft</b> spells, get a random Tavern spell. <i>(2 left!)</i>"
+  },
+  "127830": {
+    "img": "c0bd6d2c07c7c183a446e434c98a3618383492fce89fd3da54021193ddf24c63",
+    "text": "<b>Spellcraft:</b> Choose a minion. Transform all minions in the Tavern into ones of its type, keeping Tiers."
+  },
+  "127865": {
+    "img": "ebfaf5142dc40c03b1bc55f061195cd75fbad96e09b7915a2f951f9596ce8a6f",
+    "text": "Choose a minion. Make it Golden."
+  },
+  "127868": {
+    "img": "a7bd8b63d2d3492e0e90be91e62cce4e5e6ff6d44d1ebec97489ecc1132f69c1",
+    "text": "<b>Activate ( ):</b> Discard a card for this to play 4 <b>Blood Gems</b> on all your minions."
+  },
+  "127875": {
+    "img": "524245cf6fe1a2dd69a51ef347a96668eb557ffba9a97e83bb6dbdb15b68d7dd",
+    "text": "<b>Deathrattle:</b> Get a copy of the last Tavern spell you cast."
+  },
+  "127877": {
+    "img": "e4c0cc950f3135b61a1f9ae1704f64856b2157fd5a36d29cd801433940f1da68",
+    "text": "<b>Reborn</b> <b>Deathrattle:</b> This plays 3 <b>Blood Gems</b> on all your Quilboar."
+  },
+  "127948": {
+    "img": "55b1030847536cd8b0240a7e9f71537df66eb6837bb7e54ad15c3cdc5231ee1a",
+    "text": "<b>Activate (1):</b> Increase your maximum Gold by 1."
+  },
+  "127962": {
+    "img": "7a905cc07c303c6638e0191178fa6bc09febac7ebbf447cdd99075f650f914d1",
+    "text": "<b>Avenge (4):</b> Get a random 1-Cost card from the Minor <b>Timewarp</b>."
+  },
+  "127965": {
+    "img": "fbb40e4eb396bc644ded325a668e060bf26653f8cce21b77753a408dc1b109dd",
+    "text": "<b>Discover</b> a Tier 3 Darkmoon Prize. Repeat at the start of every three turns."
+  },
+  "127967": {
+    "img": "580c4e7f043f4d1174ff90e4410ad84bf202dfcb4d7f35a6738c25dbe0484471",
+    "text": "Get a random minion each from Tiers 1, 2, and 3."
+  },
+  "127970": {
+    "img": "a2e5397d6c1016192d670324afb177958a86372f6710bcd4486ab53a65b94827",
+    "text": "Get an Enchanted Lasso. Repeat at the start of each turn."
+  },
+  "127972": {
+    "img": "87e823f974b562a08c80c5514ed34122a190f163521a4891577b2ccde6c33ff5",
+    "text": "Each turn this is in your hand, transform into a random 2-Cost card from the Minor <b>Timewarp</b>."
+  },
+  "128003": {
+    "img": "a644652e2c1b84a80abb9a102effcfe42a66174f2cd10783fa8ea53b8f6a25d1",
+    "text": "<b>Taunt</b> At the end of your turn, cast Staff of Enrichment."
+  },
+  "128015": {
+    "img": "00f4b595609ce812316df9760349e3447d2f7ce24ab53c38e65aed009ef884d2",
+    "text": "<b>Discover</b> a minion from your warband <i>last game!</i> Set its stats to 20/20."
+  },
+  "128044": {
+    "img": "5d603db012818455d8ef3c79ea315e9be29cfda81ac86a294411ccb2c69acf60",
+    "text": "After you trigger a <b>Deathrattle</b>, give your minions +3/+2 permanently."
+  },
+  "128111": {
+    "img": "18aeb2465aba018cae8f30e7b43b939d987b2f3e9ed4be23ec71f4ea2b08220d",
+    "text": "<b>Deathrattle:</b> Cast Goldrinn's Blessing twice."
+  },
+  "128117": {
+    "img": "eabe3bc750a8ca8b0bedc6820b8b03beddf331103cbb8f655cc07f2e89c9e4bb",
+    "text": "<b>Divine Shield</b>. After a friendly minion loses <b>Divine Shield</b>, your <b>Blood Gems</b> give an extra +1 Attack this game."
+  },
+  "128177": {
+    "img": "cae8d653b90e0e099e94e1279c9268d4082e3c7117eaf750fff3e37fd80a328f",
+    "text": "<b>Deathrattle:</b> Summon five 1/1 Skeletons. Any that don't fit give your Undead +1 Attack this game <i>(wherever they are)</i>."
+  },
+  "128211": {
+    "img": "8040690b50706256b87bf13d38b9702ba47160ef338775fbc67d96da7c26945a",
+    "text": "<b>Start of Combat:</b> Trigger all friendly <b>Deathrattles</b>."
+  },
+  "128739": {
+    "img": "2d09525a063b34288366d495e115dbdd77e9e10828a0cc87b56dd709326ecc7e",
+    "text": "You get an extra Chronum at each <b>Timewarp</b>."
+  },
+  "128740": {
+    "img": "b1a77c23a5e8b0b7c9cd7a8822fc6d74d3848b92f8635f88f7902075d8002df4",
+    "text": "The Major <b>Timewarp</b> offers 5 Golden minions this game. They do not give Triple Rewards."
+  },
+  "128741": {
+    "img": "5f0fa610323c5c3119c806138ff57e6e768a7835a044a8aa415e16aa73d1c897",
+    "text": "On Turns 8 and 9, visit the Major <b>Timewarp</b>. There is no Minor <b>Timewarp</b> in this game."
+  },
+  "128772": {
+    "img": "d8a57e4e3eafd23943af33d3532cb850d8fa178ce55c30200e25cd7927938948",
+    "text": "Minor <b>Timewarped</b> minions enter the Tavern pool on Turn 7, and Major ones on Turn 10."
+  },
+  "128775": {
+    "img": "152381c9f904af7e320fa8491237209089e996b7f548860aa73373d3f9d13cf0",
+    "text": "Visit a <b>Timewarp</b> on a random turn this game."
+  },
+  "128889": {
+    "img": "ecae555a6ffeb5f0441dcea3fd721243fb4b0853f78b7e1f306a3b3b3c6e8609",
+    "text": "All 4 Chronum this game can be spent at the Minor <b>Timewarp</b>. Any unspent carries over to the Major <b>Timewarp</b>."
+  },
+  "128917": {
+    "img": "0740fd6084a1d6bbaf5b60c606d1af78fa4706c1981d9687bc48b85e619290b4",
+    "text": "Once per turn, choose from 2 Minor <b>Timewarped</b> minions to transform into. Keep this minion's stats."
+  },
+  "129082": {
+    "img": "2fbf0bb762fc315091a0d1b7e3b14db931279268cfc2b0f1a7ff09d072873c22",
+    "text": "The Minor <b>Timewarp</b> offers 5 Golden minions this game. They do not give Triple Rewards."
+  },
+  "129101": {
+    "img": "45d8991949dcd1dedcb3804995dbb822116ddf4e3075d1698da69d458f09cf1e",
+    "text": "After you sell 5 Elementals, get a random Elemental. <i>(5 left!)</i>"
+  },
+  "129103": {
+    "img": "ea27c796725a969eb813baed3d23891c7e92b9a5f68ae52d41a3b952a31936a1",
+    "text": "After you cast a <b>Spellcraft</b> spell from hand on a minion, also cast a permanent copy on this. <i>(Twice per turn.)</i>"
+  },
+  "129109": {
+    "img": "5ca6cc0d51f4166a606d30d45da1f157aeea1f6de569351e0253ed7f1dd5d37c",
+    "text": "<b>Magnetic</b> After you <b>Magnetize</b> this, double the target's stats.",
+    "flavor": "WAR! GEAR! What is it good for?"
+  },
+  "129114": {
+    "img": "6aa1f49c196d01a8c381421a4cd399be21a64f7cfedfedb8cd19e30f67cc138d",
+    "text": "Also damages adjacent minions. <b>Rally:</b> If you control another Golden minion, gain <b>Divine Shield</b>."
+  },
+  "129119": {
+    "img": "02361fceb0a852ad9c46361afdf311a5caf1af1ae0eee9b8f42dd90c991c9f74",
+    "text": "<b>Start of Combat:</b> Give the Undead to the right <b>Reborn</b> and \"This is <b>Reborn</b> with full Health and enchantments\"."
+  },
+  "129128": {
+    "img": "5d4d78f25adc067898c8df9bb609039ac0bbbbd683b1434dbbf59fd2437d8ab4",
+    "text": "<b>Start of Combat:</b> Gain the stats of 3 friendly minions of different types <i>(except Timewarped Mythrax)</i>."
+  },
+  "129173": {
+    "img": "d2226cc763f91a5358c4c680f45f0bcb628e5bf9ee1e4dcdae801487995c26b0"
+  },
+  "129427": {
+    "img": "80cb8da56759a85c351c48e695f536929f597f08754a301595573dd2d362f44f",
+    "text": "Every 4 turns, <b>Discover</b> a Darkmoon Faire Prize. <i>(3 turns left!)</i>"
+  },
+  "129428": {
+    "img": "ecb14a816c1d253e52270642128205058a667827c1e5a2c06d70c1f522b8d9b7",
+    "text": "Whenever this takes damage, give a friendly minion of each type +2/+1 permanently."
+  },
+  "129684": {
+    "img": "20f0d5590308bd9555e640e91d9076aa3d0e0ec4c29c77eebeedaf5a28f4a3f1"
+  },
+  "129749": {
+    "img": "0a4b599de2fa02529f5785e1c7cad5be19382b64fdc9b877ac1b4ba20e06c9f7",
+    "text": "<b>Mission:</b> Once this reaches 6 Attack, gain <b>Divine Shield</b> permanently."
+  },
+  "130028": {
+    "img": "2608032e02d30bd5085b170b375737ac086686fa5e6118386b6c6fe034aed613",
+    "text": "You can use your Hero Power an extra time each turn. After you use your Hero Power, gain (1) Gold."
+  },
+  "130075": {
+    "img": "7c835c432ad416837177750a0feeada4b98c7ff84f1279803ea9d1fc78de3277",
+    "text": "<b>Battlecry:</b> Add a <b>Fodder</b> to your next 3 <b>Refreshes</b>."
+  },
+  "130078": {
+    "img": "d112e923fa144d75c717c5a2972b1822cf7de0f7260b28c8dfcbb8aaa0e50cae",
+    "text": "<b>Battlecry:</b> Give minions in the Tavern from Tier 3 and below +3/+3 this game."
+  },
+  "130145": {
+    "img": "464ef37e43ea496cd4038e81e7982da815779112cf77e04a5cdfb0800e0dae14",
+    "text": "<b>Taunt</b> <b>Deathrattle:</b> Get a <b>Blood Gem</b> that also gives a Quilboar <b>Taunt</b>."
+  },
+  "130149": {
+    "img": "7ea2970818ddbf29f546986fe90f3f5ebc5cc2b71797cc6af7a95fb56590e171",
+    "text": "<b>Windfury</b>. At the end of your turn, this plays a <b>Blood Gem</b> on your minions. Repeat for each <b>Bonus Keyword</b> this has."
+  },
+  "130153": {
+    "img": "dc06e048105508522e36e3840c5b1feb84d618c4ca0b81504079f9c003a356c6",
+    "text": "At the end of your turn, get a <b>Blood Gem</b> that also gives a Quilboar <b>Reborn</b>."
+  },
+  "130290": {
+    "img": "4f9b7cf96d99de8496be6b1ddd252625b81119f8f27e615975b533cb54b2791d",
+    "text": "While this is in your hand, after a different friendly Murloc gains stats, gain +3/+2."
+  },
+  "130298": {
+    "img": "39048a513cfd1e4fd4084ba2a9a1cffd9de919f03307b2940c72de63bd265dd2",
+    "text": "Your spells that target friendly minions cast twice."
+  },
+  "130312": {
+    "img": "fb4cf21bbab628e88b5eedcf66b7354e3889dcd1ad2f6d8f38d3ff053e42dcfc",
+    "text": "Choose a minion. Give minions of its type in the Tavern + /+ this game."
+  },
+  "130527": {
+    "img": "de61aaa1aaeda109f8c5de14bc49a09167c623fc1ceccb7394222e616b9cea52",
+    "text": "Give your minions + /+ . Repeat for each different friendly minion type."
+  },
+  "130620": {
+    "img": "5df5896facb1fba96c4e2478fe9bc2633f9ca9e4bd38f6ddf3cb4ce308e8c5c1",
+    "text": "Whenever you discard a card, give your <b>Deity</b> +1/+1 and improve this."
+  },
+  "130662": {
+    "img": "fbecefc0408c9c9918537e47b26dd2585a1d4db99b4b7a792282644f64bbef1f",
+    "text": "After you sell a minion, add a <b>Fodder</b> to your next <b>Refresh</b>."
+  },
+  "130711": {
+    "img": "16430cfaff01665ca0f1779b63989ee0137b2f71d515cecf9a5788b59160aa89",
+    "text": "Whenever you summon a Beast, give it + Attack and improve this permanently."
+  },
+  "130713": {
+    "img": "e9601d075392855e688f28bdfc9e98f6218be2965bb55838f57019242e9d496c",
+    "text": "Give your minions + /+ . Give all your Naga another + /+ ."
+  },
+  "130796": {
+    "img": "de5beb3593bbed1d560b27d52ffd23e08c41ba94cb7588c2ce3bfac692d09509",
+    "text": "<b>Magnetic</b> Your Tavern spells give an extra +1/+ ."
+  },
+  "130830": {
+    "img": "4ba48614636f0ea75cfd25174ede0924524346d9e9ab4ca26d1d37d69e408488",
+    "text": "Get a Triple Prize. Whenever you would get a Triple Reward, get a Triple Prize instead."
+  },
+  "130832": {
+    "img": "41aa6256ab95b5281b4088ad4beb9cc889d92bcb949f96d6bd587755afe6596a",
+    "text": "When you reach Tier 6, gain 14 gold."
+  },
+  "130833": {
+    "img": "703420c1b12054015d3dfa3b65b060cf6db747795efb6fc0424c6d411d346f7f",
+    "text": "Get two minions each from Tiers 1, 2, and 3."
+  },
+  "130834": {
+    "img": "24170d97c4db575af4066f709be1fe1441da2348d57694f34e80de24054834b6",
+    "text": "Get a random Lesser <b>Trinket</b>."
+  },
+  "130835": {
+    "img": "dd1c43aa6bd54065e26a5fc057e901fe1f8af61304e3418b58b35dd78139c340",
+    "text": "Get a Duplicating Lens. At the start of every 2 turns, repeat this. <i>(2 turns left!)</i>"
+  },
+  "130836": {
+    "img": "24f12f07e7b6b757a18dc3568853526e4e40cd14e922f1433491d0b832bc7f54",
+    "text": "Gain 10 Gold. Your next <b>Trinket</b> is a Lesser <b>Trinket</b>."
+  },
+  "130838": {
+    "img": "b3c19f4dfeffa081062e33da6e1c9ce576f7638a796372742bd36347f2a1f457",
+    "text": "Cast Ice Block. Gain 5 Gold."
+  },
+  "130841": {
+    "img": "1c8eb9e5f4592d18e5677b1247814030c2c1bc75ab140bf130ad09c3ca17b446",
+    "text": "<b>Discover</b> a 2-Cost minion from the Minor <b>Timewarp</b>."
+  },
+  "130865": {
+    "img": "6876237b74c981849412f9b18cfcae237fadd5b8000b6763f890457087a436e9",
+    "text": "Whenever you cast a spell, give your minions +1/+1 permanently. <i>(+2/+ while in combat!)</i>"
+  },
+  "130868": {
+    "img": "e236ab4c5cfc189a67b16e2b9872094ff809d74088dd0f7d901ceed26077d199",
+    "text": "<b>Discover</b> a 2-Cost minion from the Major <b>Timewarp</b>."
+  },
+  "130873": {
+    "img": "24acd809efc60d064c0d990253a6075bfd8a713ddbdf9fc24f8e03cdaa48be5f",
+    "text": "Get a Temperature Shift. After you play 11 Elementals, repeat this. <i>(11 left!)</i>"
+  },
+  "130874": {
+    "img": "3ee715a09909fcf6dfcba4b4ff99ca8357df3df8a90b288199a3f58f10f740fa",
+    "text": "After you <b>Refresh</b>, double the stats of the highest- Health minion in the Tavern."
+  },
+  "130877": {
+    "img": "e72508ff3f9eb5409e5d2f612cdebf001eb75c3f1d95661d3343aaeae1f7aa86",
+    "text": "Whenever you summon a Beast, give it +7/+7."
+  },
+  "130879": {
+    "img": "ef57a78abca404729e2767b52107d4050d9f3252d77dd642915a56385be43ab7",
+    "text": "Get a random <b>Magnetic</b> Mech. At the start of each turn, get another."
+  },
+  "130880": {
+    "img": "758776df156ac8f869c9da5720c8967126ad4778655f81aff42c35c0e036a5b7",
+    "text": "After 5 friendly minions die, get a random Mech. <i>(5 left!)</i>"
+  },
+  "130886": {
+    "img": "cbb5560c9f7a12675d4113aba938e3928f46f080f87646a524ecee6194d8a67b",
+    "text": "Get a random <b>Chromadrake.</b> At the start of each turn, repeat this."
+  },
+  "130888": {
+    "img": "b945aea690f4c8c28e6335c41cd4f88cc0c9cec2537658baee950400840d26d8",
+    "text": "Cast Easterly Winds. At the start of each turn, cast it again."
+  },
+  "130889": {
+    "img": "a4e9ff961e5c10c64a4aedb4b52df9e49231f4f50c8bd97d39e8e1574bda05b4",
+    "text": "After you play an Elemental, get a random Tavern spell. <i>(Twice per turn.)</i>"
+  },
+  "130890": {
+    "img": "25b0bd6fd8a3e45356563c710a95583bd74433db468b2acd8dbbaea6f455c6c5",
+    "text": "Get 2 random <b>Bounties</b>. At the start of each turn, repeat this."
+  },
+  "130891": {
+    "img": "04760f63bd2c9fa1c19b02d92a9ea0359eb48fefa11059c92c895f94fe9e8ab7",
+    "text": "Get a Proud Privateer and 2 random <b>Bounties</b>. At the start of each turn, get another 2 <b>Bounties</b>."
+  },
+  "130892": {
+    "img": "e7148da8733927f2407c19899c10e88d42912b30680c5539ad3a7baa72e4801f",
+    "text": "After you cast a Tavern spell, give your Pirates +4/+4."
+  },
+  "130893": {
+    "img": "8de178cae1ee922549a7871c7738e8dd0e91d4c4eb4c69a6b08c32e24fefbc6a",
+    "text": "<b>Start of Combat:</b> Give 4 random friendly Pirates <b>Divine Shield</b>."
+  },
+  "130894": {
+    "img": "6465dc60a1d3f4d369cbe3ae6cd5e22e0ba7a39f46507021daa6ef5766fd4e36",
+    "text": "Whenever you get a Pirate, give your left-most minion +20/+20."
+  },
+  "130895": {
+    "img": "4da7da14eabfa823473b9f759eb0df7ad9eb0f0f348b2c9e407c08e0f9a601d8",
+    "text": "After you summon 6 Beasts, get a random Beast. <i>(6 left!)</i>"
+  },
+  "130896": {
+    "img": "b4b30195287456ce14f6306a7e42a010891486a44e43f4338e550aadbb79082a",
+    "text": "<b>Start of Combat:</b> Your Beasts have +1/+1 this combat. After you summon a Beast, improve this permanently."
+  },
+  "130898": {
+    "img": "13f40119f76a66168343987eb2c8d0a84c195a056ad2ebd11c26afcd99fd5ebc",
+    "text": "Once you cast 14 spells, your Tavern spells give an extra +4/+ . <i>(14 left!)</i>"
+  },
+  "130904": {
+    "img": "14d373fe4e30df9c6001fc880194a1d2bf171e3902b5c61a90e0d4680905c8f1",
+    "text": "Get a <b>Blood Gem</b> that gives a Quilboar <b>Taunt</b>, <b>Divine Shield</b>, or <b>Reborn</b>. At the start of each turn, repeat this."
+  },
+  "130907": {
+    "img": "cbaec2b4d811e1ca8da8591ba3e9975bc6cda4d1bf2870c2526220abc85aa217",
+    "text": "Get a Groundbreaker. Your Groundbreakers also give stats to the minion to their left."
+  },
+  "130908": {
+    "img": "18fb2e9930d201b9166ec6a56c7dc4eb3499eb5d585de2dc07a359b92b01b173",
+    "text": "<b>Spellcraft:</b> Give a Beast +2/+2 and <b>Reborn</b>."
+  },
+  "130977": {
+    "img": "ac9dbf2ab2eca1d83c30cd0a8ea8173ef8a313b456a7898281663055557a5551",
+    "text": "Get 2 random <b>Chromadrakes.</b> After you play 7 <b>Battlecry</b> minions, repeat this. <i>(7 left!)</i>"
+  },
+  "130996": {
+    "img": "1596d145dd4524ef2b5e898268eb899172a8e7194fa7a1fbdb1711800847b66e",
+    "text": "<b>Deathrattle:</b> Summon two Sewer Rats that summon 2/3 Turtles with <b>Taunt</b>."
+  },
+  "131002": {
+    "img": "a431810d34dc77fe7607ec78c1f67dbd0b9c8e6773c104ee745e6c090a950d93",
+    "text": "Gain a free <b>Refresh</b> that contains plain copies of minions in your warband."
+  },
+  "131003": {
+    "img": "14fd9d34fa87a224ba08bf565d34299ac085f9f3e1e1929961736a7c0635bc53",
+    "text": "Get an extra copy of the next 2 minions you buy. <i>(2 left!)</i>"
+  },
+  "131132": {
+    "img": "65f69f7752b78641e9ab9e146006585c7ff327944b281b5d8df362d8a81168b3",
+    "text": "<b>Start of Combat:</b> Destroy your 3 left-most minions. After your last minion dies, resummon them."
+  },
+  "131133": {
+    "img": "07892e9049f307333e695dfcbf807a80cd8053dba2b64d13794224316dd169f6",
+    "text": "<b>Spellcraft:</b> Destroy a friendly Undead to get 2 random Undead."
+  },
+  "131135": {
+    "img": "f2d4d99d33fac9eed3e049c0c368eaca6aa02cd1b3ab9fa81e113208eeefbcc8",
+    "text": "<b>Spellcraft:</b> Destroy a friendly Undead to get a random Undead."
+  },
+  "131137": {
+    "img": "bcfc138fc91504f4d18bc8c1552d8df7edb9a517401d1d1e64c6fa07bf86b8d6",
+    "text": "Get a Cloning Conch. At the start of every 2 turns, repeat this. <i>(2 turns left!)</i>"
+  },
+  "131139": {
+    "img": "44469dad471965393f0e02e3998d93b8faf98e20bd7ee412b3f56a3e33ef5ee3",
+    "text": "Get a Polarizing Beatboxer."
+  },
+  "131140": {
+    "img": "6dd2a57b777559288f8072478c51c24eac958537082259cc0ab0080ad6c2e33e",
+    "text": "At the end of each turn, <b>Magnetize</b> an Accord-o-Tron to your left- and right-most Mechs."
+  },
+  "131141": {
+    "img": "66fd337d0bc79694b69d6548df81c3430c48e38f7a14d2a9990bdcfcaaa8cbdd",
+    "text": "<b>Magnetic</b> Mechs cost (2). The Tavern offers an extra one whenever it is <b>Refreshed</b>."
+  },
+  "131152": {
+    "img": "ac76dba7948bb20d7cee5a6003ac837e71ee4576459e70af1492aed615144783",
+    "text": "Give four random friendly minions + /+ ."
+  },
+  "131216": {
+    "img": "673daee0900a65509d530bf820ed39d0a7b87fb7b8eb0d3869c091437a068492",
+    "text": "<b>Battlecry and Deathrattle:</b> Get a Deepwater Clan."
+  },
+  "131218": {
+    "img": "588c0920183cf97a7839b0e294dd6d2b8f2c8231ecaa2298ab61fa33817b3a7c",
+    "text": "Give a minion + /+ . Give your Murlocs + /+ ."
+  },
+  "131276": {
+    "img": "b2bef6ba970f8abe7be5ad0d1e821ace140990efa7c42340412ad90b7aa094f7",
+    "text": "After the Tavern is <b>Refreshed</b>, give its minions +2/+2 this turn."
+  },
+  "131280": {
+    "img": "8f33f9f9133801a0af192e50753c966d22f94ec28472a2c76e493bf5ac74f890",
+    "text": "After you <b>Refresh</b> 4 times, the highest-Tier minion in the Tavern costs Health instead of Gold to buy. <i>(4 left!)</i>"
+  },
+  "131282": {
+    "img": "00238fe5c189ae24d67e0c396ed41cf588ec4b882469a1117c2d2aac5c8db0cf",
+    "text": "After you play a Demon, another friendly Demon consumes a minion in the Tavern to gain its stats."
+  },
+  "131284": {
+    "img": "b963ecad00093f4c1b7c6a57d43d69426ee40ddb49f96c849eacf3c455ecf221",
+    "text": "Get a Flaming Enforcer. Whenever your Flaming Enforcers trigger, also give the stats to their neighbors."
+  },
+  "131303": {
+    "img": "753de2dc38c0f232075ce1b63ce9f7a57b84dceef2228af1c479898fe90ac07d",
+    "text": "After you buy a Tavern spell, get a 1/1 Murloc and teach it that spell. <i>(2 times per turn.)</i>"
+  },
+  "131305": {
+    "img": "8e2e72e0099fd4e2c4f5b5128a39dc784a8eacbdc4cca970f954df4c5dfd31c2",
+    "text": "At the end of your turn, trigger your left and right- most minions' <b>Battlecries</b>."
+  },
+  "131306": {
+    "img": "5d1f419135efa6b8f61be8870c07227083b5123acec4a7ed4692c51f1501d481",
+    "text": "At the end of each turn, give your two left-most minions +1/+2. <i>(Improved by your <b>Battlecries</b> triggered this game!)</i>"
+  },
+  "131307": {
+    "img": "cd94a8a723560631bae2c709d515cb476d8eb3346718096b8ffa5a4eaa9556b6",
+    "text": "<b>Start of Combat:</b> Give your Murlocs the Attack of the highest-Attack minion in your hand."
+  },
+  "131308": {
+    "img": "6060f05dd5ff06e97c38a85c0ffabecc1a354be4f2f23570b2008382b8c1b391",
+    "text": "<b>Spellcraft:</b> <b>Refresh</b> the Tavern with <b>Battlecry</b> minions. They cost (1)."
+  },
+  "131325": {
+    "img": "7404e2c379d685608c05ba9e1713d2947f04add646d3bbe754d1c24158ec4779",
+    "text": "Get an extra copy of the next 4 minions you buy. <i>(4 left!)</i>"
+  },
+  "131328": {
+    "img": "418512e7f80d8d3e257c0090957d8801bd177b91470207d585e4fb1093f89f42",
+    "text": "Get a random Greater <b>Trinket</b> and 4 Gold."
+  },
+  "131329": {
+    "img": "9e3f7fdd6851bdd0f9a0e9e34bf153e6e209342cbbed0e322f44b0c904d47d03",
+    "text": "Cast Easterly Winds four times. At the start of each turn, cast it twice more."
+  },
+  "131411": {
+    "img": "e110033a6167dbf0bc03ba31ebe3d9f01a1b30286bbbec56ebddc56fbaa54a10",
+    "text": "Start with 'Warped Conflux' as your second Hero Power."
+  },
+  "131412": {
+    "img": "6c1b4a017808b88bb373769ca3a8fae9ad718081d247be67bc276dcd0851a045",
+    "text": "Start with 'Alternate Timeline' as your second Hero Power."
+  },
+  "131413": {
+    "img": "f297042a8ce7697ac6f066f9be4ae50d68371dfc589446833553ec02f4692614",
+    "text": "Start with 'Mystery Cube' as your second Hero Power. It unlocks on Turn 5. <i>(4 turns left!)</i>"
+  },
+  "131414": {
+    "img": "cbe6919255d670e480b3e9fade0045574b1b4dd018bd0d8246985ba73ac23e76",
+    "text": "Every 3 turns, get a spell that adds plain copies of a minion to YOUR minion pool. <i>(3 turns left!)</i>"
+  },
+  "131637": {
+    "img": "3bcda9fdc1360c3da659a4d7eb282aa72bd573d9f154ac95a75556a2cff9f296",
+    "text": "At the start of the game, <b>Discover</b> minions from Tiers 6, 4, and 2 to get at those Tiers."
+  },
+  "131644": {
+    "img": "d6dc9bcb7ef3c657a80e2fb284264af41edfa854028975daab9d0c31440c6ed9",
+    "text": "Start with 'Lesser Crystal Ball' as your second Hero Power."
+  },
+  "131646": {
+    "img": "6700e88433ecad3dd2fbc18e18b97b026292ebb92fa3517e675b6a1986d2ed23",
+    "text": "Start with 'Greater Crystal Ball' as your second Hero Power."
+  },
+  "131692": {
+    "img": "ae4ae21393a29bad9b980a2e9943fd6c327ca5411b1a100973ef3965fbcc66c5",
+    "text": "Whenever you discard a card, give your other minions +4/+4."
+  },
+  "131694": {
+    "img": "b5fa4a346af9801e214221418b3ac0065e8e2a050e187a08e1f58e7d5ae9a403",
+    "text": "When you sell this, get a 1/1 Tentacle."
+  },
+  "131696": {
+    "img": "dc7773985f209a92eb59748ca274a1284c0075b31737ccf857cd512fa0b5d4e2",
+    "text": "<b>Activate ( ):</b> Discard a card to give your <b>Deity</b> +2/+2."
+  },
+  "131698": {
+    "img": "74d2c7a7368a75fd1e78fd969cb30ba8e1369636b49ddfec598a22c6ba4afdc6",
+    "text": "When you sell this, get 2 random Tavern spells. When you cast one, discard the other."
+  },
+  "131710": {
+    "img": "f925c3bc93f689592bd70241aa5c648f29b8165eaa50ca97bfffebe0159b5824",
+    "text": "Whenever you discard a card, give this and your <b>Deity</b> +4/+4."
+  },
+  "131716": {
+    "img": "3528510f9306eabaf4e953b36eb6eebc5ebb18cac3f296dad0d7c7f380e2d2f4",
+    "text": "Whenever a card is added to your hand, give your <b>Deity</b> +4/+5."
+  },
+  "131718": {
+    "img": "dba3612846d4b1327501402b038abfa39b53fe1e4c6c5f03764679555248c9cd",
+    "text": "<b>Battlecry:</b> Give your <b>Deity</b> +2/+1."
+  },
+  "131720": {
+    "img": "0d87851fe4363c284a1dbfbb490dba35fd196f990317ae0e1e0465bde26aca81",
+    "text": "Whenever you cast a Tavern spell, give your minions and <b>Deity</b> +3/+3."
+  },
+  "132153": {
+    "img": "81e6340a31c607bf0062103326dfe4664254f3c54da92834c2a3e02f6ae11998",
+    "text": "Gain 2 Gold. If you discard this, increase your maximum Gold by 2."
+  },
+  "132182": {
+    "img": "768d8450e310991cbe29f1d6cbf91b39329a05532e128ea2901448dcf9b5cf8a",
+    "text": "When you sell this, get 2 random Aberrations. When you play one, discard the other."
+  },
+  "132192": {
+    "img": "a1d64e93c6771cc2fe68d6c82624983e75f2eccce6cac03819443709d60f4637",
+    "text": "+10 Attack. <b>Deathrattle:</b> Give this minion's Attack to another friendly minion."
+  },
+  "132200": {
+    "img": "ecd05d4e80e18d98c3443013333a38ff4dc3f6b7439298bef1b96bc82dd84b25",
+    "text": "+10 Health. <b>Deathrattle:</b> Give this minion's max Health to another friendly minion."
+  },
+  "132201": {
+    "img": "4363f4793553d4f89d768f09bfac0fbdb51f91e58cd704a377eb2657973d75a8",
+    "text": "<b>Rally:</b> Get a random minion of your most common type."
+  },
+  "132202": {
+    "img": "5f818b0f3c7a2d92b884598f89d88374cc3038b8a422231bf827009503709502",
+    "text": "+6/+6. In 2 turns, double this minion's stats."
+  },
+  "132203": {
+    "img": "3594ceaca2cc1266ab6e7a031a14b1b164ebe9a861aeb0098d097f456e3eecfd",
+    "text": "<b>Deathrattle:</b> Get a random Tavern spell."
+  },
+  "132205": {
+    "img": "62b0fc1c0414f5810e43dc081371b83de6546597e18d8565822a1b414543626b",
+    "text": "+15 Health. <b>Start of Combat:</b> Double this minion's Health."
+  },
+  "132207": {
+    "img": "f231d14fbfebb65cf6e37f6e7db9b078fd3c4432bc840a5f500376147542e698",
+    "text": "<b>Start of Combat:</b> Gain the Attack of the minion to the left."
+  },
+  "132208": {
+    "img": "4fe9576b6af4d6e508a0e0e90698b2073bdbc130030dd7d04310042a30e20ce4",
+    "text": "At the end of your turn, trigger this minion's <b>Battlecries</b>."
+  },
+  "132213": {
+    "img": "e4e8c0c8e7eb747b5bc08eee3beb5445142f4e9e88479c98eedaa59b99fe5c55",
+    "text": "<b>Activate ( ):</b> Discard a card to get a random Tavern spell."
+  },
+  "132215": {
+    "img": "320ee6f55ff89a69d865f85f7f159199a83fdfe665ce082131180af879b43062",
+    "text": "<b>Activate ( ):</b> Discard a card to get a random Aberration."
+  },
+  "132276": {
+    "img": "3cae3e5c695bdafda716032855682668db6c98ac60b60f9fce554e5a44428944",
+    "text": "<b>Reborn</b>. Is <b>Reborn</b> with full stats and <b>Bonus Keyword</b>s."
+  },
+  "132279": {
+    "img": "dfe94bb22072489a24011c5104f019179aed0bab5dfa48106cd2cc6511ca7288",
+    "text": "<b>Divine Shield</b>, <b>Windfury</b>"
+  },
+  "132441": {
+    "img": "896daf8ae4e996c17a062a271062abe47733d43aa31fad8792dbccc147469597",
+    "text": "This is Golden, but doesn't give a Triple Reward."
+  },
+  "132442": {
+    "img": "68d7b98aff0e9140df497509dca603ca8dd53b40b12929c556a88645141096c7",
+    "text": "This minion's <b>Divine Shield</b> takes 3 hits to break."
+  },
+  "132443": {
+    "img": "fb8c6919da353056134aad29b90e243fe18261a50ca30f4691b1f54a272c4721",
+    "text": "<b>Start of Combat:</b> Trigger this minion's <b>Deathrattles</b>."
+  },
+  "132445": {
+    "img": "186a7158e48d91cd345ee17bd6ccfe8545335b96cb451517eaffc485ba3380dc",
+    "text": "At the end of every 2 turns, get a plain copy of this."
+  },
+  "132448": {
+    "img": "702e59383546e1d9a67a026c6289f294ab0a8acbb167cb749e815b8ac936855e",
+    "text": "This minion's end of turn effects also trigger at start of turn."
+  },
+  "132485": {
+    "img": "fb8b3807ae18e80c4ca614b53d951aaeadb0dee31d9e92e76675626a177eb80c",
+    "text": "Get an extra copy of this."
+  },
+  "132553": {
+    "img": "ca5eb84106253488734393c7769c13fce9ecf571f695b4bf254eca554d13e0c4",
+    "text": "Has +3/+3 for each <b>Battlecry</b> you've triggered this game. ( )"
+  },
+  "132554": {
+    "img": "3f1f3cfad4acffeb3a6d99b031375cee5327584052123223cba586abe983a3fe",
+    "text": "Has +2/+2 for each <b>Deathrattle</b> you've triggered this game. ( )"
+  },
+  "132555": {
+    "img": "553f95eb7517d57cdcca1ec699faf3491ebe84636a27d5144d00e3503bd0e39b",
+    "text": "Has +3/+3 for each Tavern spell you've cast this game. ( )"
+  },
+  "132578": {
+    "img": "7011fedf370d664127392112d78016a9dcf43a80aa25353d4c0fe75bc5901782",
+    "flavor": "Beware of Void Creatures bearing gifts."
+  },
+  "132608": {
+    "img": "0bd665ac068e460dab234c56cfdf9bc79ba3f12739cc0721f68b570c6cdcebbe",
+    "flavor": "Exactly what devastation feels like, even Xavius is unaware."
+  },
+  "132636": {
+    "img": "0c83ecfb091bc5b15e77661c82f230841d1b0061892b35ac12eddc8a1da1e6db",
+    "text": "<b>Rally:</b> Summon a Golem with this minion's stats to attack the target first."
+  },
+  "132732": {
+    "img": "0cce15251d9fdd106538664c149a5f677b2380968f4c8d3dfd3a502ccad6d5ce",
+    "text": "Permanently keeps <b><b>Bonus Keyword</b>s</b> and double stats gained in combat."
+  },
+  "132733": {
+    "img": "f4e3c6dd75a7e7c2d7cfae37a6adf4a97b1e2d8bfdd26ac9e19537cac8d7ce1f",
+    "text": "At the end of your turn, gain + /+ ."
+  },
+  "132734": {
+    "img": "da8b2aa7b6a86df26e3d2477766c01ecf4b0ad9c5aa43b3c7fca31b5252d7584",
+    "text": "<b>Deathrattle:</b> Gain 2 free <b>Refreshes</b>."
+  },
+  "132756": {
+    "img": "144455e57baa4f1e7c7806d2cef0e2c9759fd98bb765400be7d57ff7ae5b3ee6",
+    "text": "<b>Battlecry:</b> Get a Lockbox. If you already have one, it opens 1 turn sooner instead."
+  },
+  "132758": {
+    "img": "37752da29a4fc58780c3d4745ff4fd0a082658d0859f551600b1f058a5d52def",
+    "text": "<b>Deathrattle:</b> Get a Lockbox. If you already have one, it opens 1 turn sooner instead."
+  },
+  "132790": {
+    "img": "b5ef4f2fa25b57ff79b5b372d461c98945833b6118b32256df44239f1a10dd16",
+    "text": "Has all minion types."
+  },
+  "132800": {
+    "img": "32c42cc69116673eaf8ff30d031a58c5fad83b183d30ddb095c6ab5f53711da5",
+    "text": "<b>Rally:</b> Get a random Beast."
+  },
+  "132833": {
+    "img": "bdbbd52f192a32179e48a023c57bba58be1f27ef2ca0e1aa479a4cf31366de56",
+    "text": "<b>Immune</b> while attacking."
+  },
+  "132835": {
+    "img": "67d093257788fc5ddf39b126c14870a7dbfcde03b1b5681e059e37b66d520488",
+    "text": "<b>Deathrattle:</b> Summon a Golem with this minion's stats."
+  },
+  "132895": {
+    "img": "d0d39be3242e6981ff5951e1ae802cdfbed8fb11e022cb6b9b7e51813be90bed",
+    "text": "<b>Taunt</b> <b>Battlecry and Deathrattle:</b> Get a Repair Job."
+  },
+  "132897": {
+    "img": "7455cdbd14192d999d76686a451f8db6268f7f6cd0765d2b323bdfd49d6a210a",
+    "text": "<b>Deathrattle:</b> Add a <b>Fodder</b> to your next 3 <b>Refreshes</b>."
+  },
+  "132899": {
+    "img": "87edd4b1a5c41b110e21c710fef3bb0392c13020a1bcf86c476253dd55204232",
+    "text": "<b>Deathrattle:</b> Get a Methodical Madness."
+  },
+  "132901": {
+    "img": "446485d02386b8d304d590c62700bfadd34efa2e99756d4f66d2c7ec726e7e38",
+    "text": "Whenever you cast a spell on this, give minions in the Tavern +1/+1 this game."
+  },
+  "132903": {
+    "img": "91692194360d5775eaa4df7ead8baa8cc2a09961412e5b85f66cd8d56fc9a566",
+    "text": "Choose a friendly Demon. It consumes 2 random Tavern minions to gain their stats and <b><b>Bonus Keyword</b>s</b>."
+  },
+  "132925": {
+    "img": "d12191618e81c4cc28a7b14a8d1d64a5aafee0f28cbc665cccdf0b99791b25b7",
+    "text": "After you <b>Discover</b> a card, give your other Pirates +2/+2. <i>(Improved by Golden minions you played this game!)</i>"
+  },
+  "132983": {
+    "img": "d46b6d4a37ee1f540aed94af19c4ab4cccf05b9004080b346b70540f38a2a766",
+    "text": "After you play 3 Elementals, gain the stats of the highest- Health minion in the Tavern. <i>(3 left!)</i>"
+  },
+  "132985": {
+    "img": "b480fbf958da4c32bb498024fd032ccb3b6fe6952539099748c20c73e7be1957",
+    "text": "<b>Start of Combat:</b> Cast Shiny Ring twice."
+  },
+  "132987": {
+    "img": "d17ef3429392cd2f70b674411333debde980ddb690fbe2af980d71479f5edc5e",
+    "text": "<b>Mission:</b> Once this deals 35 damage, get a Golden Touch. <i>(35 left!)</i>"
+  },
+  "133026": {
+    "img": "be881e2fbbf88327478c57ae136aa0739ecd55ea3d32407854fdcb65e320f4b0",
+    "text": "Whenever you cast a spell on a Murloc, give Murlocs in your hand and board +3/+4."
+  },
+  "133060": {
+    "img": "e97e6c5b2baeda99ab62bc724b82509506c8434f9a2979f055b9f2763d26a0ad",
+    "text": "Whenever you cast a Tavern spell, give minions in the Tavern +1/+1 this game."
+  },
+  "133061": {
+    "img": "5fa61ab9eaad42c2017b6b791f38cd845bb1fd98c4887633f63b79043237b397",
+    "text": "Whenever a friendly Demon consumes a minion, it also gains its <b><b>Bonus Keyword</b>s</b> and +5/+5."
+  },
+  "133062": {
+    "img": "e922de5652c1e4738edb46c1a14dc6d69dcd3b9c1a6cf1dba5cb31e6256b7c8c",
+    "text": "At the end of your turn, get a 6/6 <b>Magnetic</b> Satellite. <i>(Improved by each Tavern spell you've cast this turn!)</i>"
+  },
+  "133063": {
+    "img": "a696540916d7a26227a30ee710276dabb8c50bf833822037553b98e542cbea98",
+    "text": "The first minion you play each turn gains <b>Divine Shield</b>."
+  },
+  "133064": {
+    "img": "b98b9c15a337027146387de7afbc978552922699561736dd0bf269677f619ccd",
+    "text": "Get a Flighty Scout. After you cast a Tavern spell, give Flighty Scouts in your hand and warband +3/+3."
+  },
+  "133066": {
+    "img": "e654f2c97d7d4e06aa420a9486c8c2dfef6084d0de890c37879ca51c3c041a13",
+    "text": "Whenever you cast a Tavern spell, add a <b>Fodder</b> to your next <b>Refresh</b>."
+  },
+  "133067": {
+    "img": "a1147ef685cf8a37ee3b260879b9dda92e556a5d84815f7ee488d9fb23d41e76",
+    "text": "After you cast a spell on a Tavern minion, a random friendly minion consumes it to gain its stats."
+  },
+  "133068": {
+    "img": "2e7de5539078cd42d94deadd88fded0a53eac4dbb8eca7b14c9e89f61c4cbe30",
+    "text": "After you buy a Mech, get a random Tavern spell that costs (2) or more."
+  },
+  "133070": {
+    "img": "5644ef79172ecc14ab3d2099ffab04d7d27f7edab140dcb5b1bffd065106198f",
+    "text": "After you play 5 Murlocs, get two random Tavern spells. <i>(5 left!)</i>"
+  },
+  "133098": {
+    "img": "84a174d637cf3746137f62d2543e7c5db14a5734f1e8de155cac2d2bbfd1d227",
+    "text": "<b>Taunt</b>, <b>Reborn</b> <b>Deathrattle:</b> Give your <b>Deity</b> +2/+1."
+  },
+  "133104": {
+    "img": "ab1679fc78d0063feb5c8d6fc528d09b6aeb7cf7b783893b8d52096b58a4e4f5",
+    "text": "<b>Deathrattle:</b> Summon a 1/1 Tentacle. Give your minions +1 Attack."
+  },
+  "133310": {
+    "img": "a463742d9090936dc92675a2d7cce9f7b99bea2cb09a33d4369f6a031222541c",
+    "text": "This minion's <b>Spellcrafts</b> are permanent."
+  },
+  "133329": {
+    "img": "e6ca112d5ad186116fced9246504f036443fd66942f11f9a62214753059c306c",
+    "text": "Whenever you cast a spell on this, it casts Misplaced Tea Set."
+  },
+  "133340": {
+    "img": "22436f19a299c74a06a5a46b857c8f414851bb74af0261deb0fb05a01c6e71e1",
+    "text": "After you <b>Refresh</b>, reduce the cost of upgrading the Tavern by (1)."
+  },
+  "133341": {
+    "img": "bd31fe88a2195d6b4c442d720251b22f3cb3b80fcc95e02e57764b1f7a9c0aac",
+    "text": "Get a Lockbox. If you already have one, it opens 2 turns sooner instead. At the start of each turn, repeat this."
+  },
+  "133342": {
+    "img": "592255bce23e6cd9f9b95787a8128095664835ee8a7d4af1763a2dbc42b89381",
+    "text": "At the end of your turn, give your minions +1/+1. <i>(Improved by Golden minions you've played this game!)</i>"
+  },
+  "133343": {
+    "img": "cb7ea1b5e13c1dde307fc6eae4893ce7d3b28c1df3212159748db25bc58bbe4a",
+    "text": "At the end of your turn, give your minions +4/+4. <i>(Improved by Golden minions you've played this game!)</i>"
+  },
+  "133344": {
+    "img": "62bc12e7cfc3fb065e16034fbd78efcc43797937608c86f50fe71849872cd960",
+    "text": "At the end of your turn, <b>Magnetize</b> a random Mech to this."
+  },
+  "133350": {
+    "img": "1298cfd8a5788646645bde8c27f27ca06b386a6e61d821d1018a79b1c3ecbbe4",
+    "text": "After you cast 18 spells, replace this with a random Greater Naga <b>Trinket</b>. <i>(18 left!)</i>"
+  },
+  "133351": {
+    "img": "9670b50b82ef0ce1bec8a8ae7b4beada7c0d8899353b56c13c3fbebc24201b0b",
+    "text": "<b>Rally:</b> Add a <b>Fodder</b> to your next 3 <b>Refreshes</b>."
+  },
+  "133353": {
+    "img": "2e883db17a03213406487fefdffdc002a9ac4d9d96e0b96a188f98ced287a2fa",
+    "text": "<b>Venomous</b>"
+  },
+  "133359": {
+    "img": "900882be822af34d4c0d6846bb9d1b365afa0e89c3ea2ef206f339cdd13d718b",
+    "text": "+15 Attack. <b>Start of Combat:</b> Double this minion's Attack."
+  },
+  "133361": {
+    "img": "c481338a69ed4e0c2212751146fc6c0537896b90b117c0b0460352b4b66d522d",
+    "text": "Whenever you play a card, gain +2/+2."
+  },
+  "133363": {
+    "img": "2b2bea0bf8b9f004ed08fa7ef8d46e52bf0222d1de8adf0d2675ee32fa9f5a11",
+    "text": "+1000 Attack."
+  },
+  "133369": {
+    "img": "7cfc6a34a15e10c4e9f2452b28eb8d2886179392a72c0e71ac4461bdd0613967",
+    "text": "Give a minion + /+ . If you win your next combat, give it another + /+ at the start of your next turn."
+  },
+  "133371": {
+    "img": "544e0142b1e606fa304ee0efed9467b2b5a5861d8115ceabb0e2c1465c5c496f",
+    "text": "Get 3 Pointy Arrows."
+  },
+  "133379": {
+    "img": "466d0e62d608ed7f99fa62773d79b07880811c336b13019009a7ebb009f194f6",
+    "text": "After you cast 2 spells on minions, gain 1 Gold. <i>(2 left!)</i>"
+  },
+  "133381": {
+    "img": "4e38719bdfe97825b0d29bb8a791daa528b5be2d1eb5176d1ac1761d0e49f8af",
+    "text": "<b>Discover</b> a Tier 7 minion with a <b>Dark Gift</b>."
+  },
+  "133387": {
+    "img": "53645eef97c40b52008c21d9004e9b1a31d95d66a53db288c7bf40245a31a6b0",
+    "text": "Whenever a friendly <b>Rally</b> minion attacks, gain a free <b>Refresh</b>."
+  },
+  "133389": {
+    "img": "84de423bbdd5e06073abdea5872969f4d7436e5f1c8f9a5d1656c0d7c9c22be4",
+    "text": "The first two <b>Battlecry</b> minions you buy each turn are free. <i>(2 left!)</i>"
+  },
+  "133390": {
+    "img": "dc36e142a67705e2409060f87bf653f3cab2d7ba830a2768cd2ab94e5c45135f",
+    "text": "Whenever you trigger a <b>Battlecry</b>, give your left- and right-most minions +5/+5."
+  },
+  "133391": {
+    "img": "63d8ea6d002cac307758bbd363986e57ecbf08107e30b75f49ef991a781147d3",
+    "text": "Get a Plaguerunner. After you destroy a Plaguerunner outside combat, get a plain copy."
+  },
+  "133393": {
+    "img": "275bfe41dab5a2f621ee1ea3368f07e0d7d05ad448976114d68d85e977fe8373",
+    "text": "<b>Discover</b> a Tier 4 minion of your most common type with a <b>Dark Gift</b>."
+  },
+  "133395": {
+    "img": "d7ff40c3be7f5230df1a84b805836ba87a5efc45391dea523460e6a716e8feb9",
+    "text": "<b>Spellcraft:</b> Trigger a friendly minion's <b>Deathrattle</b>."
+  },
+  "133399": {
+    "img": "2ae864058b042e8742955666c971207158894ea9c7e62043a25aff0cbc61f582",
+    "text": "After you cast a spell on a friendly minion, this casts it on another friendly minion."
+  },
+  "133400": {
+    "img": "0486ce251e1feaae969b4053072bba5b6e3b272785e663604df68bebe870ad64",
+    "text": "At the end of your turn, trigger your two left-most <b><b>Deathrattles</b>.</b>"
+  },
+  "133401": {
+    "img": "ece95846f7b78a766cdaa6166d0250e2bb9c06af993a9b6d732cc7ee7a5d31d3",
+    "text": "<b>Start of Combat:</b> Give your <b>Rally</b> minions <b>Divine Shield</b>."
+  },
+  "133402": {
+    "img": "71a91cbc5dd96dcdc64ec1a1a341d5760c410e731e08532669d0b32d1871b21d",
+    "text": "At the end of your turn, trigger all friendly <b>Rallies</b>."
+  },
+  "133403": {
+    "img": "53c1f81f0ea75a9f7cd060ee997b8a641731c0f126bf625d2dc0388b693c02d0",
+    "text": "Your Dragons' <b>Battlecries</b> trigger an extra time."
+  },
+  "133405": {
+    "img": "e0586d291ab6b139c68ad69838a3198e55a3a6aad6ed3308a6f7413384f1ec6e",
+    "text": "After a friendly minion is <b>Reborn</b>, get a plain copy of it. <i>(3 times per combat.)</i>"
+  },
+  "133421": {
+    "img": "57bf511b7eafe714daba58ca39a83e03b22c24b2a477aaeb925161c71fcc8cd6",
+    "text": "+5/+5."
+  },
+  "133423": {
+    "img": "56d7feedba4dee9577e7d36d1c4d9ac3e974a0a542334896042cfdec80b1e58b",
+    "text": "Whenever you play a card, gain +3 Attack."
+  },
+  "133424": {
+    "img": "16b26a42c40cf27818506245ddd92480455f0bbad0b8714b9f847ab53e36e19c",
+    "text": "Whenever you play a card, gain +2 Health."
+  },
+  "133434": {
+    "img": "9457c6c359de4574d57d2dce0baf354e04927cce68bdbf1ead6320cafbb06314",
+    "text": "<b>Activate (2):</b> Steal the highest-Attack minion in the Tavern."
+  },
+  "133457": {
+    "img": "ed270443cca59134cc6e9235319749202b09469c0026dc9a37617e0781ef7806",
+    "text": "Whenever you play a card, gain +4/+4."
+  },
+  "133472": {
+    "img": "6ead9bfe0d12351fbf30a8619985db940f08a565323ce2ff0ac2d3fa9a7849fb",
+    "text": "<b>Stealth</b>"
+  },
+  "133474": {
+    "img": "db4d7232e3c7d9a3a8f17d81c2df3889e164b4c9c6c4d5ed256617940d3b5827",
+    "text": "<b>Rally:</b> Get 2 <b>Blood Gems</b>."
+  },
+  "133476": {
+    "img": "501daac3f691f095ba3df47dade9f0e9f293a741b59a6854fb68b37e866b2804",
+    "text": "Has +2/+2 for each <b>Battlecry</b> you've triggered this game. ( )"
+  },
+  "133478": {
+    "img": "4134393ee4facc0b55a8357a84c053f7be31280c0f02dac782f5fee9816597f0",
+    "text": "Has +1/+1 for each <b>Deathrattle</b> you've triggered this game. ( )"
+  },
+  "133480": {
+    "img": "43d448d659d20d96c9c568413a65bec2dbded65a8f50dede7add5a70a514752b",
+    "text": "Has +2/+2 for each Tavern spell you've cast this game. ( )"
+  },
+  "133482": {
+    "img": "255f8bddf3cd001aaf6220adbf3d8cd0f6c21a8ac161473418872a6a91e01b25",
+    "text": "<b>Start of Combat:</b> Triple this minion's stats."
+  },
+  "133694": {
+    "img": "8c6ea1ced6b75253255b48fd15695536a54e7ad902e57cb8c8147d612a552b8d",
+    "text": "At the end of your turn, get a 20/20 <b>Magnetic</b> Satellite. <i>(Improved by each Tavern spell you've cast this turn!)</i>"
+  },
+  "133696": {
+    "img": "686bc5c84add7e380b47963e1d6be284fc15075e2996f5989dc2865f5dec70d3",
+    "text": "At the start of your turn, gain 1 Gold for each different friendly minion type."
+  },
+  "133703": {
+    "img": "7708e37ddb19383b77bf4bf0995eddba2dfc721c585f99960973fd3f67d7f77c",
+    "text": "<b>Taunt</b> <b>Start of Combat:</b> Deal 3 damage to all other minions."
+  },
+  "133711": {
+    "img": "cfaacdf7849d8049de5199ca6fe3958ebe27292de6df16a21b79a4c78e988bfd",
+    "text": "Give a minion + /+ ."
+  },
+  "133713": {
+    "img": "eb961b5ca81776d4fc0d30deac86c95121d878aceb02690ce172cc88ba88a2b5",
+    "text": "<b>Discover</b> a plain copy of a friendly minion with a <b>Dark Gift</b>. Repeat at the start of every 2 turns. <i>(2 turns left!)</i>"
+  },
+  "133715": {
+    "img": "eba565156083af3487ce2d179dec230b5f0e760a87f0807392e269d2ed7ccc44",
+    "text": "Your Tavern spells give an extra +1/+2. <i>(Improved by each different friendly minion type!)</i>"
+  },
+  "133720": {
+    "img": "a225b544692c4d133929ab00d41f13e66624797a9768d7de80da9f22d171e1ff",
+    "text": "<b>Start of Combat:</b> Double your left and right-most Naga's stats."
+  },
+  "133721": {
+    "img": "40c15c8a38d916fc875c884edd2d80e335f092269e7af4d731fb881d94185f81",
+    "text": "Get a Showy Cyclist. Your Showy Cyclists' <b>Deathrattles</b> give permanent stats."
+  },
+  "133722": {
+    "img": "1a03f0c79cf4216248854d79b291dc9d7cc6204adccfc0476552ab0a07425633",
+    "text": "Your Tavern spells give an extra +1/+1. After you cast a spell on a minion, improve for this turn only."
+  },
+  "133860": {
+    "img": "c79117923869e6263927d22e8b01ff67bfdc1a70b5900c7336f912cc6072fabf",
+    "text": "At the end of every 2 turns, get a random minion of this type."
+  },
+  "134199": {
+    "img": "846dff6020cceb8487564198dc992a98f22932f8decd61d5fde6c117ba709b6d",
+    "text": "Get a Fire Baller or a Snow Baller. At the start of each turn, repeat this."
+  },
+  "134315": {
+    "img": "2d9b78b77dbf0c5c17aa12e6bbf6525a09aa2d7284bb88e747fba636463ed742",
+    "text": "Get 2 Corrupted Coins."
+  },
+  "134316": {
+    "img": "56c54ef2e29ff4e607b3797c4a03d3847f42b9af94bb3481839b869c678defd3",
+    "text": "Your minions have +1 Attack. <i>(Improved by each card you've discarded this game!)</i>"
+  },
+  "134317": {
+    "img": "79bbaa91902e6166759da766773976dc041a26bf54d0b43726492bf2175aa6c7",
+    "text": "After you cast a Tavern spell, give your <b>Deity</b> +4/+4."
+  },
+  "134319": {
+    "img": "93015cd2a646a224356b69c510d8441ef56c95b44e722fb4bd31b8f1f1b776e5",
+    "text": "After you discard a spell, get a random Aberration."
+  },
+  "134320": {
+    "img": "ff14efd5bcf649ace3baf22db2c0cae05312d5770916321aecd4a36e65b7edd5",
+    "text": "Your minions have +2/+1. <i>(Improved by each card you've discarded this game!)</i>"
+  },
+  "134322": {
+    "img": "b40904d6266c7bbca8971db4bede75222ede72b849ce1e363aa6ef251a07ff8e",
+    "text": "Make your <b>Deity</b> Golden this game."
+  },
+  "134323": {
+    "img": "dde5269495223eed1be6fb3d3468f143859d6c70c3d71301578bed88491daa35",
+    "text": "After you cast a Tavern spell, give your <b>Deity</b> +10/+10."
+  },
+  "134325": {
+    "img": "b484576bc56f3f21e35780210a6023a59ff736279eafd4feac1e92cb30918ea7",
+    "text": "<b>Discover</b> a second Hero Power. Gain 3 Gold."
+  },
+  "134358": {
+    "img": "1841970443a05d26b79511a3efd562ecae8bfc47c56f3e7a2977e059fc5dde04",
+    "text": "Choose a Lesser <b>Trinket</b> that costs (4) or less to buy. Transform this and your Hero Power into a copy of it."
+  },
+  "134435": {
+    "img": "6f791a4e04c6d35d66ef9351812497d1a0d182a4c03c1da0826b6fff39b3194e",
+    "text": "After 11 friendly minions attack, replace this with a random Greater Dragon <b>Trinket</b>. <i>(11 left!)</i>"
+  },
+  "134436": {
+    "img": "96d61f34fc9e3d3610cc7f126e183041a2090750f4e53991607344314b6dcfe5",
+    "text": "After you spend Gold, replace this with a random Greater Pirate <b>Trinket</b>. <i>(40 Gold left!)</i>"
+  },
+  "134437": {
+    "img": "4408cd660938ff3076da523cf8861390157d38b1f2352f6e3225c480448a40fe",
+    "text": "After you play 10 <b>Blood Gems</b> from hand, replace this with a random Greater Quilboar <b>Trinket</b>. <i>(10 left!)</i>"
+  },
+  "134438": {
+    "img": "2884abed4d05807dcde5f97067183b86a4677ff3c07e5870aae4c4412083cd51",
+    "text": "After you summon 25 minions, replace this with a random Greater Undead <b>Trinket</b>. <i>(25 left!)</i>"
+  },
+  "134444": {
+    "img": "c404ecf5b6e7161eaec2d687b1696273adffeab296bd2f707a3741c93f296632",
+    "text": "At the end of your turn, give your minions +7/+7. <i>(Doubles at the start of each turn!)</i>"
+  },
+  "134463": {
+    "img": "d3f04ae5cc8505bc92a5bc006eeacb301c919d57ade585796516a76b01b325ba",
+    "text": "Choose a Greater <b>Trinket</b> that costs (4) or less to buy. Transform this and your Hero Power into a copy of it."
+  },
+  "134502": {
+    "img": "ad9bfa0d86d7f20d3eda23c09849fd38f37b94ee6038147e7f0a9bb4582caf48"
+  },
+  "134504": {
+    "img": "a60987aa22ca54d5276fec9433bb2fb61d3eab598e83b1fdf72f2645f1a04c4b"
+  },
+  "134513": {
+    "img": "7b339a5cfabb175d3d2617c6cdfdbcdfe54b7c678bc01942b1f678de83d77e86",
+    "text": "<b>Mission:</b> Buy 5 cards to <b>Discover</b> a Tier 4 minion. <i>(5 left!)</i>"
+  },
+  "134521": {
+    "img": "7f7efc856a3a615bb77202e05ec90087864dc09d19ad9239ab2fa8ea0afa081a",
+    "text": "<b>Resilient</b>"
+  },
+  "134523": {
+    "img": "7fdb20719187e3625773788ca1703f63d62ae6585cf6b71ba3ad091619e29851",
+    "text": "<b>Resilient</b> Whenever this is attacked, get a random Tavern spell."
+  },
+  "134525": {
+    "img": "84bc21fd27347e7a580b7a4c5fc31a21e5677b6acb4d8e6d59fd4ab3f8e7c2f5",
+    "text": "Has +1/+2 for each damage your hero has taken this game <i>(wherever this is)</i>."
+  },
+  "134527": {
+    "img": "33743c7b70a53360c8db68df3b23b6aeec04f5cf5b202c81e66264503007d641",
+    "text": "<b><b>Taunt</b>,</b> <b>Resilient</b> <b>Mission:</b> Once this is attacked 5 times, get a random Golden Demon. <i>(5 left!)</i>"
+  },
+  "134529": {
+    "img": "38f0919b64dfac31775e41c618d2d89ffd439426057c1e6160c8d46e1ac2eef8",
+    "text": "At the end of your turn, reduce the cost of the next <b>Battlecry</b> minion you buy by (1)."
+  },
+  "134533": {
+    "img": "b0171805bd55f0993b3dc062a3a033732cbce81b6a572795b34503d4e97fc10e",
+    "text": "<b>Activate (2):</b> Cast Dragonstorm. After you play a Dragon, refresh this."
+  },
+  "134535": {
+    "img": "7c7581ad769073b1678ac7898e9f8cd9c5b936ef3190f47757eddca24dfb1481",
+    "text": "At the end of your turn, get a random <b>Chromadrake.</b>"
+  },
+  "134537": {
+    "img": "2d0b60ec123bab74d8cf78e6d30d46bf54284e27ed8000e8f53287f19ce451a5",
+    "text": "When you sell this, get a Command the Elements."
+  },
+  "134539": {
+    "img": "bd4d7e4a3c2997c47a8a24ba2246f98ef31968804f4b3654a4a1963549c10da9",
+    "text": "<b>Deathrattle:</b> Give your Elementals +2/+2. <i>(Improved by each Elemental you played this game!)</i>"
+  },
+  "134541": {
+    "img": "6826a3ec0504c9c37b3a2e83a93d90be66e807a38470f4ada87167e457709081",
+    "text": "At the end of your turn, get a random <b>Elemental Invocation</b>."
+  },
+  "134543": {
+    "img": "7ae41206eee1dc192ec949ca7ce8a2db573c61c8dca8d496718dab3a115eaa2a",
+    "text": "<b>Battlecry and Deathrattle:</b> Get a random <b>Elemental Invocation</b>."
+  },
+  "134547": {
+    "img": "6cccee09eec5dd0af349a8618eec3b513346181f749aa4f6996caa3440cd7e49",
+    "text": "Once you have space each combat, summon an Ancestral Automaton. Give it this minion's <b><b>Bonus Keyword</b>s</b>."
+  },
+  "134549": {
+    "img": "d7793c057f1c152cf052ad864ec3aaf6b9658cba4cada5290582f5742f063422",
+    "text": "After a friendly minion loses <b>Divine Shield</b>, give your minions +1/+1. After you <b>Magnetize</b>, improve this."
+  },
+  "134555": {
+    "img": "56e172b5a58efb42df4ec06a8b0f20287397aa55a4df6c20b8a9d8b080ff81fb",
+    "text": "After you play 3 minions, get a random Tier 3 Tavern spell. <i>(3 left!)</i>"
+  },
+  "134557": {
+    "img": "91db879a5a0be108d08151942074ea8629e1c40f1dd0d8b8f60e310bd190e3cf",
+    "text": "At the end of your turn, cast a copy of the left-most Tavern spell in your hand <i>(targets this if possible)</i>."
+  },
+  "134573": {
+    "img": "81ed7112a20332ceef9efaa2933cf7b42793b0e4f65e4a767b5ea336476f076d",
+    "text": "At the start of your turn, reduce the cost of two random cards in the Tavern by (1)."
+  },
+  "134577": {
+    "img": "ebd1e77d2eabaf04e689b34ca3f8abd6a664951c0815321518ae7a1830186867",
+    "text": "Whenever you buy a card that costs (2) or less, give your Pirates +4/+4."
+  },
+  "134579": {
+    "img": "9dd61fbb5333b7e2cd12808d1687d7189683ce3aa70320cdd95705d75bf8de9e",
+    "text": "Whenever a friendly minion gains a <b>Bonus Keyword</b>, this plays 2 <b>Blood Gems</b> on all your minions."
+  },
+  "134581": {
+    "img": "5db9d4a3a67d01d43efc7a98fe04dcbfa367f425f61f2643eb4c4e8bffbe75bc",
+    "text": "<b>Battlecry:</b> This plays 2 <b>Blood Gems</b> on a friendly Quilboar. <i>(Improved by each different <b>Bonus Keyword</b> in your warband!)</i>"
+  },
+  "134585": {
+    "img": "cfd1ae10ce331de1835936fa816979cda04221006066e3d83cc723d09269bbda",
+    "text": "<b>Mission:</b> Once 8 spells are cast on this, your <b>Blood Gems</b> give an extra +2/+3 this game. <i>(8 left!)</i>"
+  },
+  "134587": {
+    "img": "52547e092b03750a9f4889ba0af405fcb971c929e5fbc750ae1a07a5769052ee",
+    "text": "After you spend Gold, gain a random <b>Bonus Keyword</b> until next turn. <i>(5 left!)</i>"
+  },
+  "134589": {
+    "img": "861cfd7a66d1412a919862e7ecdc79c546d2570890d7466b2c0cb2fd8c2d0f1b",
+    "text": "Whenever you would summon an excess minion, give your highest-Health minion +10/+10."
+  },
+  "134593": {
+    "img": "794f2747ccd0ca2a8a12952b109caf6f87d8f9e935b1d9b6cf7bfeb3ea822fb7",
+    "text": "<b>Battlecry:</b> Get an Unholy Ritual."
+  },
+  "134595": {
+    "img": "b63ea7a1f3f4539be87c27d3b6ad29b94bcee77a039a257f4c52836d91641da8",
+    "text": "<b>Mission:</b> Once 18 friendly minions die, your Undead have +10 Attack this game, wherever they are. <i>(18 left!)</i>"
+  },
+  "134609": {
+    "img": "5ca518fbf0a209b8ebcb5f1b6c3bdbe6b33c6b46d3cb6fa026859dbdc2b9731e",
+    "text": "Whenever you summon an Aberration, give it +3 Attack. <i>(Improved by each card you've discarded this game!)</i>"
+  },
+  "134611": {
+    "img": "92314538ea84159977747b558fe7e6319de6b525fc06d5a84353c06da4b2942f",
+    "text": "Whenever you summon an Aberration, give this and your <b>Deity</b> +2/+1."
+  },
+  "134613": {
+    "img": "98cedaaea05c59b3d92758340c3d6e834f329dd5d1ef964a8f41e92ce4eff77c",
+    "text": "<b>Deathrattle:</b> Summon two 1/1 Tentacles. Give them this minion's Attack."
+  },
+  "134615": {
+    "img": "9f6a46fe13ce712c381a40a1190c5a6de58c2bdfff315a1c52fa50f9c6fb5c2d",
+    "text": "<b>Activate (0):</b> Discard a card and its neighbors. Gain 1 Gold for each discarded."
+  },
+  "134619": {
+    "img": "04c26d6be5e0e4e449802d20736326830e0d5362271a6b87be0475c4303ba2d8",
+    "text": "<b>Avenge (3):</b> Give your <b>Deity</b> +7/+7."
+  },
+  "134639": {
+    "img": "ee5a7c863ae4cb9da5ae6feda41a2f5abc95b44e4d07762ad1eae63469863d85",
+    "text": "Get 2 random Tavern spells. When you play one, discard the other. At the start of your turn, repeat this."
+  },
+  "134640": {
+    "img": "62b8cfb1225b5534da9a00eb6fcb9e3eb18fa3c4b8781bd66639e14b4b98c860",
+    "text": "Gain 1 Gold for each friendly Golden minion. At the start of your turn, repeat this."
+  },
+  "134641": {
+    "img": "c4c0bde87ff9a95a9bc021e8e7cdf029183be191b542b2e61d2412399a18d41b",
+    "text": "Get a Menagerie Tableware. At the start of each turn, get another."
+  },
+  "134642": {
+    "img": "f7d97ff9ee5be1a92e1bbe719f5b22433c8c72baf29f6c7a279788984776e83d",
+    "text": "After you buy a minion, gain 1 Gold. <i>(Then swap to Tavern spell!)</i>"
+  },
+  "134693": {
+    "img": "167a97446bcffc5aa77f92de8faf403e2168213724de41ed3267186a3f375545",
+    "text": "After you discard a card, <b>Pass</b> a plain copy of it. <i>(Once per turn.)</i>"
+  },
+  "134695": {
+    "img": "8f4cb95b59f06fa7d92d6fd965abfc9cd9e205bd671ee02d878a69837ed13ec7",
+    "text": "<b>Battlecry, Deathrattle, and Rally:</b> Give your team's <b>Deities</b> +4/+4."
+  },
+  "134748": {
+    "img": "6575e5732ebabbbee313c8a2783658ee6eb696c766aec10f3d3246f4fc02e8c9",
+    "text": "<b>Discover</b> a Golden minion of your most common type with a <b>Dark Gift</b>. It doesn't give a Triple Reward."
+  },
+  "134757": {
+    "img": "0baacc15c8eeb226090ddcfe0345926c4a925f14cdbc2cd81348199e1d3e6054",
+    "text": "After your <b>Deity</b> awakens, give it <b>Reborn</b>."
+  },
+  "134758": {
+    "img": "5eee966f7ab19c1c9fdd3d1c0e6ab83eab48b009fcc410c67479f2dfc058c3c9",
+    "text": "<b>Spellcraft:</b> Choose a minion. After it gains stats outside combat this turn, your <b>Deity</b> also gains them."
+  },
+  "134759": {
+    "img": "c1bb6f4e3e788d481ac42762bf1317bff7586390e5f39626966bdea2a5793b41",
+    "text": "After you discard 3 cards, your Tavern spells give an extra +1/+1 this game. <i>(3 left!)</i>"
+  },
+  "135007": {
+    "img": "99fa167ae3830030c0cb562b26a80a147f4e1ef57a2f3ee8c70a6024a4388ec0",
+    "text": "<b>Mission:</b> <b>Magnetize</b> 3 Mechs to this to double this minion's stats. <i>(3 left!)</i>"
+  },
+  "135013": {
+    "img": "053b10d9c351077adf5849a39754948fc1cc625948148bebcf9e3e13b436fdb5",
+    "text": "After you cast a spell on this, cast Sanctify."
+  },
+  "135019": {
+    "img": "7ca0ed7a8c752b08b1505b6ba3b9a87d9a29d75ca5e0463482bee167457a3350",
+    "text": "<b><b>Divine Shield</b>.</b> After a friendly <b>Divine Shield</b> prevents damage, gain that much Attack."
+  },
+  "135023": {
+    "img": "13bb3e5d18f4af0982b30bda5f9d851199fa1cf621aa848dd58e6452d6fdf5de",
+    "text": "After a friendly minion loses <b>Divine Shield</b>, your Tavern spells give an extra +1 Attack this game."
+  },
+  "135215": {
+    "img": "58c976af13058ba7049bc6e7858a89cb0c22cd9e1991d1aecfd98cf499f95501",
+    "text": "At the end of your turn, give your Elementals +3/+3. Repeat for each different <b>Bonus Keyword</b> in your warband."
+  },
+  "135222": {
+    "img": "a0d442ce2eb2232f0f7f1bc7a16c5372f838d789290975e242c53ef3ed6f298a",
+    "text": "Give a minion + /+ . If it's an Elemental, also give it <b>Divine Shield</b> until next turn."
+  },
+  "135223": {
+    "img": "e690b147f92a5228449f5ffeacb3c8b37da2025873d9548d169057460f39a30b",
+    "text": "Give a minion + /+ . If it's an Elemental, also give it <b>Taunt</b> until next turn."
+  },
+  "135224": {
+    "img": "198c7935ed22119653fb87f69fe20931dd6672b013620c8ef44475ff465e581c",
+    "text": "Give a minion + /+ . If it's an Elemental, also give it <b>Reborn</b> until next turn."
+  },
+  "135225": {
+    "img": "37a48e2e589c345453fd302344e83245639cffd632b3917eddf46a982572903c",
+    "text": "Give a minion + /+ . If it's an Elemental, also give it <b>Windfury</b> until next turn."
+  },
+  "135226": {
+    "img": "369cf6f3e3484ba6e70c54e7d016b538019f05b7371c3202e725ece0ba1b5bd2",
+    "text": "Get all 4 <b>Elemental Invocations</b>."
+  },
+  "135238": {
+    "img": "e1a41af8e0aaff2c5b55015b2f1edd1178ef00c60c44dc80c8693f6439875b44",
+    "text": "<b>Activate (1):</b> Cast Unholy Ritual on another Undead."
+  },
+  "135242": {
+    "img": "e64faf75cc8bc7bbde04fe1dff524ce40728804d920e7226e82bb26aa4194089",
+    "text": "<b>Activate (2):</b> Destroy another friendly Undead to gain Gold."
+  },
+  "135260": {
+    "img": "eb64716d2423cbd5a41bdd54cd2d65225c0df99afedf31258c9b776709148b18",
+    "text": "Give an Undead \"<b>Deathrattle:</b> Summon two 1/1 Skeletons.\""
+  },
+  "135473": {
+    "img": "ac6595369668d38d73979b4712341b922cbdb9aa7d7bc82e7c5f87402980be3c",
+    "text": "<b>Mission:</b> Once this takes 20 damage, get a Big Brann Play. <i>(20 left!)</i>"
+  },
+  "135479": {
+    "img": "27ba3f9947610ac975069bc402e23d76134291f1cba6eaca30b6e2252acca6ba",
+    "text": "<b>Activate ( ):</b> Choose a Tavern spell in your hand that gives stats. It gives an extra +3/+3."
+  },
+  "135611": {
+    "img": "4354742cca3855cc2ffe86063a2c0c712ee3470665ed3ab9d631c13130f39c81",
+    "text": "<b>Deathrattle and Rally:</b> Get an Echoing Roar."
+  },
+  "135699": {
+    "img": "c938a83530be19f713cef6e4c86cecbe7297a0028bc3601795d6576736a29c35",
+    "text": "<b><b>Divine Shield</b>. Mission:</b> Once 5 friendly minions lose <b>Divine Shield</b>, get two random <b>Magnetic</b> Mechs. <i>(5 left!)</i>"
+  },
+  "135703": {
+    "img": "15e903601a3decc994def27f51a601b987812eab0c6b3dfabd8ddde62184f481",
+    "text": "<b>Activate (1):</b> Reduce the cost of cards in the Tavern by (1)."
+  },
+  "135705": {
+    "img": "715c5fa7c7160001219506d87a8c6551105a69db3463a2a924d4202b04379de1",
+    "text": "When you sell this, <b>Refresh</b> the Tavern with two extra <b>Bounties</b> that cost (1)."
+  },
+  "135750": {
+    "img": "7f6606701c2c6c26e8f1ca7d1b979c5fba3bd5a78ac28cc4c0215a91823d6b0d",
+    "text": "<b>Divine Shield</b>. After another friendly minion loses <b>Divine Shield</b>, gain <b>Divine Shield</b>."
+  },
+  "135872": {
+    "img": "dac85cce0a11a3ecfc5082d02c9b1200c3b56959a01b15741df874da89576fd0",
+    "text": "<b>Mission:</b> Once friendly minions gain <b><b>Bonus Keyword</b>s</b> 8 times, get an Elemental of Surprise. <i>(8 left!)</i>"
+  },
+  "135874": {
+    "img": "3b609dc7158fb4ff048e70488d4e7ea213bc2bbda68b0ff8d5ac22c32fa1823d",
+    "text": "Whenever a friendly minion gains a <b>Bonus Keyword</b>, gain +3/+4."
+  },
+  "135876": {
+    "img": "97f76dde90cd7337fb091f72c521811229d127a38ae704436267a241579bc549",
+    "text": "Whenever a friendly minion gains a <b>Bonus Keyword</b>, give your minions +6/+6."
+  },
+  "135896": {
+    "img": "5e5af1ffff76ec6fc2b07487fea2c47aac12d6d10222d099895edaa4d9a342e1",
+    "text": "<b>Battlecry and Deathrattle:</b> Get a Command the Elements."
+  },
+  "135898": {
+    "img": "a5da57da25b4fe77281b3fc15ae907b08b448886ce0499f983d732b9a839f33f",
+    "text": "<b>Activate (1):</b> Double the stats of minions in the Tavern."
+  },
+  "135902": {
+    "img": "63b419e6809f6b00352a2142e105eabe19a382727cd8ff32a65b8fbd6eb64c28",
+    "text": "<b>Battlecry:</b> Make another Murloc Golden."
+  },
+  "135904": {
+    "img": "80065336a8ad1616f2b4476b76cf415c2e58c7e01b4c8706adddba84fdba615f",
+    "text": "Whenever you spend Gold, this plays a <b>Blood Gem</b> on all your Quilboar. <i>(5 Gold left!)</i>"
+  },
+  "135906": {
+    "img": "3bb89199bbbd1730e4c024ecf9189dc91770870c44cd0e19e953bb5fa8d134b0",
+    "text": "<b>Deathrattle:</b> Give your other minions +3 Health. <i>(Improves permanently after this gains Attack!)</i>"
+  },
+  "135908": {
+    "img": "3604c2f6a2175a7a98dc7cc662a6f0ab53a0c2351abfc771a9c6451aeb47ce34",
+    "text": "<b>Activate (2):</b> Double the stats of your two lowest-Attack minions."
+  },
+  "135910": {
+    "img": "e56a06d801bee62649ffee4f93a5da2f6edc140f0bb8bdc1def16b994e7706a8",
+    "text": "<b>Activate (3):</b> <b>Discover</b> a minion of your most common type from Tier 4 or above with a <b>Dark Gift</b>."
+  },
+  "135912": {
+    "img": "598f77067166b0e096acc9fe0fb29d4596c31aafcd9ed6e55ce2a2a9229f7296",
+    "text": "<b>Rally:</b> Your Tavern spells give an extra +1/+1 this game."
+  },
+  "135914": {
+    "img": "6e988607103bebaa0cbab6d0fceb07dbbe385c9ec711541e561910d22b62f65e",
+    "text": "Whenever a friendly <b>Deathrattle</b> minion dies, your Undead have +2 Attack this game <i>(wherever they are)</i>."
+  },
+  "135916": {
+    "img": "815f788ef927fa778cac94f3df28cea7d69d1f40718c6d5260d6a87736705fb7",
+    "text": "<b>Taunt</b> Whenever this is attacked, give a different friendly minion <b>Divine Shield</b>."
+  },
+  "135940": {
+    "img": "58f2719cabb604958b1a102cc6a070f984e3333a950b5d27558c7c5de5e3e39d",
+    "text": "<b>Battlecry:</b> Give a minion in your hand +6/+6. <i>(Improved by Tavern spells you've cast this turn!)</i>"
+  },
+  "135959": {
+    "img": "e39e0e9c257106f8387cde5772f858735127455dc0b965aab65825af28ee9c42",
+    "text": "<b>Discover</b> a minion of your most common type with a <b>Dark Gift</b>."
+  },
+  "135960": {
+    "img": "239c7398bd6420378a550262028429b9e4d7394da5f2293e4807f526b3613ad7",
+    "text": "Whenever you play an Elemental, cast a random <b>Elemental Invocation</b> on it."
+  },
+  "135962": {
+    "img": "a19216c734b016164815a21b3100a0b579d14cb2e0236574fc451b8882c7844f",
+    "text": "<b>Activate ( ):</b> Sell a friendly minion to gain its <b>Bonus Keywords</b> and stats."
+  },
+  "135964": {
+    "img": "f37a135f0de2666a9a05cb6dcac5f8cfb573a90f9aa59af76429194475662cdb",
+    "text": "<b>Taunt</b> After you play a Quilboar, get a <b>Blood Gem</b> and play another on this."
+  },
+  "135966": {
+    "img": "f5cb258f793ea7e4d176091414470f7dbcddb8f00f29399c8e5f5dc121a9ee87",
+    "text": "<b>Battlecry and Deathrattle:</b> Get a <b>Blood Gem</b> that gives a Quilboar <b>Taunt</b>, <b>Divine Shield</b>, or <b>Reborn</b>."
+  },
+  "135968": {
+    "img": "3f2f212da6c2c47509c15068318dfefa8e540cd727bdc0bd46bcac340f02f5ed",
+    "text": "When you sell this, <b>Discover</b> a Tier 2 minion with a <b>Dark Gift</b>. <i>(Improves each turn!)</i>"
+  },
+  "135970": {
+    "img": "6ca278c77718bf5a242a98513b78a95f9c6d2c113a77bf03cc9e6c3ee38995d0",
+    "text": "After you cast a Tavern spell on a friendly minion, this casts it on the minion to the left of it."
+  },
+  "135972": {
+    "img": "3833b204600e008355ac1106b2f295eb4a1842a00257f1b25ec64ecd666b3442",
+    "text": "<b>Activate (3):</b> <b>Discover</b> a Tier 3 Darkmoon Prize."
+  },
+  "135974": {
+    "img": "984b951e37a6dcdaf5c75d35289ae7d49d5afa557bf7416ab556c6a2c130973e",
+    "text": "<b>Discover</b> two Tier 6 minions with <b>Dark Gifts</b>."
+  },
+  "135975": {
+    "img": "04864047b4c47be6d72219d8b4cecbfa167caad84b925fe6a55648dc336cbcda",
+    "text": "Choose a minion to get a plain copy of. Then choose a <b>Dark Gift</b> to give it."
+  },
+  "135976": {
+    "img": "28a418bf56c13d57bc32360c6f863f5b5ca1f4b63391b4ba906d65f078fa0bcb",
+    "text": "Give a minion every <b>Bonus Keyword</b>."
+  },
+  "135977": {
+    "img": "0e842e2347c84cb04c939363bc0c33afc49ae4141e258f08fbe647841d1a4bc4",
+    "text": "<b>Avenge (4):</b> Deal damage equal to this minion's Attack to the highest-Health enemy minion."
+  },
+  "135981": {
+    "img": "e95bb135f45e77203edb17575b4503c11990543df8d84cf52521b1943d564955",
+    "text": "<b>Reborn</b> <b>Activate ( ):</b> Discard a card to give your left-most Aberration <b>Reborn</b> until next turn."
+  },
+  "135985": {
+    "img": "df9b894ef1171cabba4dda9886a8ae4c009b240cf43dcada54066bdb47283fae",
+    "text": "<b>Battlecry and Deathrattle:</b> Get a Growing Ooze."
+  },
+  "135987": {
+    "img": "423ec66d59096d8cb574943b37cf65025e5c05f2b8338a148e911070ab944bf2",
+    "text": "<b>Deathrattle:</b> Discard your 2 right-most cards to summon a Timewarped Replicator."
+  },
+  "135989": {
+    "img": "a7d24f85f6e65f9dfe13561b9e9ec4473ec56dc0455505e9f4db14cb9f795dae",
+    "text": "<b>Mission:</b> Add 15 cards to your hand for your Tavern spells to give an extra +5/+5 this game. <i>(15 left!)</i>"
+  },
+  "136015": {
+    "img": "3240fb3995b1d9090b8fec74d52bc98e9bfdef4bc1c9abc6df2c7f85f8508f15",
+    "text": "Give your Dragons \"At the end of your turn, gain + /+ .\""
+  },
+  "136016": {
+    "img": "ba4c89bffcc869071a1e52f6185cee5b881f9747342e619fb2afa24ac383210f",
+    "text": "<b>Activate ( ):</b> Destroy another friendly minion to gain \"<b>Deathrattle:</b> Summon that minion\" until next turn."
+  },
+  "136018": {
+    "img": "253889466dd8bea84ec633e967d6b0e00fe304f3a5d6ef84d39504af30b38ac7",
+    "text": "<b>Activate ( ):</b> Get a plain copy of a random friendly minion <i>(except <b><b>Timewarp</b>ed</b> minions)</i>."
+  },
+  "136022": {
+    "img": "e24fd2777eff3feb7ba5b209bcf07c8d8ff67e048664b8e06d8e030ab0422056",
+    "text": "<b>Deathrattle:</b> Give a different friendly Undead \"<b>Deathrattle:</b> Summon a Timewarped Nightmare.\""
+  },
+  "136024": {
+    "img": "418cec05c2cfea1e366755b194271fd45fae26b55e998f843ee803e66c7a858f",
+    "text": "Whenever a friendly <b>Deathrattle</b> minion dies, your Tavern spells give an extra +1 Attack this game."
+  },
+  "136053": {
+    "img": "a4a98519196ee976996ec4532f4e14f8b1efce8959ad12ac13b5b1990fb79462",
+    "text": "<b>Activate (2):</b> Give another minion random <b><b>Bonus Keyword</b>s</b> until next turn."
+  },
+  "136057": {
+    "img": "15c58cd0b3a74720bb97e60c634e8e81f621d30700bfa0cf71ce1003639459d3",
+    "text": "<b>Casts When Bought</b> Make 'Lucky Roll' your second Hero Power."
+  },
+  "136058": {
+    "img": "74a0c01dbeb0c9f5cf64e40aa5248e45ffc872723185bd7c4426ee52535ba113",
+    "text": "<b>Casts When Bought</b> Make 'Double Time' your second Hero Power."
+  },
+  "136060": {
+    "img": "28b45461377b9e1d6e58b1f8643a9f1365cde972bb63fcebb2220204ac2cb1c5",
+    "text": "<b>Casts When Bought</b> Make 'Growing Collection' your second Hero Power."
+  },
+  "136061": {
+    "img": "ba3d6af25a6034d5ba0fed9e2b8d3b1bcb8a9f0cabf80328f8de122b4223eb38",
+    "text": "<b>Casts When Bought</b> Make 'Alternate Timeline' your second Hero Power."
+  },
+  "136062": {
+    "img": "16ef7a68d009ffc5d9390abf86bf7383e32db5d90d88d1ca17d13b912dcac92e",
+    "text": "<b>Casts When Bought</b> Make 'Cloning Gallery' your second Hero Power."
+  },
+  "136063": {
+    "img": "d0062b518a2634c43d56d68070bd3c126057e4c38c273b2afd2b3da8a1de318a",
+    "text": "Gain 2 Gold. <i>(Improves each turn!)</i>"
+  },
+  "136064": {
+    "img": "e1c6afce9c81f231879b824ea86ecfdbf800c546d083811cfa53b9e5b674b2d5",
+    "text": "<b><b>Activate (4):</b> Discover</b> a 2-Cost minion from the Minor <b>Timewarp</b>."
+  },
+  "136067": {
+    "img": "bfc434b35c2592ba1fbac224e7cc3a517ed2c0cf314840348591a076218c2fca",
+    "text": "<b><b>Activate ( ):</b> Discover</b> a 2-Cost card from the Major <b><b>Timewarp</b>.</b>"
+  },
+  "136070": {
+    "img": "caf5c6f67353535e1bcf2a76002ebd2b5099ce13a5ed16c2baa61e796d7de047",
+    "text": "Choose a minion. Cast random Tavern spells <i>(targeting it if possible).</i>"
+  },
+  "136099": {
+    "img": "b02db8fd7905fcc6fc3de9747d13c2ef1e35d180e3b5c4d5a9d85a5c5c916300"
+  },
+  "136104": {
+    "img": "76e23abcf9ce4477518415bd3d68b093bfaf7fac8c5a54246c1c36a58f938e6e",
+    "text": "Your Beasts have + /+ this game <i>(wherever they are).</i>"
+  },
+  "136106": {
+    "img": "e79b5da9a9d87ced50586a5792c8d9d92eeced3598dade791d55d31ff832ca57",
+    "text": "<b>Activate (2):</b> <b>Discover</b> a <b>Deathrattle</b> minion. Copy its <b>Deathrattle</b> until next turn."
+  },
+  "136108": {
+    "img": "988bcc7ac959d4148ed9a6c1f639e5f0f482b8e837d7626ab8c2999c6a8871c5",
+    "text": "<b>Battlecry:</b> Get a Goldrinn's Blessing."
+  },
+  "136110": {
+    "img": "81efd36d92560917f8f5b26391561243f753474b88e2674dab8fc309f92de3cc",
+    "text": "<b>Avenge (4):</b> Your Tavern spells give an extra +1/+2 this game."
+  },
+  "136112": {
+    "img": "90705dffce4c24774d66dec80d27641b7ff71351985de8ecc218d2c5ac1a5026",
+    "text": "<b>Mission:</b> Once this deals 60 damage, get a random Tier 7 minion. <i>(60 left!)</i>"
+  },
+  "136123": {
+    "img": "a5cffeac4ec6a456c965c3ed0cd17376281a24310cccc2acfd65490ac2bfcec4",
+    "text": "<b>Battlecry:</b> Get 2 Tavern Dish Bananas."
+  },
+  "136125": {
+    "img": "86d357e8355df67d0bc185c13efe0334a6bd11235ad83d356681c650779778bb",
+    "text": "<b>Deathrattle:</b> Get 2 Tavern Dish Bananas."
+  },
+  "136127": {
+    "img": "4ed145ec94035ac1cff10f4095a1fd34fab13ffeb582155d5d5ac774de5ae66a",
+    "text": "<b>Rally:</b> Get a Goldrinn's Blessing."
+  },
+  "136129": {
+    "img": "ad7f711feed276a29d31a8b65db86535bcf27a3ea74dcb389a90f9bba4b2f9a4",
+    "text": "Whenever you cast a spell on this, give your Beasts +2/+2 this game <i>(wherever they are).</i>"
+  },
+  "136133": {
+    "img": "f0c90863b80762502926b0d3b8618c8d18e00edf5c4f0ef003ddd1345a4ab992",
+    "text": "After you play a <b>Blood Gem</b> on a minion, give it <b>Resilient</b> until next turn. <i>(3 times per turn.)</i>"
+  },
+  "136135": {
+    "img": "404d3fd552cb3b03f1bebcb090e0287e8f90050526994d01f41407771f69a68a",
+    "text": "<b>Battlecry and Activate ( ):</b> This plays 2 <b>Blood Gems</b> on all your other minions."
+  },
+  "136137": {
+    "img": "28c98ecf9aeae47a40680f546a8c7ddbaeeb4615056f39b0eba69c62bf47a9f7",
+    "text": "<b>Deathrattle:</b> Give a friendly minion of each type +2/+2 permanently. Improves after you play a minion with no type."
+  },
+  "136139": {
+    "img": "17a8bb6e45bd236f99e52f9917ce51a2fcac88526a6c55be65c278fbe1f70e9f",
+    "text": "<b><b>Divine Shield</b>,</b> <b><b>Taunt</b>,</b> <b>Windfury</b>, <b>Venomous</b> <b>Deathrattle:</b> Summon two 1/1 Plants."
+  },
+  "136141": {
+    "img": "5b744dbab82a1877842f5d7d30ee96bcbc00a73cebd6c2bafb67148739e0775f",
+    "text": "<b>Activate (3):</b> Give a different friendly minion this minion's stats."
+  },
+  "136143": {
+    "img": "6c6bc8878ebfcd86117bd1687ccad727d1297df09320249782a5ba30f4ff7177",
+    "text": "Whenever you play a card, give friendly minions of its Tier or higher +2/+2."
+  },
+  "136149": {
+    "img": "e7b9cd9f741b16e3a8d1f7661e54981bd33ed510ecd5a034271e89708c0cd310",
+    "text": "<b>Activate (0):</b> Guess which minion is in your next opponent's warband to get a copy of it."
+  },
+  "136151": {
+    "img": "c5dcfcf5ea84cd54c1c83cdd2e403ee8071220bbfb2fcf4856fcd270e98f0999",
+    "text": "<b>Activate (1):</b> Choose another friendly minion. <b>Discover</b> a minion of the same type."
+  },
+  "136159": {
+    "img": "d05951f79e2d7f670519b6c1158740cfec3030452a89520248a494e41a41b77b",
+    "text": "<b>Mission:</b> Fill your warband to give your minions +2/+1 permanently."
+  },
+  "136214": {
+    "img": "33eaa9323df163a766ca6be2c2886c6307a327223f18f092e683b00989ebfe8a",
+    "text": "<b>Deathrattle:</b> Summon a 2/2 Monkey. <i>(Improved by each Tavern spell you've cast this game!)</i>"
+  },
+  "136228": {
+    "img": "906d7859856bf393df2c1b80ff7331bda85d05cf9709a8c0cacc1a043f7f503a",
+    "text": "<b>Taunt</b> <b>Deathrattle:</b> Trigger the <b>Battlecries</b> of adjacent minions."
+  },
+  "136230": {
+    "img": "5cc669f3357d7c921018390134205e97b5092997aa7a510646726f0de6366906",
+    "text": "<b>Activate (3):</b> Get Tavern Dish Bananas."
+  },
+  "136232": {
+    "img": "5c5522d46812a6120b251fc1923bfb3cedaca1c90a149f66a635dbd6df9bc9d9",
+    "text": "<b>Deathrattle:</b> Get a Goldrinn's Blessing."
+  },
+  "136236": {
+    "img": "f56e60741cf2ba0874e7afd2adf4a0625076b883ee170e2d2bf9eee89fb7ed94"
+  },
+  "136238": {
+    "img": "1755eff369e93fbfc436bf8c817018584bb45167a78f6ce9b2f70e15b6f398ee",
+    "text": "Whenever another friendly Beast attacks, cast Goldrinn's Blessing."
+  },
+  "136260": {
+    "img": "e8d102067580cae03ffc59ac4783d717cb6387d1b1e7debe9c5502b737d9742f",
+    "text": "<b>Taunt</b> This costs (2)."
+  },
+  "136262": {
+    "img": "b613ef8d65ad7944a2ee608d35faa8d1bb73c1decfc57b014696fb3de8849071",
+    "text": "<b>Mission:</b> End your turn with this at 7 Attack or higher to increase your maximum Gold by 1."
+  },
+  "136264": {
+    "img": "04cb83804966446aa4e55885f60f7b274341e5a515572d203fc0a79dc60f32e2",
+    "text": "<b>Reborn</b> <b>Activate ( ):</b> Discard a card to give your left-most Aberration <b>Reborn</b>."
+  },
+  "136266": {
+    "img": "6dc069448b337c429f3c76b9adc4c33679c3f168ec95fe3c9f148a1613a8f72e",
+    "text": "Whenever this gains stats, also give the stats to your <b>Deity</b>."
+  },
+  "136268": {
+    "img": "dbf93bbab054289ec64ea52bfc0b779642c793c6986c45c5cfc357b59c7dc763",
+    "text": "<b>Activate (1):</b> Get 3 random Tavern spells. After you cast one, discard the others."
+  },
+  "136270": {
+    "img": "f21ad8f3e368ed77915f1d41390ddb065982197891a092eb03500e7aa15a783b",
+    "text": "Has +4/+4 for each card you've discarded this game <i>(wherever this is)</i>."
+  },
+  "136272": {
+    "img": "3bb3944c19149a8f16664d4e8bb561d0658048d8e003eb41e34bc5e2c60e1baf",
+    "text": "After you cast a spell on this, get a Growing Ooze. <i>(2 times per turn.)</i>"
+  },
+  "136274": {
+    "img": "39f4d27992565ffe1e0ec00b816777e6b22d70196ea74786138a89e01f20202a",
+    "text": "Whenever you discard a minion, gain its <b><b>Bonus Keyword</b>s</b> and stats."
+  },
+  "136276": {
+    "img": "424f4a6780e27fff83ffa691514855f2ea629f07b7088c71634f186e27fa25bb",
+    "text": "When you sell this, get a <b>Magnetic</b> Satellite with this minion's <b><b>Bonus Keyword</b>s</b> and stats."
+  },
+  "136278": {
+    "img": "a4e26589e39fb8c02dd7621cb856d37daaa597c5f92e6a5f65bd7afb80931a1d",
+    "text": "<b>Battlecry, Deathrattle, and <b>Rally:</b></b> Get a Lockbox. If you already have one, it opens 1 turn sooner instead."
+  },
+  "136280": {
+    "img": "6996e9d6bf48185659e4ff4fad4218dd67fe4921739adfe2e5d3049c9c13a22a",
+    "text": "<b>Activate (0):</b> Discard all cards in your hand. Give your minions +5/+5 for each discarded."
+  },
+  "136284": {
+    "img": "09edd6d98aca3a3b84d425b2554e65597cb86742c1b3c1c7b924497455f315c2",
+    "text": "<b>Deathrattle:</b> Give your <b>Deity</b> +4/+4. <i>(Improved by each card you've discarded this game!)</i>"
+  },
+  "136286": {
+    "img": "b55dbb883adae4c77f6fc0e6313350334da4d0f4a030f15b5a4513bdfc37dd80",
+    "text": "After you discard a card, get a copy of it. <i>(3 times per turn.)</i>"
+  },
+  "136290": {
+    "img": "f0743e55ca9c87f0e12791814b00042302a7c5c2ce6dde47ce07777e170e9cfe",
+    "text": "<b>Deathrattle:</b> Give this minion's maximum stats to your <b>Deity</b>."
+  },
+  "136292": {
+    "img": "78cd35a080b46637cd082d85539dc49b2a25716a20620af8bcf4b157af67a8cf",
+    "text": "<b>Magnetic</b> <b>Resilient</b>"
+  },
+  "136294": {
+    "img": "8c0a077428514959e79f80e4aecdf3c336226c46d7dada37721e30a3a106175a",
+    "text": "<b>Activate (2):</b> <b>Discover</b> 3 <b>Magnetic</b> Mechs."
+  },
+  "136296": {
+    "img": "fcca483cbf868233e8600555323b084a450e15af6bfe9a1a384b876d4627deb0",
+    "text": "At the end of your turn, cast Sanctify. Repeat for each friendly minion with <b>Divine Shield</b>."
+  },
+  "136298": {
+    "img": "c2a79235e037cbce4f51d998f76de4c976c992d9da63bd42bed9e06c22e621bc",
+    "text": "<b>Start of Combat:</b> Give adjacent minions <b>Divine Shield</b>. If any already have it, it takes 2 more hits to break."
+  },
+  "136300": {
+    "img": "b3df591f0cce2988c99a74f6b1268b1fd92e3dd8e3600285825846bc7a523a6c",
+    "text": "Tavern spells that give stats cost (1) less."
+  },
+  "136302": {
+    "img": "6dba948784b527de12e2ab5d7d0f8099cd6e01e155d4c2ec1167c0c75a8b14a9",
+    "text": "<b>Activate (2):</b> <b>Discover</b> a Golden Tier 4 minion."
+  },
+  "136304": {
+    "img": "bd4fe6098093ba22735add0eecfd3caed8d46c7132da2679dcd764ac0f8deff6",
+    "text": "Whenever the Tavern would offer a minion from Tier 2 or below, it offers a <b>Bounty</b> instead."
+  },
+  "136308": {
+    "img": "4ea5ad2ec62ef70594deb4b7f5398e8ec96ec9c43c0907de080819080025bf93",
+    "text": "<b>Start of Combat:</b> Gain the stats of your <b>Deity</b>."
+  },
+  "136310": {
+    "img": "87e9dfb8840e1bfb01a1e380e60aa1c238d25d76a473237dfb1da9f30bfc7151",
+    "text": "<b>Battlecry and Deathrattle:</b> Get a Corrupted Coin."
+  },
+  "136340": {
+    "img": "273a2bb1d3229665e3833b86c87cf1573d1fb95e5da4da00a1f788612fa8da24",
+    "text": "Your <b>Refreshes</b> this turn will occasionally be helpful."
+  },
+  "136342": {
+    "img": "56309bb49d02fd6508a70bc85fd99c1bb0d73523477214a72edbb1702aad06b0",
+    "text": "<b>Activate (1):</b> <b>Discover</b> a Tavern spell and get a 1/1 Murloc to teach that spell."
+  },
+  "136344": {
+    "img": "77c22a84e9bcff68800f9ae4b8b5ef4c55f5245aee0b725934f45c63f9787872",
+    "text": "<b>Rally:</b> Get a Growing Ooze."
+  },
+  "136346": {
+    "img": "cef7b24d959117d4418ec2910faef30996a901dba4a2c97e2b71c3671fc33e65",
+    "text": "At the end of your turn, give a friendly minion of each type +3/+3 and improve this."
+  },
+  "136388": {
+    "img": "037db0e72c43bf9af75321b825474946990be9aa958e57aa08a7052095b1d644",
+    "text": "<b>Battlecry and Rally:</b> Add a <b>Fodder</b> to your next 3 <b>Refreshes</b>."
+  },
+  "136405": {
+    "img": "0885e0a2c11518a5a36024d19645f028b0ca737a93eebad93c99e46dc635f10b",
+    "text": "<b>Battlecry, Deathrattle, and Rally:</b> Get a Dragonstorm."
+  },
+  "136407": {
+    "img": "9351ae71eb6a6cf7c8e719db45e688f60fe808b4f1750836311fb8d353fa2fc7",
+    "text": "<b>Activate ( ):</b> Trigger all friendly end of turn effects."
+  },
+  "136409": {
+    "img": "460474fd191c30b6be3788ca6cd791af195ba276182aa611a3aa184b2afda8ba",
+    "text": "<b>Battlecry</b> minions in the Tavern cost (1) less."
+  },
+  "136429": {
+    "img": "00b9197d8a83c7f591a6350b5db930430ffa65bb5892bd70efbca4ee378fe009",
+    "text": "Whenever you play a <b>Deathrattle</b> or <b>Rally</b> minion, trigger its <b>Deathrattles</b> and <b>Rallies</b>."
+  },
+  "136433": {
+    "img": "82c563a53c76b3d39d64ab7483bfec73f1b3d58cc769f99920bc2c59ef2e4894",
+    "text": "<b>Resilient</b> <b>Activate (1):</b> Give another Demon +15 Health and <b>Resilient</b>."
+  },
+  "136435": {
+    "img": "fa589bfdaaa49fc557d62c541fe3acc2ef54ce90e00442c429d0893a09e89df3",
+    "text": "After you cast a Tavern spell, add 2 <b>Fodders</b> to your next <b>Refresh</b>."
+  },
+  "136443": {
+    "img": "47469b4385f2265c8f5aabfe1800b1a06229d7eac7aebed92cd8bc3d587fa315",
+    "text": "<b>Activate ( ):</b> Choose a minion in the Tavern. Consume it to gain its <b><b>Bonus Keyword</b>s</b> and stats."
+  },
+  "136445": {
+    "img": "74032155cf2d1634b1d300508347f089b441028d0396351a69d6f8c5808ccc40",
+    "text": "<b>Activate ( ):</b> Cast Echoing Roar on this and another friendly minion."
+  },
+  "136447": {
+    "img": "88cffe545cb3ca348cb8b40fa20a16a24f322e3003613156d3b671fb1da7b702",
+    "text": "At the end of your turn, get a random <b>Chromadrake</b> and trigger its <b>Battlecry</b>."
+  },
+  "136591": {
+    "img": "be133e7834a01717a5ae0f92a2a2daf85ec45e84966b83e1c56dbbb646831ca6",
+    "text": "Whenever you cast a spell on this, summon a 1/1 Skeleton. <i>(3 times per turn.)</i>"
+  }
+}
