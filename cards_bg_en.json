@@ -4026,6 +4026,14 @@
     "img": "2e63bfec9191db945c11e4e2df708efd396c24aac13d66fff70c3bbaf12ff1f7",
     "text": "At the end of your turn, you and your teammate each get a random Tier 1 card."
   },
+  "123644": {
+    "img": "c1d8645e745792d89d5fb6817d137c30b9a961640cb1dfd865185f8fd239586d",
+    "text": "<b>Taunt</b>, <b>Divine Shield</b> <b>Deathrattle:</b> Get a Sanctify."
+  },
+  "123645": {
+    "name": "Divine Sparkbot",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/enUS/512x/BG33_809_G_triple.png"
+  },
   "123841": {
     "img": "8cef30220dd6f7e6384fe143410e8a113c607aa782bed0efd854888b94380b27",
     "text": "After your teammate sells a minion, gain its stats. <i>(Once per turn.)</i>"

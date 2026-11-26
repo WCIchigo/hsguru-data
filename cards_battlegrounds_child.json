@@ -3879,6 +3879,14 @@
     "health": null,
     "text": "5골드를 얻습니다."
   },
+  "123645": {
+    "name": "천상의 전기로봇",
+    "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG33_809_G_triple.png",
+    "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81f7bbb0eff3767b98d809983e236a5566560eb9e9c5959d2740257d8853fde6.png",
+    "attack": 8,
+    "health": 2,
+    "text": "<b>도발</b>, <b>천상의 보호막</b>, <b>죽음의 메아리:</b> 신성화를 2장 얻습니다."
+  },
   "126170": {
     "name": "파도정령",
     "img": "https://art.hearthstonejson.com/v1/bgs/latest/koKR/512x/BG34_856_G_triple.png",
